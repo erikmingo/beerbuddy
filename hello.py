@@ -17,5 +17,5 @@ def get_my_ip():
 
 @app.route('/')
 def hello():
-    return request.remote_addr + "julia is a huge boob", 200
+    return requests.get('http://whatismyip.org').read.encode("utf8") + "julia is a huge boob", 200
 
