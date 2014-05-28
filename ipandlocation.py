@@ -13,8 +13,8 @@ def getip():
 def getlocation(ip):
     print("http://api.hostip.info/get_json.php?ip=%s" % ip)
     r = requests.get("http://api.hostip.info/get_json.php?ip=%s" % ip)
-    unencoded = r.json
-    unencoded = json.loads()
+    unencoded = r.text
+    data =  unencoded.encode("utf8")
     return data
 
 
