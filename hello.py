@@ -10,8 +10,11 @@ app = Flask(__name__)
 
 @app.route('/getmyip', methods=["GET"])
 def get_my_ip():
-    return ipandlocation.getip()
+    return ipandlocation.getlocation(ipandlocation.getip()), 200
+    #return ipandlocation.getlocation(ipandlocation.getip())
+
 
 @app.route('/')
 def hello():
     return "Hello World!"
+
