@@ -3,6 +3,7 @@ from flask import Flask
 from flask import jsonify
 from flask import request
 import ipandlocation
+import requests
 
 app = Flask(__name__)
 
@@ -16,5 +17,5 @@ def get_my_ip():
 
 @app.route('/')
 def hello():
-    return "Hello World!"
+    return request.remote_addr + "julia is a huge boob", 200
 
