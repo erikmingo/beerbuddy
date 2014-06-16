@@ -1,0 +1,400 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "5.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:49", 
+                    "description": "The Evans family was in the commercial brewing business for three generations. The original brewery was built in Hudson, NY in 1786. It continued production until prohibition in 1920. Its award winning ales were well known in the Northeast and were even exported to England and France. Production levels peaked in 1915 when 65,000 barrels of beer were produced at the Hudson Facility.\r\n\r\nThe brewery bottled its own beer in Hudson at one of the country\u2019s earliest bottling facilities (1889) and later at a plant in New York City. The family also malted much of their own grain in their malt houses at the Hudson facility. Neil Evans revives this rich heritage here at the Albany Pump Station. Surviving C.H. Evans Brewing Company memorabilia is displayed in the new facility, as well as pictures of the pump station as it appeared at the turn of the century.", 
+                    "established": "1786", 
+                    "id": "61KVlP", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/61KVlP/upload_nAkwyi-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/61KVlP/upload_nAkwyi-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/61KVlP/upload_nAkwyi-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:49", 
+                            "id": "oMNpgF", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.654201, 
+                            "locality": "Albany", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -73.748065, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "518-447-9000", 
+                            "postalCode": "12207", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "19 Quackenbush Square", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.evansale.com/", 
+                            "yearOpened": "1786"
+                        }
+                    ], 
+                    "name": "C.H. Evans Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-13 12:47:13", 
+                    "website": "http://www.evansbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:05", 
+            "description": "A traditional cider hand crafted from a select blend of apples and pears. Intense aromas of ripened pear dance from the glass. The taste is light and crisp with a clean, dry finish. (5.5% alcohol)", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "RIysSF", 
+            "isOrganic": "N", 
+            "name": "Doc\u2019s Pear Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Tannic. Medium to medium-sweet. Still to lightly sparkling. Only very slight acetification is acceptable. Mousiness, ropy/oily characters are serious faults.", 
+                "fgMax": "1.02", 
+                "fgMin": "1", 
+                "id": 153, 
+                "name": "Traditional Perry", 
+                "ogMax": "1.07", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 153, 
+            "updateDate": "2012-03-22 13:05:20"
+        }, 
+        {
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "Wyder's\u00ae Cider was formulated in 1987 by cider master Ian Wyder who learned his craft in England at one of the UK's premier ciderys.\r\n\r\nWyder's Cider was first sold in Vancouver, Canada and was later introduced into the US market in Washington and Oregon. Northern California's Bay Area got a taste in 1993 and Wyder's Cider is now widely available throughout the Western US.", 
+                    "established": "1987", 
+                    "id": "22BrYf", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/22BrYf/upload_bYKHGR-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/22BrYf/upload_bYKHGR-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/22BrYf/upload_bYKHGR-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "id": "2Mhg8t", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.034351, 
+                            "locality": "Middlebury", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -73.173546, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "802-388-0700", 
+                            "postalCode": "05753", 
+                            "region": "Vermont", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "153 Pond Lane", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.wyders.com/", 
+                            "yearOpened": "1987"
+                        }
+                    ], 
+                    "name": "Wyder's Cider Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:10", 
+                    "website": "http://www.wyders.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:07", 
+            "description": "Presenting a soft golden hue, this is a traditional hard cider that is full in body with a smooth apple finish.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "5Eerup", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/5Eerup/upload_qKNehZ-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/5Eerup/upload_qKNehZ-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/5Eerup/upload_qKNehZ-medium.png"
+            }, 
+            "name": "Dry Apple Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Tannic. Medium to medium-sweet. Still to lightly sparkling. Only very slight acetification is acceptable. Mousiness, ropy/oily characters are serious faults.", 
+                "fgMax": "1.02", 
+                "fgMin": "1", 
+                "id": 153, 
+                "name": "Traditional Perry", 
+                "ogMax": "1.07", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 153, 
+            "updateDate": "2012-03-22 13:05:10"
+        }, 
+        {
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "Wyder's\u00ae Cider was formulated in 1987 by cider master Ian Wyder who learned his craft in England at one of the UK's premier ciderys.\r\n\r\nWyder's Cider was first sold in Vancouver, Canada and was later introduced into the US market in Washington and Oregon. Northern California's Bay Area got a taste in 1993 and Wyder's Cider is now widely available throughout the Western US.", 
+                    "established": "1987", 
+                    "id": "22BrYf", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/22BrYf/upload_bYKHGR-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/22BrYf/upload_bYKHGR-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/22BrYf/upload_bYKHGR-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "id": "2Mhg8t", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.034351, 
+                            "locality": "Middlebury", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -73.173546, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "802-388-0700", 
+                            "postalCode": "05753", 
+                            "region": "Vermont", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "153 Pond Lane", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.wyders.com/", 
+                            "yearOpened": "1987"
+                        }
+                    ], 
+                    "name": "Wyder's Cider Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:10", 
+                    "website": "http://www.wyders.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:07", 
+            "description": "This light, crisp cider presents a tangy aroma while offering a distinct pear taste, ending with a lively mouth feel that tickles the tongue.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "jC0TAa", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/jC0TAa/upload_ajKV41-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/jC0TAa/upload_ajKV41-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/jC0TAa/upload_ajKV41-medium.png"
+            }, 
+            "name": "Dry Pear Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Tannic. Medium to medium-sweet. Still to lightly sparkling. Only very slight acetification is acceptable. Mousiness, ropy/oily characters are serious faults.", 
+                "fgMax": "1.02", 
+                "fgMin": "1", 
+                "id": 153, 
+                "name": "Traditional Perry", 
+                "ogMax": "1.07", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 153, 
+            "updateDate": "2012-03-22 13:04:53"
+        }, 
+        {
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "Wyder's\u00ae Cider was formulated in 1987 by cider master Ian Wyder who learned his craft in England at one of the UK's premier ciderys.\r\n\r\nWyder's Cider was first sold in Vancouver, Canada and was later introduced into the US market in Washington and Oregon. Northern California's Bay Area got a taste in 1993 and Wyder's Cider is now widely available throughout the Western US.", 
+                    "established": "1987", 
+                    "id": "22BrYf", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/22BrYf/upload_bYKHGR-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/22BrYf/upload_bYKHGR-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/22BrYf/upload_bYKHGR-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "id": "2Mhg8t", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.034351, 
+                            "locality": "Middlebury", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -73.173546, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "802-388-0700", 
+                            "postalCode": "05753", 
+                            "region": "Vermont", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "153 Pond Lane", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.wyders.com/", 
+                            "yearOpened": "1987"
+                        }
+                    ], 
+                    "name": "Wyder's Cider Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:10", 
+                    "website": "http://www.wyders.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:07", 
+            "description": "Beginning with a mouthwatering raspberry essence, this cider is light in body with a sparkling finish.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "Suw3lO", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Suw3lO/upload_7z7rT7-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Suw3lO/upload_7z7rT7-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Suw3lO/upload_7z7rT7-medium.png"
+            }, 
+            "name": "Dry Raspberry Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Tannic. Medium to medium-sweet. Still to lightly sparkling. Only very slight acetification is acceptable. Mousiness, ropy/oily characters are serious faults.", 
+                "fgMax": "1.02", 
+                "fgMin": "1", 
+                "id": 153, 
+                "name": "Traditional Perry", 
+                "ogMax": "1.07", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 153, 
+            "updateDate": "2012-03-22 13:05:10"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 4
+}

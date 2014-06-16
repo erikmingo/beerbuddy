@@ -1,0 +1,2366 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "Lost Rhino\u2122 is a new craft brewery in Ashburn, VA with deep roots in Loudoun County. Brewers Matt Hagerman and Favio Garcia, formerly of Old Dominion, are back together and now creating some of the finest beers found in the local area!\r\n\r\nThe name Lost Rhino\u2122 represents the strength and attitude of the rhinoceros. The five species of rhino each has its own distinct persona, ranging from laid back to aggressive. Our brews will also span a range of personalities from hoppy Pilsners to rich, malty IPAs.\r\n\r\n\"Rhino chasers\" are big wave surfers on a continuous journey to find the next perfect wave. At Lost Rhino\u2122, we are on a similar journey to create a continuing line of distinctive, enjoyable, memorable beers.", 
+                    "established": "2011", 
+                    "id": "zK0nK8", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/zK0nK8/upload_IxO3nf-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/zK0nK8/upload_IxO3nf-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/zK0nK8/upload_IxO3nf-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "extendedAddress": "Suite 142", 
+                            "id": "qmQjPU", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.0174546, 
+                            "locality": "Ashburn", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -77.4770917, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "571-291-2083", 
+                            "postalCode": "20147", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "21730 Red Rum Rd.", 
+                            "updateDate": "2012-03-21 20:05:29", 
+                            "website": "http://www.lostrhino.com/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Lost Rhino Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-11-02 11:48:02", 
+                    "website": "http://www.lostrhino.com/"
+                }
+            ], 
+            "createDate": "2013-09-01 13:49:44", 
+            "id": "DhColK", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/DhColK/upload_Owtlpa-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/DhColK/upload_Owtlpa-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/DhColK/upload_Owtlpa-medium.png"
+            }, 
+            "name": "Birth of Ace", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2013-09-01 13:49:52"
+        }, 
+        {
+            "abv": "5.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:00", 
+                    "description": "Our name, Lake Effect, is inspired by the weather phenomenon we experience on the Great Lakes, most famous for creating legendary snow storms. The lake effect also produces longer growing seasons that yield some of the highest-quality grains, fruits and vegetables in the world. Most importantly, our central ingredient \u2013 the water \u2013 is from our great lake.", 
+                    "established": "2011", 
+                    "id": "NTrt0Z", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/NTrt0Z/upload_JcAjHx-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/NTrt0Z/upload_JcAjHx-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/NTrt0Z/upload_JcAjHx-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:00", 
+                            "id": "2y9qBw", 
+                            "inPlanning": "Y", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.88415, 
+                            "locality": "Chicago", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -87.632409, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "N", 
+                            "phone": "312.919.4473", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2012-03-22 22:54:51"
+                        }
+                    ], 
+                    "mailingListUrl": "clint@lakeeffectbrewing.com", 
+                    "name": "Lake Effect Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 14:22:10", 
+                    "website": "http://www.lakeeffectbrewing.com/"
+                }
+            ], 
+            "createDate": "2014-02-11 12:04:31", 
+            "id": "mogs5e", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/mogs5e/upload_bY7XvX-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/mogs5e/upload_bY7XvX-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/mogs5e/upload_bY7XvX-medium.png"
+            }, 
+            "name": "Brett Frambois", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2014-05-23 12:33:38"
+        }, 
+        {
+            "abv": "11.5", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "beerVariation": {
+                "abv": "11.5", 
+                "createDate": "2014-01-01 23:04:40", 
+                "description": "This \u201ctriple\u201d India pale ale is utterly smooth with a powerfully hoppy presence and pleasing 11.5 percent content of alcohol by volume. Its Chinook and Amarillo hops are at once earthy and floral, and its full malt body provides a sweet, sticky finish that isn\u2019t so cloying that you wouldn\u2019t take a second sip. That next gulp soothes the palate with a softness you wouldn\u2019t expect from any IPA. You might even find honey and fruit notes that are sweet as melon.", 
+                "ibu": "100", 
+                "id": "ySJ2PP", 
+                "isOrganic": "N", 
+                "labels": {
+                    "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ySJ2PP/upload_77fX4z-icon.png", 
+                    "large": "https://s3.amazonaws.com/brewerydbapi/beer/ySJ2PP/upload_77fX4z-large.png", 
+                    "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ySJ2PP/upload_77fX4z-medium.png"
+                }, 
+                "name": "Hop'solutely", 
+                "status": "verified", 
+                "statusDisplay": "Verified", 
+                "style": {
+                    "abvMax": "10.5", 
+                    "abvMin": "7.5", 
+                    "category": {
+                        "createDate": "2012-03-21 20:06:45", 
+                        "id": 3, 
+                        "name": "North American Origin Ales"
+                    }, 
+                    "categoryId": 3, 
+                    "createDate": "2012-03-21 20:06:45", 
+                    "description": "Imperial or Double India Pale Ales have intense hop bitterness, flavor and aroma. Alcohol content is medium-high to high and notably evident. They range from deep golden to medium copper in color. The style may use any variety of hops. Though the hop character is intense it's balanced with complex alcohol flavors, moderate to high fruity esters and medium to high malt character. Hop character should be fresh and lively and should not be harsh in quality. The use of large amounts of hops may cause a degree of appropriate hop haze. Imperial or Double India Pale Ales have medium-high to full body. Diacetyl should not be perceived. The intention of this style of beer is to exhibit the fresh and bright character of hops. Oxidative character and aged character should not be present.", 
+                    "fgMax": "1.02", 
+                    "fgMin": "1.012", 
+                    "ibuMax": "100", 
+                    "ibuMin": "65", 
+                    "id": 31, 
+                    "name": "Imperial or Double India Pale Ale", 
+                    "ogMin": "1.075", 
+                    "srmMax": "13", 
+                    "srmMin": "5"
+                }, 
+                "styleId": 31, 
+                "updateDate": "2014-02-26 00:01:16"
+            }, 
+            "beerVariationId": "ySJ2PP", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:44", 
+                    "description": "The Allentown Brew Works is housed inside the historic Harold's Furniture Building at 812 W Hamilton Street. Years in the making, the new Allentown restaurant and brewery are part of the continuing vision of the Fegley family that established the original Bethlehem Brew Works in 1998. Proud to be part of the resurging downtown, the 400 seat restaurant is a testament to the vibrant heartbeat that thrives in this Queen City. Offering two and a half levels of dining, plus state of the art banquet facilities in The Hamilton Room, and multiple bars offering different atmospheres, as well as an outdoor casual Biergarten and a new seductive lower level lounge, Silk.", 
+                    "established": "1998", 
+                    "id": "Rx4Dnt", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Rx4Dnt/upload_LM87d5-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Rx4Dnt/upload_LM87d5-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Rx4Dnt/upload_LM87d5-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:44", 
+                            "id": "Jio9R0", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.6015629, 
+                            "locality": "Allentown", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -75.4740442, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "610.433.7777", 
+                            "postalCode": "18101", 
+                            "region": "Pennsylvania", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "814 W Hamilton St", 
+                            "updateDate": "2012-03-21 20:05:24", 
+                            "website": "http://www.thebrewworks.com/allentown-brewworks/", 
+                            "yearOpened": "1998"
+                        }
+                    ], 
+                    "name": "Allentown Brew Works", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-22 17:18:04", 
+                    "website": "http://www.thebrewworks.com/allentown-brewworks/"
+                }
+            ], 
+            "createDate": "2014-02-18 12:21:38", 
+            "id": "h29JFB", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/h29JFB/upload_AxOiZZ-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/h29JFB/upload_AxOiZZ-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/h29JFB/upload_AxOiZZ-medium.png"
+            }, 
+            "name": "Brett Hop'solutely", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2014-02-19 10:01:14"
+        }, 
+        {
+            "abv": "4.8", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "A contemporary artisan brewery focused on a unique beer experience. Located in the heart of Sonoma County. Opening Spring 2013...", 
+                    "id": "cQdUrC", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/cQdUrC/upload_JXMgz6-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/cQdUrC/upload_JXMgz6-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/cQdUrC/upload_JXMgz6-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "id": "ErkmT6", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.4030897, 
+                            "locality": "Sebastopol", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.821333, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(707) 823-3144", 
+                            "postalCode": "95472", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6780 Depot Street", 
+                            "updateDate": "2013-08-05 19:24:57", 
+                            "website": "http://w4brewing.com/"
+                        }
+                    ], 
+                    "name": "Woodfour Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-05 19:25:24", 
+                    "website": "http://w4brewing.com/"
+                }
+            ], 
+            "createDate": "2013-11-12 01:22:19", 
+            "id": "X9YPUD", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/X9YPUD/upload_FvX1LY-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/X9YPUD/upload_FvX1LY-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/X9YPUD/upload_FvX1LY-medium.png"
+            }, 
+            "name": "Brett Pale Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2013-11-12 01:23:08"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "description": "Belgian-style beer, IPAs, second use spirit barrel aged beer, oak aged sour beer.", 
+                    "established": "2012", 
+                    "id": "Cqkjwu", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Cqkjwu/upload_Xa7Hm2-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Cqkjwu/upload_Xa7Hm2-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Cqkjwu/upload_Xa7Hm2-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "hoursOfOperation": "Tue - Thu:\t5:00 pm - 12:00 am\r\nFri - Sat:\t12:00 pm - 12:00 am\r\nSun:\t12:00 pm - 10:00 pm", 
+                            "id": "bzv1qy", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 28.0162063, 
+                            "locality": "Dunedin", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -82.7900019, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(727) 733-3013", 
+                            "postalCode": "34698", 
+                            "region": "Florida", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1012 Broadway", 
+                            "updateDate": "2012-10-30 11:36:35", 
+                            "website": "http://www.seventhsunbrewing.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "7venth Sun Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-21 00:58:20", 
+                    "website": "http://www.7venthsun.com/"
+                }
+            ], 
+            "createDate": "2012-11-01 18:22:04", 
+            "id": "dI39B2", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/dI39B2/upload_DNAMug-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/dI39B2/upload_DNAMug-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/dI39B2/upload_DNAMug-medium.png"
+            }, 
+            "name": "Brett Saison Extreme", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2012-11-01 18:25:10"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Beer is not available.", 
+                "id": 3, 
+                "name": "Not Available"
+            }, 
+            "availableId": 3, 
+            "breweries": [
+                {
+                    "createDate": "2013-11-26 17:14:56", 
+                    "description": "A 100% barrel-aged, mostly barrel fermented, gypsy brewing project.", 
+                    "established": "2013", 
+                    "id": "yyXPEU", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/yyXPEU/upload_n0rnEB-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/yyXPEU/upload_n0rnEB-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/yyXPEU/upload_n0rnEB-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-11-27 01:21:32", 
+                            "id": "ymbt9C", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.5450919, 
+                            "locality": "St. Louis", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -90.264796, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "63111", 
+                            "region": "Missouri", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "8125 Michigan Ave.", 
+                            "updateDate": "2013-11-27 01:21:32", 
+                            "website": "http://www.sideprojectbrewing.com", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Side Project Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-11-27 01:21:47", 
+                    "website": "http://sideprojectbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-11-27 12:30:49", 
+            "description": "This is the renamed Brett Project #1, so 100% brett from Cantillon fermented, with lactobacillus added to the Chambourcin barrel it was being aged in. The result is similar to the lively characteristics of Brett Project #1, but with more acidity. Sat in oak for 6 months.", 
+            "id": "UFRpAO", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/UFRpAO/upload_E6QCLG-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/UFRpAO/upload_E6QCLG-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/UFRpAO/upload_E6QCLG-medium.png"
+            }, 
+            "name": "Brett Venture #1 w/ Lactobacillus", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2013-11-28 16:10:10"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:05", 
+                    "description": "Perennial Artisan Ales - Coming soon!", 
+                    "established": "2011", 
+                    "id": "aORdIX", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/aORdIX/upload_A2c21W-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/aORdIX/upload_A2c21W-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/aORdIX/upload_A2c21W-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:05", 
+                            "extendedAddress": "Ste. 101", 
+                            "id": "xvejtS", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.5457449, 
+                            "locality": "Saint Louis", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -90.265711, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "63111", 
+                            "region": "Missouri", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "8125 Michigan Ave.", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://www.perennialbeer.com", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Perennial Artisan Ales", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 13:05:55", 
+                    "website": "http://www.perennialbeer.com"
+                }
+            ], 
+            "createDate": "2013-11-17 00:19:37", 
+            "id": "jlzzGt", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/jlzzGt/upload_KK2JqI-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/jlzzGt/upload_KK2JqI-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/jlzzGt/upload_KK2JqI-medium.png"
+            }, 
+            "name": "Brettopia", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2013-11-17 00:20:46"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2013-01-09 17:54:56", 
+                    "established": "2007", 
+                    "id": "354Wth", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/354Wth/upload_i2qh7w-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/354Wth/upload_i2qh7w-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/354Wth/upload_i2qh7w-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Italy", 
+                                "isoCode": "IT", 
+                                "isoThree": "ITA", 
+                                "name": "ITALY", 
+                                "numberCode": 380
+                            }, 
+                            "countryIsoCode": "IT", 
+                            "createDate": "2013-01-10 11:28:37", 
+                            "id": "N7CfsS", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.965514, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 10.2243991, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+39 0524 90 137", 
+                            "postalCode": "43 43019", 
+                            "region": "Soragna (PR)", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Strada Argini", 
+                            "updateDate": "2013-01-10 11:28:37", 
+                            "website": "http://www.birrificiodelducato.net/"
+                        }
+                    ], 
+                    "name": "Birrificio del Ducato", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-10 11:29:31", 
+                    "website": "http://www.birrificiodelducato.net/"
+                }
+            ], 
+            "createDate": "2013-11-22 13:03:02", 
+            "id": "VFwqQU", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/VFwqQU/upload_eFQgIJ-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/VFwqQU/upload_eFQgIJ-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/VFwqQU/upload_eFQgIJ-medium.png"
+            }, 
+            "name": "BrettPeat Daydream", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2013-11-22 13:13:16"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:48", 
+                    "description": "Brewery Vivant is the realization of years of dreaming and much discussion of what a great brewery can be. What makes our brewery different from the rest is the way we approach our craft and operate our business. The core of Brewery Vivant can be found at the crossroads of three passions:\r\n\r\n1. Our love of the tradition and artistic approach of the Belgian & French styles of beers\r\n\r\n2. Devotion to using local sources for ingredients and running our business according to the three pillars of sustainability; Environmental Integrity, Social Equity, and Economic Viability\r\n\r\n3. Sharing the experience of how beer and food can be paired to uplift the enjoyment of both", 
+                    "established": "2010", 
+                    "id": "LFkVMc", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/LFkVMc/upload_gwKyCC-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/LFkVMc/upload_gwKyCC-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/LFkVMc/upload_gwKyCC-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:48", 
+                            "hoursOfOperation": "Mon - Thu: 3:00 pm - 11:00 pm\r\nFri: 3:00 pm - 12:00 am\r\nSat: 11:00 am - 12:00 am\r\nSun: 12:00 pm - 9:00 pm", 
+                            "id": "5K9U34", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.9595377, 
+                            "locality": "Grand Rapids", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -85.6466414, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(616) 719-1604", 
+                            "postalCode": "49506", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "925 Cherry Street SE", 
+                            "updateDate": "2013-02-24 15:15:37", 
+                            "website": "http://www.breweryvivant.com/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Brewery Vivant", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-02-24 15:16:17", 
+                    "website": "http://www.breweryvivant.com/"
+                }
+            ], 
+            "createDate": "2014-03-25 13:21:09", 
+            "id": "BATTrN", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/BATTrN/upload_tyorE5-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/BATTrN/upload_tyorE5-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/BATTrN/upload_tyorE5-medium.png"
+            }, 
+            "name": "Coq D'Or", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2014-03-25 13:53:49"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2014-04-29 11:12:12", 
+                    "description": "Transmitter Brewing was formed to bring a unique perspective on traditional beer styles to the local NYC beer scene. Through the informed use and interactions of yeast and hops, we hope to add to the conversation about what is craft beer.", 
+                    "id": "FAazG9", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/FAazG9/upload_vMCpCr-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/FAazG9/upload_vMCpCr-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/FAazG9/upload_vMCpCr-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-04-29 11:12:59", 
+                            "extendedAddress": "Suite A", 
+                            "id": "5vptdA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.7422412, 
+                            "locality": "Long Island City", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -73.9518273, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(718) 418-0066", 
+                            "postalCode": "11101", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "53-02 11th Street", 
+                            "updateDate": "2014-04-29 11:12:59", 
+                            "website": "http://transmitterbrewing.com/"
+                        }
+                    ], 
+                    "mailingListUrl": "http://transmitterbrewing.us7.list-manage.com/subscribe/post?u=6f8a52ba25c0d27e1f365e821&id=8c813af0dc", 
+                    "name": "Transmitter Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-29 11:13:08", 
+                    "website": "http://transmitterbrewing.com/"
+                }
+            ], 
+            "createDate": "2014-05-06 13:56:36", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 2, 
+                "name": "Goblet"
+            }, 
+            "glasswareId": 2, 
+            "ibu": "19", 
+            "id": "RI01GD", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/RI01GD/upload_9JDRZe-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/RI01GD/upload_9JDRZe-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/RI01GD/upload_9JDRZe-medium.png"
+            }, 
+            "name": "F3", 
+            "originalGravity": "1.049", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2014-05-08 09:02:45"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:07", 
+                    "description": "Round Guys Brewery is the brain child of Scott Rudich and Rich DiLiberto. With over 20 years combined experience in manufacturing, we decided to follow our true passion by opening Round Guys Brewing Company. The Brewery represents two long-time beer lovers who want to make great hand-crafted beer and share it with you.\r\n\r\nThe whole idea of the brewery started one evening when Rich was in a local watering hole, listening to a rather excruciating band. Rich called Scott and offered an idea that was sure to to be the key to financial freedom\u2026\u201dwe should either start a band or open a brewery\u201d. Scott quickly responded with the observation-\u201dwell\u2026 neither of us could play an instrument, so perhaps we should try our hand at brewing!\u201d\r\n\r\nWe started off small, brewing 5 gallon batches of homebrew, either in Scott or Rich\u2019s Garage. As we started to take the brewery idea seriously, we scaled up our brew house to a 55 gallon system and moved the whole operation permanently to Scott\u2019s garage in Pipersville PA. Currently the production brew house is a 7 bbl system that we pieced together.", 
+                    "established": "2011", 
+                    "id": "g0FV6B", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/g0FV6B/upload_fj6hkm-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/g0FV6B/upload_fj6hkm-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/g0FV6B/upload_fj6hkm-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:07", 
+                            "hoursOfOperation": "Monday: 5pm-Close\r\nWednesday: 5pm-Close\r\nThursday: 5pm \u2013 Close\r\nFriday: 5pm \u2013 Close\r\nSaturday: 12pm \u2013 Close\r\nSunday: 12pm \u2013 8pm", 
+                            "id": "QVMwmr", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.2436943, 
+                            "locality": "Lansdale", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -75.2873125, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "610-715-1512", 
+                            "postalCode": "19446", 
+                            "region": "Pennsylvania", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "324 W. Main St", 
+                            "updateDate": "2013-04-01 11:08:24", 
+                            "website": "http://roundguysbrewery.com/"
+                        }
+                    ], 
+                    "name": "Round Guys Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-04-01 11:09:22", 
+                    "website": "http://roundguysbrewery.com/"
+                }
+            ], 
+            "createDate": "2014-01-29 13:08:06", 
+            "id": "3T8Wui", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/3T8Wui/upload_5mv3Lz-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/3T8Wui/upload_5mv3Lz-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/3T8Wui/upload_5mv3Lz-medium.png"
+            }, 
+            "name": "Fear of a Brett Planet", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2014-01-29 13:25:47"
+        }, 
+        {
+            "abv": "7.5", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:09", 
+                    "description": "While you're enjoying the full-bodied flavor of the beer, remember that it was more than 10 years in the making. We think it was worth it. We hope you agree.\r\n \r\nSurly: The anger fueled by the inability to find good beer.\r\n\r\n\"We brewed beer for people who didn't know they wanted to drink it until they had it.\" - Omar Ansari", 
+                    "established": "2006", 
+                    "id": "cPRfoj", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/cPRfoj/upload_h0oqUF-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/cPRfoj/upload_h0oqUF-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/cPRfoj/upload_h0oqUF-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:09", 
+                            "id": "2REili", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 45.04285, 
+                            "locality": "Brooklyn Center", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -93.324557, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "763-535-3330", 
+                            "postalCode": "55429", 
+                            "region": "Minnesota", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4811 Dusharme Drive", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.surlybrewing.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "Surly Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 13:01:28", 
+                    "website": "http://www.surlybrewing.com/"
+                }
+            ], 
+            "createDate": "2012-07-30 22:26:13", 
+            "description": "In the Surly brewhouse, brewing our Anniversary beers means one thing: forget what ya know and try something different. In honor of FIVE glorious years, we bring you a 100% Brettanomyces-fermented Dark Ale, aged in red wine barrels. Flavors of sour cherry, tobacco, oak and classic \u201cBrett\u201d barnyard funk, balanced by Dark Munich malt chewiness. Enjoy immediately or age at cellar temperature for a couple years. 100% Brettanomyces-fermented Dark Ale aged in red wine barrels.\r\n \r\nFive has strong flavors of earthy black cherry and raisins with a sour finish.", 
+            "ibu": "14", 
+            "id": "NyO4fF", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/NyO4fF/upload_L4XVHr-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/NyO4fF/upload_L4XVHr-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/NyO4fF/upload_L4XVHr-medium.png"
+            }, 
+            "name": "Five", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2014-02-04 13:04:04"
+        }, 
+        {
+            "abv": "5.5", 
+            "breweries": [
+                {
+                    "createDate": "2013-09-21 19:20:12", 
+                    "description": "Crooked Run is a nano-brewery brewery located in historic Market Station in Leesburg.  Crooked Run offers unique and well-crafted American and Belgian style ales, many made with locally-grown ingredients.  Beers can be purchased by the glass at the brewery bar or growler fills to go with bottles coming soon.", 
+                    "established": "2013", 
+                    "id": "Y1yCgh", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Y1yCgh/upload_Rpq3Kv-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Y1yCgh/upload_Rpq3Kv-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Y1yCgh/upload_Rpq3Kv-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-09-21 19:21:48", 
+                            "hoursOfOperation": "Wed - Thu: 4:00 pm - 10:00 pm\r\nFri: 4:00 pm - 12:00 am\r\nSat: 1:00 pm - 12:00 am\r\nSun: 1:00 pm - 6:00 pm", 
+                            "id": "gssG96", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.1127672, 
+                            "locality": "Leesburg", 
+                            "locationType": "nano", 
+                            "locationTypeDisplay": "Nano Brewery", 
+                            "longitude": -77.5625836, 
+                            "name": "Brewery/Bar", 
+                            "openToPublic": "Y", 
+                            "phone": "(571) 918-4446", 
+                            "postalCode": "20175", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "205 Harrison Street", 
+                            "updateDate": "2014-06-09 11:10:46", 
+                            "website": "http://www.crookedrunbrewing.com", 
+                            "yearOpened": "2013"
+                        }
+                    ], 
+                    "name": "Crooked Run Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-09-21 19:59:15", 
+                    "website": "http://www.crookedrunbrewing.com/"
+                }
+            ], 
+            "createDate": "2014-06-09 11:14:43", 
+            "description": "A 100% Brettanomyces-fermented Vienna malt pale ale.", 
+            "id": "r9X9v5", 
+            "isOrganic": "N", 
+            "name": "Free Yourself", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2014-06-09 11:14:43"
+        }, 
+        {
+            "abv": "7.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:44", 
+                    "description": "Allagash Brewing Company sold its first batch of beer in the summer of 1995. The Allagash story, however, has roots that go much further back then the ten years the Portland, Maine brewery has been in operation. The roots go into the early 1990?s when founder Rob Tod saw something missing in the American beer market. They are interwoven in the craft brewing movement that has allowed the creativity of brewers to flourish over the last twenty years, and those same roots have ties that go back centuries-to the monasteries of Belgium, whose own ancient brewing methods are now practiced today by the brewers of Allagash. Allagash began as a one-man operation, with Tod assuming all brewing duties in a small space located in a building on the outskirts of the maritime city of Portland. Tod had worked in brewery settings before and recognized a void within the craft brewing movement. While both German and British styles had become prevalent throughout the U.S., the ever-creative Belgian-styles were very difficult to find. Through his travels, Tod had sampled many of these unique beers and felt that the flavors and traditions of this European nation needed to be shared with the American drinking public. He designed a small 15-barrel brewhouse specifically to embrace the Belgian tradition of beer making, gathered the finest array of authentic raw materials and began his quest towards the production of traditional Belgian style ales.", 
+                    "established": "1995", 
+                    "id": "pdLPeS", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/pdLPeS/upload_0Ut2Nj-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/pdLPeS/upload_0Ut2Nj-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/pdLPeS/upload_0Ut2Nj-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:44", 
+                            "hoursOfOperation": "Mon - Fri: 9:30 am - 5:30 pm", 
+                            "id": "hP5LHZ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.702697, 
+                            "locality": "Portland", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -70.317975, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "800-330-5385", 
+                            "postalCode": "04103", 
+                            "region": "Maine", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "50 Industrial Way", 
+                            "updateDate": "2012-03-21 20:05:24", 
+                            "website": "http://www.allagash.com/", 
+                            "yearOpened": "1995"
+                        }
+                    ], 
+                    "name": "Allagash Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 12:41:15", 
+                    "website": "http://www.allagash.com/"
+                }
+            ], 
+            "createDate": "2013-12-16 17:24:27", 
+            "id": "rEXzIc", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/rEXzIc/upload_jTpQte-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/rEXzIc/upload_jTpQte-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/rEXzIc/upload_jTpQte-medium.png"
+            }, 
+            "name": "Golden Brett", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2013-12-17 10:00:43"
+        }, 
+        {
+            "abv": "9.6", 
+            "breweries": [
+                {
+                    "createDate": "2012-06-15 13:18:30", 
+                    "description": "In 2009 Walt and Luke sat at a craft beer bar and talked about the dream of opening their own brewery that would focus on big West Coast hoppy ales and authentic Belgain ales that would inspire those who drank them. From that conversation forward there would be no looking back. A business plan was developed and hundreds of test batches brewed. In 2011 Walt and Luke\u2019s lifelong friend Ryan Guthy and his parents Rick and Denise all sat down at their house in the mountains of Western North Carolina to taste some of Luke and Walt\u2019s creations while looking over the plans for what would be Wicked Weed Brewing.  After being thoroughly impressed with the full flavor and vision of the project, the Guthys joined the Dickinsons and the team was assembled.  Over the next months Wicked Weed Brewing found a home at 91 Biltmore avenue, a building that seemed destined to be a brewery.\r\nWith the creativity of Luke, vision of Walt, dedication of Ryan, exquisite taste of Denise and wisdom of Rick a truly unique brewery was born.  So from the humble beginning of a basement, the dream of Wicked Weed Brewing has come to life. Our beer is bold, full of excitement and flavor.  Always focused on drinkability and pushing the boundaries of what we think we are capable of.  Wicked Weed Brewing will always evolve, always grow and always aspire to be greater.  Join us in bringing something a little Wicked to Asheville.", 
+                    "established": "2012", 
+                    "id": "zeWbuM", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/zeWbuM/upload_rxRe0d-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/zeWbuM/upload_rxRe0d-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/zeWbuM/upload_rxRe0d-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-06-15 13:19:17", 
+                            "id": "90gAzo", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.591695, 
+                            "locality": "Asheville", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -82.551084, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "828-575-9599", 
+                            "postalCode": "28801", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "91 Biltmore Ave", 
+                            "updateDate": "2013-08-04 13:03:19", 
+                            "website": "http://wickedweedbrewing.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Wicked Weed Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-06-12 11:31:23", 
+                    "website": "http://wickedweedbrewing.com/"
+                }
+            ], 
+            "createDate": "2014-05-07 13:17:27", 
+            "id": "FbWQ6o", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/FbWQ6o/upload_DCx11l-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/FbWQ6o/upload_DCx11l-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/FbWQ6o/upload_DCx11l-medium.png"
+            }, 
+            "name": "Indulgence - Royal Cache Barrel Reserve Series", 
+            "originalGravity": "1.073", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2014-05-07 13:17:56"
+        }, 
+        {
+            "abv": "4.9", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:15", 
+                    "description": "Back in March of 1987 Gina and Vince Marsaglia, a pair of siblings in their 20\u2032s, bought a struggling pizza place in the sleepy coastal town of Solana Beach, just north of San Diego. From a funky storefront on the famous Pacific Coast Highway the duo ran the \u201cPizza Port\u201d with a classic menu of pizza and chicken wings to which they added their own \u201cSan Diego\u201d twist.  The Original Pizza Port in Solana Beach\r\n\r\nThe parking was limited and the building crowded with simple hand-built picnic tables and a hodge-podge d\u00e9cor of surf-related paraphernalia almost at odds with the sophisticated flavors of the food. But word spread quickly and it wasn\u2019t long before Pizza Port was a local favorite. \r\n\r\nEarly on Vince took advantage of free space in the restaurant\u2019s storage area to dabble with home brewing. The hobby took off and he was eventually brewing more than could reasonably be consumed at home. So at the urging of friends and fans, the Vince and Gina decided to go into the brewpub business. Pizza Port offered its first craft-brewed beers to patrons in 1992. \r\n\r\nEmbracing the same \u201cflavor-driven\u201d principles that had made the pizza menu so popular, Pizza Port quickly gained a reputation in San Diego\u2019s nascent craft beer scene. In 1997 the company opened a second location a few miles north of Solana Beach in Carlsbad, and a third in 2003 in San Clemente. The same year San Clemente opened (as well as the year after), the original location in Solana Beach won Great American Beer Festival \u201cSmall Brewpub of the Year\u201d. \r\n\r\nThe Pizza Port family\u2019s reputation for great foods and craft beer continued to grow, making them landmarks not just for Southern Californians, but for beer lovers from around the world. In 2008 they opened a premium bottle shop with more that 600 craft beers adjacent to the Carlsbad locations, and by the end of the first decade of the 21st century, the Pizza Ports were a brewing dynasty. In 2009 the Pizza Ports won a staggering 9 medals at the 2009 Great American Beer Festival and Pizza Port Carlsbad was named \u201cLarge Brewpub of the Year\u201d.", 
+                    "established": "1987", 
+                    "id": "QSVVxD", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/QSVVxD/upload_Yqeh6Z-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/QSVVxD/upload_Yqeh6Z-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/QSVVxD/upload_Yqeh6Z-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:15", 
+                            "id": "DrFlD0", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 33.1596505, 
+                            "locality": "Carlsbad", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -117.3478111, 
+                            "name": "Carlsbad", 
+                            "openToPublic": "Y", 
+                            "phone": "760-720-7007", 
+                            "postalCode": "92008", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "571 Carlsbad Village Dr.", 
+                            "updateDate": "2013-08-09 16:58:21", 
+                            "website": "http://www.pizzaport.com/locations/carlsbad/", 
+                            "yearOpened": "1997"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:15", 
+                            "hoursOfOperation": "Sun - Thur - 11am - 10pm\r\nFri - Sat. - 11am - Midnight", 
+                            "id": "qAyZMR", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 32.992923, 
+                            "locality": "Solana Beach", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -117.272216, 
+                            "name": "Solana Beach", 
+                            "openToPublic": "Y", 
+                            "phone": "858-481-7332", 
+                            "postalCode": "92075", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "135 N. Highway 101", 
+                            "updateDate": "2013-08-09 16:58:09", 
+                            "website": "http://www.pizzaport.com/category-s/1820.htm", 
+                            "yearOpened": "1987"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-07-15 12:15:08", 
+                            "hoursOfOperation": "Sun \u2013 Thur: 11am \u2013 10pm\r\nFri - Sat: 11am - Midnight", 
+                            "id": "2uocba", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 32.7479309, 
+                            "locality": "Ocean Beach", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -117.2502992, 
+                            "name": "Ocean Beach", 
+                            "openToPublic": "Y", 
+                            "phone": "619-224-4700", 
+                            "postalCode": "92107", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1956 Bacon St.", 
+                            "updateDate": "2013-08-09 16:58:18", 
+                            "website": "http://www.pizzaport.com/category-s/1819.htm", 
+                            "yearOpened": "2010"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-07-15 12:16:00", 
+                            "hoursOfOperation": "Sun - Thur - 11am - 10pm\r\nFri - Sat. - 11am - 11pm", 
+                            "id": "fEXQl1", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 33.4287496, 
+                            "locality": "San Clemente", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -117.6135563, 
+                            "name": "San Clemente", 
+                            "openToPublic": "Y", 
+                            "phone": "949-940-0005", 
+                            "postalCode": "92672", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "301 N. El Camino Real", 
+                            "updateDate": "2013-08-09 16:58:13", 
+                            "website": "http://www.pizzaport.com/category-s/1821.htm", 
+                            "yearOpened": "2003"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-08-09 14:35:06", 
+                            "hoursOfOperation": "Mon - Thu: 11:00 am - 10:00 pm\r\nFri - Sat: 11:00 am - 11:00 pm\r\nSun: 11:00 am - 10:00 pm", 
+                            "id": "BAGW0w", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 33.1281592, 
+                            "locality": "Carlsbad", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -117.2514615, 
+                            "name": "Pizza Port Bressi Ranch", 
+                            "openToPublic": "Y", 
+                            "phone": "760-707-1655", 
+                            "postalCode": "92009", 
+                            "region": "CA", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2730 Gateway Rd", 
+                            "updateDate": "2013-08-09 16:58:03", 
+                            "yearOpened": "2013"
+                        }
+                    ], 
+                    "name": "Pizza Port Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-16 21:55:11", 
+                    "website": "http://www.pizzaport.com/"
+                }
+            ], 
+            "createDate": "2013-08-13 18:50:05", 
+            "id": "XznWSC", 
+            "isOrganic": "N", 
+            "name": "Interstellar Overdrive - SC", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2013-08-13 19:16:55"
+        }, 
+        {
+            "abv": "7.5", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:03", 
+                    "description": "We'll set the scene: 1989. Belgium. Boy on bike. (OK, make that a young man of 32). As our aspiring young homebrewer rides his mountain bike with fat tires through European villages famous for beer, New Belgium Brewing Company was but a glimmer in his eye. Or basement. For Jeff Lebesch would return to Fort Collins with a handful of ingredients and an imagination full of recipes. And then there was beer. Jeff's first two basement-brewed creations? A brown dubbel with earthy undertones named Abbey and a remarkably well-balanced amber he named Fat Tire. To say the rest was history would be to overlook his wife's involvement. Kim Jordan was New Belgium's first bottler, sales rep, distributor, marketer and financial planner. And now, she's our CEO.", 
+                    "established": "1989", 
+                    "id": "Jt43j7", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Jt43j7/upload_QAvBNG-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Jt43j7/upload_QAvBNG-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Jt43j7/upload_QAvBNG-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:03", 
+                            "id": "eOm6Xk", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.593415, 
+                            "locality": "Fort Collins", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -105.066874, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-888-622-4044", 
+                            "postalCode": "80524", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "500 Linden Street", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.newbelgium.com/", 
+                            "yearOpened": "1989"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-04-06 12:29:33", 
+                            "id": "m1a0ra", 
+                            "inPlanning": "Y", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 35.588813, 
+                            "locality": "Asheville", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -82.573593, 
+                            "name": "Asheville", 
+                            "openToPublic": "N", 
+                            "postalCode": "28806", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "155 Craven Street", 
+                            "updateDate": "2012-04-06 12:29:33"
+                        }
+                    ], 
+                    "name": "New Belgium Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-23 18:44:08", 
+                    "website": "http://www.newbelgium.com/"
+                }, 
+                {
+                    "createDate": "2012-01-03 02:42:10", 
+                    "description": "Founded in 2006, Port Brewing Company produces a line of award-winning American ales and the groundbreaking Lost Abbey family of Belgian-inspired beers. Craft brewed under the direction of co-founder and World Champion brewer Tomme Arthur, five beers are issued under the Lost Abbey label year-round: Avant Garde, Lost and Found, Red Barn, Devotion and Judgment Day. Additionally, a number of seasonal and specialty releases are offered at various times throughout the year. As many of these are blended and aged for up to 18 months in French Oak, Brandy and Bourbon barrels, Lost Abbey beers are universally recognized for their complexity, unique flavors, and bold, boundary-pushing styles.\r\n\r\nSince opening its doors, Port Brewing and The Lost Abbey beers have won more nearly 100 medals in regional, national and international competitions. Rate Beer ranks the brewery number three in the world, and six of its beers are among the 100 best beers.", 
+                    "established": "2006", 
+                    "id": "9x7wNn", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/9x7wNn/upload_iFoVyB-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/9x7wNn/upload_iFoVyB-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/9x7wNn/upload_iFoVyB-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:10", 
+                            "extendedAddress": "Suite 104", 
+                            "id": "cvt0UF", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 33.141417, 
+                            "locality": "San Marcos", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -117.150076, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "800-918-6816", 
+                            "postalCode": "92069", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "155 Mata Way", 
+                            "updateDate": "2012-08-12 10:59:22", 
+                            "website": "http://www.lostabbey.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "The Lost Abbey", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-16 21:21:53", 
+                    "website": "http://www.lostabbey.com/"
+                }
+            ], 
+            "createDate": "2012-03-05 13:35:49", 
+            "description": "New Belgium Brewing and The Lost Abbey brewery from San Marcos, California have a shared passion for a variety of things, not the least of which is the wild Belgian yeast brettanomyces. So they decided to join forces and collaborate. Lost Abbey Collaboration is brewed simply with pale malts accompanied by Target, Centennial and Sorachi hops for a hint of citrus. Focusing on their mutual respect for the ingredient, the spotlight shines on the brettanomyces, where a full brett fermentation offers bold pineapple overtones and funky, sour edge. The beer is a shining, golden shade and is warming and dry. Lost Abbey Collaboration is available on draft and in 22-ounce bombers.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "AHODkM", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/AHODkM/upload_Z5DO4Q-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/AHODkM/upload_Z5DO4Q-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/AHODkM/upload_Z5DO4Q-medium.png"
+            }, 
+            "name": "Lips of Faith - Brett Beer", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2013-05-05 13:05:51"
+        }, 
+        {
+            "abv": "7.3", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:44", 
+                    "description": "Allagash Brewing Company sold its first batch of beer in the summer of 1995. The Allagash story, however, has roots that go much further back then the ten years the Portland, Maine brewery has been in operation. The roots go into the early 1990?s when founder Rob Tod saw something missing in the American beer market. They are interwoven in the craft brewing movement that has allowed the creativity of brewers to flourish over the last twenty years, and those same roots have ties that go back centuries-to the monasteries of Belgium, whose own ancient brewing methods are now practiced today by the brewers of Allagash. Allagash began as a one-man operation, with Tod assuming all brewing duties in a small space located in a building on the outskirts of the maritime city of Portland. Tod had worked in brewery settings before and recognized a void within the craft brewing movement. While both German and British styles had become prevalent throughout the U.S., the ever-creative Belgian-styles were very difficult to find. Through his travels, Tod had sampled many of these unique beers and felt that the flavors and traditions of this European nation needed to be shared with the American drinking public. He designed a small 15-barrel brewhouse specifically to embrace the Belgian tradition of beer making, gathered the finest array of authentic raw materials and began his quest towards the production of traditional Belgian style ales.", 
+                    "established": "1995", 
+                    "id": "pdLPeS", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/pdLPeS/upload_0Ut2Nj-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/pdLPeS/upload_0Ut2Nj-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/pdLPeS/upload_0Ut2Nj-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:44", 
+                            "hoursOfOperation": "Mon - Fri: 9:30 am - 5:30 pm", 
+                            "id": "hP5LHZ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.702697, 
+                            "locality": "Portland", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -70.317975, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "800-330-5385", 
+                            "postalCode": "04103", 
+                            "region": "Maine", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "50 Industrial Way", 
+                            "updateDate": "2012-03-21 20:05:24", 
+                            "website": "http://www.allagash.com/", 
+                            "yearOpened": "1995"
+                        }
+                    ], 
+                    "name": "Allagash Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 12:41:15", 
+                    "website": "http://www.allagash.com/"
+                }
+            ], 
+            "createDate": "2013-11-04 18:47:40", 
+            "id": "mnV33B", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/mnV33B/upload_ZfpzoJ-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/mnV33B/upload_ZfpzoJ-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/mnV33B/upload_ZfpzoJ-medium.png"
+            }, 
+            "name": "Midnight Brett Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2013-11-05 05:05:07"
+        }, 
+        {
+            "abv": "6.3", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:03", 
+                    "description": "We'll set the scene: 1989. Belgium. Boy on bike. (OK, make that a young man of 32). As our aspiring young homebrewer rides his mountain bike with fat tires through European villages famous for beer, New Belgium Brewing Company was but a glimmer in his eye. Or basement. For Jeff Lebesch would return to Fort Collins with a handful of ingredients and an imagination full of recipes. And then there was beer. Jeff's first two basement-brewed creations? A brown dubbel with earthy undertones named Abbey and a remarkably well-balanced amber he named Fat Tire. To say the rest was history would be to overlook his wife's involvement. Kim Jordan was New Belgium's first bottler, sales rep, distributor, marketer and financial planner. And now, she's our CEO.", 
+                    "established": "1989", 
+                    "id": "Jt43j7", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Jt43j7/upload_QAvBNG-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Jt43j7/upload_QAvBNG-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Jt43j7/upload_QAvBNG-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:03", 
+                            "id": "eOm6Xk", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.593415, 
+                            "locality": "Fort Collins", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -105.066874, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-888-622-4044", 
+                            "postalCode": "80524", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "500 Linden Street", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.newbelgium.com/", 
+                            "yearOpened": "1989"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-04-06 12:29:33", 
+                            "id": "m1a0ra", 
+                            "inPlanning": "Y", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 35.588813, 
+                            "locality": "Asheville", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -82.573593, 
+                            "name": "Asheville", 
+                            "openToPublic": "N", 
+                            "postalCode": "28806", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "155 Craven Street", 
+                            "updateDate": "2012-04-06 12:29:33"
+                        }
+                    ], 
+                    "name": "New Belgium Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-23 18:44:08", 
+                    "website": "http://www.newbelgium.com/"
+                }, 
+                {
+                    "createDate": "2012-01-03 02:42:10", 
+                    "description": "Founded in 2006, Port Brewing Company produces a line of award-winning American ales and the groundbreaking Lost Abbey family of Belgian-inspired beers. Craft brewed under the direction of co-founder and World Champion brewer Tomme Arthur, five beers are issued under the Lost Abbey label year-round: Avant Garde, Lost and Found, Red Barn, Devotion and Judgment Day. Additionally, a number of seasonal and specialty releases are offered at various times throughout the year. As many of these are blended and aged for up to 18 months in French Oak, Brandy and Bourbon barrels, Lost Abbey beers are universally recognized for their complexity, unique flavors, and bold, boundary-pushing styles.\r\n\r\nSince opening its doors, Port Brewing and The Lost Abbey beers have won more nearly 100 medals in regional, national and international competitions. Rate Beer ranks the brewery number three in the world, and six of its beers are among the 100 best beers.", 
+                    "established": "2006", 
+                    "id": "9x7wNn", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/9x7wNn/upload_iFoVyB-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/9x7wNn/upload_iFoVyB-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/9x7wNn/upload_iFoVyB-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:10", 
+                            "extendedAddress": "Suite 104", 
+                            "id": "cvt0UF", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 33.141417, 
+                            "locality": "San Marcos", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -117.150076, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "800-918-6816", 
+                            "postalCode": "92069", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "155 Mata Way", 
+                            "updateDate": "2012-08-12 10:59:22", 
+                            "website": "http://www.lostabbey.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "The Lost Abbey", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-16 21:21:53", 
+                    "website": "http://www.lostabbey.com/"
+                }
+            ], 
+            "createDate": "2014-04-30 02:51:06", 
+            "description": "A long time ago (well, 2004) in a Pizza Port not so far away (Solana Beach, CA), Tomme Arthur and New Belgium\u2019s Peter Bouckaert brewed an all Brettanomyces beer they called Mo\u2019 Betta Bretta.\r\n\r\nIn April of this year Peter flew from Colorado and the two joined forces once again \u2014 this time at The Lost Abbey \u2014 to do a refresh of that beer.  Below is a video of what happened that day.  The beer was released at the brewery on June 9th and should be hitting shelves near you the week of the June 18th.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 2, 
+                "name": "Goblet"
+            }, 
+            "glasswareId": 2, 
+            "id": "8t0sd4", 
+            "isOrganic": "N", 
+            "name": "Mo' Betta Bretta", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2014-04-30 15:01:39"
+        }, 
+        {
+            "abv": "5.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:00", 
+                    "description": "Our name, Lake Effect, is inspired by the weather phenomenon we experience on the Great Lakes, most famous for creating legendary snow storms. The lake effect also produces longer growing seasons that yield some of the highest-quality grains, fruits and vegetables in the world. Most importantly, our central ingredient \u2013 the water \u2013 is from our great lake.", 
+                    "established": "2011", 
+                    "id": "NTrt0Z", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/NTrt0Z/upload_JcAjHx-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/NTrt0Z/upload_JcAjHx-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/NTrt0Z/upload_JcAjHx-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:00", 
+                            "id": "2y9qBw", 
+                            "inPlanning": "Y", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.88415, 
+                            "locality": "Chicago", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -87.632409, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "N", 
+                            "phone": "312.919.4473", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2012-03-22 22:54:51"
+                        }
+                    ], 
+                    "mailingListUrl": "clint@lakeeffectbrewing.com", 
+                    "name": "Lake Effect Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 14:22:10", 
+                    "website": "http://www.lakeeffectbrewing.com/"
+                }
+            ], 
+            "createDate": "2014-01-08 12:00:37", 
+            "id": "cPAquS", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/cPAquS/upload_kTQJOU-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/cPAquS/upload_kTQJOU-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/cPAquS/upload_kTQJOU-medium.png"
+            }, 
+            "name": "Session Brett Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2014-01-08 12:00:47"
+        }, 
+        {
+            "abv": "9", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:10", 
+                    "description": "Three Floyds Brewing Company LLC was founded in 1996 by brothers Nick and Simon with their father Mike Floyd. The original brewery was built by Nick and Simon in a run down warehouse located in Hammond, Indiana. The first beers brewed by the brothers were designed to be a departure from the fairly bleak craft brewing scene in the region. Nick and Simon brewed intense balanced beers that were and still remain \u201cnot normal\u201d by conventional standards.\r\n\r\nIn November of 2005, after receiving numerous visitors to the brewery over the years, Three Floyds opened its own brewpub at the production facility. What was once office space is now a refuge for the craft beer enthusiast. With all the Three Floyds mainstays, seasonal offerings, special small batch beers and many guest beers it is a mecca for craft beer. The pub also has a full service kitchen providing pub fare of the best quality supported by a 3000 square foot organic herb and vegetable garden.", 
+                    "established": "1996", 
+                    "id": "iodDki", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/iodDki/upload_WREfmT-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/iodDki/upload_WREfmT-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/iodDki/upload_WREfmT-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:10", 
+                            "id": "71LkGn", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.5353565, 
+                            "locality": "Munster", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -87.5157143, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-219-922-3565", 
+                            "postalCode": "46321", 
+                            "region": "Indiana", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "9750 Indiana Parkway", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.threefloydspub.com/", 
+                            "yearOpened": "1996"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:16", 
+                            "id": "GoDmMT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 41.535536, 
+                            "locality": "Munster", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -87.516687, 
+                            "name": "Munster", 
+                            "openToPublic": "Y", 
+                            "phone": "219-922-4425", 
+                            "postalCode": "46321", 
+                            "region": "Indiana", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "9750 Indiana Parkway", 
+                            "updateDate": "2013-08-09 16:59:38", 
+                            "website": "http://www.3floyds.com/", 
+                            "yearOpened": "1996"
+                        }
+                    ], 
+                    "name": "Three Floyds Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 13:56:10", 
+                    "website": "http://www.3floyds.com"
+                }
+            ], 
+            "createDate": "2014-06-08 12:40:19", 
+            "description": "Brewed with our friends at Surly, this Imperial Brett IPA is fermented with a unique strain of yeast, Brettanomyces Lambicus. This yeast creates earthy barnyard notes along with pineapple and cherry pie aromas. Of course, it\u2019s hopped heavily. Simcoe and Chinook are the culprits for the \u201ccat peed on the Christmas tree\u201d aroma.", 
+            "id": "pWO9ZT", 
+            "isOrganic": "N", 
+            "name": "Urine Trouble", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2014-06-08 12:43:55"
+        }, 
+        {
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:04", 
+                    "description": "The O'so Brewing Company, 1812 Post Road, Plover, is ready to offer local residents a taste of the unusual as they begin to brew their first batch of beer.\r\n\r\nThe company, founded by Marc Buttera and Bart Peterson, has one goal: brew beer differently. \"I don't think anyone around here offers what I'm looking at ... we want to fill some voids,I don't want to make a regular brown ale, or pale ale. I want to do something that fits in between.\"\r\n\r\nThe dream for Buttera started when he was in college, and a friend turned him on to home brewing, which he has been doing now for about 13 years. Four years ago, his love of home brewing led him to open the Point Brew Supply, 1816 Post Road, Plover, with his wife, Katina.\r\n\r\n\"It (Point Brew Supply) has opened my eyes to all the different ingredients that I think a lot of brewers don't have exposure to,\" \"I've played with every single strain of yeast and grain and hop in there.\r\n\r\nO'so Brewing Co. is planning to have a varied lineup of beers, with interesting names and flavors. They will have a red ale, a West Coast Pale Ale showcasing American hops, as well as a Black Cocker Bock.\r\n\r\n\"I'm ready to show the world what I've learned, and I'm definitely not going to do things like other people are, but I think I'm on some sort of weird cutting edge.\r\n\r\nThe brewery has a capacity to brew about 280 gallons per batch, with plans to brew twice a week. A unique aspect of their marketing technique will be in the tapper. The design, a \"Big O\" will be the brewery's signature.", 
+                    "id": "hpK1X5", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/hpK1X5/upload_Raafsu-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/hpK1X5/upload_Raafsu-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/hpK1X5/upload_Raafsu-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:04", 
+                            "hoursOfOperation": "Monday -Saturday 9:00 a.m. - 8:00 p.m.\r\nSunday 10 a.m. - 4 p.m.", 
+                            "id": "ILdv2n", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.452355, 
+                            "locality": "Plover", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -89.523162, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "715-254-2163", 
+                            "postalCode": "54467", 
+                            "region": "Wisconsin", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3028 Village Park Drive", 
+                            "updateDate": "2012-04-12 00:40:16", 
+                            "website": "http://www.osobrewing.com/"
+                        }
+                    ], 
+                    "name": "O'so Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-12 00:59:42", 
+                    "website": "http://www.osobrewing.com/"
+                }
+            ], 
+            "createDate": "2012-12-04 11:56:38", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 1, 
+                "name": "Flute"
+            }, 
+            "glasswareId": 1, 
+            "ibu": "40", 
+            "id": "8kCKb5", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/8kCKb5/upload_GbIcnf-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/8kCKb5/upload_GbIcnf-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/8kCKb5/upload_GbIcnf-medium.png"
+            }, 
+            "name": "Wee on the Lam Sour Brown", 
+            "originalGravity": "23", 
+            "servingTemperature": "cellar", 
+            "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)", 
+            "srm": {
+                "hex": "B04500", 
+                "id": 17, 
+                "name": "17"
+            }, 
+            "srmId": 17, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2012-12-04 11:56:39"
+        }, 
+        {
+            "abv": "10", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:48", 
+                    "description": "Since its founding in 1988, The Brooklyn Brewery brews flavorful beers that enrich the life, tradition and culture of the communities it serves. Its award-winning roster of year round, season and specialty products have gained the Brewery notoriety as one of the top craft beer producers in the world. Brooklyn beers are currently distributed in 25 states and 17 countries, and throughout 2011 the brewery underwent an expansion that will double overall capacity by 2013. In addition to facilitating community meetings at its event space, brewery employees serve on not-for-profit boards, including the Prospect Park Alliance, the Open Space Alliance, Transportation Alternatives and the Brooklyn Historical Society. Each year the company supports many charitable and arts organizations including BAM, Brooklyn Museum and MoMA, and partners with food purveyors across the country to produce beer dinners and tasting events. The Brewery is open to the public Monday-Thursday from 5-7pm for reservation-only Small Batch tours, Friday evening for Happy Hour, and Saturdays and Sundays for Tours and Tastings. For more info, visit BrooklynBrewery.com and follow @BrooklynBrewery on Twitter.", 
+                    "established": "1988", 
+                    "id": "4OBVPn", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/4OBVPn/upload_nQWKUG-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/4OBVPn/upload_nQWKUG-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/4OBVPn/upload_nQWKUG-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:48", 
+                            "id": "OEO8JG", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.721535, 
+                            "locality": "Brooklyn", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -73.95745, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "718-486-7422", 
+                            "postalCode": "11211", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "79 North Eleventh Street", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.brooklynbrewery.com/", 
+                            "yearOpened": "1987"
+                        }
+                    ], 
+                    "name": "Brooklyn Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-13 16:02:18", 
+                    "website": "http://www.brooklynbrewery.com/"
+                }
+            ], 
+            "createDate": "2014-06-13 20:49:03", 
+            "description": "There was a time when all beers were aged in wood, and yeasts ran wild and cavorted together. Modern brewing is wonderful, of course, but sometimes a little cavorting is a fine thing. Sometimes it gives you a chance to reveal your funky side. We have to admit it - we\u2019ve been cavorting for years...and sorta holding out on you. We didn\u2019t want to do that, but the fact is that up until now we only had enough room to make this beer for ourselves and some close friends - we didn\u2019t have enough beer to put it out on shelves. We actually make a lot of beers like this - we call them the \u201cGhost Bottles\u201d, and we\u2019ve enjoyed pouring them for you at tastings and dinners.\r\n\r\nNow we\u2019re very pleased to finally give one of our \u201cghosts\u201d the opportunity to materialize in your hands. Brooklyn Wild Streak starts off as a Belgian-inspired golden ale. After fermentation and a brief conditioning, we then age the beer for several months in second-use bourbon barrels, giving it a soft, round character infused with nicely balanced oak flavors. Finally we bottle the beer flat and re-ferment it with blend of priming sugar, Champagne yeast and the wild yeast strain Brettanomyces. As the two yeasts do their cavorting, the beer gains its natural carbonation. The \u201cBrett\u201d takes many months to do its thing during bottle aging, but once it does, Wild Streak is enlivened by a wonderfully complex earthy funk.\r\n\r\nThis beer is almost one year old when released, but it will age beautifully for many more. It\u2019s particularly great with washed rind cheeses, game meats, steaks, and a few more things we probably shouldn\u2019t mention here. You\u2019ll figure it out for yourself, and that\u2019s half the fun. So go ahead - unwind that cage, pop that cork, and reveal your Wild Streak. You know you want to.", 
+            "id": "4mTkxr", 
+            "ingredients": {
+                "hops": [
+                    {
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "createDate": "2013-06-24 16:07:27", 
+                        "id": 9, 
+                        "name": "Aurora"
+                    }, 
+                    {
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "createDate": "2013-06-24 16:07:28", 
+                        "id": 23, 
+                        "name": "Celeia"
+                    }, 
+                    {
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "createDate": "2013-06-24 16:07:30", 
+                        "id": 48, 
+                        "name": "German Perle"
+                    }, 
+                    {
+                        "alphaAcidMin": 3, 
+                        "betaAcidMax": 4.1, 
+                        "betaAcidMin": 1.8, 
+                        "caryophylleneMax": 12, 
+                        "caryophylleneMin": 7, 
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "cohumuloneMax": 33, 
+                        "cohumuloneMin": 25, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "Austria", 
+                            "isoCode": "AT", 
+                            "isoThree": "AUT", 
+                            "name": "AUSTRIA", 
+                            "numberCode": 40
+                        }, 
+                        "countryOfOrigin": "AT", 
+                        "createDate": "2013-06-24 16:07:37", 
+                        "description": "Styria is a traditional hop-growing region on the modern-day Austrian/Slovenian border, and hop farms can be found on both sides of the border, although in modern times this variety is more closely associated with Slovenia and is sometimes called Savinja Goldings after a river in Slovenia. Although referred to as Styrian Golding, this hop is actually genetically derived from Fuggle rather than Golding hops. At one time the less desirable Fuggles were exported to some areas as \"Fuggle Golding,\" which is probably the source of the name. This hop became the primary hop grown in Styria in the 1930s when their other landrace varieties were severely damaged by powdery mildew. Because it is genetically derived from Fuggle, it is not surprising that Styrian Goldings also resembles Fuggle in character, with a pleasant spicy aroma.", 
+                        "farneseneMax": 8, 
+                        "farneseneMin": 2, 
+                        "humuleneMax": 38, 
+                        "humuleneMin": 25, 
+                        "id": 134, 
+                        "myrceneMax": 38, 
+                        "myrceneMin": 25, 
+                        "name": "Styrian Goldings", 
+                        "updateDate": "2013-06-24 16:10:38"
+                    }
+                ], 
+                "malt": [
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "createDate": "2013-06-24 16:07:53", 
+                        "id": 724, 
+                        "name": "Pilsner Malt"
+                    }
+                ]
+            }, 
+            "isOrganic": "N", 
+            "name": "Wild Streak", 
+            "originalGravity": "1.076", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "American Brett ales can be very light to black or take on the color of added fruits or other ingredients. Wood- and barrel- aged sour ales are classified elsewhere. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from Brettanomyces organisms may be evident, yet in balance with other character. Acidity may also be contributed to by bacteria, but may or may not dominate.  Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. In darker versions, roasted malt, caramel-like and chocolate-like characters should be subtle in both flavor and aroma. American Brett ales may have evident full range of hop aroma and hop bitterness with a full range of body. Estery and fruity-ester characters are evident, sometimes moderate and sometimes intense, yet balanced. Diacetyl and sweet corn-like dimethylsulfide (DMS) should not be perceived. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Fruited American-Style Brett Ales will exhibit fruit flavors in harmonious balance with other characters.", 
+                "id": 39, 
+                "name": "American-Style Brett Ale"
+            }, 
+            "styleId": 39, 
+            "updateDate": "2014-06-14 16:22:23"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 23
+}

@@ -1,0 +1,461 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "breweries": [
+                {
+                    "createDate": "2014-02-27 13:01:43", 
+                    "description": "Quaff Bros. is the gypsy beer label owned and operated by the Party Source in Bellevue, Ky. It allows local breweries to showcase their talent through barrel aging projects.", 
+                    "established": "2008", 
+                    "id": "JJzXl0", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-02-27 13:02:24", 
+                            "id": "bDjAl6", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.100314, 
+                            "locality": "Bellevue", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -84.487595, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "41073", 
+                            "region": "Kentucky", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "95 Riviera Drive", 
+                            "updateDate": "2014-02-27 13:02:24", 
+                            "website": "http://quaffbrosbeer.com"
+                        }
+                    ], 
+                    "name": "Quaff Bros", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-27 13:03:38", 
+                    "website": "http://www.quaffbrosbeer.com/"
+                }
+            ], 
+            "createDate": "2014-02-27 13:03:24", 
+            "id": "Lnacv2", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Lnacv2/upload_RusY6X-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Lnacv2/upload_RusY6X-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Lnacv2/upload_RusY6X-medium.png"
+            }, 
+            "name": "Amberdextrous", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "6.5", 
+                "abvMin": "3.75", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any classic style or unique experimental beer that has been aged for a period of time in a wooden barrel or in contact with wood. This beer is aged with the intention of imparting the particularly unique character of the wood and/or what has previously been in the barrel. New wood character can be characterized as a complex blend of vanillin and/or other unique wood character but wood aged is not necessarily synonymous with imparting wood-flavors. Used sherry, rum, bourbon, scotch, port, wine and other barrels are often used, imparting complexity and uniqueness to beer. Ultimately a balance of flavor, aroma and mouthfeel are sought with the marriage of new beer with wood and/or barrel flavors. Primary character of the beer style may or may not be apparent. Sour wood-aged beer of any color is outlined in other categories. Fruited or spiced beer that is wood and barrel aged would also be appropriately entered in this category. Beers in this style may or may not have Brettanomyces character.  The brewer should explain the special nature of the beer to allow for accurate judging. Comments could include: type of wood used (new or old, oak or other wood type), type of barrel used (new, port/ whiskey/ wine/ sherry/ other), base beer style or achieved character. Beer entries not accompanied by this information will be at a disadvantage during judging.", 
+                "id": 133, 
+                "name": "Wood- and Barrel-Aged Pale to Amber Beer", 
+                "srmMax": "18", 
+                "srmMin": "4"
+            }, 
+            "styleId": 133, 
+            "updateDate": "2014-02-27 13:04:23"
+        }, 
+        {
+            "abv": "9.2", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:51", 
+                    "description": "The Columbus Brewing Company was originally founded in 1830. In 1988, the name was once again chosen to resurrect the proud brewing heritage of its namesake.\r\n\r\nOur Brewmaster brings years of experience to the brewery including an apprenticeship with a German-trained Brewmaster, completed the Master Brewers progam at U.C. Davis, and brewing at several breweries throughout North America.", 
+                    "established": "1988", 
+                    "id": "01Bp2T", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/01Bp2T/upload_kcE3Xu-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/01Bp2T/upload_kcE3Xu-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/01Bp2T/upload_kcE3Xu-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:51", 
+                            "id": "QUB7kO", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.9505731, 
+                            "locality": "Columbus", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.0036297, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "614-224-3626", 
+                            "postalCode": "43215", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "535 Short Street", 
+                            "updateDate": "2012-03-21 20:05:28", 
+                            "website": "http://www.columbusbrewing.com/", 
+                            "yearOpened": "1988"
+                        }
+                    ], 
+                    "name": "Columbus Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 13:03:44", 
+                    "website": "http://www.columbusbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-08-23 16:54:26", 
+            "id": "Zw2GoW", 
+            "isOrganic": "N", 
+            "name": "Bourbon Barrel Aged Uncle Rusty", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "6.5", 
+                "abvMin": "3.75", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any classic style or unique experimental beer that has been aged for a period of time in a wooden barrel or in contact with wood. This beer is aged with the intention of imparting the particularly unique character of the wood and/or what has previously been in the barrel. New wood character can be characterized as a complex blend of vanillin and/or other unique wood character but wood aged is not necessarily synonymous with imparting wood-flavors. Used sherry, rum, bourbon, scotch, port, wine and other barrels are often used, imparting complexity and uniqueness to beer. Ultimately a balance of flavor, aroma and mouthfeel are sought with the marriage of new beer with wood and/or barrel flavors. Primary character of the beer style may or may not be apparent. Sour wood-aged beer of any color is outlined in other categories. Fruited or spiced beer that is wood and barrel aged would also be appropriately entered in this category. Beers in this style may or may not have Brettanomyces character.  The brewer should explain the special nature of the beer to allow for accurate judging. Comments could include: type of wood used (new or old, oak or other wood type), type of barrel used (new, port/ whiskey/ wine/ sherry/ other), base beer style or achieved character. Beer entries not accompanied by this information will be at a disadvantage during judging.", 
+                "id": 133, 
+                "name": "Wood- and Barrel-Aged Pale to Amber Beer", 
+                "srmMax": "18", 
+                "srmMin": "4"
+            }, 
+            "styleId": 133, 
+            "updateDate": "2012-08-24 00:24:39"
+        }, 
+        {
+            "beerVariation": {
+                "abv": "5.7", 
+                "available": {
+                    "description": "Available year round as a staple beer.", 
+                    "id": 1, 
+                    "name": "Year Round"
+                }, 
+                "availableId": 1, 
+                "createDate": "2012-01-03 02:43:41", 
+                "description": "A well balanced, medium-to full bodied beer, red in color and very flavorful. The red color and slight caramel-roasted flavor comes from generous amounts of caramel malts and a touch of chocolate malts. Well hopped to balance the malty sweetness, and dry-hopped with cascade for a full hop flavor and aroma.", 
+                "glass": {
+                    "createDate": "2012-01-03 02:41:33", 
+                    "id": 5, 
+                    "name": "Pint"
+                }, 
+                "glasswareId": 5, 
+                "ibu": "50", 
+                "id": "UeHiX0", 
+                "isOrganic": "N", 
+                "labels": {
+                    "icon": "https://s3.amazonaws.com/brewerydbapi/beer/UeHiX0/upload_qRYYWF-icon.png", 
+                    "large": "https://s3.amazonaws.com/brewerydbapi/beer/UeHiX0/upload_qRYYWF-large.png", 
+                    "medium": "https://s3.amazonaws.com/brewerydbapi/beer/UeHiX0/upload_qRYYWF-medium.png"
+                }, 
+                "name": "Mermaids Red Ale", 
+                "status": "verified", 
+                "statusDisplay": "Verified", 
+                "style": {
+                    "abvMax": "6", 
+                    "abvMin": "4.5", 
+                    "category": {
+                        "createDate": "2012-03-21 20:06:45", 
+                        "id": 3, 
+                        "name": "North American Origin Ales"
+                    }, 
+                    "categoryId": 3, 
+                    "createDate": "2012-03-21 20:06:45", 
+                    "description": "American amber/red ales range from light copper to light brown in color. They are characterized by American-variety hops used to produce the perception of medium hop bitterness, flavor, and medium aroma. Amber ales have medium-high to high maltiness with medium to low caramel character. They should have medium to medium-high body. The style may have low levels of fruityester flavor and aroma. Diacetyl can be either absent or barely perceived at very low levels. Chill haze is allowable at cold temperatures. Slight yeast haze is acceptable for bottle-conditioned products.", 
+                    "fgMax": "1.018", 
+                    "fgMin": "1.012", 
+                    "ibuMax": "40", 
+                    "ibuMin": "30", 
+                    "id": 32, 
+                    "name": "American-Style Amber/Red Ale", 
+                    "ogMin": "1.048", 
+                    "srmMax": "18", 
+                    "srmMin": "11"
+                }, 
+                "styleId": 32, 
+                "updateDate": "2013-05-09 12:00:51"
+            }, 
+            "beerVariationId": "UeHiX0", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:51", 
+                    "description": "The Coronado Brewing Company, in beautiful Coronado (located just a few minutes from downtown San Diego) welcomes you to come and enjoy quality handcrafted beers and delicious food in a casual family environment. Join us for a refreshing pint while we make you one of our signature pizzas or calzones in the wood fired oven, or choose from a wide selection of fresh seafood, steaks, pastas and dining specials. The Coronado Brewing Company is perfect for a quick lunch, a relaxing beverage or a wonderful dinner. If you're a sports fan come relax with a cold beer and an appetizer while watching your favorite team on one of our many HD TV's. Open 7 days a week from 11:00 am (until closing) & offering a weekly happy hour (M-F) from (2-5pm). \r\n\r\nThe Tasting Room is Coronado Brewing Company's newest location located at 1205 Knoxville Street San Diego, Ca 92110. Come hang out at our production facility and bar! Choose from 20+ beers on tap while you take in the scenery of our facility. You may even catch our brewers hard at work! Our hours are Sunday-Thursday 11am-9pm and Friday-Saturday 11am-9:30pm with happy hour Monday-Friday 1pm-6pm! We even have rotating food trucks for our foodies out there!", 
+                    "established": "1996", 
+                    "id": "gVynTw", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/gVynTw/upload_OCRCA7-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/gVynTw/upload_OCRCA7-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/gVynTw/upload_OCRCA7-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:51", 
+                            "hoursOfOperation": "Sun-Thu: 10:30am \u2013 9pm\r\nFri-Sat: 10:30am \u2013 10pm\r\nHappy Hour M-F: 2-6pm", 
+                            "id": "Li8aA1", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 32.6977264, 
+                            "locality": "Coronado", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -117.1731838, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "619-437-4452", 
+                            "postalCode": "92118", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "170 Orange Avenue", 
+                            "updateDate": "2013-05-08 12:16:55", 
+                            "website": "http://www.coronadobrewingcompany.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-05-08 12:18:52", 
+                            "hoursOfOperation": "Mon-Fri: 1pm \u2013 9pm\r\nSat: 11am \u2013 9:30pm\r\nSun: 11am \u2013 8pm\r\nHappy Hour M-F: 1-6pm", 
+                            "id": "DNC4cQ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 32.771771, 
+                            "locality": "San Diego", 
+                            "locationType": "tasting", 
+                            "locationTypeDisplay": "Tasting Room", 
+                            "longitude": -117.204683, 
+                            "name": "Tasting Room", 
+                            "openToPublic": "Y", 
+                            "phone": "(619) 275-2215", 
+                            "postalCode": "92110", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1205 Knoxville St", 
+                            "updateDate": "2013-05-08 12:19:14", 
+                            "website": "http://coronadobrewingcompany.com"
+                        }
+                    ], 
+                    "name": "Coronado Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-12 14:23:24", 
+                    "website": "http://www.coronadobrewingcompany.com/"
+                }
+            ], 
+            "createDate": "2013-05-07 21:52:31", 
+            "id": "p8Irrq", 
+            "isOrganic": "N", 
+            "name": "Mermaid's Red Ale - Bourbon Oak Aged", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "6.5", 
+                "abvMin": "3.75", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any classic style or unique experimental beer that has been aged for a period of time in a wooden barrel or in contact with wood. This beer is aged with the intention of imparting the particularly unique character of the wood and/or what has previously been in the barrel. New wood character can be characterized as a complex blend of vanillin and/or other unique wood character but wood aged is not necessarily synonymous with imparting wood-flavors. Used sherry, rum, bourbon, scotch, port, wine and other barrels are often used, imparting complexity and uniqueness to beer. Ultimately a balance of flavor, aroma and mouthfeel are sought with the marriage of new beer with wood and/or barrel flavors. Primary character of the beer style may or may not be apparent. Sour wood-aged beer of any color is outlined in other categories. Fruited or spiced beer that is wood and barrel aged would also be appropriately entered in this category. Beers in this style may or may not have Brettanomyces character.  The brewer should explain the special nature of the beer to allow for accurate judging. Comments could include: type of wood used (new or old, oak or other wood type), type of barrel used (new, port/ whiskey/ wine/ sherry/ other), base beer style or achieved character. Beer entries not accompanied by this information will be at a disadvantage during judging.", 
+                "id": 133, 
+                "name": "Wood- and Barrel-Aged Pale to Amber Beer", 
+                "srmMax": "18", 
+                "srmMin": "4"
+            }, 
+            "styleId": 133, 
+            "updateDate": "2013-05-09 17:10:35"
+        }, 
+        {
+            "abv": "12", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:09", 
+                    "description": "Stone Brewing Co. is a craft brewery headquartered in Escondido, California. It was founded in 1996 in San Marcos, California.\r\n\r\nStone Brewing is known for the aggressive Arrogant Bastard Ale, although the brewery considers Stone Pale Ale and Stone IPA to be its flagship beers. Most of their beers are characteristic of west-coast craft brews; that is to say, most beers have a traditionally 'hoppy' flavor. Stone beers are bottled in 22 ounce bottles, 12oz six packs, and occasionally 3 litre bottles.", 
+                    "established": "1996", 
+                    "id": "709vEK", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/709vEK/upload_tx5MAb-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/709vEK/upload_tx5MAb-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/709vEK/upload_tx5MAb-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:09", 
+                            "id": "PIwPRT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 33.115682, 
+                            "locality": "Escondido", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -117.119552, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "760-471-4999", 
+                            "postalCode": "92029", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1999 Citracado Parkway", 
+                            "updateDate": "2013-08-04 13:44:32", 
+                            "website": "http://www.stonebrew.com/", 
+                            "yearOpened": "1996"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-08-04 13:43:03", 
+                            "extendedAddress": "#116", 
+                            "hoursOfOperation": "Monday 11am - 11pm\r\nTuesday 11am - 11pm\r\nWednesday 11am - 11pm\r\nThursday 11am - 11pm\r\nFriday 11am - Midnight\r\nSaturday 11am - Midnight\r\nSunday 10am - 11pm", 
+                            "id": "OAZ7yC", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 32.7401642, 
+                            "locality": "San Diego", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -117.2108887, 
+                            "name": "Stone Brewing World Bistro & Gardens - Liberty Station", 
+                            "openToPublic": "Y", 
+                            "phone": "(619) 269-2100", 
+                            "postalCode": "92106", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2816 Historic Decatur Road", 
+                            "updateDate": "2013-08-12 23:45:37", 
+                            "website": "http://www.stonelibertystation.com", 
+                            "yearOpened": "2013"
+                        }
+                    ], 
+                    "name": "Stone Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-20 13:15:58", 
+                    "website": "http://www.stonebrew.com/"
+                }
+            ], 
+            "createDate": "2014-04-01 20:25:53", 
+            "description": "Q: \"What do you call it when you take a sip of oak barrel aged Double Bastard Ale that's had the other half of the bounty of chili peppers from Greg's home garden ceremoniously added in, resulting in a punishingly intense level of hot pepper heat to an already overly intense beer whose elevated alcohol level caused a significant transference of pain-inducing \r\ncapsicum?\" \r\n\r\nA: \"Punishment.\"", 
+            "id": "mn1GIT", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/mn1GIT/upload_tHgjEq-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/mn1GIT/upload_tHgjEq-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/mn1GIT/upload_tHgjEq-medium.png"
+            }, 
+            "name": "Punishment", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "6.5", 
+                "abvMin": "3.75", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any classic style or unique experimental beer that has been aged for a period of time in a wooden barrel or in contact with wood. This beer is aged with the intention of imparting the particularly unique character of the wood and/or what has previously been in the barrel. New wood character can be characterized as a complex blend of vanillin and/or other unique wood character but wood aged is not necessarily synonymous with imparting wood-flavors. Used sherry, rum, bourbon, scotch, port, wine and other barrels are often used, imparting complexity and uniqueness to beer. Ultimately a balance of flavor, aroma and mouthfeel are sought with the marriage of new beer with wood and/or barrel flavors. Primary character of the beer style may or may not be apparent. Sour wood-aged beer of any color is outlined in other categories. Fruited or spiced beer that is wood and barrel aged would also be appropriately entered in this category. Beers in this style may or may not have Brettanomyces character.  The brewer should explain the special nature of the beer to allow for accurate judging. Comments could include: type of wood used (new or old, oak or other wood type), type of barrel used (new, port/ whiskey/ wine/ sherry/ other), base beer style or achieved character. Beer entries not accompanied by this information will be at a disadvantage during judging.", 
+                "id": 133, 
+                "name": "Wood- and Barrel-Aged Pale to Amber Beer", 
+                "srmMax": "18", 
+                "srmMin": "4"
+            }, 
+            "styleId": 133, 
+            "updateDate": "2014-04-02 12:09:39", 
+            "year": 2013
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 4
+}

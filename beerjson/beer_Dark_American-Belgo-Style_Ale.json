@@ -1,0 +1,1688 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "5.4", 
+            "breweries": [
+                {
+                    "createDate": "2012-11-15 14:53:21", 
+                    "description": "Good Beer for Good People", 
+                    "id": "lBKttb", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/lBKttb/upload_t7FJR9-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/lBKttb/upload_t7FJR9-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/lBKttb/upload_t7FJR9-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-11-15 14:54:43", 
+                            "id": "iLlMCb", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.163907, 
+                            "locality": "Winchester", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -78.169818, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "22601", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1950 Abrams Creek Dr", 
+                            "updateDate": "2012-11-15 14:54:43", 
+                            "website": "http://winchesterbrewingcompany.webs.com/"
+                        }
+                    ], 
+                    "name": "Winchester Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-11-15 14:55:25", 
+                    "website": "http://www.winchesterbrewingcompany.webs.com/"
+                }
+            ], 
+            "createDate": "2012-11-15 14:56:54", 
+            "id": "X7eY9z", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/X7eY9z/upload_0eay7d-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/X7eY9z/upload_0eay7d-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/X7eY9z/upload_0eay7d-medium.png"
+            }, 
+            "name": "Alternative", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category", 
+                "id": 28, 
+                "name": "Dark American-Belgo-Style Ale", 
+                "srmMax": "16", 
+                "srmMin": "16"
+            }, 
+            "styleId": 28, 
+            "updateDate": "2012-11-15 14:56:56"
+        }, 
+        {
+            "abv": "8.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "description": "The Sierra Nevada Brewing Company was established in 1980 by homebrewers Ken Grossman and Paul Camusi. Camusi retired in 1998 and sold his share in the company to Grossman.\r\n\r\nLocated in Chico, California, Sierra Nevada Brewing is one of the most popular craft breweries currently operating in the United States. Its Pale Ale is world renowned, and the brewery produces almost 700,000 barrels of beer per year. Sierra Nevada's Pale Ale is the second best-selling craft beer in the United States, behind the Boston Beer Company's Samuel Adams Boston Lager.\r\n\r\nSierra Nevada's specialty brews include the winter seasonal Celebration, which is similar to the pale ale, but hoppier; and Summerfest, a lager which is citrusy and sunny.", 
+                    "established": "1980", 
+                    "id": "nHLlnK", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/nHLlnK/upload_MiY6g2-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/nHLlnK/upload_MiY6g2-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/nHLlnK/upload_MiY6g2-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "id": "IaQrxj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.7246028, 
+                            "locality": "Chico", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -121.8157154, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "530-893-3520", 
+                            "postalCode": "95928", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1075 East 20th St", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.sierranevada.com/", 
+                            "yearOpened": "1980"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-03-29 20:56:05", 
+                            "id": "aqLvLE", 
+                            "inPlanning": "Y", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 35.390645, 
+                            "locality": "Mills River", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -82.567939, 
+                            "name": "Asheville", 
+                            "openToPublic": "N", 
+                            "postalCode": "28759", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2012-03-29 20:56:05"
+                        }
+                    ], 
+                    "name": "Sierra Nevada Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-19 11:57:37", 
+                    "website": "http://www.sierranevada.com/"
+                }
+            ], 
+            "createDate": "2014-03-13 12:11:25", 
+            "id": "zrqusY", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/zrqusY/upload_MBsrE5-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/zrqusY/upload_MBsrE5-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/zrqusY/upload_MBsrE5-medium.png"
+            }, 
+            "name": "Audition - Dark Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category", 
+                "id": 28, 
+                "name": "Dark American-Belgo-Style Ale", 
+                "srmMax": "16", 
+                "srmMin": "16"
+            }, 
+            "styleId": 28, 
+            "updateDate": "2014-03-13 12:31:25"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2014-01-17 17:44:52", 
+                    "description": "A microbrewery celebrating hand-crafted beer.", 
+                    "established": "2013", 
+                    "id": "BHezTP", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/BHezTP/upload_g9BhQn-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/BHezTP/upload_g9BhQn-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/BHezTP/upload_g9BhQn-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-01-17 17:45:36", 
+                            "hoursOfOperation": "Thu - Fri: 4:00 pm - 7:00 pm\r\nSat: 1:00 pm - 6:00 pm", 
+                            "id": "K8Z2vo", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.9745362, 
+                            "locality": "Victor", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -77.3812347, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(585) 902-8166", 
+                            "postalCode": "14564", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6606 State Route 96", 
+                            "updateDate": "2014-01-17 17:45:36", 
+                            "website": "http://www.victorbrewery.com", 
+                            "yearOpened": "2013"
+                        }
+                    ], 
+                    "name": "The Victor Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-17 17:45:55", 
+                    "website": "http://www.victorbrewery.com/"
+                }
+            ], 
+            "createDate": "2014-04-17 12:41:18", 
+            "id": "NP41TT", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/NP41TT/upload_2vGFRA-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/NP41TT/upload_2vGFRA-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/NP41TT/upload_2vGFRA-medium.png"
+            }, 
+            "name": "Belgian-Style Dark Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category", 
+                "id": 28, 
+                "name": "Dark American-Belgo-Style Ale", 
+                "srmMax": "16", 
+                "srmMin": "16"
+            }, 
+            "styleId": 28, 
+            "updateDate": "2014-04-17 14:39:27"
+        }, 
+        {
+            "abv": "6", 
+            "breweries": [
+                {
+                    "createDate": "2014-03-04 12:46:30", 
+                    "description": "Every great community needs a local flavor and Core Brewing & Distilling Company is out to be Arkansas\u2019 hometown beer. Our brews are big and innovative rooted in tradition.", 
+                    "established": "2010", 
+                    "id": "NamZiK", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/NamZiK/upload_dlHGmv-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/NamZiK/upload_dlHGmv-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/NamZiK/upload_dlHGmv-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-03-04 12:47:01", 
+                            "hoursOfOperation": "Monday: Closed\r\nTue-Friday: 3-9\r\nSat-Sun: 1-9", 
+                            "id": "3AnOYz", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 36.206206, 
+                            "locality": "Springdale", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -94.1345709, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(479) 879-2469", 
+                            "postalCode": "72764", 
+                            "region": "Arkansas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2470 Lowell Rd", 
+                            "updateDate": "2014-03-04 12:47:01", 
+                            "website": "http://www.corebeer.com", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Core Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-04 12:47:08", 
+                    "website": "http://www.corebeer.com"
+                }
+            ], 
+            "createDate": "2014-03-16 22:43:16", 
+            "id": "d09ECn", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/d09ECn/upload_nRb8SE-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/d09ECn/upload_nRb8SE-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/d09ECn/upload_nRb8SE-medium.png"
+            }, 
+            "name": "Belgian-Style Dark Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category", 
+                "id": 28, 
+                "name": "Dark American-Belgo-Style Ale", 
+                "srmMax": "16", 
+                "srmMin": "16"
+            }, 
+            "styleId": 28, 
+            "updateDate": "2014-03-17 09:00:11"
+        }, 
+        {
+            "abv": "5.6", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:43", 
+                    "description": "Adelbert\u2019s Brewery is committed to brewing Belgian-style, bottle-conditioned ales for people to seek, savor, and share with others.  We believe quality beers require quality ingredients and a painstaking attention to detail throughout the brewing process.  \r\n\r\nAdelbert\u2019s uses Bohemian old-world floor malted barley, low alpha Noble Czech hops, and fresh yeast propagated at the brewery. In our seven vessel brewhouse, we use a time consuming, multi-temperature decoction mash technique which extracts a more complex flavor from our grains.\r\n\r\nWe produce a gambit of hand-crafted Belgian style ales right here in Austin, Texas. With our vast array of beer styles, you're sure to find a brew that suits you.\r\n \r\nOur Belgian-Style Ales include:\r\nRambler Blonde\r\nNaked Nun Wit\r\nBlack Rhino Black Ale\r\nScratchin' Hippo Biere de Garde\r\nPhilosophizer Saison\r\nDancin' Monks Dubbel Ale\r\nTripel B Tripel Ale\r\nFlyin' Monks Quadrupel Ale\r\n \r\nAlso, look for our Barrel-Aged \"Vintage Series\" where we age one of our eight ales in oak barrels for an extended period of time.\r\n\r\nAlthough our selection of beer is great to enjoy by itself; each of them also pair perfectly with just about any food. From spicy Thai food to a backyard barbecue with ribs and brisket, to a formal dinner with steak or seafood and a dark chocolate dessert; our artisanal Belgian-style ales go with pretty much everything. Please share pictures and recipes that you've either used our beer to cook with or have enjoyed right alongside them!", 
+                    "established": "2010", 
+                    "id": "7Tjp4C", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/7Tjp4C/upload_wRgmxi-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/7Tjp4C/upload_wRgmxi-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/7Tjp4C/upload_wRgmxi-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:43", 
+                            "extendedAddress": "Suite #100", 
+                            "hoursOfOperation": "Wed - Fri: 5:00 pm - 8:00 pm\r\nSat: 1:00 pm - 4:00 pm", 
+                            "id": "6PBXvz", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 30.382666, 
+                            "locality": "Austin", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -97.720162, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "512-568-1462", 
+                            "postalCode": "78758", 
+                            "region": "Texas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2314 Rutland Drive", 
+                            "updateDate": "2013-08-08 19:04:21", 
+                            "website": "http://www.adelbertsbeer.com/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Adelbert's Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-08 19:03:58", 
+                    "website": "http://www.adelbertsbeer.com/"
+                }
+            ], 
+            "createDate": "2012-06-27 12:11:47", 
+            "description": "Dark Ale (6.2% ABV). Named in honor of the rare Black Rhino Del would hunt during photo safaris in Kenya. Black Rhino is an earthy ale with hints of coffee and cocoa that pours as dark as the name we gave it. Don\u2019t let the name fool you. This dark ale is surprisingly smooth and easy drinking.", 
+            "foodPairings": "It pairs well with salty appetizers, bold musky cheeses, and wild game dishes", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 8, 
+                "name": "Tulip"
+            }, 
+            "glasswareId": 8, 
+            "ibu": "35", 
+            "id": "gdpm0V", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/gdpm0V/upload_8Q0nrm-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/gdpm0V/upload_8Q0nrm-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/gdpm0V/upload_8Q0nrm-medium.png"
+            }, 
+            "name": "Black Rhino", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "srm": {
+                "hex": "000000", 
+                "id": 41, 
+                "name": "Over 40"
+            }, 
+            "srmId": 41, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category", 
+                "id": 28, 
+                "name": "Dark American-Belgo-Style Ale", 
+                "srmMax": "16", 
+                "srmMin": "16"
+            }, 
+            "styleId": 28, 
+            "updateDate": "2013-08-08 19:28:09"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "Mac & Jack\u2019s Brewing Company proudly dedicates itself to preserving a clean environment as a responsible resident in Redmond and to the community at large. From re-using water to providing spent grain to local farmers, all byproducts created here during the brewing process are recycled responsibly. This makes for happy neighbors as well as happy cows!", 
+                    "established": "1993", 
+                    "id": "iWV3FQ", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "extendedAddress": "b110", 
+                            "id": "pSbibd", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.663422, 
+                            "locality": "Redmond", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.102388, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "425-558-9697", 
+                            "postalCode": "98052", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "17825 NE 65th St", 
+                            "updateDate": "2012-03-21 19:08:13", 
+                            "website": "http://www.macandjacks.com/"
+                        }
+                    ], 
+                    "mailingListUrl": "http://www.macandjacks.com/list.php", 
+                    "name": "Mac & Jacks Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-22 13:33:06", 
+                    "website": "http://www.macandjacks.com/"
+                }
+            ], 
+            "createDate": "2014-04-23 10:02:01", 
+            "id": "miUDfe", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/miUDfe/upload_xdWy9P-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/miUDfe/upload_xdWy9P-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/miUDfe/upload_xdWy9P-medium.png"
+            }, 
+            "name": "Cascadian Dark Ale (Bourbon Barrel Aged)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category", 
+                "id": 28, 
+                "name": "Dark American-Belgo-Style Ale", 
+                "srmMax": "16", 
+                "srmMin": "16"
+            }, 
+            "styleId": 28, 
+            "updateDate": "2014-04-23 11:49:41"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2013-01-21 19:45:55", 
+                    "id": "hXBr1n", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Italy", 
+                                "isoCode": "IT", 
+                                "isoThree": "ITA", 
+                                "name": "ITALY", 
+                                "numberCode": 380
+                            }, 
+                            "countryIsoCode": "IT", 
+                            "createDate": "2013-01-21 19:47:00", 
+                            "id": "1ZK00Y", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.4401531, 
+                            "locality": "Bagnaia", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 12.1434574, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "06/97275633", 
+                            "postalCode": "01100", 
+                            "region": "Viterbo VT", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Strada Pian del Cerro", 
+                            "updateDate": "2013-01-21 19:47:59", 
+                            "website": "http://www.turanbeer.com/"
+                        }
+                    ], 
+                    "name": "Birra Turan", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-21 19:48:24", 
+                    "website": "http://www.turanbeer.com/"
+                }
+            ], 
+            "createDate": "2013-01-21 19:50:15", 
+            "id": "AXbFEo", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/AXbFEo/upload_d850fO-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/AXbFEo/upload_d850fO-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/AXbFEo/upload_d850fO-medium.png"
+            }, 
+            "name": "Dahlia", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category", 
+                "id": 28, 
+                "name": "Dark American-Belgo-Style Ale", 
+                "srmMax": "16", 
+                "srmMin": "16"
+            }, 
+            "styleId": 28, 
+            "updateDate": "2013-01-21 19:50:17"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:54", 
+                    "description": "Fathom & League Hop Yard Brewery is dedicated to the first brewers in the Pacific Northwest.  On May 5, 1792, the intrepid crew of the HMS Discovery rowed ashore about 5 miles from our brewery.  They brewed a spruce tip beer and enjoyed a day off from their exploration of the Strait of Juan de Fuca and Salish Sea.  We are proud to carry on the tradition of brewing beer in this remarkable corner of the world. Cheers!", 
+                    "established": "2009", 
+                    "id": "OgIQLx", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/OgIQLx/upload_Bxeux5-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/OgIQLx/upload_Bxeux5-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/OgIQLx/upload_Bxeux5-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:54", 
+                            "id": "0HeNka", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.102948, 
+                            "locality": "Sequim", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -123.156891, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "360-286-0278", 
+                            "postalCode": "98382", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "360 Grandview Dr", 
+                            "updateDate": "2012-03-21 19:08:08", 
+                            "website": "http://www.fathomandleaguebrewery.com/"
+                        }
+                    ], 
+                    "name": "Fathom & League Hop Yard Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-25 11:41:08", 
+                    "website": "http://www.fathomandleaguebrewery.com/"
+                }
+            ], 
+            "createDate": "2013-01-25 11:41:46", 
+            "id": "cnzSaS", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/cnzSaS/upload_YmscEi-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/cnzSaS/upload_YmscEi-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/cnzSaS/upload_YmscEi-medium.png"
+            }, 
+            "name": "Discovery", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category", 
+                "id": 28, 
+                "name": "Dark American-Belgo-Style Ale", 
+                "srmMax": "16", 
+                "srmMin": "16"
+            }, 
+            "styleId": 28, 
+            "updateDate": "2013-01-25 11:41:48"
+        }, 
+        {
+            "abv": "9.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-10-01 12:25:47", 
+                    "description": "Modern brewing processes collide, headlong, into ancient beer. Therein lies the Paradox. The creative forces behind Paradox Beer have explored, wholehartedly, all facets of beer, brewing and drinking and have found the Bedrock of Beer. When all else is removed, Beeris Alchemey sprinkled with Paradigm dashed on the hopes of Artistic Grandeur. In our case we took Wayward Beers, unruly at best, and Bound them in the confines of Experienced Oak in the hopes that the sum would be greater than the parts... A lofty goal! One that the human condition aspires to?", 
+                    "established": "2012", 
+                    "id": "ygt1Tu", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ygt1Tu/upload_uYBcEy-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ygt1Tu/upload_uYBcEy-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ygt1Tu/upload_uYBcEy-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-10-01 12:27:03", 
+                            "extendedAddress": "Suite 100", 
+                            "id": "MBEhFB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.968728, 
+                            "locality": "Woodland Park", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -105.034305, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(719) 686-8081", 
+                            "postalCode": "80866", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "106 E. Village Terrace", 
+                            "updateDate": "2013-02-26 15:30:52", 
+                            "website": "http://www.paradoxbeers.com/"
+                        }
+                    ], 
+                    "name": "Paradox Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-01 12:26:15", 
+                    "website": "http://www.paradoxbeers.com/"
+                }
+            ], 
+            "createDate": "2013-01-05 19:16:46", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 8, 
+                "name": "Tulip"
+            }, 
+            "glasswareId": 8, 
+            "id": "pNZbXU", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/pNZbXU/upload_CT0k81-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/pNZbXU/upload_CT0k81-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/pNZbXU/upload_CT0k81-medium.png"
+            }, 
+            "name": "Dunk Your Face - The Trapper", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category", 
+                "id": 28, 
+                "name": "Dark American-Belgo-Style Ale", 
+                "srmMax": "16", 
+                "srmMin": "16"
+            }, 
+            "styleId": 28, 
+            "updateDate": "2013-01-05 19:16:47"
+        }, 
+        {
+            "abv": "6.2", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:10", 
+                    "description": "Where we utilize only the finest ingredients available for all of our food and brewing activities, while striving to impress even the most sensitive of palates, Our menu of excellent yet casual and unpretentious pub food is served in a family-friendly, smoke-free environment that all patrons will enjoy. Our old west livery stable provides a comfortable, warm and rustic atmosphere that includes a full restaurant, 10 barrel brewing system, comfortable bar area complete with large screen TV\u2019s and pool tables as well as a large patio for the enjoyment of our hand crafted ales.", 
+                    "id": "5CHDpt", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/5CHDpt/upload_cNk5YS-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/5CHDpt/upload_cNk5YS-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/5CHDpt/upload_cNk5YS-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:10", 
+                            "hoursOfOperation": "Sunday-Thursday: 11:30am - 9pm\r\nFriday-Saturday: 11:30am - 10pm", 
+                            "id": "Uhcw7M", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.285155, 
+                            "locality": "Sisters", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -121.534925, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "541-549-1963", 
+                            "postalCode": "97759", 
+                            "region": "Oregon", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "721 Desperado Court", 
+                            "updateDate": "2012-03-21 19:08:18", 
+                            "website": "http://www.threecreeksbrewing.com/"
+                        }
+                    ], 
+                    "name": "Three Creeks Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-11-11 16:57:20", 
+                    "website": "http://www.threecreeksbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-11-11 15:31:15", 
+            "id": "Ld6T5s", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Ld6T5s/upload_irG1V6-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Ld6T5s/upload_irG1V6-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Ld6T5s/upload_irG1V6-medium.png"
+            }, 
+            "name": "Hodag CDA", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category", 
+                "id": 28, 
+                "name": "Dark American-Belgo-Style Ale", 
+                "srmMax": "16", 
+                "srmMin": "16"
+            }, 
+            "styleId": 28, 
+            "updateDate": "2012-11-12 10:01:33"
+        }, 
+        {
+            "abv": "6.6", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:49", 
+                    "description": "Our brewery is world-famous for our large variety of (imperial) stouts, ales and smoked ales. We want to make good quality beer with respect for people and the environment.", 
+                    "established": "2004", 
+                    "id": "pfj3jO", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/pfj3jO/upload_QrX3aI-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/pfj3jO/upload_QrX3aI-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/pfj3jO/upload_QrX3aI-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Netherlands", 
+                                "isoCode": "NL", 
+                                "isoThree": "NLD", 
+                                "name": "NETHERLANDS", 
+                                "numberCode": 528
+                            }, 
+                            "countryIsoCode": "NL", 
+                            "createDate": "2012-01-03 02:41:49", 
+                            "id": "DrjXxi", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 52.0856206, 
+                            "locality": "Bodegraven", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 4.7419978, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+31-172-610848", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Overtocht 43", 
+                            "updateDate": "2012-03-21 20:05:31", 
+                            "website": "http://www.brouwerijdemolen.nl/", 
+                            "yearOpened": "2004"
+                        }
+                    ], 
+                    "name": "Brouwerij de Molen", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-30 12:05:37", 
+                    "website": "http://www.brouwerijdemolen.nl/"
+                }, 
+                {
+                    "createDate": "2013-03-20 20:25:34", 
+                    "description": "We value local over imported, small batches over mass production, and striking a successful balance between giving back to our community and personal profit. Localization guides everything we do, from sourcing raw ingredients and materials, to employing area talent.\r\n\r\nTired Hands Brewing Company will operate at 16 Ardmore Avenue, Ardmore Pa, on a six barrel brewhouse. We will focus our brewing on two very broad styles of beers that hold a special place in my heart: Belgian/French farmhouse ales and American hop-forward ales.\r\n\r\nAll cheeses, meats, and seasonal produce served at our cafe (simple and satisfying fare from honest local producers) will be sourced from within 100 miles of our brewery.", 
+                    "established": "2011", 
+                    "id": "pZWPJO", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/pZWPJO/upload_4WmEzi-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/pZWPJO/upload_4WmEzi-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/pZWPJO/upload_4WmEzi-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-03-21 10:59:45", 
+                            "hoursOfOperation": "Tue - Sun: 4:00 pm - 12:00 am", 
+                            "id": "0YoykS", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.0085897, 
+                            "locality": "Ardmore", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -75.2936507, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(610) 896-7621", 
+                            "postalCode": "19003", 
+                            "region": "Pennsylvania", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "16 Ardmore Avenue", 
+                            "updateDate": "2013-03-21 10:59:45", 
+                            "website": "http://www.tiredhands.com/"
+                        }
+                    ], 
+                    "name": "Tired Hands Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-03-21 11:00:24", 
+                    "website": "http://www.tiredhands.com/"
+                }
+            ], 
+            "createDate": "2013-11-22 12:43:36", 
+            "id": "hkzwkh", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/hkzwkh/upload_WkEoBd-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/hkzwkh/upload_WkEoBd-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/hkzwkh/upload_WkEoBd-medium.png"
+            }, 
+            "name": "Lost & Found", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category", 
+                "id": 28, 
+                "name": "Dark American-Belgo-Style Ale", 
+                "srmMax": "16", 
+                "srmMin": "16"
+            }, 
+            "styleId": 28, 
+            "updateDate": "2013-11-23 05:02:17"
+        }, 
+        {
+            "abv": "6.5", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:43", 
+                    "description": "Friendly service and tasty beer make us a favorite of locals as well as beer enthusiasts from all over. \r\n\r\nSpecial and seasonal beers make a frequent appearance. Our tap room has bar seating as well as small tables. On sunny days, garden seating is available.\r\n\r\nAirways opened on March 4, 2010. Founder and brewer Alex Dittmar has had a lifelong passion for 60\u2032s era jetliners. Airways is a combination of his love for airplanes, good beer, and a connection with people from all over the world.", 
+                    "established": "2010", 
+                    "id": "1t7mJ1", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/1t7mJ1/upload_Taypsf-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/1t7mJ1/upload_Taypsf-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/1t7mJ1/upload_Taypsf-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:43", 
+                            "extendedAddress": "#T-100", 
+                            "hoursOfOperation": "-Wednesday: 3-8pm\r\n-Thursday: 3-8pm\r\n-Friday: 3-8pm\r\n-Saturday: 3-7pm", 
+                            "id": "2wy19T", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.4267016, 
+                            "locality": "Kent", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.2520913, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "253-200-1707", 
+                            "postalCode": "98032", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6644 S 196th St", 
+                            "updateDate": "2012-04-13 15:24:20", 
+                            "website": "http://airwaysbrewing.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-04-13 15:17:46", 
+                            "hoursOfOperation": "-Tuesday: 12pm-9pm\r\n-Wednesday: 12pm-9pm\r\n-Thursday: 12pm-9pm\r\n-Friday: 12pm-10pm\r\n-Saturday: 12pm-10pm\r\n\r\n* This location is 21+", 
+                            "id": "o9yWqF", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 47.382216, 
+                            "locality": "Kent", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -122.235257, 
+                            "name": "Beer & Bistro", 
+                            "openToPublic": "Y", 
+                            "phone": "253-236-8632", 
+                            "postalCode": "98032", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "320 W Harrison", 
+                            "updateDate": "2012-04-13 15:24:20", 
+                            "website": "http://airwaysbrewing.com"
+                        }
+                    ], 
+                    "name": "Airways Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-05-09 12:07:47", 
+                    "website": "http://airwaysbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-10-30 11:54:11", 
+            "description": "This style combines the darkness of a Porter, with the hop-profile of an IPA, along with a hint of chocolate and roast. Brewed with Amarillo, Cascade, and Magnum hops.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "70", 
+            "id": "IkfUZE", 
+            "isOrganic": "N", 
+            "name": "Midnight Departure", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category", 
+                "id": 28, 
+                "name": "Dark American-Belgo-Style Ale", 
+                "srmMax": "16", 
+                "srmMin": "16"
+            }, 
+            "styleId": 28, 
+            "updateDate": "2012-10-30 11:54:11"
+        }, 
+        {
+            "abv": "8.5", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:45", 
+                    "description": "Bell's Brewery, Inc. began in 1985 with a quest for better beer and a 15 gallon soup kettle. Since then, we've grown into a regional craft brewery that employs more than 200 people over an 18 state area, in addition to Puerto Rico and Washington DC. The dedication to brewing flavorful, unfiltered, quality craft beers that started in 1985 is still with us today. We currently brew over 20 beers for distribution as well as many other small batch beers that are served at our pub in Kalamazoo, the Eccentric Cafe. Our ongoing goal is to brew thoughtfully, creatively and artistically. We strive to bring an authentic and pleasant experience to all of our customers through our unique ales and beers.", 
+                    "established": "1985", 
+                    "id": "noGtDY", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/noGtDY/upload_t0bnSw-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/noGtDY/upload_t0bnSw-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/noGtDY/upload_t0bnSw-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:45", 
+                            "id": "NnffJ2", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.2843486, 
+                            "locality": "Galesburg", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -85.4538497, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "269-382-2338", 
+                            "postalCode": "49053", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "8938 Krum Ave.", 
+                            "updateDate": "2014-05-30 10:19:24", 
+                            "website": "http://www.bellsbeer.com/", 
+                            "yearOpened": "1985"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-09-26 11:44:59", 
+                            "hoursOfOperation": "Mon.-Wed.: 11 a.m.-12 a.m.\r\nThu.-Sat.: 11 a.m.-2 a.m.\r\nSun.: Noon-12 a.m.", 
+                            "id": "uCUre7", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 42.294894, 
+                            "locality": "Kalamazoo", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -85.5787942, 
+                            "name": "Eccentric Caf\u00e9", 
+                            "openToPublic": "Y", 
+                            "postalCode": "49007", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "355 E Kalamazoo Ave", 
+                            "updateDate": "2013-09-26 11:44:59", 
+                            "website": "http://bellsbeer.com/eccentric-cafe/"
+                        }
+                    ], 
+                    "name": "Bell's Brewery, Inc.", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-14 19:18:55", 
+                    "website": "http://www.bellsbeer.com/"
+                }, 
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "description": "The Sierra Nevada Brewing Company was established in 1980 by homebrewers Ken Grossman and Paul Camusi. Camusi retired in 1998 and sold his share in the company to Grossman.\r\n\r\nLocated in Chico, California, Sierra Nevada Brewing is one of the most popular craft breweries currently operating in the United States. Its Pale Ale is world renowned, and the brewery produces almost 700,000 barrels of beer per year. Sierra Nevada's Pale Ale is the second best-selling craft beer in the United States, behind the Boston Beer Company's Samuel Adams Boston Lager.\r\n\r\nSierra Nevada's specialty brews include the winter seasonal Celebration, which is similar to the pale ale, but hoppier; and Summerfest, a lager which is citrusy and sunny.", 
+                    "established": "1980", 
+                    "id": "nHLlnK", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/nHLlnK/upload_MiY6g2-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/nHLlnK/upload_MiY6g2-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/nHLlnK/upload_MiY6g2-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "id": "IaQrxj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.7246028, 
+                            "locality": "Chico", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -121.8157154, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "530-893-3520", 
+                            "postalCode": "95928", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1075 East 20th St", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.sierranevada.com/", 
+                            "yearOpened": "1980"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-03-29 20:56:05", 
+                            "id": "aqLvLE", 
+                            "inPlanning": "Y", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 35.390645, 
+                            "locality": "Mills River", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -82.567939, 
+                            "name": "Asheville", 
+                            "openToPublic": "N", 
+                            "postalCode": "28759", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2012-03-29 20:56:05"
+                        }
+                    ], 
+                    "name": "Sierra Nevada Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-19 11:57:37", 
+                    "website": "http://www.sierranevada.com/"
+                }
+            ], 
+            "createDate": "2014-05-06 16:01:03", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "40", 
+            "id": "whHlqc", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/whHlqc/upload_yzfSVA-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/whHlqc/upload_yzfSVA-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/whHlqc/upload_yzfSVA-medium.png"
+            }, 
+            "name": "Millard's Odyssey - Beer Camp Across America", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category", 
+                "id": 28, 
+                "name": "Dark American-Belgo-Style Ale", 
+                "srmMax": "16", 
+                "srmMin": "16"
+            }, 
+            "styleId": 28, 
+            "updateDate": "2014-05-07 19:01:46", 
+            "year": 2014
+        }, 
+        {
+            "abv": "7.5", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2013-02-23 14:18:27", 
+                    "description": "Bad Weather Brewing Company knows the beer-lover's calendar is one that changes with seasons. BWBC offers unique beers with Midwestern Edge to them. These beers complement and celebrate the shifting summer sun and frigid winter winds.", 
+                    "established": "2012", 
+                    "id": "LU3fWq", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/LU3fWq/upload_PFQpKg-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/LU3fWq/upload_PFQpKg-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/LU3fWq/upload_PFQpKg-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-02-23 14:19:48", 
+                            "id": "3CT0MA", 
+                            "inPlanning": "Y", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.663922, 
+                            "locality": "Farmington", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -93.177696, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "55024", 
+                            "region": "Minnesota", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "19608 Escalade Way", 
+                            "updateDate": "2013-02-23 14:19:48", 
+                            "website": "http://www.badweatherbrewery.com/"
+                        }
+                    ], 
+                    "name": "Bad Weather Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-02-23 14:20:50", 
+                    "website": "http://www.badweatherbrewery.com/"
+                }
+            ], 
+            "createDate": "2013-02-23 14:21:14", 
+            "description": "Clouds grow dark, the wind picks up, a chill sets in -- the weather is not looking good. Thankfully, our winter seasonal OMINOUS is the perfect beer for this situation. Warming from the inside out, it\u2019s a good reason to stay indoors. At 7.5% abv, this Midwest Warmer has layers to stand up to the most frigid of winter nights or rain-soaked spring days. American, English and Belgian malts come together to satisfy the soul with a rich, nutty, roasted flavors. Dark candi sugar brings out hints of dates, raisins, plum and chocolate. OMINOUS is a dark storm of a beer - big, intense and something to keep your eye on.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "40", 
+            "id": "idOSGZ", 
+            "isOrganic": "N", 
+            "name": "Ominous", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category", 
+                "id": 28, 
+                "name": "Dark American-Belgo-Style Ale", 
+                "srmMax": "16", 
+                "srmMin": "16"
+            }, 
+            "styleId": 28, 
+            "updateDate": "2013-02-23 14:23:21"
+        }, 
+        {
+            "abv": "6.8", 
+            "breweries": [
+                {
+                    "createDate": "2013-06-05 20:50:05", 
+                    "description": "At Union Brewing Company, our artisan ales are hand crafted two barrels at a time using time honored traditions, natural ingredients and traditional methods. Our beers are never filtered or force carbonated. They condition and carbonate naturally in casks and are hand drawn by authentic beer engines at the perfect drinking temperature to maximize all the flavors. (No, they are not warm!) We really like beer, and we love cask conditioned real ales. We think you will too!", 
+                    "established": "2012", 
+                    "id": "WmgEVf", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/WmgEVf/upload_vKBysZ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/WmgEVf/upload_vKBysZ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/WmgEVf/upload_vKBysZ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-05 20:50:59", 
+                            "extendedAddress": "Suite Q", 
+                            "hoursOfOperation": "Mon - Thu: 4:00 pm - 11:00 pm\r\nFri: 3:00 pm - 1:00 am\r\nSat: 12:00 pm - 1:00 am\r\nSun: 12:00 pm - 9:00 pm", 
+                            "id": "gxPIlv", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.9715861, 
+                            "locality": "Carmel", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -86.1279814, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(317) 564-4466", 
+                            "postalCode": "46032", 
+                            "region": "Indiana", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "622 S Rangeline Rd", 
+                            "updateDate": "2013-06-05 20:50:59", 
+                            "website": "http://www.unionbrewingco.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Union Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-05 20:51:40", 
+                    "website": "http://www.unionbrewingco.com/"
+                }
+            ], 
+            "createDate": "2014-05-08 11:48:09", 
+            "description": "This might be the first Black APA possibly created. This has a more malty flavored brew compared our King of Hop because of the reduced hop presence. Dry hopped with Falconer\u2019s Flight to give that roastiness something to compete with.", 
+            "ibu": "31", 
+            "id": "qbQDSO", 
+            "isOrganic": "N", 
+            "name": "P.Y.T (Pretty Young Thing)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category", 
+                "id": 28, 
+                "name": "Dark American-Belgo-Style Ale", 
+                "srmMax": "16", 
+                "srmMin": "16"
+            }, 
+            "styleId": 28, 
+            "updateDate": "2014-05-08 11:48:09"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-10-21 20:32:20", 
+                    "description": "Welcome to Rapp Brewing Company!\r\nHome of hand crafted small batch artisanal Ales and Lagers.\r\nOur goal is to bring you the finest examples of traditional beer styles using the best available ingredients.\r\nWe also offer you intriguing variations of traditional styles as well as exploring styles from past ages.\r\nWe use our creativity in the art of brewing and invite you to join us in that adventure.", 
+                    "id": "bpBKo9", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-10-21 20:32:51", 
+                            "id": "r5GwCX", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 27.870736, 
+                            "locality": "Seminole", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -82.735586, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(727) 692-7912", 
+                            "postalCode": "33777", 
+                            "region": "Florida", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "10930 Endeavour Way Suite C", 
+                            "updateDate": "2014-01-12 00:30:03", 
+                            "website": "http://www.rappbrewing.com/"
+                        }
+                    ], 
+                    "name": "Rapp Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-21 20:32:55", 
+                    "website": "http://www.rappbrewing.com/"
+                }
+            ], 
+            "createDate": "2014-03-03 12:14:19", 
+            "id": "QsxA3A", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/QsxA3A/upload_q1OBuE-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/QsxA3A/upload_q1OBuE-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/QsxA3A/upload_q1OBuE-medium.png"
+            }, 
+            "name": "RBC Belgian Style Dark Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category", 
+                "id": 28, 
+                "name": "Dark American-Belgo-Style Ale", 
+                "srmMax": "16", 
+                "srmMin": "16"
+            }, 
+            "styleId": 28, 
+            "updateDate": "2014-03-03 12:24:37"
+        }, 
+        {
+            "abv": "8.9", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:46", 
+                    "description": "To share the passion for brewing and the love of beer that we celebrated as home brewers.\r\n\r\nWe're proud to offer six year-round beers; a traditional irish red, a chocolatey smoked porter, a session pale ale, dry-hopped IPA, an amber just to pair with pizza and an ESB created to celebrate the passion of our very own Emerald City Supporters.", 
+                    "established": "2008", 
+                    "id": "eyYenc", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/eyYenc/upload_uGrvdw-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/eyYenc/upload_uGrvdw-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/eyYenc/upload_uGrvdw-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:46", 
+                            "id": "mIWMKP", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.514331, 
+                            "locality": "Seattle", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.352784, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "206-453-8915", 
+                            "postalCode": "98106", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "9832 14th Ave SW", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://www.bigalbrewing.com/", 
+                            "yearOpened": "2008"
+                        }
+                    ], 
+                    "name": "Big Al Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:11", 
+                    "website": "http://www.bigalbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-02-22 12:59:05", 
+            "ibu": "80", 
+            "id": "AH8gWh", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/AH8gWh/upload_ZrdoFf-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/AH8gWh/upload_ZrdoFf-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/AH8gWh/upload_ZrdoFf-medium.png"
+            }, 
+            "name": "Super Villain!", 
+            "originalGravity": "1.08", 
+            "srm": {
+                "hex": "6A0E00", 
+                "id": 28, 
+                "name": "28"
+            }, 
+            "srmId": 28, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 3, 
+                    "name": "North American Origin Ales"
+                }, 
+                "categoryId": 3, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as \"American-style Brett Ale.\"A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category", 
+                "id": 28, 
+                "name": "Dark American-Belgo-Style Ale", 
+                "srmMax": "16", 
+                "srmMin": "16"
+            }, 
+            "styleId": 28, 
+            "updateDate": "2013-04-01 11:28:57"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 17
+}

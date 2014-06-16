@@ -1,0 +1,2146 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:51", 
+                    "description": "Cigar City Brewing was founded with two goals in mind. The first to make the world's best beer and the second to share with people near and far the fascinating culture and heritage of the Cigar City of Tampa. From its past as the world's largest cigar producer to its Latin roots and the many other diverse peoples that call it home, Tampa draws on many sources to develop its unique culture. At CCB we are fascinated by Tampa's history and suspect you will be too.", 
+                    "established": "2008", 
+                    "id": "EYuZg3", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/EYuZg3/upload_0CMPxp-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/EYuZg3/upload_0CMPxp-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/EYuZg3/upload_0CMPxp-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:51", 
+                            "extendedAddress": "Suite A", 
+                            "id": "K4zZoP", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 27.958667, 
+                            "locality": "Tampa", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -82.509302, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "813-348-6363 ext 206", 
+                            "postalCode": "33607", 
+                            "region": "Florida", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3924 West Spruce Street", 
+                            "updateDate": "2013-12-29 23:38:29", 
+                            "website": "http://cigarcitybeer.com/", 
+                            "yearOpened": "2008"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-12-29 23:38:13", 
+                            "hoursOfOperation": "Sunday \u2013 Thursday: 11am \u2013 10pm\r\nFriday & Saturday: 11am \u2013 11pm\r\nBrunch: Saturday & Sunday: 11am \u2013 3pm", 
+                            "id": "V0T8uP", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 28.0914312, 
+                            "locality": "Tampa", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -82.5024591, 
+                            "name": "Brewpub", 
+                            "openToPublic": "Y", 
+                            "phone": "(813) 962-1274", 
+                            "postalCode": "33624", 
+                            "region": "Florida", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "15491 N Dale Mabry Hwy", 
+                            "updateDate": "2013-12-29 23:38:29", 
+                            "website": "http://cigarcitybrewpub.com/"
+                        }
+                    ], 
+                    "name": "Cigar City Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-23 09:10:56", 
+                    "website": "http://cigarcitybeer.com/"
+                }
+            ], 
+            "createDate": "2014-02-10 12:12:26", 
+            "id": "W2qjo7", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/W2qjo7/upload_O51YU7-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/W2qjo7/upload_O51YU7-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/W2qjo7/upload_O51YU7-medium.png"
+            }, 
+            "name": "5 Beers for 5 Years: Gose", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2014-02-11 10:00:40"
+        }, 
+        {
+            "abv": "3.3", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2013-08-06 20:46:36", 
+                    "description": "We\u2019ve been retailing here since 1986, the Topiwala family with mom and pop and three brothers as well as the help of a handful of invaluable staff members. Pop started in the recession years of Reaganomics, thru the boom of Clintonia and still strong despite George II & the current class wars. Starting as a convenience store & gas station, we\u2019ve been evolving from pretty much day one, trying to offer quality and service like our friendly Travis Heights neighbors and fellow Austinites deserve.\r\n\r\nWe are committed to sustainable, local, and organic & natural produce and groceries with our offerings on the shelf as well as our kitchen menu (No high fructose corn syrup or MSG!!!) With 72 taps of beer available, we are quite picky on what we present with only quality brews that go with our food.\r\n\r\nWe also enjoy giving back to the community with nonprofit fundraisers and support for grassroots organizations.\r\n\r\nWe serve our very own authentic and unique Gujarati-style Indian food, mom approved.\r\n\r\nBeer by the pint & wine by the glass make it that much more of a yummy pairing.\r\n\r\nOur own brews are specifically designed for our menu items!\r\n\r\nAlso enjoy live music in our unique intimate and awesome music room, or at least our staff selections of eclectic tunes.", 
+                    "id": "NrF8QR", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/NrF8QR/upload_dudMzd-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/NrF8QR/upload_dudMzd-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/NrF8QR/upload_dudMzd-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-08-06 23:09:11", 
+                            "hoursOfOperation": "Mon - Sun: 10:00 am - 12:00 am", 
+                            "id": "91s02H", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 30.2456728, 
+                            "locality": "Austin", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -97.7688358, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(512) 442-5337", 
+                            "postalCode": "78704", 
+                            "region": "Texas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1950 IH35 South", 
+                            "updateDate": "2013-08-06 23:09:11", 
+                            "website": "http://whipin.com/"
+                        }
+                    ], 
+                    "mailingListUrl": "http://whipin.com/join-our-mailing-list/", 
+                    "name": "Kamala Brewing at the Whip In", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-12-02 15:58:08", 
+                    "website": "http://www.kamalabrewing.com/"
+                }
+            ], 
+            "createDate": "2013-08-14 16:44:09", 
+            "id": "52EHOD", 
+            "isOrganic": "N", 
+            "name": "Achtung Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2013-08-14 19:04:26"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-12-02 11:02:45", 
+                    "description": "Our artisanal ales are brewed in collaboration with select Northern California sustainable farms. Each limited release is a unique beer to be enjoyed with friends and savored around the seasonal table.", 
+                    "id": "0dM1NH", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/0dM1NH/upload_UyVTOG-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/0dM1NH/upload_UyVTOG-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/0dM1NH/upload_UyVTOG-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-12-02 11:03:26", 
+                            "extendedAddress": "STE 202", 
+                            "id": "FtRclf", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.759984, 
+                            "locality": "San Francisco", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.388403, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(415) 992-3438", 
+                            "postalCode": "94107", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2325 3rd Street", 
+                            "updateDate": "2012-12-02 11:03:26", 
+                            "website": "http://www.almanacbeer.com/"
+                        }
+                    ], 
+                    "name": "Almanac Beer Co", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-02 11:04:14", 
+                    "website": "http://www.almanacbeer.com/"
+                }
+            ], 
+            "createDate": "2014-04-29 10:10:33", 
+            "id": "jZagQt", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/jZagQt/upload_k60rKv-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/jZagQt/upload_k60rKv-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/jZagQt/upload_k60rKv-medium.png"
+            }, 
+            "name": "Almanac Golden Gates Gose", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2014-04-30 09:01:17"
+        }, 
+        {
+            "abv": "4.9", 
+            "breweries": [
+                {
+                    "createDate": "2013-06-21 12:08:17", 
+                    "description": "FATE Brewing Company is Boulder\u2019s first brew-bistro and your new place to enjoy chef-inspired, gourmet creations with unique, handcrafted microbrews. Local ingredients are featured on the lunch, brunch, and dinner menus and the full bar with 30 taps feature house drafts and rotating guest beer. Stop by for a pint and a bite at 1600 38th Street and Arapahoe Road (one block west of Foothills Parkway) in Boulder, Colorado.", 
+                    "established": "2012", 
+                    "id": "mEhLzL", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/mEhLzL/upload_9ANdl1-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/mEhLzL/upload_9ANdl1-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/mEhLzL/upload_9ANdl1-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-21 12:11:57", 
+                            "hoursOfOperation": "Lunch 11am-4pm Mon-Fri\r\nDinner 4pm Seven Days a Week \r\nBrunch 10am-4pm Sat-Sun\r\nHappy Hour 3-5:30pm Mon-Fri\r\nSunday Brewery Tour 4pm", 
+                            "id": "K5hc6A", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.0142835, 
+                            "locality": "Boulder", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -105.2478613, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "303.449.FATE", 
+                            "postalCode": "80301", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1600 38th Street", 
+                            "updateDate": "2013-06-21 12:11:57", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "FATE Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-21 12:14:12", 
+                    "website": "http://fatebrewingcompany.com/"
+                }
+            ], 
+            "createDate": "2014-03-11 18:26:13", 
+            "description": "This historic sour German wheat beer is spiced with salt, coriander and aged in Arta Reposado tequila barrels for 6 months. It has a refreshing, tart and lactic character, with a crisp and slightly dry finish. Enjoy subtle warming tequila notes complimented by hints of vanilla, caramel, oak and smoke.", 
+            "ibu": "10", 
+            "id": "epDkdh", 
+            "ingredients": {
+                "hops": [
+                    {
+                        "alphaAcidMin": 4.1, 
+                        "betaAcidMax": 4.7, 
+                        "betaAcidMin": 4.7, 
+                        "caryophylleneMax": 14.6, 
+                        "caryophylleneMin": 14.5, 
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "cohumuloneMax": 26, 
+                        "cohumuloneMin": 23, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "Germany", 
+                            "isoCode": "DE", 
+                            "isoThree": "DEU", 
+                            "name": "GERMANY", 
+                            "numberCode": 276
+                        }, 
+                        "countryOfOrigin": "DE", 
+                        "createDate": "2013-06-24 16:07:31", 
+                        "description": "Hallertauer Mittelfr\u00fcher or Hallertauer Mittelfr\u00fch is the landrace cultivar of the Hallertau, the premier hop growing region of Germany. When grown in the Hallertau, these hops are properly called Hallertau Hallertauer Mittelfr\u00fcher, but this is usually shortened to Hallertau Hallertauer. However, homebrewers should be aware that \"Hallertau Hallertauer\" is also sometimes used to describe other aroma hops grown in the Hallertau, especially Hallertauer Gold. These hops are one of four hops almost always considered to be noble hops, and are much prized, especially by continental European brewers, for their flavor and aroma characteristics. However, because of their extreme susceptibility to verticillium wilt, true Hallertauer Mittelfr?her is disappearing from the Hallertau. This has led to efforts to breed wilt-resistant hops with similar characteristics, to grow the Hallertauer Mittelfr\u00fcher in areas outside of the Hallertau, especially in Tettnang, Hersbruck, and Spalt, and to grow other aroma varieties in the Hallertau, with the result that the name \"Hallertau\" or \"Hallertauer\", once synonymous with this variety, has been applied to so many hop varieties that it sometimes becomes confusing. The true Hallertau Hallertauer Mittelfr\u00fcher has the mild, pleasantly spicy aroma and flavor described simply as \"noble\" and characteristic of the great German lagers.", 
+                        "farneseneMax": 0.1, 
+                        "humuleneMax": 55.1, 
+                        "humuleneMin": 55.1, 
+                        "id": 59, 
+                        "myrceneMax": 17.5, 
+                        "myrceneMin": 15.5, 
+                        "name": "Hallertau Hallertauer Mittelfr\u00fcher", 
+                        "updateDate": "2013-06-24 16:10:37"
+                    }
+                ], 
+                "malt": [
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "createDate": "2013-06-24 16:07:50", 
+                        "id": 539, 
+                        "name": "Wheat - Flaked"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "createDate": "2013-06-24 16:07:53", 
+                        "id": 724, 
+                        "name": "Pilsner Malt"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "createDate": "2013-06-24 16:07:50", 
+                        "id": 536, 
+                        "name": "Oats - Flaked"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "characteristics": [
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a malty flavor upon the beer.", 
+                                "id": 10, 
+                                "name": "Malty"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a sweet flavor upon the beer.", 
+                                "id": 14, 
+                                "name": "Sweet"
+                            }
+                        ], 
+                        "coarseFineDifference": 1.3, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "Germany", 
+                            "isoCode": "DE", 
+                            "isoThree": "DEU", 
+                            "name": "GERMANY", 
+                            "numberCode": 276
+                        }, 
+                        "countryOfOrigin": "DE", 
+                        "createDate": "2013-06-24 16:07:52", 
+                        "description": "Munich Malt has a malty sweet flavor characteristic and adds a reddish amber color to the beer. It has enough diastatic power to convert itself, but needs help from another malt, such as 2-row malt, to convert other grains.", 
+                        "diastaticPower": 72, 
+                        "dryYield": 80, 
+                        "id": 650, 
+                        "maxInBatch": 80, 
+                        "moistureContent": 5, 
+                        "name": "Munich Malt", 
+                        "potential": 1.037, 
+                        "protein": 11.5, 
+                        "requiresMashing": "Y", 
+                        "srm": {
+                            "hex": "E58500", 
+                            "id": 9, 
+                            "name": "9"
+                        }, 
+                        "srmId": 9, 
+                        "srmPrecise": 9, 
+                        "updateDate": "2013-06-24 16:10:14"
+                    }
+                ]
+            }, 
+            "isOrganic": "N", 
+            "name": "Barrel Aged Uror Gose", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2014-05-02 12:20:38"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:58", 
+                    "description": "Jackalope Brewing Company is owned by Bailey Spaulding and Robyn Virball, two young ing\u00e9nues with an affection for beer. They met in September 2002 in the tiny Scottish village of St. Andrews, Scotland. Bailey was a Harvard student doing a semester abroad and Robyn was beginning undergrad at St. Andrews. They bonded over being put into the worst dorm for overseas orientation and teaching Danish people how to play beer pong. Though after three months Bailey went back to Cambridge, you can't break the bonds that are made when teaching Europeans drinking games and a true friendship was born. During the next eight years, they both graduated, Bailey went off to Vanderbilt Law School, and Robyn entered the working world, but both thought they were meant for much bigger and more alcoholic things.", 
+                    "established": "2011", 
+                    "id": "p1tFbP", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/p1tFbP/upload_OdyZQQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/p1tFbP/upload_OdyZQQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/p1tFbP/upload_OdyZQQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:58", 
+                            "hoursOfOperation": "Thursday: 4PM - 8PM\r\nFriday: 4PM - 8PM\r\nSaturday: 4PM - 8PM", 
+                            "id": "Syl46S", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 36.1503749, 
+                            "locality": "Nashville", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -86.779494, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "857-998-2571", 
+                            "postalCode": "37203", 
+                            "region": "Tennessee", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "701 8th Avenue South", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://www.jackalopebrew.com/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Jackalope Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:11", 
+                    "website": "http://www.jackalopebrew.com/"
+                }
+            ], 
+            "createDate": "2013-05-02 22:17:07", 
+            "id": "04k0TG", 
+            "isOrganic": "N", 
+            "name": "Casper The Friendly Gose", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2013-05-03 00:55:10"
+        }, 
+        {
+            "abv": "4.7", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:44", 
+                    "description": "The August Schell Brewing Company is a brewing company in New Ulm, Minnesota. It was founded by German immigrants August Schell and Jacob Bernhardt in 1860 and passed into the possession of the Schell family in 1866. It is the second oldest family-owned brewery in America and became the oldest and largest brewery in Minnesota when the company bought the Grain Belt rights in 2002.", 
+                    "established": "1860", 
+                    "id": "E8C6fp", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/E8C6fp/upload_dtB9IM-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/E8C6fp/upload_dtB9IM-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/E8C6fp/upload_dtB9IM-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:44", 
+                            "hoursOfOperation": "Brewery Gift Shop\r\nOpen daily 11am - 5pm.\r\n\r\nBrewery Tours:\r\nSeptember - May\r\nFriday 3:00 pm\r\nSaturday: Noon, 1:00, 2:00, 3:00, and 4:00\r\nSunday (Sept. - Dec.): 1:00, 2:00, 3:00, and 4:00\r\nSunday (Jan. - May): 1:00\r\n\r\nSummer Schedule\r\nTours run daily Memorial Day through Labor Day\r\nMonday through Friday:  1:00, 2:30 and 4:00\r\nSaturday:  Noon, 1:00, 2:00, 3:00 and 4:00\r\nSunday:  1:00, 2:00, 3:00 and 4:00", 
+                            "id": "6iVXTk", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.289628, 
+                            "locality": "New Ulm", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -94.4489697, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "800-770-5020", 
+                            "postalCode": "56073", 
+                            "region": "Minnesota", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1860 Schell Road", 
+                            "updateDate": "2012-03-21 20:05:24", 
+                            "website": "http://www.schellsbrewery.com/", 
+                            "yearOpened": "1860"
+                        }
+                    ], 
+                    "name": "August Schell Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-02-24 16:15:32", 
+                    "website": "http://www.schellsbrewery.com/"
+                }
+            ], 
+            "createDate": "2014-02-18 12:19:56", 
+            "description": "Schell\u2019s Goosetown available from April through September! Schell\u2019s Goosetown is named after a neighborhood located across the tracks and down by the Minnesota River in New Ulm, where mostly Catholic German-Bohemian immigrants began settling in the late 1800s. These immigrants kept and raised gaggles of geese, which wandered freely throughout the neighborhood and fed along the banks of the river.\r\nSchell's Goosetown is our interpretation of a traditional, German-style Gose. The beer pours clear, golden orange in color, with a thick white foam head. It has a bright lemon zest and coriander aroma with a slight saltiness reminiscent of a cool ocean breeze. A refreshingly light and citrusy tartness greets your palate, backed by a bready, wheat malt character and a touch of coriander spice. Lighter bodied, yet full flavored with a lively carbonation that gives the beer a crisp, dry finish. A uniquely refreshing session beer, perfectly suited for a warm summer day from the August Schell Brewing Company.", 
+            "ibu": "31", 
+            "id": "SOhgwJ", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/SOhgwJ/upload_xTIqwH-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/SOhgwJ/upload_xTIqwH-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/SOhgwJ/upload_xTIqwH-medium.png"
+            }, 
+            "name": "Goosetown", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2014-02-18 12:32:14"
+        }, 
+        {
+            "abv": "4.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2014-03-04 12:39:08", 
+                    "description": "We are located at 254 Wilkins St (Just off Route 100) in Morrisville, VT. Slightly off the beaten path, we are proud to offer some of the most finely crafted beers in the great state of Vermont. Pair any of our fine selections with any of the house made, locally sourced items off of our delicious menu and we have no doubt that you will leave satisfied!", 
+                    "established": "2013", 
+                    "id": "lH3lYt", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/lH3lYt/upload_PF4AGo-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/lH3lYt/upload_PF4AGo-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/lH3lYt/upload_PF4AGo-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-03-04 12:39:51", 
+                            "hoursOfOperation": "Wed - Sun: 11:30 am - 9:00 pm", 
+                            "id": "Qr4aPY", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.569263, 
+                            "locality": "Morrisville", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -72.603439, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(802) 851-8041", 
+                            "postalCode": "05661", 
+                            "region": "Vermont", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "254 Wilkins St", 
+                            "updateDate": "2014-03-04 12:39:51", 
+                            "website": "http://www.lostnationbrewing.com"
+                        }
+                    ], 
+                    "name": "Lost Nation Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-04 12:39:59", 
+                    "website": "http://www.lostnationbrewing.com"
+                }
+            ], 
+            "createDate": "2014-03-04 12:40:21", 
+            "description": "A traditional German beer style that was all but extinct 30 years ago. An amazingly refreshing beer brewed with coriander and sea salt. The tart, dry finish combined with the hint of salt and citrus leaves your palate craving another sip.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "8", 
+            "id": "6yDUWs", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/6yDUWs/upload_dzlrOB-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/6yDUWs/upload_dzlrOB-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/6yDUWs/upload_dzlrOB-medium.png"
+            }, 
+            "name": "Gose", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2014-03-04 13:10:17"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:52", 
+                    "description": "DESTIHL opened its first gastrobrewpub (DESTIHL Restaurant & Brew Works) in Normal, IL in November 2007 and added its second gastrobrewpub in downtown Champaign in April 2011, where the company focuses on both artisan food and beers.  DESTIHL\u2019s 20,000sf production brewery project in Bloomington, IL commenced in September 2012 with brewing starting in May 2013 and includes a 25-barrel brewhouse, several large fermenters and 100,000 cubic feet of barrel-aging space. It has taken countless hours to develop the unique concept that is now DESTIHL, where the brewery team utilizes both global brewing traditions and new American craft brewing ingenuity and artisanship to make uncommon beers uncommonly well.", 
+                    "established": "2007", 
+                    "id": "PBXvz0", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/PBXvz0/upload_Sh87n9-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/PBXvz0/upload_Sh87n9-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/PBXvz0/upload_Sh87n9-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:52", 
+                            "id": "gFWElp", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.4530204, 
+                            "locality": "Bloomington", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -88.9617887, 
+                            "name": "DESTIHL Production Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "877-572-7563", 
+                            "postalCode": "61704", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1616 G.E. Rd Unit #1", 
+                            "updateDate": "2013-08-14 18:20:26", 
+                            "website": "http://www.destihlbrewery.com/", 
+                            "yearOpened": "2007"
+                        }
+                    ], 
+                    "name": "DESTIHL Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-14 18:15:33", 
+                    "website": "http://www.destihlbrewery.com/"
+                }
+            ], 
+            "createDate": "2014-03-22 13:51:04", 
+            "id": "HGL2Fb", 
+            "isOrganic": "N", 
+            "name": "Gose", 
+            "originalGravity": "1", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2014-03-22 13:51:04"
+        }, 
+        {
+            "abv": "4", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:12", 
+                    "description": "Westbrook Brewing is a new craft brewery in Mt. Pleasant, SC. Our mission is to make the most interesting, drinkable, and generally awesome beer possible. We love experimenting with different ingredients and brewing techniques, and we hope you\u2019ll have as much fun drinking our beer as we do making it.", 
+                    "established": "2010", 
+                    "id": "HPfwPW", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/HPfwPW/upload_qo8ArN-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/HPfwPW/upload_qo8ArN-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/HPfwPW/upload_qo8ArN-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:12", 
+                            "hoursOfOperation": "Thursdays 4-7\r\nFridays 4-7\r\nSaturdays 12-4", 
+                            "id": "rgj6Fa", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 32.846477, 
+                            "locality": "Mt. Pleasant", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.877235, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "843-708-2964", 
+                            "postalCode": "29464", 
+                            "region": "South Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "510 Ridge Road", 
+                            "updateDate": "2012-04-09 19:40:32", 
+                            "website": "http://westbrookbrewing.com/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Westbrook Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-10 13:08:38", 
+                    "website": "http://westbrookbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-08-06 17:20:02", 
+            "description": "This is our interpretation of Gose (pronounced \u201cGose-uh\u201d), a traditional German-style sour wheat beer brewed with coriander and salt. Once nearly extinct, this very refreshing style is making a comeback.", 
+            "ibu": "5", 
+            "id": "01Omsu", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/01Omsu/upload_u0mGI3-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/01Omsu/upload_u0mGI3-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/01Omsu/upload_u0mGI3-medium.png"
+            }, 
+            "name": "Gose", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2013-08-06 20:09:54"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:50", 
+                    "description": "Meet Oklahoma's oldest handcrafted beer.\r\n\r\nIn Italian immigrant Pete Prichard's effort to support his family, he came up with the idea of using an Indian Territory recipe to brew a beverage for the coal miners.\r\n\r\nPete's idea led to trouble during Prohibition. He was convicted, not once but twice, for breaking the federal Prohibition Act.\r\n\r\nProhibition was repealed in the late 1950s, but home brewed beverages were still illegal because they didn't bear the proper liquor stamps. Nevertheless, homemade Choc and wine continued to be available to regular customers at Pete's, a restaurant owned by Prichard in Krebs, Okla.\r\n\r\nThose customers happen to include JFK and high-powered Oklahoma politicians.\r\n\r\nFinally, in 1995, through tireless efforts on the part of Joe Prichard, the grandson of the founder, Pete's Place reintroduced Choc beer as part of the restaurant's tradition and a \"legal\" brew for customers.", 
+                    "established": "1919", 
+                    "id": "TI53eD", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/TI53eD/upload_IiadV5-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/TI53eD/upload_IiadV5-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/TI53eD/upload_IiadV5-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:50", 
+                            "id": "cAeitn", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 34.92723, 
+                            "locality": "Krebs", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -95.725309, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "918-423-2042", 
+                            "postalCode": "74554", 
+                            "region": "Oklahoma", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "120 Sw 8th St", 
+                            "updateDate": "2012-03-21 20:05:28", 
+                            "website": "http://www.chocbeer.com/", 
+                            "yearOpened": "1919"
+                        }
+                    ], 
+                    "name": "Choc Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:12", 
+                    "website": "http://www.chocbeer.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:18", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 8, 
+                "name": "Tulip"
+            }, 
+            "glasswareId": 8, 
+            "id": "U5DCYt", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/U5DCYt/upload_YcWbhk-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/U5DCYt/upload_YcWbhk-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/U5DCYt/upload_YcWbhk-medium.png"
+            }, 
+            "name": "Gose", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2014-04-29 10:45:14"
+        }, 
+        {
+            "abv": "4.1", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "Clarity In Thinking. Excellence In Drinking. We are Minnetonka's ONLY microbrewery.", 
+                    "established": "2011", 
+                    "id": "0cACKo", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/0cACKo/upload_s5bHsF-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/0cACKo/upload_s5bHsF-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/0cACKo/upload_s5bHsF-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "hoursOfOperation": "Thu - Fri: 5:00 pm - 8:00 pm\r\nSat: 12:00 pm - 5:00 pm", 
+                            "id": "1xeovq", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.895218, 
+                            "locality": "Minnetonka", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -93.449725, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "612-810-9324", 
+                            "postalCode": "55345", 
+                            "region": "Minnesota", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6020 Culligan Way", 
+                            "updateDate": "2014-01-20 17:13:40", 
+                            "website": "http://lucidbrewing.wordpress.com/", 
+                            "yearOpened": "2009"
+                        }
+                    ], 
+                    "name": "Lucid Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 13:05:04", 
+                    "website": "http://www.lucidbrewing.com/"
+                }
+            ], 
+            "createDate": "2014-01-20 17:16:48", 
+            "description": "Gose styled beer brewed with Sea Salt and Corriander.  Acid malt is used to give a tart dry finish.  This recipe was created by \u201cBad\u201d Andy Ruhland!", 
+            "id": "lZOtuc", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/lZOtuc/upload_Zoeyyt-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/lZOtuc/upload_Zoeyyt-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/lZOtuc/upload_Zoeyyt-medium.png"
+            }, 
+            "name": "Goslar", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2014-01-21 10:01:32"
+        }, 
+        {
+            "abv": "4", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:12", 
+                    "description": "Westbrook Brewing is a new craft brewery in Mt. Pleasant, SC. Our mission is to make the most interesting, drinkable, and generally awesome beer possible. We love experimenting with different ingredients and brewing techniques, and we hope you\u2019ll have as much fun drinking our beer as we do making it.", 
+                    "established": "2010", 
+                    "id": "HPfwPW", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/HPfwPW/upload_qo8ArN-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/HPfwPW/upload_qo8ArN-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/HPfwPW/upload_qo8ArN-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:12", 
+                            "hoursOfOperation": "Thursdays 4-7\r\nFridays 4-7\r\nSaturdays 12-4", 
+                            "id": "rgj6Fa", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 32.846477, 
+                            "locality": "Mt. Pleasant", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.877235, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "843-708-2964", 
+                            "postalCode": "29464", 
+                            "region": "South Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "510 Ridge Road", 
+                            "updateDate": "2012-04-09 19:40:32", 
+                            "website": "http://westbrookbrewing.com/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Westbrook Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-10 13:08:38", 
+                    "website": "http://westbrookbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-11-12 01:51:16", 
+            "id": "HCHmNU", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/HCHmNU/upload_RLNmjU-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/HCHmNU/upload_RLNmjU-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/HCHmNU/upload_RLNmjU-medium.png"
+            }, 
+            "name": "Gozu", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2013-11-12 01:52:24"
+        }, 
+        {
+            "abv": "4.5", 
+            "breweries": [
+                {
+                    "createDate": "2013-08-05 17:06:49", 
+                    "description": "MOBCRAFT IS THE WORLD\u2019S FIRST COMPLETELY CROWDSOURCED BREWERY!\r\n\r\nMobCraft Beer is a small craft brewery making custom craft beer. We produce small batch \u201ccustom craft beers\u201d based off of users submitted recipes and ideas which end up in our recipe vault. As each beer grows in social popularity, the four most popular beers are put up for a monthly vote. Cast your vote by ordering the beer you want us to brew. MobCraft will produce the beer with the most orders and ship out a 4 pack of 22oz \u201cbomber\u201d bottles to your doorstep! Or if your near the brewery come pick it up in our tap room location at House of Brews.", 
+                    "established": "2012", 
+                    "id": "QUtA29", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/QUtA29/upload_Qp3yy5-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/QUtA29/upload_Qp3yy5-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/QUtA29/upload_Qp3yy5-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-08-06 23:59:48", 
+                            "id": "lLaoBi", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.0667426, 
+                            "locality": "Madison", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -89.3052373, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "53718", 
+                            "region": "Wisconsin", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4539 Helgesen Dr", 
+                            "updateDate": "2013-08-06 23:59:48", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "mailingListUrl": "http://mobcraftbeer.us5.list-manage2.com/subscribe?u=0453a0f96af0b4a21c44383d9&id=b53eb572c1", 
+                    "name": "MobCraft Beer", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-07 00:01:36", 
+                    "website": "http://www.mobcraftbeer.com"
+                }
+            ], 
+            "createDate": "2014-05-06 13:14:37", 
+            "id": "hFGeMw", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/hFGeMw/upload_FXflbV-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/hFGeMw/upload_FXflbV-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/hFGeMw/upload_FXflbV-medium.png"
+            }, 
+            "name": "Hop Gose The Grape Fruit", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2014-05-08 09:04:08"
+        }, 
+        {
+            "abv": "5.5", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "Widmer Brothers Brewing is located in beautiful and brew-friendly Portland, OR. Our publicly-held brewery employs over 150 people who are as passionate about quality craft beer as Kurt & Rob themselves.\r\n\r\nWe opened the brewery in 1984, and built a new 40-barrel brewing system in our current Russell Street location in 1990. We've grown steadily ever since. In 1996, we completed installation of a state-of-the art 250-barrel brewhouse, bringing our capacity to 220,000 barrels per year. In 1996, for the first time in our brewery\u2019s history we also installed a bottling line, capable of producing 500 bottles per minute. In 2008 we added six new 1500-barrel fermentation tanks that increased our capacity to 450,000 barrels per year, and added a new keg filling line capable of filling 300 kegs per hour.", 
+                    "established": "1984", 
+                    "id": "8wcv7h", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/8wcv7h/upload_ze3hCg-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/8wcv7h/upload_ze3hCg-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/8wcv7h/upload_ze3hCg-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "id": "SgctbA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 45.540795, 
+                            "locality": "Portland", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.675594, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "503-281-2437", 
+                            "postalCode": "97227", 
+                            "region": "Oregon", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "929 North Russell Street", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.widmer.com/", 
+                            "yearOpened": "1984"
+                        }
+                    ], 
+                    "name": "Widmer Brothers Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-09-11 21:48:22", 
+                    "website": "http://www.widmer.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:23", 
+            "description": "Gose is a traditional cloudy German style wheat beer that balances tart and slightly salty flavors with a soft malt background. Our unique take uses a healthy dose of Oregon-grown marionberries as well as dried hibiscus flowers for a tart, floral profile with clove & coriander flavors to round it out. Prost! or Goseanna!", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "15", 
+            "id": "IjjCkQ", 
+            "ingredients": {
+                "hops": [
+                    {
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "createDate": "2013-06-24 16:07:40", 
+                        "id": 1946, 
+                        "name": "Alchemy"
+                    }
+                ], 
+                "malt": [
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "coarseFineDifference": 1.5, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United States", 
+                            "isoCode": "US", 
+                            "isoThree": "USA", 
+                            "name": "UNITED STATES", 
+                            "numberCode": 840
+                        }, 
+                        "countryOfOrigin": "US", 
+                        "createDate": "2013-06-24 16:07:57", 
+                        "description": "The is the standard starting point for almost all beer recipes. Smooth with a less grainy more moderate flavour.", 
+                        "diastaticPower": 140, 
+                        "dryYield": 79, 
+                        "id": 1922, 
+                        "maxInBatch": 100, 
+                        "moistureContent": 4, 
+                        "name": "Two-Row Pale Malt", 
+                        "potential": 1.036, 
+                        "protein": 12.3, 
+                        "requiresMashing": "Y", 
+                        "srm": {
+                            "hex": "FFD878", 
+                            "id": 2, 
+                            "name": "2"
+                        }, 
+                        "srmId": 2, 
+                        "srmPrecise": 2, 
+                        "updateDate": "2013-06-24 16:10:14"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "createDate": "2013-06-24 16:07:56", 
+                        "id": 854, 
+                        "name": "Wheat Malt"
+                    }
+                ]
+            }, 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/IjjCkQ/upload_aGnN7V-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/IjjCkQ/upload_aGnN7V-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/IjjCkQ/upload_aGnN7V-medium.png"
+            }, 
+            "name": "Marionberry Hibiscus Gose", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2013-09-11 13:31:40"
+        }, 
+        {
+            "abv": "4.9", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "Widmer Brothers Brewing is located in beautiful and brew-friendly Portland, OR. Our publicly-held brewery employs over 150 people who are as passionate about quality craft beer as Kurt & Rob themselves.\r\n\r\nWe opened the brewery in 1984, and built a new 40-barrel brewing system in our current Russell Street location in 1990. We've grown steadily ever since. In 1996, we completed installation of a state-of-the art 250-barrel brewhouse, bringing our capacity to 220,000 barrels per year. In 1996, for the first time in our brewery\u2019s history we also installed a bottling line, capable of producing 500 bottles per minute. In 2008 we added six new 1500-barrel fermentation tanks that increased our capacity to 450,000 barrels per year, and added a new keg filling line capable of filling 300 kegs per hour.", 
+                    "established": "1984", 
+                    "id": "8wcv7h", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/8wcv7h/upload_ze3hCg-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/8wcv7h/upload_ze3hCg-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/8wcv7h/upload_ze3hCg-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "id": "SgctbA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 45.540795, 
+                            "locality": "Portland", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.675594, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "503-281-2437", 
+                            "postalCode": "97227", 
+                            "region": "Oregon", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "929 North Russell Street", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.widmer.com/", 
+                            "yearOpened": "1984"
+                        }
+                    ], 
+                    "name": "Widmer Brothers Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-09-11 21:48:22", 
+                    "website": "http://www.widmer.com/"
+                }
+            ], 
+            "createDate": "2013-11-12 01:33:57", 
+            "id": "ThKshh", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ThKshh/upload_XAWboo-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ThKshh/upload_XAWboo-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ThKshh/upload_XAWboo-medium.png"
+            }, 
+            "name": "Mother Gose", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2013-11-12 01:38:27"
+        }, 
+        {
+            "abv": "4.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-09-29 21:41:24", 
+                    "description": "Union Craft Brewing is a homegrown, independent craft brewery located in the Clipper Mill area of Woodberry. We are dedicated to providing the good people of Baltimore fresh, handcrafted, and approachable beers and to fostering the community that forms whenever great beer is flowing.", 
+                    "established": "2011", 
+                    "id": "t6Gyij", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/t6Gyij/upload_4PlJuB-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/t6Gyij/upload_4PlJuB-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/t6Gyij/upload_4PlJuB-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-09-29 21:42:11", 
+                            "id": "GaceU0", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.331938, 
+                            "locality": "Baltimore", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -76.641971, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(410) 467-0290", 
+                            "postalCode": "21211", 
+                            "region": "Maryland", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1700-D Union Avenue", 
+                            "updateDate": "2012-09-29 21:42:11", 
+                            "website": "http://www.unioncraftbrewing.com/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Union Craft Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-09-29 21:44:38", 
+                    "website": "http://www.unioncraftbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-09-24 01:00:04", 
+            "id": "SS2uWf", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/SS2uWf/upload_Xz3Djd-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/SS2uWf/upload_Xz3Djd-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/SS2uWf/upload_Xz3Djd-medium.png"
+            }, 
+            "name": "Old Pro", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2013-09-24 12:26:37"
+        }, 
+        {
+            "abv": "5.2", 
+            "breweries": [
+                {
+                    "createDate": "2014-01-29 13:18:16", 
+                    "id": "mHYmoz", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2014-01-29 13:18:59", 
+                            "id": "9luSaG", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.7615326, 
+                            "locality": "Stolberg", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 6.2722549, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(49) 2402/75380", 
+                            "postalCode": "52224", 
+                            "region": "North Rhine-Westphalia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Diepenlinchener Str. 20", 
+                            "updateDate": "2014-01-29 13:18:59", 
+                            "website": "http://www.bierkompass.de/"
+                        }
+                    ], 
+                    "name": "Freigeist Bierkultur", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-29 13:18:16", 
+                    "website": "http://www.bierkompass.de/"
+                }
+            ], 
+            "createDate": "2014-01-29 13:19:51", 
+            "id": "cKdoHd", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/cKdoHd/upload_xyjw2i-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/cKdoHd/upload_xyjw2i-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/cKdoHd/upload_xyjw2i-medium.png"
+            }, 
+            "name": "Quince Gose", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2014-01-29 13:23:47"
+        }, 
+        {
+            "abv": "5.2", 
+            "breweries": [
+                {
+                    "createDate": "2014-01-29 13:18:16", 
+                    "id": "mHYmoz", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2014-01-29 13:18:59", 
+                            "id": "9luSaG", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.7615326, 
+                            "locality": "Stolberg", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 6.2722549, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(49) 2402/75380", 
+                            "postalCode": "52224", 
+                            "region": "North Rhine-Westphalia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Diepenlinchener Str. 20", 
+                            "updateDate": "2014-01-29 13:18:59", 
+                            "website": "http://www.bierkompass.de/"
+                        }
+                    ], 
+                    "name": "Freigeist Bierkultur", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-29 13:18:16", 
+                    "website": "http://www.bierkompass.de/"
+                }
+            ], 
+            "createDate": "2014-01-29 13:19:32", 
+            "id": "00v08C", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/00v08C/upload_31RAEy-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/00v08C/upload_31RAEy-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/00v08C/upload_31RAEy-medium.png"
+            }, 
+            "name": "Rhubarb Gose", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2014-01-29 13:23:51"
+        }, 
+        {
+            "abv": "6.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:59", 
+                    "description": "Kissmeyer Beer and Brewing was launched in 2010 after ten years at N\u00f8rrebro Bryghus. The company spans over three main areas of business:\r\n\r\nKissmeyer Beer: My personal beer brand offering my own and collaborative beers at home and abroad.\r\n\r\nKissmeyer Brewing:  My consultancy business offering services related mainly to the brewing industry.\r\n\r\nKissmeyer Beer & Brewing: I offer a wide range of communication services including beer tastings and presentations.", 
+                    "established": "2010", 
+                    "id": "Qfcr4y", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Denmark", 
+                                "isoCode": "DK", 
+                                "isoThree": "DNK", 
+                                "name": "DENMARK", 
+                                "numberCode": 208
+                            }, 
+                            "countryIsoCode": "DK", 
+                            "createDate": "2012-01-03 02:41:59", 
+                            "id": "NhT0t2", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 55.7589266, 
+                            "locality": "DK-2920 Charlottenlund", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 12.5596868, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+45 29 24 94 32", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Skovholmvej 9", 
+                            "updateDate": "2012-03-21 20:05:31", 
+                            "website": "http://www.kissmeyer.net/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Kissmeyer Beer & Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:20", 
+                    "website": "http://www.kissmeyer.net/"
+                }
+            ], 
+            "createDate": "2014-04-09 09:35:14", 
+            "id": "zbOMAR", 
+            "isOrganic": "N", 
+            "name": "Smoked Gose", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2014-04-09 09:35:15"
+        }, 
+        {
+            "abv": "5.7", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "description": "The Sierra Nevada Brewing Company was established in 1980 by homebrewers Ken Grossman and Paul Camusi. Camusi retired in 1998 and sold his share in the company to Grossman.\r\n\r\nLocated in Chico, California, Sierra Nevada Brewing is one of the most popular craft breweries currently operating in the United States. Its Pale Ale is world renowned, and the brewery produces almost 700,000 barrels of beer per year. Sierra Nevada's Pale Ale is the second best-selling craft beer in the United States, behind the Boston Beer Company's Samuel Adams Boston Lager.\r\n\r\nSierra Nevada's specialty brews include the winter seasonal Celebration, which is similar to the pale ale, but hoppier; and Summerfest, a lager which is citrusy and sunny.", 
+                    "established": "1980", 
+                    "id": "nHLlnK", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/nHLlnK/upload_MiY6g2-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/nHLlnK/upload_MiY6g2-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/nHLlnK/upload_MiY6g2-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "id": "IaQrxj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.7246028, 
+                            "locality": "Chico", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -121.8157154, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "530-893-3520", 
+                            "postalCode": "95928", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1075 East 20th St", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.sierranevada.com/", 
+                            "yearOpened": "1980"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-03-29 20:56:05", 
+                            "id": "aqLvLE", 
+                            "inPlanning": "Y", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 35.390645, 
+                            "locality": "Mills River", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -82.567939, 
+                            "name": "Asheville", 
+                            "openToPublic": "N", 
+                            "postalCode": "28759", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2012-03-29 20:56:05"
+                        }
+                    ], 
+                    "name": "Sierra Nevada Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-19 11:57:37", 
+                    "website": "http://www.sierranevada.com/"
+                }
+            ], 
+            "createDate": "2014-04-23 10:15:03", 
+            "id": "oqsjeJ", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/oqsjeJ/upload_3GxciY-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/oqsjeJ/upload_3GxciY-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/oqsjeJ/upload_3GxciY-medium.png"
+            }, 
+            "name": "Steady As She Gose", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2014-04-23 11:53:29"
+        }, 
+        {
+            "abv": "4.5", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:44", 
+                    "description": "We carefully craft our world-class ales using only the finest ingredients; premium malted and roasted grains, hops, yeast, and pristine Boonville water straight from our own unique aquifer, and we never heat pasteurize or sterile filter our beers. Our tradition of carefully crafting inspired, flavorful, ales of the highest caliber has earned numerous awards, a loyal following, and our two-time placement among the World Beer Championships\u00ae as well as a 2011 Gold Medal at the GABF\u00ae for our Brother David's Double.", 
+                    "established": "1987", 
+                    "id": "L2dAEr", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/L2dAEr/upload_L1NIIw-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/L2dAEr/upload_L1NIIw-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/L2dAEr/upload_L1NIIw-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:44", 
+                            "hoursOfOperation": "Mon - Thu: 11:00 am - 6:00 pm\r\nFri: 11:00 am - 7:00 pm\r\nSat - Sun: 11:00 am - 6:00 pm", 
+                            "id": "rGUQ04", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.001374, 
+                            "locality": "Boonville", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -123.355935, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "800-207-2337", 
+                            "postalCode": "95415", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "17700 Boonville Rd", 
+                            "updateDate": "2012-03-21 19:08:01", 
+                            "website": "http://www.avbc.com/"
+                        }
+                    ], 
+                    "mailingListUrl": "http://avbc.us6.list-manage.com/subscribe/post?u=2cb45008e5e76e0fc31ba0010&id=1f7b2fc315", 
+                    "name": "Anderson Valley Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-05 13:32:14", 
+                    "website": "http://www.avbc.com/"
+                }
+            ], 
+            "createDate": "2013-11-01 12:47:22", 
+            "id": "gOJV7C", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/gOJV7C/upload_XIxJ8G-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/gOJV7C/upload_XIxJ8G-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/gOJV7C/upload_XIxJ8G-medium.png"
+            }, 
+            "name": "The Kimmie, The Yink and the Holy Gose Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.4", 
+                "abvMin": "4.4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Traditional examples of Gose are spontaneously fermented, similarly to Belgian-style gueuze/lambic beers, and should exhibit complexity of acidic, flavor and aroma contributed by introduction of wild yeast and bacteria into the fermentation. A primary difference between Belgian Gueuze and German Gose is that Gose is served at a much younger age. Gose is typically pale gold to pale amber in color and typically contains malted barley, unmalted wheat with some traditional varieties containing oats. Hop character and malt flavors and aromas are negligible. Lemony or other citrus-like qualities are often present in aroma and on the palate. Some versions may have the spicy character of added coriander in aroma and on the palate at low to medium levels. Salt (table salt) character is also traditional in low amounts. Horsey, leathery, earthy aroma and flavors contributed by Brettanomyces yeasts may be evident but have a very low profile, as this beer is not excessively aged. Modern German Gose breweries typically introduce only pure beer yeast strains for fermentation. Low to medium lactic acid character is evident in all examples as sharp, refreshing sourness. Gose is typically enjoyed fresh, carbonated, and cloudy/hazy with yeast character, and may have evidence of continued fermentation activity. Overall complexity of flavors and aromas are sought while maintaining an ideal balance between acidity, yeast-enhanced spice and refreshment is ideal.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 47, 
+                "name": "Leipzig-Style Gose", 
+                "ogMin": "1.036", 
+                "srmMax": "9", 
+                "srmMin": "3"
+            }, 
+            "styleId": 47, 
+            "updateDate": "2014-02-10 10:13:24"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 21
+}

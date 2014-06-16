@@ -1,0 +1,282 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:48", 
+                    "description": "Like most things, there are various ways to make mead. At Brothers Drake, our philosophy on making mead is based on the following principles:\r\n\r\n1. Start Local: We buy local honey, support local agriculture, and produce a local product.\r\n\r\n2. Use the Best: We look for the highest quality local product on the market, ordering from the best from the source closest to Ohio.\r\n\r\n3. No Heat: We do not boil our honey or any water used in production. The No Heat Method keeps honey flavors true to the source and a better mead.\r\n\r\n4. No Added Sulfites: Unlike grapes which have wild yeast growing on them, honey is naturally antiseptic and antibiotic, so no sulfites needed.\r\n\r\n5. Build community: We share our knowledge openly and are grateful to people everywhere who ask questions, share their perspective, and engage in an open collaborative dialogue on mead-making.\r\n\r\n6. Embrace creativity: Our mead can be paired with wonderful cheeses, appetizers, and entrees, as well as used in cooking and in mixed drinks.\r\n\r\nThese basic principles guide our craft, our partnerships, and our practices. We look forward to sharing a drink with you!", 
+                    "id": "IEFRaK", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:48", 
+                            "id": "0Y6wSh", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.987311, 
+                            "locality": "Columbus", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.004595, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "614-388-8765", 
+                            "postalCode": "43201", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "26 E. 5th Avenue", 
+                            "updateDate": "2012-03-21 19:08:04", 
+                            "website": "http://brothersdrake.com/"
+                        }
+                    ], 
+                    "name": "Brothers Drake Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-06-16 20:17:24", 
+                    "website": "http://brothersdrake.com/"
+                }
+            ], 
+            "createDate": "2012-06-10 21:05:31", 
+            "description": "Dessert in a glass. Holidays in a glass. Americana in a glass. Apple pie mead is the taste of everything we love celebrating.  A simple combination of local fresh apple cider from Hugus Farms in Rushville, Ohio, and our local wildflower honey with the addition of the quintessential American Pie spices \u2013 cinnamon, nutmeg & clove.", 
+            "id": "9nKX9m", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/9nKX9m/upload_y0MAWU-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/9nKX9m/upload_y0MAWU-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/9nKX9m/upload_y0MAWU-medium.png"
+            }, 
+            "name": "Apple Pie", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. Some of the best strong examples have the taste and aroma of an aged Calvados (apple brandy from northern France), while subtle, dry versions can taste similar to many fine white wines.", 
+                "id": 143, 
+                "name": "Cyser (Apple Melomel)"
+            }, 
+            "styleId": 143, 
+            "updateDate": "2012-09-08 15:56:22"
+        }, 
+        {
+            "abv": "8.5", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:03", 
+                    "description": "New Holland Brewing Company\u2019s deep roots in the craft industry go back to 1997. Our role as an integral member of the artisan approach is something we take seriously, yet engage lightheartedly.\r\n\r\nWe believe the art of craft lives in fostering rich experiences for our customers, through creating authentic beer, spirits and food while providing great service. Recognized for our creativity and artistry, our mission to improve the lives of craft consumers everywhere is seen in our diverse, balanced collection of beer and spirits.\r\n\r\nNew Holland brews and distills at two locations in Holland, Michigan: our production facility on the north side and our Pub & Restaurant in downtown Holland. The restaurant welcomes guests seven days a week and production tours are on Saturday afternoons. We welcome visitors and locals alike, and appreciate the opportunity to share our artisan approach through warm hospitality and enriching education.\r\n\r\nWith just under 150 employees, New Holland Brewing Co. sells its beer and spirits across a growing regional landscape, while anchored in the upper Midwest. In 2012, our production facility underwent substantial development including the tripling of our brewing capacity through outdoor fermentation, the addition of a centrifuge and the expansion of our Dragon\u2019s Milk cellar. In 2013, the company is expanding its distilling capabilities, renovating the downtown Holland Pub & Restaurant and focusing on the integration of Michigan agriculture; hops, wheat and barley, into several new and existing brands.", 
+                    "established": "1996", 
+                    "id": "AqEUBQ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/AqEUBQ/upload_g4NjrI-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/AqEUBQ/upload_g4NjrI-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/AqEUBQ/upload_g4NjrI-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:03", 
+                            "id": "awYZlE", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 42.790315, 
+                            "locality": "Holland", 
+                            "locationType": "office", 
+                            "locationTypeDisplay": "Office", 
+                            "longitude": -86.103885, 
+                            "name": "Worldwide Headquarters", 
+                            "openToPublic": "N", 
+                            "phone": "616-355-6422", 
+                            "postalCode": "49423", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "66 East 8th Street", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://newhollandbrew.com/", 
+                            "yearOpened": "1996"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-03-07 14:26:41", 
+                            "id": "qncYRx", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 42.817486, 
+                            "locality": "Holland", 
+                            "locationType": "office", 
+                            "locationTypeDisplay": "Office", 
+                            "longitude": -86.113203, 
+                            "name": "Sales & Marketing", 
+                            "openToPublic": "N", 
+                            "postalCode": "49424", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "684 Commerce Court", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://newhollandbrew.com/", 
+                            "yearOpened": "1996"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-03-07 14:27:26", 
+                            "hoursOfOperation": "Brewery tours are at Noon and 3pm. Tours are $10 per person and include samples of our beer as well as a take-home New Holland pint glass.", 
+                            "id": "T7LMbO", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.81753, 
+                            "locality": "Holland", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -86.113203, 
+                            "name": "Production Facility", 
+                            "openToPublic": "Y", 
+                            "phone": "616-355-6422", 
+                            "postalCode": "49424", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "690 Commerce Court", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://newhollandbrew.com/", 
+                            "yearOpened": "1996"
+                        }
+                    ], 
+                    "name": "New Holland Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 16:27:11", 
+                    "website": "http://newhollandbrew.com/"
+                }, 
+                {
+                    "createDate": "2013-10-29 15:40:37", 
+                    "id": "mAAJMW", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-11-13 18:03:31", 
+                            "id": "hCCFgr", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.074784, 
+                            "locality": "Spring Lake", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -86.1585, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(616) 842-4337", 
+                            "postalCode": "49456", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "14921 Cleveland St", 
+                            "updateDate": "2013-11-13 18:03:31", 
+                            "website": "http://www.vandermill.com/"
+                        }
+                    ], 
+                    "name": "Vander Mill Winery, Cider Mill & Microbrewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-11-13 18:02:18", 
+                    "website": "http://www.vandermill.com/"
+                }
+            ], 
+            "createDate": "2014-03-21 12:44:59", 
+            "description": "Puff the Magic Cyser is a collaborative barrel aged product between Vander Mill and New Holland Brewing Company.\r\n\r\nThis cyser is fermented with Michigan wildflower honey to complete dryness and then aged in New Holland Dragon's Milk barrels for 8 months.  The richness from the stout and depth of the barrel flavor make this product very complex.  A hint of the honey and acidity of the cider round out the profile.", 
+            "id": "LDo4fA", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/LDo4fA/upload_R2fNu8-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/LDo4fA/upload_R2fNu8-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/LDo4fA/upload_R2fNu8-medium.png"
+            }, 
+            "name": "Puff The Magic Cyser", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. Some of the best strong examples have the taste and aroma of an aged Calvados (apple brandy from northern France), while subtle, dry versions can taste similar to many fine white wines.", 
+                "id": 143, 
+                "name": "Cyser (Apple Melomel)"
+            }, 
+            "styleId": 143, 
+            "updateDate": "2014-03-21 12:49:47"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 2
+}

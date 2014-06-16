@@ -1,0 +1,335 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "5.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:07", 
+                    "description": "Rogue Ales was founded in 1988 by Jack Joyce, Rob Strasser and Bob Woodell, three corporate types who wanted to go into the food/beverage industry. Rogue's first brewpub was located in Ashland, Oregon and was a 10bbl brewsystem. Rogue opened a second brewpub, 15bbl brewsystem, in May 1989 located in Newport, Oregon. Rogue closed its Ashland operation in 1997, after the great flood destroyed the place. In 1991, the 15bbl system, named Howard after John Maier's former boss, from the Newport brewpub was transferred across the bay to the current brewery and upgraded to a 30bbl system. In 1998 Rogue bought a 50bbl brewsystem, named Kobe. Kobe is the only brewsystem in use. Tours: We offer brewery tours every day at 3 pm (followed by a distillery tour at 4pm). Go up to the bar inside the brewery (Brewers on the Bay) and check in with the bartender and the tour will commence. Please call ahead if you have a large group and or to verify the tour time...Brewer's on the Bay phone is 541-867-3664. The view from Brewers on the Bay includes the marina (outside), and the bottling line and brew kettles (inside).", 
+                    "established": "1987", 
+                    "id": "X0l98q", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/X0l98q/upload_G7JsDk-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/X0l98q/upload_G7JsDk-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/X0l98q/upload_G7JsDk-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:07", 
+                            "id": "m3Fcel", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.620173, 
+                            "locality": "Newport", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -124.0520565, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-541-867-3664", 
+                            "postalCode": "97365", 
+                            "region": "Oregon", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2320 SE OSU Drive", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.rogue.com/", 
+                            "yearOpened": "1988"
+                        }
+                    ], 
+                    "name": "Rogue Ales", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-19 14:08:55", 
+                    "website": "http://www.rogue.com/"
+                }
+            ], 
+            "createDate": "2012-12-08 17:12:10", 
+            "description": "19 Original Colonies Mead is brewed using 5 ingredients: Rogue Hopyard Honey, Wild Flower Honey, Jasmine Silver Tip Green Tea Leaves, Champagne Yeast & Free Range Coastal Water. No Chemicals, additives or preservatives were used.", 
+            "id": "295GZo", 
+            "isOrganic": "Y", 
+            "name": "19 Original Colonies", 
+            "originalGravity": "1.008", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This mead should exhibit the character of all of the ingredients in varying degrees, and should show a good blending or balance between the various flavor elements. Whatever ingredients are included, the result should be identifiable as a honey-based fermented beverage.", 
+                "id": 148, 
+                "name": "Open Category Mead"
+            }, 
+            "styleId": 148, 
+            "updateDate": "2012-12-10 11:37:19"
+        }, 
+        {
+            "abv": "13", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:48", 
+                    "description": "Like most things, there are various ways to make mead. At Brothers Drake, our philosophy on making mead is based on the following principles:\r\n\r\n1. Start Local: We buy local honey, support local agriculture, and produce a local product.\r\n\r\n2. Use the Best: We look for the highest quality local product on the market, ordering from the best from the source closest to Ohio.\r\n\r\n3. No Heat: We do not boil our honey or any water used in production. The No Heat Method keeps honey flavors true to the source and a better mead.\r\n\r\n4. No Added Sulfites: Unlike grapes which have wild yeast growing on them, honey is naturally antiseptic and antibiotic, so no sulfites needed.\r\n\r\n5. Build community: We share our knowledge openly and are grateful to people everywhere who ask questions, share their perspective, and engage in an open collaborative dialogue on mead-making.\r\n\r\n6. Embrace creativity: Our mead can be paired with wonderful cheeses, appetizers, and entrees, as well as used in cooking and in mixed drinks.\r\n\r\nThese basic principles guide our craft, our partnerships, and our practices. We look forward to sharing a drink with you!", 
+                    "id": "IEFRaK", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:48", 
+                            "id": "0Y6wSh", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.987311, 
+                            "locality": "Columbus", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.004595, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "614-388-8765", 
+                            "postalCode": "43201", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "26 E. 5th Avenue", 
+                            "updateDate": "2012-03-21 19:08:04", 
+                            "website": "http://brothersdrake.com/"
+                        }
+                    ], 
+                    "name": "Brothers Drake Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-06-16 20:17:24", 
+                    "website": "http://brothersdrake.com/"
+                }
+            ], 
+            "createDate": "2012-02-08 11:18:04", 
+            "description": "Traditional beer technique in combination with mead makes this the beer lover\u2019s wine. We\u2019ve unleashed Cascade and Chinook Hops on our local wildflower honey. The light honey gets punched up a bit with citrus & pine notes and a slightly bitter finish.  Drink by the pint and order your favorite pub fare!", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "YqlxOY", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/YqlxOY/upload_AbK9An-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/YqlxOY/upload_AbK9An-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/YqlxOY/upload_AbK9An-medium.png"
+            }, 
+            "name": "Hopped Traditional", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This mead should exhibit the character of all of the ingredients in varying degrees, and should show a good blending or balance between the various flavor elements. Whatever ingredients are included, the result should be identifiable as a honey-based fermented beverage.", 
+                "id": 148, 
+                "name": "Open Category Mead"
+            }, 
+            "styleId": 148, 
+            "updateDate": "2012-06-10 22:47:10"
+        }, 
+        {
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-06-09 13:24:54", 
+                    "description": "Upstate Brewing Company is a new production micro-brewery in the Southern Tier (Finger Lakes Region) of New York state. We are open Saturday afternoons 1-4 & you can watch our brew team in action most Saturdays. Our beers are currently on tap at restaurants and bars throughout the Southern Tier.", 
+                    "established": "2011", 
+                    "id": "Zpqu58", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Zpqu58/upload_OzuwAI-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Zpqu58/upload_OzuwAI-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Zpqu58/upload_OzuwAI-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-06-09 13:26:38", 
+                            "hoursOfOperation": "We are open Saturdays from 1-4 & ALL tastings are FREE! ANY growler will be filled for $8 (Cash/Check only for now)", 
+                            "id": "jC0TAa", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.133208, 
+                            "locality": "Elmira", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -76.812146, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "607-742-2750", 
+                            "postalCode": "14903", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3028 Lake Rd.", 
+                            "updateDate": "2012-09-25 00:30:57", 
+                            "website": "http://www.upstatebrewing.com", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Upstate Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-09-17 10:55:16", 
+                    "website": "http://www.upstatebrewing.com/"
+                }
+            ], 
+            "createDate": "2012-06-09 13:33:12", 
+            "description": "Braggot is a mead made with malt and honey. The malt makes it somewhat similar to beer or ale and it is sweet, yet similar to champagne, in terms of palate effect because of the large amount of honey that is used. This is a fantastic and refreshing drink with which to celebrate the second year of UBC's brewing of beer and the beginning of the sun's journey northward. In addition, it will be a great alternative to champagne for New Year's celebrations.", 
+            "id": "FtC5Y0", 
+            "isOrganic": "N", 
+            "name": "Solstice Celebration Braggot", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This mead should exhibit the character of all of the ingredients in varying degrees, and should show a good blending or balance between the various flavor elements. Whatever ingredients are included, the result should be identifiable as a honey-based fermented beverage.", 
+                "id": 148, 
+                "name": "Open Category Mead"
+            }, 
+            "styleId": 148, 
+            "updateDate": "2012-06-09 13:33:12"
+        }, 
+        {
+            "abv": "14", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:48", 
+                    "description": "Like most things, there are various ways to make mead. At Brothers Drake, our philosophy on making mead is based on the following principles:\r\n\r\n1. Start Local: We buy local honey, support local agriculture, and produce a local product.\r\n\r\n2. Use the Best: We look for the highest quality local product on the market, ordering from the best from the source closest to Ohio.\r\n\r\n3. No Heat: We do not boil our honey or any water used in production. The No Heat Method keeps honey flavors true to the source and a better mead.\r\n\r\n4. No Added Sulfites: Unlike grapes which have wild yeast growing on them, honey is naturally antiseptic and antibiotic, so no sulfites needed.\r\n\r\n5. Build community: We share our knowledge openly and are grateful to people everywhere who ask questions, share their perspective, and engage in an open collaborative dialogue on mead-making.\r\n\r\n6. Embrace creativity: Our mead can be paired with wonderful cheeses, appetizers, and entrees, as well as used in cooking and in mixed drinks.\r\n\r\nThese basic principles guide our craft, our partnerships, and our practices. We look forward to sharing a drink with you!", 
+                    "id": "IEFRaK", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:48", 
+                            "id": "0Y6wSh", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.987311, 
+                            "locality": "Columbus", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.004595, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "614-388-8765", 
+                            "postalCode": "43201", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "26 E. 5th Avenue", 
+                            "updateDate": "2012-03-21 19:08:04", 
+                            "website": "http://brothersdrake.com/"
+                        }
+                    ], 
+                    "name": "Brothers Drake Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-06-16 20:17:24", 
+                    "website": "http://brothersdrake.com/"
+                }
+            ], 
+            "createDate": "2012-06-10 21:00:09", 
+            "description": "Wild Ohio is mead in its most traditional form: simply honey, water and yeast. It\u2019s our mission statement in a bottle. We make it in Columbus from local honey and only sell it in Columbus. We use local wildflower honey, which is minimally processed and never boiled to keep the nuanced, light flavors of the honey in the finished mead. Slightly sweet and delicate, Wild Ohio pairs well with spicy foods and makes a sensible start to a number of our signature cocktails.", 
+            "id": "gWRIY2", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/gWRIY2/upload_6LC800-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/gWRIY2/upload_6LC800-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/gWRIY2/upload_6LC800-medium.png"
+            }, 
+            "name": "Wild Ohio", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This mead should exhibit the character of all of the ingredients in varying degrees, and should show a good blending or balance between the various flavor elements. Whatever ingredients are included, the result should be identifiable as a honey-based fermented beverage.", 
+                "id": 148, 
+                "name": "Open Category Mead"
+            }, 
+            "styleId": 148, 
+            "updateDate": "2012-06-10 23:49:23"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 4
+}

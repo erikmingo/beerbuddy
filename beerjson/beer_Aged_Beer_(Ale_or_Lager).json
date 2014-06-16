@@ -1,0 +1,812 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "12", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:56", 
+                    "established": "1993", 
+                    "id": "PrX8es", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/PrX8es/upload_qRZX8L-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/PrX8es/upload_qRZX8L-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/PrX8es/upload_qRZX8L-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:56", 
+                            "id": "5zetyE", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 45.5159094, 
+                            "locality": "Portland", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -122.6655299, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "503-232-6585", 
+                            "postalCode": "97214", 
+                            "region": "Oregon", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "61 SE Yamhill Street", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://hairofthedog.com/", 
+                            "yearOpened": "1993"
+                        }
+                    ], 
+                    "name": "Hair of the Dog Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-11-23 13:05:15", 
+                    "website": "http://hairofthedog.com/"
+                }
+            ], 
+            "createDate": "2012-07-14 04:25:12", 
+            "description": "Adam From The Wood is our Adam aged in American Oak barrels. First released in 2000, and released again in November 2011 in 12oz bottles. This 12% beer has lots of the typical HOTD aromas: Caramel, brown sugar, tons of raisin and tobacco. Fig, date, and plum fruitiness in that order. This has a fairly strong earthy vinousness as well as oak vanilla.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 10, 
+                "name": "Oversized Wine Glass"
+            }, 
+            "glasswareId": 10, 
+            "id": "ecpjUJ", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ecpjUJ/upload_CIIXVW-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ecpjUJ/upload_CIIXVW-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ecpjUJ/upload_CIIXVW-medium.png"
+            }, 
+            "name": "Adam From The Wood", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Beers aged for over one year. Generally beers with high hopping rates, roast malt content, high alcohol content, complex herbal, smoke or fruit content (Wood aging, Brettanomyces characters and acidic beers must be classified or entered into other categories if that option is available), A brewer may brew any type of beer of any strength and enhance its character with extended and creative aging conditions. Beers in this category may be aged in bottles or any type of food grade vessel. In competition brewers may be required to state age of beer. Competition organizer may develop guidelines in which aged beers are subcategorized by aging time, vessel, styles, etc. Brewers should provide a statement describing the nature or style of the beer. This statement could include classic or other style, special ingredients, length of aging time, etc.", 
+                "id": 137, 
+                "name": "Aged Beer (Ale or Lager)"
+            }, 
+            "styleId": 137, 
+            "updateDate": "2012-07-15 00:41:08"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2014-04-09 22:11:41", 
+                    "description": "\"Barnaul Brewery\" - a modern and powerful enterprise producing the market only natural products: more than 25 varieties of beer, brew drinks and iced tea, which are presented in Siberia, the Urals and Central region.", 
+                    "id": "HoF0rr", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Russian Federation", 
+                                "isoCode": "RU", 
+                                "isoThree": "RUS", 
+                                "name": "RUSSIAN FEDERATION", 
+                                "numberCode": 643
+                            }, 
+                            "countryIsoCode": "RU", 
+                            "createDate": "2014-04-14 08:41:08", 
+                            "id": "EA5y03", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 53.319258, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 83.618334, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(3852) 30-28-94", 
+                            "postalCode": "656022", 
+                            "region": "Barnaul", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Traktovaya, 35", 
+                            "updateDate": "2014-04-14 08:42:02", 
+                            "website": "http://www.bpz.su/"
+                        }
+                    ], 
+                    "name": "Barnaul Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-14 08:40:07", 
+                    "website": "http://www.bpz.su/"
+                }
+            ], 
+            "createDate": "2014-04-09 22:12:47", 
+            "id": "3MvsUi", 
+            "isOrganic": "N", 
+            "name": "Golfschteiner", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Beers aged for over one year. Generally beers with high hopping rates, roast malt content, high alcohol content, complex herbal, smoke or fruit content (Wood aging, Brettanomyces characters and acidic beers must be classified or entered into other categories if that option is available), A brewer may brew any type of beer of any strength and enhance its character with extended and creative aging conditions. Beers in this category may be aged in bottles or any type of food grade vessel. In competition brewers may be required to state age of beer. Competition organizer may develop guidelines in which aged beers are subcategorized by aging time, vessel, styles, etc. Brewers should provide a statement describing the nature or style of the beer. This statement could include classic or other style, special ingredients, length of aging time, etc.", 
+                "id": 137, 
+                "name": "Aged Beer (Ale or Lager)"
+            }, 
+            "styleId": 137, 
+            "updateDate": "2014-04-14 08:48:08"
+        }, 
+        {
+            "abv": "5.3", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:00", 
+                    "description": "A craft brewery and tasting room: Small and family friendly, with an emphasis on sampling small-batch brews and sharing the experience with fellow beer lovers.", 
+                    "established": "2011", 
+                    "id": "YOdPoo", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/YOdPoo/upload_2bIBs3-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/YOdPoo/upload_2bIBs3-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/YOdPoo/upload_2bIBs3-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:00", 
+                            "extendedAddress": "Suite 8222", 
+                            "hoursOfOperation": "Mon - Thu: 12:00 pm - 8:00 pm\r\nFri: 12:00 pm - 10:00 pm\r\nSat: 11:00 am - 10:00 pm\r\nSun: 11:00 am - 8:00 pm", 
+                            "id": "a0ab7x", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.5629781, 
+                            "locality": "Lone Tree", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -104.894501, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "303-792-5822", 
+                            "postalCode": "80124", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "8200 Park Meadows Drive", 
+                            "updateDate": "2013-03-04 11:41:14", 
+                            "website": "http://www.lonetreebrewingco.com/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Lone Tree Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-13 19:14:28", 
+                    "website": "http://www.lonetreebrewingco.com/"
+                }
+            ], 
+            "createDate": "2013-08-13 18:56:31", 
+            "description": "A golden lager, clear as a mountain stream. This is a traditional Bavarian helles, bready and malty with a slight noble hop character.", 
+            "ibu": "25", 
+            "id": "sDrBWF", 
+            "isOrganic": "N", 
+            "name": "Mountain Mama Helles", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Beers aged for over one year. Generally beers with high hopping rates, roast malt content, high alcohol content, complex herbal, smoke or fruit content (Wood aging, Brettanomyces characters and acidic beers must be classified or entered into other categories if that option is available), A brewer may brew any type of beer of any strength and enhance its character with extended and creative aging conditions. Beers in this category may be aged in bottles or any type of food grade vessel. In competition brewers may be required to state age of beer. Competition organizer may develop guidelines in which aged beers are subcategorized by aging time, vessel, styles, etc. Brewers should provide a statement describing the nature or style of the beer. This statement could include classic or other style, special ingredients, length of aging time, etc.", 
+                "id": 137, 
+                "name": "Aged Beer (Ale or Lager)"
+            }, 
+            "styleId": 137, 
+            "updateDate": "2013-08-13 19:15:52"
+        }, 
+        {
+            "abv": "5.4", 
+            "breweries": [
+                {
+                    "createDate": "2013-08-08 18:03:14", 
+                    "description": "Established in 1989, our on-site brewery is rightly proud of its award winning beers. We brew a wide selection of British-style ales and German and Canadian beers that are created with old-world care and without compromise. No syrups, sugars or \"adjunct\" are used in our 100 percent grain mashes\u2014only barley and wheat malts, plus oatmeal in our special stout. All of our specialty malts are imported from the UK, as is our unique strain of yeast. The ales are naturally carbonated and left to settle or \"fine\" at cold temperatures, rather than being filtered. Filtration can remove much of the goodness from beer along with the haze. Another negative practice our Brewer avoids is pasteurization. Our natural and healthy brews are more lightly carbonated than the factory product, and served at a palatable 45 degrees F to bring out the fullness of the flavour for which we strive.", 
+                    "established": "1989", 
+                    "id": "BMC26E", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/BMC26E/upload_KateuV-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/BMC26E/upload_KateuV-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/BMC26E/upload_KateuV-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2013-08-12 17:27:49", 
+                            "hoursOfOperation": "24 hours a day (hotel & info)", 
+                            "id": "pcNq92", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.4285262, 
+                            "locality": "Victoria", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -123.3694717, 
+                            "name": "Swans Brewery", 
+                            "openToPublic": "N", 
+                            "phone": "1-800-668-7926", 
+                            "postalCode": "V8W 1N6", 
+                            "region": "British Columbia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "506 Pandora Ave", 
+                            "updateDate": "2013-08-12 18:00:23", 
+                            "website": "http://www.swanshotel.com", 
+                            "yearOpened": "1989"
+                        }
+                    ], 
+                    "name": "Swans Hotel, Pub & Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 22:08:34", 
+                    "website": "http://swanshotel.com"
+                }
+            ], 
+            "createDate": "2013-08-12 18:49:29", 
+            "description": "The \u201cchampagne of beer\u201d fermented slowly & aged a full six weeks. We use imported German hops, producing a balanced beer with a \u201choppy\u201d aroma & a full, soft texture.", 
+            "id": "P8tSzn", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/P8tSzn/upload_4IDl1B-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/P8tSzn/upload_4IDl1B-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/P8tSzn/upload_4IDl1B-medium.png"
+            }, 
+            "name": "Old Towne Bavarian Lager", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Beers aged for over one year. Generally beers with high hopping rates, roast malt content, high alcohol content, complex herbal, smoke or fruit content (Wood aging, Brettanomyces characters and acidic beers must be classified or entered into other categories if that option is available), A brewer may brew any type of beer of any strength and enhance its character with extended and creative aging conditions. Beers in this category may be aged in bottles or any type of food grade vessel. In competition brewers may be required to state age of beer. Competition organizer may develop guidelines in which aged beers are subcategorized by aging time, vessel, styles, etc. Brewers should provide a statement describing the nature or style of the beer. This statement could include classic or other style, special ingredients, length of aging time, etc.", 
+                "id": 137, 
+                "name": "Aged Beer (Ale or Lager)"
+            }, 
+            "styleId": 137, 
+            "updateDate": "2013-08-12 23:38:09"
+        }, 
+        {
+            "abv": "10.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:59", 
+                    "description": "Kane Brewing Company is a new craft brewery located on the coast of New Jersey. Our focus will be on American style and Belgian influenced ales. All of our handcrafted beers will be unfiltered and brewed locally in our custom built two-vessel brew house located in Ocean in Monmouth County. Our beers will be self-distributed and available on draft at restaurants and bars in coastal and northern New Jersey. We plan to launch in the spring of 2011.", 
+                    "established": "2011", 
+                    "id": "XqWTM7", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/XqWTM7/upload_pzUvUb-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/XqWTM7/upload_pzUvUb-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/XqWTM7/upload_pzUvUb-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:59", 
+                            "id": "2epqeB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.2368095, 
+                            "locality": "Ocean Township", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -74.0442545, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "917-359-9427", 
+                            "region": "New Jersey", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1750 Bloomsbury Avenue", 
+                            "updateDate": "2013-06-18 13:04:50", 
+                            "website": "http://www.kanebrewing.com/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Kane Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-11-25 12:44:43", 
+                    "website": "http://www.kanebrewing.com/"
+                }
+            ], 
+            "createDate": "2013-11-07 03:16:23", 
+            "description": "Seven Hundred Thirty was created to commemorate our first 730 days. It is a complex blend of several different beers \u2013 some barrel aged. Notable among them is 365 \u2013 our first anniversary ale aged for a year in fresh bourbon barrels. We also sampled and selected from our stock of oak-aged Belgian-style beers and added those that would contribute additional depth and character to this bottle. The final blend is a mosaic representing our brewery\u2019s past while pointing us towards our future. Stored properly, 730 should age well. Enjoy now or in the future.", 
+            "id": "dFPxsR", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/dFPxsR/upload_ekvraT-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/dFPxsR/upload_ekvraT-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/dFPxsR/upload_ekvraT-medium.png"
+            }, 
+            "name": "Seven Hundred Thirty", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Beers aged for over one year. Generally beers with high hopping rates, roast malt content, high alcohol content, complex herbal, smoke or fruit content (Wood aging, Brettanomyces characters and acidic beers must be classified or entered into other categories if that option is available), A brewer may brew any type of beer of any strength and enhance its character with extended and creative aging conditions. Beers in this category may be aged in bottles or any type of food grade vessel. In competition brewers may be required to state age of beer. Competition organizer may develop guidelines in which aged beers are subcategorized by aging time, vessel, styles, etc. Brewers should provide a statement describing the nature or style of the beer. This statement could include classic or other style, special ingredients, length of aging time, etc.", 
+                "id": 137, 
+                "name": "Aged Beer (Ale or Lager)"
+            }, 
+            "styleId": 137, 
+            "updateDate": "2014-04-11 19:18:40"
+        }, 
+        {
+            "abv": "5.9", 
+            "breweries": [
+                {
+                    "createDate": "2013-04-15 00:47:11", 
+                    "description": "Ilkley Brewery was re-established in the town after a gap of nearly 100 years in 2009. We have a clear philosophy - to brew world class beers distinctive in style, flavour and character. When we say we are passionate about beer, we mean REALLY passionate and this is clearly expressed in our award winning range of beers and ales. Our philosophy starts with the raw materials we use, water from The Yorkshire Dales, the finest English malted barley and hops, sourced by our brewer from all over the world. We let those simple ingredients speak for themselves and combine them with skill and patience to brew beers that are balanced, exceptional and just", 
+                    "established": "2009", 
+                    "id": "p4GtgL", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/p4GtgL/upload_bHfUcM-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/p4GtgL/upload_bHfUcM-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/p4GtgL/upload_bHfUcM-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-04-15 00:48:11", 
+                            "id": "fpVo3M", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 53.9296698, 
+                            "locality": "Ilkley", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -1.8130207, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+44 1943 604604", 
+                            "postalCode": "LS29 8JT", 
+                            "region": "West Yorkshire", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "40 Ashlands Road", 
+                            "updateDate": "2013-04-15 00:48:11", 
+                            "website": "http://www.ilkleybrewery.co.uk/"
+                        }
+                    ], 
+                    "name": "The Ilkley Brewery Co.", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-04-15 00:47:12", 
+                    "website": "http://www.ilkleybrewery.co.uk/"
+                }
+            ], 
+            "createDate": "2014-04-29 12:53:24", 
+            "description": "Brewed with renowned writer, Melissa Cole, author of bestseller \"Let Me Tell You About Beer\". We have used world famous Yorkshire Rhubarb to add a hint of sourness. There is earthy spice from the Saison yeast, and fresh vanilla to bring out the sweet notes from a blend of Noble Central European hops. A rich golden colour, this naturally hazy Siason is truly a world beer, refreshing on the palate, with a long, satisfying bittersweet finish. Due to popular demand, Siberia will now join our permanent list, and will be available bottle-conditioned as well as in cask.", 
+            "id": "4cDqfk", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/4cDqfk/upload_RhVOAT-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/4cDqfk/upload_RhVOAT-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/4cDqfk/upload_RhVOAT-medium.png"
+            }, 
+            "name": "Siberia Rhubarb Saison", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Beers aged for over one year. Generally beers with high hopping rates, roast malt content, high alcohol content, complex herbal, smoke or fruit content (Wood aging, Brettanomyces characters and acidic beers must be classified or entered into other categories if that option is available), A brewer may brew any type of beer of any strength and enhance its character with extended and creative aging conditions. Beers in this category may be aged in bottles or any type of food grade vessel. In competition brewers may be required to state age of beer. Competition organizer may develop guidelines in which aged beers are subcategorized by aging time, vessel, styles, etc. Brewers should provide a statement describing the nature or style of the beer. This statement could include classic or other style, special ingredients, length of aging time, etc.", 
+                "id": 137, 
+                "name": "Aged Beer (Ale or Lager)"
+            }, 
+            "styleId": 137, 
+            "updateDate": "2014-04-30 15:04:19"
+        }, 
+        {
+            "abv": "4.5", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2013-12-07 04:20:39", 
+                    "description": "Founded by Samuel Arthur Brain in 1882, S.A Brains is a regional brewery located in Cardiff, Wales and servicing Mid to South Wales and parts of England.", 
+                    "established": "1882", 
+                    "id": "dQejMa", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/dQejMa/upload_nWlQM4-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/dQejMa/upload_nWlQM4-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/dQejMa/upload_nWlQM4-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-12-07 04:47:25", 
+                            "extendedAddress": "Crawshay Street", 
+                            "id": "ObHayQ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 51.4657448, 
+                            "locality": "Cardiff", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -3.1936342, 
+                            "name": "Brains Craft Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "02920 402060", 
+                            "postalCode": "CF10 1SP", 
+                            "region": "Glamorgan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "The Cardiff Brewery", 
+                            "updateDate": "2013-12-09 00:01:31", 
+                            "website": "http://www.sabrain.com/"
+                        }
+                    ], 
+                    "name": "Brains Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-12-09 00:01:10", 
+                    "website": "http://www.sabrain.com"
+                }
+            ], 
+            "createDate": "2013-12-07 04:24:55", 
+            "description": "The Rev. James beer is one steeped in history. Acquired after the purchase of Crown Buckley, Rev. James is brewed to an original recipe dating back to 1885. The beer is named after one of the original owners of Buckley Brewery, the Rev, James Buckley, a business man with two conflicting roles \u2013 saving souls and satisfying thirsts.\r\n\r\nThe Rev. James is brewed to a traditional recipe and has been described as having a flavour not commonly available these days. Full-bodied and warming, The Rev. James is rich in palate, spicy and aromatic with a deeply satisfying finish.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "ompTmC", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ompTmC/upload_yYYDPw-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ompTmC/upload_yYYDPw-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ompTmC/upload_yYYDPw-medium.png"
+            }, 
+            "name": "The Rev. James", 
+            "servingTemperature": "cellar", 
+            "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Beers aged for over one year. Generally beers with high hopping rates, roast malt content, high alcohol content, complex herbal, smoke or fruit content (Wood aging, Brettanomyces characters and acidic beers must be classified or entered into other categories if that option is available), A brewer may brew any type of beer of any strength and enhance its character with extended and creative aging conditions. Beers in this category may be aged in bottles or any type of food grade vessel. In competition brewers may be required to state age of beer. Competition organizer may develop guidelines in which aged beers are subcategorized by aging time, vessel, styles, etc. Brewers should provide a statement describing the nature or style of the beer. This statement could include classic or other style, special ingredients, length of aging time, etc.", 
+                "id": 137, 
+                "name": "Aged Beer (Ale or Lager)"
+            }, 
+            "styleId": 137, 
+            "updateDate": "2013-12-09 00:16:22"
+        }, 
+        {
+            "abv": "7.1", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:44", 
+                    "description": "Allagash Brewing Company sold its first batch of beer in the summer of 1995. The Allagash story, however, has roots that go much further back then the ten years the Portland, Maine brewery has been in operation. The roots go into the early 1990?s when founder Rob Tod saw something missing in the American beer market. They are interwoven in the craft brewing movement that has allowed the creativity of brewers to flourish over the last twenty years, and those same roots have ties that go back centuries-to the monasteries of Belgium, whose own ancient brewing methods are now practiced today by the brewers of Allagash. Allagash began as a one-man operation, with Tod assuming all brewing duties in a small space located in a building on the outskirts of the maritime city of Portland. Tod had worked in brewery settings before and recognized a void within the craft brewing movement. While both German and British styles had become prevalent throughout the U.S., the ever-creative Belgian-styles were very difficult to find. Through his travels, Tod had sampled many of these unique beers and felt that the flavors and traditions of this European nation needed to be shared with the American drinking public. He designed a small 15-barrel brewhouse specifically to embrace the Belgian tradition of beer making, gathered the finest array of authentic raw materials and began his quest towards the production of traditional Belgian style ales.", 
+                    "established": "1995", 
+                    "id": "pdLPeS", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/pdLPeS/upload_0Ut2Nj-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/pdLPeS/upload_0Ut2Nj-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/pdLPeS/upload_0Ut2Nj-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:44", 
+                            "hoursOfOperation": "Mon - Fri: 9:30 am - 5:30 pm", 
+                            "id": "hP5LHZ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.702697, 
+                            "locality": "Portland", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -70.317975, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "800-330-5385", 
+                            "postalCode": "04103", 
+                            "region": "Maine", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "50 Industrial Way", 
+                            "updateDate": "2012-03-21 20:05:24", 
+                            "website": "http://www.allagash.com/", 
+                            "yearOpened": "1995"
+                        }
+                    ], 
+                    "name": "Allagash Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 12:41:15", 
+                    "website": "http://www.allagash.com/"
+                }
+            ], 
+            "createDate": "2014-03-07 22:16:19", 
+            "description": "Tiarna is a blend of two beers, one aged in oak and fermented with 100% brettanomyces and the other fermented in stainless with a blend of two belgian yeast strains. Both beers were brewed with a combination of 2 row and wheat malt in addition to specialty grains. It was hopped with Hallertau, Styrian Goldings and Cascade hops. The finished beer is dark golden in color with citrus, pineapple and bread in the aroma. The flavor of this tart beer has notes of grapefruit, lemon, and bread crust, and a long, dry finish.", 
+            "id": "hSrmFP", 
+            "isOrganic": "N", 
+            "name": "Tiarna", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Beers aged for over one year. Generally beers with high hopping rates, roast malt content, high alcohol content, complex herbal, smoke or fruit content (Wood aging, Brettanomyces characters and acidic beers must be classified or entered into other categories if that option is available), A brewer may brew any type of beer of any strength and enhance its character with extended and creative aging conditions. Beers in this category may be aged in bottles or any type of food grade vessel. In competition brewers may be required to state age of beer. Competition organizer may develop guidelines in which aged beers are subcategorized by aging time, vessel, styles, etc. Brewers should provide a statement describing the nature or style of the beer. This statement could include classic or other style, special ingredients, length of aging time, etc.", 
+                "id": 137, 
+                "name": "Aged Beer (Ale or Lager)"
+            }, 
+            "styleId": 137, 
+            "updateDate": "2014-03-09 22:23:37"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2014-04-09 22:11:41", 
+                    "description": "\"Barnaul Brewery\" - a modern and powerful enterprise producing the market only natural products: more than 25 varieties of beer, brew drinks and iced tea, which are presented in Siberia, the Urals and Central region.", 
+                    "id": "HoF0rr", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Russian Federation", 
+                                "isoCode": "RU", 
+                                "isoThree": "RUS", 
+                                "name": "RUSSIAN FEDERATION", 
+                                "numberCode": 643
+                            }, 
+                            "countryIsoCode": "RU", 
+                            "createDate": "2014-04-14 08:41:08", 
+                            "id": "EA5y03", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 53.319258, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 83.618334, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(3852) 30-28-94", 
+                            "postalCode": "656022", 
+                            "region": "Barnaul", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Traktovaya, 35", 
+                            "updateDate": "2014-04-14 08:42:02", 
+                            "website": "http://www.bpz.su/"
+                        }
+                    ], 
+                    "name": "Barnaul Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-14 08:40:07", 
+                    "website": "http://www.bpz.su/"
+                }
+            ], 
+            "createDate": "2014-04-09 22:12:05", 
+            "id": "R3D4LH", 
+            "isOrganic": "N", 
+            "name": "\u0411\u0430\u0440\u043d\u0430\u0443\u043b\u044c\u0441\u043a\u043e\u0435 \u0436\u0438\u0432\u043e\u0435", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Beers aged for over one year. Generally beers with high hopping rates, roast malt content, high alcohol content, complex herbal, smoke or fruit content (Wood aging, Brettanomyces characters and acidic beers must be classified or entered into other categories if that option is available), A brewer may brew any type of beer of any strength and enhance its character with extended and creative aging conditions. Beers in this category may be aged in bottles or any type of food grade vessel. In competition brewers may be required to state age of beer. Competition organizer may develop guidelines in which aged beers are subcategorized by aging time, vessel, styles, etc. Brewers should provide a statement describing the nature or style of the beer. This statement could include classic or other style, special ingredients, length of aging time, etc.", 
+                "id": 137, 
+                "name": "Aged Beer (Ale or Lager)"
+            }, 
+            "styleId": 137, 
+            "updateDate": "2014-04-14 08:48:23"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2014-04-09 22:07:56", 
+                    "id": "fUWCiQ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/fUWCiQ/upload_P9jcDi-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/fUWCiQ/upload_P9jcDi-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/fUWCiQ/upload_P9jcDi-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Russian Federation", 
+                                "isoCode": "RU", 
+                                "isoThree": "RUS", 
+                                "name": "RUSSIAN FEDERATION", 
+                                "numberCode": 643
+                            }, 
+                            "countryIsoCode": "RU", 
+                            "createDate": "2014-04-14 08:46:50", 
+                            "id": "SnXaIv", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "locality": "Suzdal ray.", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+7 (4922) 77-77-61", 
+                            "postalCode": "601279", 
+                            "region": "Vladimir obl.", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Chirikovo Chirikovo", 
+                            "updateDate": "2014-04-14 08:46:50", 
+                            "website": "http://suzdalbeer.ru/"
+                        }
+                    ], 
+                    "name": "Suzdal brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-14 08:45:42", 
+                    "website": "http://suzdalbeer.ru/"
+                }
+            ], 
+            "createDate": "2014-04-09 22:10:24", 
+            "id": "ojUGBq", 
+            "isOrganic": "N", 
+            "name": "\u042e\u0437\u0431\u0435\u0440\u0433", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Beers aged for over one year. Generally beers with high hopping rates, roast malt content, high alcohol content, complex herbal, smoke or fruit content (Wood aging, Brettanomyces characters and acidic beers must be classified or entered into other categories if that option is available), A brewer may brew any type of beer of any strength and enhance its character with extended and creative aging conditions. Beers in this category may be aged in bottles or any type of food grade vessel. In competition brewers may be required to state age of beer. Competition organizer may develop guidelines in which aged beers are subcategorized by aging time, vessel, styles, etc. Brewers should provide a statement describing the nature or style of the beer. This statement could include classic or other style, special ingredients, length of aging time, etc.", 
+                "id": 137, 
+                "name": "Aged Beer (Ale or Lager)"
+            }, 
+            "styleId": 137, 
+            "updateDate": "2014-04-14 08:48:19"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 10
+}

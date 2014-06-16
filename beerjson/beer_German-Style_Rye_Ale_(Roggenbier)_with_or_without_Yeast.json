@@ -1,0 +1,2258 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "10", 
+            "available": {
+                "description": "Beer is not available.", 
+                "id": 3, 
+                "name": "Not Available"
+            }, 
+            "availableId": 3, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:44", 
+                    "description": "Allagash Brewing Company sold its first batch of beer in the summer of 1995. The Allagash story, however, has roots that go much further back then the ten years the Portland, Maine brewery has been in operation. The roots go into the early 1990?s when founder Rob Tod saw something missing in the American beer market. They are interwoven in the craft brewing movement that has allowed the creativity of brewers to flourish over the last twenty years, and those same roots have ties that go back centuries-to the monasteries of Belgium, whose own ancient brewing methods are now practiced today by the brewers of Allagash. Allagash began as a one-man operation, with Tod assuming all brewing duties in a small space located in a building on the outskirts of the maritime city of Portland. Tod had worked in brewery settings before and recognized a void within the craft brewing movement. While both German and British styles had become prevalent throughout the U.S., the ever-creative Belgian-styles were very difficult to find. Through his travels, Tod had sampled many of these unique beers and felt that the flavors and traditions of this European nation needed to be shared with the American drinking public. He designed a small 15-barrel brewhouse specifically to embrace the Belgian tradition of beer making, gathered the finest array of authentic raw materials and began his quest towards the production of traditional Belgian style ales.", 
+                    "established": "1995", 
+                    "id": "pdLPeS", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/pdLPeS/upload_0Ut2Nj-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/pdLPeS/upload_0Ut2Nj-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/pdLPeS/upload_0Ut2Nj-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:44", 
+                            "hoursOfOperation": "Mon - Fri: 9:30 am - 5:30 pm", 
+                            "id": "hP5LHZ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.702697, 
+                            "locality": "Portland", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -70.317975, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "800-330-5385", 
+                            "postalCode": "04103", 
+                            "region": "Maine", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "50 Industrial Way", 
+                            "updateDate": "2012-03-21 20:05:24", 
+                            "website": "http://www.allagash.com/", 
+                            "yearOpened": "1995"
+                        }
+                    ], 
+                    "name": "Allagash Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 12:41:15", 
+                    "website": "http://www.allagash.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:42:39", 
+            "description": "Brewed with Belgian Pilsner Malt and 25% Rye malt, the beer is full-bodied with a spicy, herbal taste. A floral note arises with the addition of Yarrow, which is a flowering plant that was historically used as an alternative to hops. The beer is hopped with Warrior and Brewers Gold which impart a subtle bitterness.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "4hjkUb", 
+            "isOrganic": "N", 
+            "name": "Allagash Fluxus '07", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2013-11-26 12:28:52", 
+            "year": 2007
+        }, 
+        {
+            "abv": "4.9", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:48", 
+                    "description": "Set in a grand Mt. Vernon townhouse, The Brewer's Art offers many temptations for your palate. Our seasonally-influenced menu of European-style country fare features meats, fish, seafood, pasta, and vegetarian offerings.  Dinner is served daily between 5:30pm - 9:00pm (later on Thursdays, Fridays and Saturdays) and light fare is available from 4:00pm - 11:00pm. Our creative pastry chef prepares our homemade desserts. In addition to brewing our fine beers on the premises, we offer a carefully picked selection of beers and fine wines from around the world, and one of Baltimore's best selections of scotches and spirits.", 
+                    "id": "YytkpO", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:48", 
+                            "id": "3Bky4P", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.302771, 
+                            "locality": "Baltimore", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -76.616387, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "410-547-6925", 
+                            "postalCode": "21201", 
+                            "region": "Maryland", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1106 N. Charles St.", 
+                            "updateDate": "2013-07-22 11:55:51", 
+                            "website": "http://www.belgianbeer.com"
+                        }
+                    ], 
+                    "name": "Brewer's Art", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:04", 
+                    "website": "http://www.belgianbeer.com"
+                }, 
+                {
+                    "createDate": "2012-01-03 02:41:52", 
+                    "description": "The fact that D.C. has become a world-class beer town is undeniable. The choices available to the local beer nerdery are staggering and ever expanding. The neighborhood corner stores continue to add microbrews to their stock and it seems that a dynamite draft selection is essential to any new bar that opens. Restaurants regularly hold beer dinners featuring multi-course food and beer pairings and for seven days in the spring, during DC Beer Week, the number of beer-themed events can make the head spin. At a handful of downtown brewpubs the beer enthusiast can sample a variety of house made brews. What D.C. has not had in over 60 years, however, is a brewery whose product is available in local stores and on tap outside of its site of production.", 
+                    "established": "2009", 
+                    "id": "KRB0Bo", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/KRB0Bo/upload_4HXPU9-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/KRB0Bo/upload_4HXPU9-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/KRB0Bo/upload_4HXPU9-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:52", 
+                            "hoursOfOperation": "*Hours are typically 1-4pm, Saturdays. Follow us on Facebook & Twitter for schedule changes.\r\nTours will be held at 1:30, 2:30, & 3:30.", 
+                            "id": "u4OLtt", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.929628, 
+                            "locality": "Washington", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -76.960438, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "202-621-8890", 
+                            "postalCode": "20018", 
+                            "region": "District of Columbia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3178-B Bladensburg Rd. NE", 
+                            "updateDate": "2012-06-14 17:14:21", 
+                            "website": "http://www.dcbrau.com/", 
+                            "yearOpened": "2009"
+                        }
+                    ], 
+                    "name": "DC Brau Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-06-14 17:13:54", 
+                    "website": "http://www.dcbrau.com"
+                }, 
+                {
+                    "createDate": "2012-01-03 02:41:52", 
+                    "description": "2012 GREAT AMERICAN BEER FESTIVAL SMALL BREWPUB and SMALL BREWPUB BREWER OF THE YEAR & 2010 WORLD BEER CUP CHAMPION BREWERY & SMALL BREWPUB, the award winning Basecamp Brewpub is situated in the majestic valley of the Blue Ridge Mountains with a lodge style atmosphere. We brew authentic craft beer in our brewhouse with a traditional German style brewing system and pour fresh brews daily from 16 taps in the pub area. Our menu specializes in oak wood -fired smoked dishes and local fare. We offer children their own special menu too!  Basecamp is open daily: 11:30pm serving lunch & dinner.", 
+                    "established": "2008", 
+                    "id": "iw1hDB", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/iw1hDB/upload_Ob2MgF-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/iw1hDB/upload_Ob2MgF-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/iw1hDB/upload_Ob2MgF-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:52", 
+                            "id": "9WPTNZ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 37.8704968, 
+                            "locality": "Roseland", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -78.9188874, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "434-361-1001", 
+                            "postalCode": "22967", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "200 Mosbys Run", 
+                            "updateDate": "2014-05-22 09:53:34", 
+                            "website": "http://dbbrewingcompany.com/", 
+                            "yearOpened": "2008"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-08-12 03:43:55", 
+                            "hoursOfOperation": "Wednesday & Thursday open 1pm - 7pm.  Friday & Saturday open 1pm - 8pm.  Sunday open 1pm - 6pm", 
+                            "id": "k1lnNr", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.8220198, 
+                            "locality": "Lexington", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.3922619, 
+                            "name": "Devils Backbone Brewing Company - Outpost", 
+                            "openToPublic": "Y", 
+                            "phone": "540.462.6200", 
+                            "postalCode": "24450", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "50 Northwind Lane", 
+                            "updateDate": "2014-05-22 09:53:25", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Devils Backbone Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 12:50:07", 
+                    "website": "http://dbbrewingcompany.com/"
+                }
+            ], 
+            "createDate": "2013-02-22 17:44:53", 
+            "description": "Devil\u2019s Backbone Brewing Company, The Brewer\u2019s Art and DC Brau joined forces to create this B\u00fcrger Roggen Pils that is intended to be a flavorful, sessionable beer at 4.9% ABV", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "EXviU1", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/EXviU1/upload_SOyX1b-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/EXviU1/upload_SOyX1b-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/EXviU1/upload_SOyX1b-medium.png"
+            }, 
+            "name": "Beggars & Thieves", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2013-03-21 12:31:12"
+        }, 
+        {
+            "abv": "4.7", 
+            "available": {
+                "description": "Available during the fall months.", 
+                "id": 7, 
+                "name": "Fall"
+            }, 
+            "availableId": 7, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:10", 
+                    "description": "The Prodigal Brewery is an award winning brewery in the White Mountains of New Hampshire, specializing in German-inspired farmstead ales and lagers.", 
+                    "established": "2010", 
+                    "id": "KYZTeH", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/KYZTeH/upload_aIClfN-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/KYZTeH/upload_aIClfN-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/KYZTeH/upload_aIClfN-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:10", 
+                            "id": "f4HWSu", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.7424166, 
+                            "locality": "Effingham", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -71.0677108, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "N", 
+                            "phone": "603-539-2210", 
+                            "postalCode": "03882", 
+                            "region": "New Hampshire", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "678 Town House Rd", 
+                            "updateDate": "2014-01-06 12:17:05", 
+                            "website": "http://www.theprodigalbrewery.com/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "The Prodigal Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-06 17:58:05", 
+                    "website": "http://www.theprodigalbrewery.com/"
+                }
+            ], 
+            "createDate": "2014-01-02 17:57:47", 
+            "description": "Our Curse of the Rye Wolf  Roggenbier  is a German Rye ale brewed with German Pilsner and spicy Rye malts and fermented with our Hefeweizen yeast, yielding a malty, slightly tangy flavor with a clove-like spice finish \u2026 our liquid bread in a glass!", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "ibu": "26", 
+            "id": "42v5Aa", 
+            "isOrganic": "N", 
+            "name": "Curse of the Rye-Wolf", 
+            "originalGravity": "1.052", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "srm": {
+                "hex": "CF6900", 
+                "id": 12, 
+                "name": "12"
+            }, 
+            "srmId": 12, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2014-02-10 11:31:12"
+        }, 
+        {
+            "abv": "4.7", 
+            "available": {
+                "description": "Available during the fall months.", 
+                "id": 7, 
+                "name": "Fall"
+            }, 
+            "availableId": 7, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:56", 
+                    "description": "Like most real brewers, Good People started out with humble beginnings and no intention of ever starting a business. A labor of love in which long brew days in the garage, bad equipment, curious dogs (we still blame them for a bad batch or two) and hanging out with friends became commonplace. Once it took root, this hobby turned into a passion (along with some really solid beers).\r\n\r\nWe took our wares to football games, parties, and cookouts. Before too long, folks began requesting our beer. It\u2019s pretty fun to have someone you don\u2019t even know walk right smack dab up to you and tell you how much they like your beer. We didn\u2019t set out to start a business, the business just found us. \r\n\r\n\u201cOnce in a while you get shown the light in the strangest of places if you look at it right\u201d Robert Hunter\r\n\r\nWe wanted to brew our beer and create something that would make our families, friends, community, and ourselves proud in what we were doing. We wanted to give back and help support those that helped support us.  We wanted to represent the unique qualities of the South that make us proud to be southerners. \r\n\r\nGood People Brewing Company seemed like the perfect fit.  Good People describes the kind, humble, concerned, and respected folks all throughout the South, no matter if your speaking singularly or plurally. That is what we strive for here at Good People Brewing Company\u2026.to be good people. \r\n\r\nIn September of 2007, we acquired our equipment and started getting our brewery put together. It was a long, frustrating, and tiring process\u2026.but it was flat worth every bit of it all.\r\n\r\nSo if you are looking for something made in small batches with high quality ingredients and pride, please give us a shot.\r\n\r\nThe Brewery\r\nWe brew on a two kettle, combi-tank and brew kettle, 20 bbl system manufactured by New World Systems. New World is now Premier Stainless and Rob and Alan are two of the best in the business.\r\n\r\nWe have three 20 bbl fermenters and one 20 bbl bright tank.", 
+                    "established": "2007", 
+                    "id": "fib7Lb", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/fib7Lb/upload_l7sTg1-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/fib7Lb/upload_l7sTg1-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/fib7Lb/upload_l7sTg1-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:56", 
+                            "hoursOfOperation": "Taproom Hours\r\nWednesday: 3pm - 8pm\r\nThursday: 3pm - 8pm\r\nFriday: 3pm - 8pm\r\nSaturday: 1pm - 4pm", 
+                            "id": "pj4HJk", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 33.50713, 
+                            "locality": "Birmingham", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -86.811894, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "35223", 
+                            "region": "Alabama", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "114 14th Street South", 
+                            "updateDate": "2012-03-21 20:05:29", 
+                            "website": "http://www.goodpeoplebrewing.com/", 
+                            "yearOpened": "2007"
+                        }
+                    ], 
+                    "name": "Good People Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-07-21 23:10:15", 
+                    "website": "http://www.goodpeoplebrewing.com/"
+                }
+            ], 
+            "createDate": "2012-01-23 13:44:24", 
+            "description": "A limited, seasonal offering for the fall. A weizen nose with grainy, clove, and spicy flavors dominating the fruitiness experienced in other familiar weizens.", 
+            "ibu": "18", 
+            "id": "HSHq1V", 
+            "isOrganic": "N", 
+            "name": "Dirt Dauber", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2012-03-22 13:05:48"
+        }, 
+        {
+            "abv": "2.9", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:06", 
+                    "description": "At the world's largest wheat beer brewery, tradition and progress go hand in hand: our beer is brewed according to traditional recipes, but using state-of-the-art technology. Today, beer connoisseurs in Germany and around the world regard our traditional specialty beers from Erding, Bavaria, as the ultimate in wheat beer enjoyment.\r\n\r\nThe beginnings of Erdinger Weissbr\u00e4u date back to 1886, the year in which construction of a wheat beer brewery in Erding was first officially recorded. After several changes in ownership, the General Manager at the time, Franz Brombach, bought the brewery in 1935 and re-named it Erdinger Weissbr\u00e4u on December 27, 1949.\r\n\r\nIn 1965, the son of Franz Brombach, Werner Brombach, entered the business. He took over the private brewery in 1975 and still leads his father's successful business today. In addition to a strong emphasis on quality, Werner Brombach focuses above all on a targeted sales and promotion strategy with a clear brand identity, which highlights the values of the old Bavarian beer specialty and its superior quality standards.\r\n\r\nToday, Erdinger weissbier stands for wheat beer enjoyment and the Bavarian brewing tradition. The traditional brewery has established itself as the national and international market leader for weissbier. As one of Germany's largest private breweries, Erdinger Weissbr\u00e4u is among the leaders on the national German beer market.", 
+                    "established": "1886", 
+                    "id": "m9SH4l", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/m9SH4l/upload_FwusIa-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/m9SH4l/upload_FwusIa-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/m9SH4l/upload_FwusIa-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:42:06", 
+                            "id": "qVyAhN", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.31532, 
+                            "locality": "Erding", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 11.89111, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "49-(0)8122-/-4090", 
+                            "region": "Bayern", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Franz-Brombach-Strae 1-20", 
+                            "updateDate": "2012-03-21 19:08:15"
+                        }
+                    ], 
+                    "name": "Privatbrauerei Erdinger Weissbr\u00e4u", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-05 12:00:55", 
+                    "website": "http://www.erdinger.de"
+                }
+            ], 
+            "createDate": "2014-03-20 12:59:33", 
+            "description": "Erdinger Weissbier Light is a lower percentage, lower calorie beer for those that want to maintain a balanced diet. The flavour is hardly different then normal wheat beer, it has 40% fewer calories then Erdinger Weissbier, continuing to use fine yeast.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "S8F8EC", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/S8F8EC/upload_YH2eY1-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/S8F8EC/upload_YH2eY1-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/S8F8EC/upload_YH2eY1-medium.png"
+            }, 
+            "name": "Erdinger Light", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2014-04-16 16:52:04"
+        }, 
+        {
+            "abv": "4.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-10-24 11:36:49", 
+                    "description": "Overlooking beautiful Keuka Lake, we brew many different Belgian and Farmstyle craft beers for the Penn Yan and surrounding Finger Lakes areas.", 
+                    "established": "2012", 
+                    "id": "BVG7Ls", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/BVG7Ls/upload_rudcw3-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/BVG7Ls/upload_rudcw3-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/BVG7Ls/upload_rudcw3-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-10-24 11:37:40", 
+                            "hoursOfOperation": "Sat: 12:00 pm - 5:00 pm", 
+                            "id": "WLxlVR", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.630677, 
+                            "locality": "Penn Yan", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -77.104023, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(585) 209-3276", 
+                            "postalCode": "14527", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2994 Merritt Hill Road", 
+                            "updateDate": "2014-03-12 12:11:53", 
+                            "website": "http://www.abandonbrewing.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Abandon Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-09 22:11:36", 
+                    "website": "http://www.abandonbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-10-24 11:41:14", 
+            "description": "More properly known as \"Roggenbier\" this beer is loosely based on the traditional German Heffe Weizen style that highlights a spicy, fruity and clove like character with a velvety texture and cloudy appearance, Rye malt and Cascade hops were used specifically to create an even more complex spice and citrus character.", 
+            "id": "Xa2cxO", 
+            "isOrganic": "N", 
+            "name": "Heffe-Rye", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2012-10-24 11:41:15"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2013-06-21 12:08:17", 
+                    "description": "FATE Brewing Company is Boulder\u2019s first brew-bistro and your new place to enjoy chef-inspired, gourmet creations with unique, handcrafted microbrews. Local ingredients are featured on the lunch, brunch, and dinner menus and the full bar with 30 taps feature house drafts and rotating guest beer. Stop by for a pint and a bite at 1600 38th Street and Arapahoe Road (one block west of Foothills Parkway) in Boulder, Colorado.", 
+                    "established": "2012", 
+                    "id": "mEhLzL", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/mEhLzL/upload_9ANdl1-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/mEhLzL/upload_9ANdl1-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/mEhLzL/upload_9ANdl1-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-21 12:11:57", 
+                            "hoursOfOperation": "Lunch 11am-4pm Mon-Fri\r\nDinner 4pm Seven Days a Week \r\nBrunch 10am-4pm Sat-Sun\r\nHappy Hour 3-5:30pm Mon-Fri\r\nSunday Brewery Tour 4pm", 
+                            "id": "K5hc6A", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.0142835, 
+                            "locality": "Boulder", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -105.2478613, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "303.449.FATE", 
+                            "postalCode": "80301", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1600 38th Street", 
+                            "updateDate": "2013-06-21 12:11:57", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "FATE Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-21 12:14:12", 
+                    "website": "http://fatebrewingcompany.com/"
+                }
+            ], 
+            "createDate": "2013-06-21 12:19:22", 
+            "description": "This is a bright mahogany-hued beer based on a recipe from medieval times with a rye dominant malt bill. It has a rye breadiness, a spicy fruitiness and a faintly sour and dry finish.  This Roggenbier is a touch smoky, tart and sweet with characteristics of banana and clove.", 
+            "ibu": "20", 
+            "id": "hgwgsa", 
+            "ingredients": {
+                "hops": [
+                    {
+                        "alphaAcidMin": 3, 
+                        "betaAcidMax": 8, 
+                        "betaAcidMin": 3, 
+                        "caryophylleneMax": 12, 
+                        "caryophylleneMin": 10, 
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "cohumuloneMax": 28, 
+                        "cohumuloneMin": 23, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "Czech Republic", 
+                            "isoCode": "CZ", 
+                            "isoThree": "CZE", 
+                            "name": "CZECH REPUBLIC", 
+                            "numberCode": 203
+                        }, 
+                        "countryOfOrigin": "CZ", 
+                        "createDate": "2013-06-24 16:07:29", 
+                        "description": "Saaz, now known as Zatec, is the name of a city noted for its hop production. Historically, hops from Saaz (?atec) were considered among the finest in Europe, and were the backbone of the original Bohemian Pilsner; ?atec (Saaz in German) is in the area in NW part of Bohemia of the modern-day Czech Republic. In brewing, Saaz usually refers to the hop cultivar traditionally associated with Saaz and Bohemian Pilsner. Although the traditional name for this hop would be Saazer (or Saaz Saazer when grown in the Saaz area), it is generally simply referred to as Saaz or Czech Saaz. zech Saaz is grown not only in ?atec area but also in Tr?ice area (Central Moravia) and ?st? n/L area (North Bohemia). Saazer hops are also grown in other countries. Saaz grown outside of the Czech Republic will have different characteristics and will generally be identified by their nation of origin: for example, Saaz (American). True Saaz Saazer hops are prized for their mild, pleasant flavor, and are the only choice for brewing an authentic Pilsner.", 
+                        "farneseneMax": 20, 
+                        "farneseneMin": 11, 
+                        "humuleneMax": 45, 
+                        "humuleneMin": 15, 
+                        "id": 34, 
+                        "myrceneMax": 40, 
+                        "myrceneMin": 20, 
+                        "name": "Saaz (Czech)", 
+                        "updateDate": "2013-06-24 16:10:38"
+                    }, 
+                    {
+                        "alphaAcidMin": 3.5, 
+                        "betaAcidMax": 5.5, 
+                        "betaAcidMin": 3.5, 
+                        "caryophylleneMax": 12, 
+                        "caryophylleneMin": 10, 
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "cohumuloneMax": 24, 
+                        "cohumuloneMin": 18, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United States", 
+                            "isoCode": "US", 
+                            "isoThree": "USA", 
+                            "name": "UNITED STATES", 
+                            "numberCode": 840
+                        }, 
+                        "countryOfOrigin": "US", 
+                        "createDate": "2013-06-24 16:07:31", 
+                        "description": "Small quantities of the true Hallertauer Mittelfr?her cultivar are grown in the United States. However, just as with other Hallertauer hop varieties, it can be difficult to know what exactly you are getting; Hallertauer Gold, Mount Hood, and Liberty, among others, are sometimes sold as \"U.S. Hallertauer\". Even the true Hallertauer Mittelfr?her is not considered to have a true noble hop quality when grown in the United States.", 
+                        "farneseneMax": 0.1, 
+                        "humuleneMax": 38, 
+                        "humuleneMin": 30, 
+                        "id": 57, 
+                        "myrceneMax": 44, 
+                        "myrceneMin": 35, 
+                        "name": "Hallertauer (American)", 
+                        "updateDate": "2013-06-24 16:10:37"
+                    }
+                ]
+            }, 
+            "isOrganic": "N", 
+            "name": "Norns", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2013-06-21 12:22:30"
+        }, 
+        {
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:46", 
+                    "description": "Big Time's brewery is a 14 barrel JV Northwest system consisting of a gas fired brew kettle, an infusion mash tun with mixer, a hot liquor back, a wort cooler, (5) 14 barrel fermenters, (1) bright beer tank, and (20) 7 bbl serving tanks.  \r\n\r\nWe sell 85% of our beer at the pub but do wholesale a limited number of kegs to a dozen or so Seattle area taverns. We currently brew approximately 1,300 barrels of beer per year", 
+                    "established": "1988", 
+                    "id": "17tUiZ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/17tUiZ/upload_dKVoHL-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/17tUiZ/upload_dKVoHL-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/17tUiZ/upload_dKVoHL-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:46", 
+                            "id": "zc8xpQ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.657576, 
+                            "locality": "Seattle", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.313216, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "206-545-4509", 
+                            "postalCode": "98105", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4133 University Way NE", 
+                            "updateDate": "2012-03-21 20:05:24", 
+                            "website": "http://www.bigtimebrewery.com/", 
+                            "yearOpened": "1988"
+                        }
+                    ], 
+                    "name": "Big Time Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-11-14 12:09:33", 
+                    "website": "http://www.bigtimebrewery.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:00", 
+            "description": "Lookout, Mama, this Gold Medal winner in the specialty beer category at the 1996 GABF is a popular brew among the rotating taps at Big Time. The addition of organic flaked rye to the grist results in a complex malt character that is smooth and satisfying. Three separate Noble hop additions help balance out the flavor.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "vmIePN", 
+            "isOrganic": "N", 
+            "name": "Powderfinger Rye Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2012-03-22 13:05:18"
+        }, 
+        {
+            "abv": "5.4", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:09", 
+                    "description": "Brewmaster Victor Novak brews approximately 1700 kegs, or 26,000 gallons of beer for TAPS on an annual basis. His repertoire includes 31 to 35 classic styles of European and American alesand lagers, of which seven are currently on tap, plus one cask ale (see below). Victor also provides two beers for the Manzella family's second restaurant venture, The Catch, in Anaheim.\r\n\r\nFrom the extraordinary leadership of General Manager Chris Snyder, our extraordinary culinary team, the expertise of Brewmaster Victor Novak, to a dedicated wait staff, our people are genuinely passionate about providing exceptional service. With all this going for us, it's not surprising that TAPS has grown into the leading dining destination in Orange County.", 
+                    "established": "1999", 
+                    "id": "ceEcjf", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ceEcjf/upload_Ix6jCa-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ceEcjf/upload_Ix6jCa-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ceEcjf/upload_Ix6jCa-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:09", 
+                            "hoursOfOperation": "Mon - Tues: 11:00 am - 9:00 pm\r\nWed: 11:00 am - 9:00 am\r\nThurs: 11:00 am - 9:00 pm\r\nFri - Sat: 11:00 am - 10:00 pm\r\nSun: 10:00 am - 9:00 pm", 
+                            "id": "LLTN1u", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 33.9165763, 
+                            "locality": "Brea", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -117.9000186, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "714-257-0101", 
+                            "postalCode": "92821", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "101 E. Imperial Highway", 
+                            "updateDate": "2012-03-21 20:05:28", 
+                            "website": "http://www.tapsfishhouse.com/", 
+                            "yearOpened": "1999"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:16", 
+                            "id": "BDbjbI", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 33.9165763, 
+                            "locality": "Brea", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -117.9000186, 
+                            "name": "Brea", 
+                            "openToPublic": "N", 
+                            "phone": "714-257-0101", 
+                            "postalCode": "92821", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "101 E Imperial Hwy", 
+                            "updateDate": "2012-03-21 20:05:28", 
+                            "website": "http://www.tapsfishhouse.com/brea/", 
+                            "yearOpened": "1999"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:16", 
+                            "id": "nXKXkj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 33.814164, 
+                            "locality": "Corona", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -117.508389, 
+                            "name": "Inland Empire", 
+                            "openToPublic": "N", 
+                            "phone": "951-277-5800", 
+                            "postalCode": "92883", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2745 Lakeshore Drive", 
+                            "updateDate": "2012-12-21 13:40:18", 
+                            "website": "http://www.tapsfishhouse.com/", 
+                            "yearOpened": "1999"
+                        }
+                    ], 
+                    "name": "Taps Fish House & Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:12", 
+                    "website": "http://www.tapsfishhouse.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:06", 
+            "description": "A German-style rye beer. Medium-bodied, deep amber in color, with a classically spicy finish.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "Yu7Ayu", 
+            "isOrganic": "N", 
+            "name": "Roggen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2012-03-22 13:05:35"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "description": "America's most award-winning small brewery since 1994 offering a wide array of lagers and ales with hand-crafted cuisine. Locals and tourists alike co-mingle in a friendly and casual environment.\r\n\r\nMake yourself at home at Snake River Brewing in the heart of the Teton Mountain Range. All roads, trails, bike paths, climbing routes and ski runs lead to \u201cThe Brewpub\u201d! After a day in the great outdoors how can you not partake of a tasty malt beverage and a delicious meal", 
+                    "established": "1994", 
+                    "id": "RT0XDJ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/RT0XDJ/upload_bRc9NR-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/RT0XDJ/upload_bRc9NR-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/RT0XDJ/upload_bRc9NR-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "hoursOfOperation": "Mon - Thurs: 11:30 am - 1:00 am\r\nFri - Sat: 11:30 am - 1:30 am\r\nSun: 11:30 am - 1:00 am", 
+                            "id": "dd42Ca", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.4768201, 
+                            "locality": "Jackson Hole", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -110.7650637, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "307-739-2337", 
+                            "postalCode": "83001", 
+                            "region": "Wyoming", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "265 South Millward Street", 
+                            "updateDate": "2012-03-21 20:05:28", 
+                            "website": "http://snakeriverbrewing.com/", 
+                            "yearOpened": "1994"
+                        }
+                    ], 
+                    "name": "Snake River Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:12", 
+                    "website": "http://snakeriverbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:06", 
+            "description": "Roggen is the German word for Rye and this beer has a high percentage of  rye malt. It uses a German hefeweizen yeast for a distinctive clove-spicy flavor. This unfiltered, brown-colored beer is the first signature series of FNG Paul Fryman.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "4QnP1m", 
+            "isOrganic": "N", 
+            "name": "Roggen and Rollin\u2019", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2012-03-22 13:05:37"
+        }, 
+        {
+            "available": {
+                "description": "Available during the summer months.", 
+                "id": 6, 
+                "name": "Summer"
+            }, 
+            "availableId": 6, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:00", 
+                    "description": "Live Oak Brewing Company is truly a home-grown Austin enterprise. Two of Austin's own homebrews, Chip McElroy and Brian Peters, literally hand-built the brewery and were the two main brewers, keg washers, delivery persons, and proselytizers. Live Oak has grown since then, but we are still just as passionate about providing delicious old-world style beers that are rarely commercially available. Our special beers are brewed in limited quantities in a small east Austin brewery and are available in fine pubs and restaurants in Austin, Dallas, Houston, Alpine, Marathon, San Marcos and San Antonio.", 
+                    "established": "1997", 
+                    "id": "ZX0hI5", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ZX0hI5/upload_fDpcsV-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ZX0hI5/upload_fDpcsV-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ZX0hI5/upload_fDpcsV-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:00", 
+                            "id": "AButIj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 30.254665, 
+                            "locality": "Austin", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -97.70551, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-512-385-2299", 
+                            "postalCode": "78702", 
+                            "region": "Texas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3301-B East 5th Street", 
+                            "updateDate": "2012-06-26 17:10:03", 
+                            "website": "http://www.liveoakbrewing.com/", 
+                            "yearOpened": "1997"
+                        }
+                    ], 
+                    "name": "Live Oak Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-21 16:33:45", 
+                    "website": "http://www.liveoakbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-12-20 22:40:37", 
+            "description": "Roggenbier is German for Rye Beer. Designed to highlight rye malt's unique contribution to traditional brewing, the beer is mashed with German Rye malt and has a cloudy appearance and a refreshing tartness. In homage to its medieval roots, the beer is lightly hopped and is fermented with special German ale yeast that, after lagering, yields a restrained fruitiness that compliments the spice of the rye. Roggenbier is a crisp, complex and deliciously refreshing beer for the summer.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 3, 
+                "name": "Mug"
+            }, 
+            "glasswareId": 3, 
+            "id": "dGNXNr", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/dGNXNr/upload_99QBQF-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/dGNXNr/upload_99QBQF-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/dGNXNr/upload_99QBQF-medium.png"
+            }, 
+            "name": "Roggenbier", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2012-12-21 16:34:46"
+        }, 
+        {
+            "abv": "4.5", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:45", 
+                    "description": "Bear Republic's brews are hand-crafted using traditional brewing methods. We hand select only the choicest ingredients for each batch. The specialty grains and hops used by Bear Republic have been chosen for their unique characteristics. The recipes and their final formulations were developed over a period of several years. Those wonderful homebrewing sessions and the lessons learned from trial and error have established the solid foundations for each recipe's commercial equivalents. It's our goal to continually develop new recipes using our time tested home brewing methods. \"I feel home brewing is the laboratory where true advancement of beer styles is coming from. \"Richard G. Norgrove, Master Brewer.", 
+                    "id": "5tw2Iw", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/5tw2Iw/upload_rRHF5A-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/5tw2Iw/upload_rRHF5A-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/5tw2Iw/upload_rRHF5A-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:45", 
+                            "hoursOfOperation": "Mon - Thu: 11:00 am - 9:00 pm\r\nFri - Sat: 11:00 am - 9:30 pm\r\nSun: 11:00 am - 9:00 pm", 
+                            "id": "Ui6is4", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.6112447, 
+                            "locality": "Healdsburg", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -122.870982, 
+                            "name": "Bear Republic - Pub & Restaurant", 
+                            "openToPublic": "Y", 
+                            "phone": "707-433-2337", 
+                            "postalCode": "95448", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "345 Healdsburg Avenue", 
+                            "updateDate": "2013-08-09 16:59:28", 
+                            "website": "http://www.bearrepublic.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-02-08 12:23:16", 
+                            "extendedAddress": "Suite 10", 
+                            "id": "2NtVBM", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.781585, 
+                            "locality": "Cloverdale", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -123.0106943, 
+                            "name": "Bear Republic - Factory Five", 
+                            "openToPublic": "N", 
+                            "phone": "707-894-2722", 
+                            "postalCode": "95425", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "110 Sandholm Ln.", 
+                            "updateDate": "2013-08-09 16:59:35", 
+                            "website": "http://www.bearrepublic.com/"
+                        }
+                    ], 
+                    "name": "Bear Republic Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-29 23:58:34", 
+                    "website": "http://www.bearrepublic.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:06", 
+            "description": "Roggenbier is German for \u201cRye Beer.\u201d Very similar to a Hefeweizen, but brewed with rye instead of wheat. This unfiltered ale melds the earthy rye character with subtle banana and clove notes from the Bavarian ale yeast.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "11", 
+            "id": "LHeMgq", 
+            "isOrganic": "N", 
+            "name": "Roggenbier", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2012-03-22 13:05:18"
+        }, 
+        {
+            "abv": "5.6", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:53", 
+                    "description": "Echo Brewing Company is a small family run brewery nestled between the towns of Firestone and Frederick in the heart of Colorado\u2019s Carbon Valley.  Founded by twin brothers who have a passion for brewing the best beer possible.  Homebrewers of eight plus years they keep their brewing concept at Echo similar to their homebrewing history: brew one fine beer followed by another while sharing them with the local community.", 
+                    "established": "2011", 
+                    "id": "EotLdS", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/EotLdS/upload_XaeI4J-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/EotLdS/upload_XaeI4J-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/EotLdS/upload_XaeI4J-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:53", 
+                            "hoursOfOperation": "Mon - Thu: 2:30 pm - 9:00 pm\r\nFri: 2:30 pm - 10:00 pm\r\nSat: 11:00 am - 10:00 pm\r\nSun: 11:00 am - 8:00 pm", 
+                            "id": "YppfZk", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.111386, 
+                            "locality": "Frederick", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -104.945338, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "720-340-8201", 
+                            "postalCode": "80504", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5969 Iris Pkwy", 
+                            "updateDate": "2014-01-10 16:03:06", 
+                            "website": "http://www.echobrewing.com/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Echo Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-10 14:57:44", 
+                    "website": "http://www.echobrewing.com/"
+                }
+            ], 
+            "createDate": "2014-01-10 16:18:20", 
+            "description": "A German Rye Ale with clove and banana flavors and aroma with a tart citrus character", 
+            "ibu": "14", 
+            "id": "fM8s3v", 
+            "ingredients": {
+                "hops": [
+                    {
+                        "alphaAcidMin": 4, 
+                        "betaAcidMax": 4, 
+                        "betaAcidMin": 3, 
+                        "caryophylleneMax": 7, 
+                        "caryophylleneMin": 6, 
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "cohumuloneMax": 25, 
+                        "cohumuloneMin": 20, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United States", 
+                            "isoCode": "US", 
+                            "isoThree": "USA", 
+                            "name": "UNITED STATES", 
+                            "numberCode": 840
+                        }, 
+                        "countryOfOrigin": "US", 
+                        "createDate": "2013-06-24 16:07:38", 
+                        "description": "American hops sold as Tettnanger hops often claim to be the same cultivar as the famous German aroma hop Tettnang Tettnanger. However, in recent years, it has been discovered that these hops are genetically distinct from the German landrace and in fact are most likely Fuggle or a closely related hop. The most likely explanation is that American hop growers imported the so-called Swiss Tettnanger hops, which may also have been Fuggle hops misrepresented as Tettnanger for marketing purposes. In recent years, a few growers have tried growing true Tettnanger hops in the United States, but because of the confusion of names, these are almost impossible to find or identify.", 
+                        "farneseneMax": 8, 
+                        "farneseneMin": 5, 
+                        "humuleneMax": 23, 
+                        "humuleneMin": 18, 
+                        "id": 143, 
+                        "myrceneMax": 45, 
+                        "myrceneMin": 36, 
+                        "name": "Tettnanger (American)", 
+                        "updateDate": "2013-06-24 16:10:38"
+                    }
+                ]
+            }, 
+            "isOrganic": "N", 
+            "name": "Roggenbier", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2014-01-10 16:27:58"
+        }, 
+        {
+            "abv": "5.3", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:07", 
+                    "description": "We are a small family ran brewery in the Ballard district of Seattle, crafting tasty small batch brews.", 
+                    "established": "2011", 
+                    "id": "n2527g", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/n2527g/upload_wIJHWr-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/n2527g/upload_wIJHWr-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/n2527g/upload_wIJHWr-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:07", 
+                            "extendedAddress": "Suite 1A", 
+                            "id": "6mYnLr", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.6673244, 
+                            "locality": "Seattle", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.3741648, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "98107", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1406 NW 53rd Street", 
+                            "updateDate": "2012-03-21 20:05:31", 
+                            "website": "http://www.reubensbrews.com", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Reuben's Brews", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 12:23:18", 
+                    "website": "http://www.reubensbrews.com"
+                }
+            ], 
+            "createDate": "2013-02-22 18:04:24", 
+            "ibu": "19", 
+            "id": "auNtWj", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/auNtWj/upload_y9euEc-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/auNtWj/upload_y9euEc-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/auNtWj/upload_y9euEc-medium.png"
+            }, 
+            "name": "Roggenbier", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2013-02-22 18:04:25"
+        }, 
+        {
+            "abv": "6.1", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "A contemporary artisan brewery focused on a unique beer experience. Located in the heart of Sonoma County. Opening Spring 2013...", 
+                    "id": "cQdUrC", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/cQdUrC/upload_JXMgz6-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/cQdUrC/upload_JXMgz6-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/cQdUrC/upload_JXMgz6-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "id": "ErkmT6", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.4030897, 
+                            "locality": "Sebastopol", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.821333, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(707) 823-3144", 
+                            "postalCode": "95472", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6780 Depot Street", 
+                            "updateDate": "2013-08-05 19:24:57", 
+                            "website": "http://w4brewing.com/"
+                        }
+                    ], 
+                    "name": "Woodfour Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-05 19:25:24", 
+                    "website": "http://w4brewing.com/"
+                }
+            ], 
+            "createDate": "2013-11-12 01:23:49", 
+            "id": "ln01n5", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ln01n5/upload_JjrEsR-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ln01n5/upload_JjrEsR-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ln01n5/upload_JjrEsR-medium.png"
+            }, 
+            "name": "Roggenbier Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2013-11-12 01:24:21"
+        }, 
+        {
+            "abv": "6.6", 
+            "breweries": [
+                {
+                    "createDate": "2013-07-30 00:12:45", 
+                    "description": "The Big Rip was founded by two friends who caught the beer and wine making bug years ago and decided to throw in together to start this brewery. We don\u2019t have goals of taking over the world or creating beer that only appeals to a select few. Instead, we want to create unique beers that appeal to both beer-nerds and beer-curious people.", 
+                    "established": "2012", 
+                    "id": "HxJ67V", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/HxJ67V/upload_C26ABp-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/HxJ67V/upload_C26ABp-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/HxJ67V/upload_C26ABp-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-30 00:16:29", 
+                            "hoursOfOperation": "Friday: Noon \u2013 10pm\r\nSaturday: Noon \u2013 10pm\r\nSunday: Noon \u2013 4pm", 
+                            "id": "fRelsm", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.1259484, 
+                            "locality": "Kansas City", 
+                            "locationType": "nano", 
+                            "locationTypeDisplay": "Nano Brewery", 
+                            "longitude": -94.5786205, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "64116", 
+                            "region": "Missouri", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "216 E 9th Ave.", 
+                            "updateDate": "2013-07-30 00:20:07", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Big Rip Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-07-30 00:20:03", 
+                    "website": "http://bigripbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-07-30 00:18:04", 
+            "id": "WwR4MS", 
+            "isOrganic": "N", 
+            "name": "Roggenbier-Rye Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2013-07-30 00:18:59"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:12", 
+                    "description": "As Von Jakob Vineyard, we have brought exceptional wines to the Southern Illinois area and beyond for over 15 years. Now, we are excited to introduce Von Jakob Brewery, complete with hand-crafted brews, made exclusively at our Orchard location in Alto Pass, Illinois.\r\n\r\nOffering eight styles of beer ranging from our crisp, clean, lightly-hopped American Pilsner to our rich, dark Stout, you are sure to find a beer that delights your palate. Or, if you are having trouble choosing just one, we offer a flight of all eight delicious beers. We also have a great selection of domestic beers as well as premium beers from around the world for your enjoyment.\r\n\r\nAnd for our wine enthusiasts out there, do not worry \u2013 our winery isn\u2019t going anywhere. We just thought we would offer you a different libation of choice, should you want to explore it.\r\n\r\nWe sincerely thank you for your support over the years, and we welcome you to come and experience this next adventure with us!", 
+                    "id": "waA7IQ", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:12", 
+                            "hoursOfOperation": "Mon - Sat: 10:00 am - 6:00 pm\r\nSun: 12:00 pm - 6:00 pm", 
+                            "id": "uKN7rI", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.6131085, 
+                            "locality": "Pomona, IL", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -89.3509966, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "618-893-4500", 
+                            "postalCode": "62975", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1309 Sadler Road", 
+                            "updateDate": "2012-03-21 19:08:19", 
+                            "website": "http://www.vonjakobvineyard.com/"
+                        }
+                    ], 
+                    "name": "Von Jakob Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:19", 
+                    "website": "http://www.vonjakobvineyard.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:07", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "cn3Ale", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/cn3Ale/upload_CJ52oj-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/cn3Ale/upload_CJ52oj-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/cn3Ale/upload_CJ52oj-medium.png"
+            }, 
+            "name": "Rye Beer", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2012-03-22 13:05:37"
+        }, 
+        {
+            "abv": "6.8", 
+            "available": {
+                "description": "Beer is not available.", 
+                "id": 3, 
+                "name": "Not Available"
+            }, 
+            "availableId": 3, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "During the 1800's and into the 20th century, Manayunk was known for the manufacture and sales of fine textiles. Krook's Mill, now the Manayunk Brewery and Restaurant, was one of the linchpins of the then booming industry. Anne Dawson opened the mill in 1822 at the mouth of the Manayunk Canal and the Krook family followed with the existing building just short of 100 years later in 1912. A cornerstone from the original mill was placed in the new building. Krook's Mill eventually closed its doors in 1992.\r\n\r\nFour years later, Harry Renner IV brought the facility back to life as a space for retail business, a fine eatery, a brewery and as an entertainment complex for both neighbors and visitors alike to enjoy. Our first batch of fresh-brewed beer was tapped on October 17, 1996. In 2000, we expanded our outdoor seating with a deck overlooking the Schuylkill River. In 2003, we added a Stone Pizza Oven and a Sushi Bar to expand our menu selection. Today you can still find the scale, now an antique, that was once used to weigh the wool brought into the factory.", 
+                    "established": "1996", 
+                    "id": "dnnjFP", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/dnnjFP/upload_5eLJwX-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/dnnjFP/upload_5eLJwX-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/dnnjFP/upload_5eLJwX-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "id": "qHBDmR", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.0235771, 
+                            "locality": "Philadelphia", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -75.2202026, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "215-482-8220", 
+                            "postalCode": "19127", 
+                            "region": "Pennsylvania", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4120 Main Street", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.manayunkbrewery.com/", 
+                            "yearOpened": "1996"
+                        }
+                    ], 
+                    "name": "Manayunk Brewery and Restaurant", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-10 18:08:05", 
+                    "website": "http://www.manayunkbrewery.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:07", 
+            "description": "Once a rare brewing ingredient, Rye is quickly gaining popularity among American microbreweries. It's subtle spicy flavor is a welcome addition in many styles, particularly in American IPA's. Our interpretation of a rye IPA is amber in color with a hint of rye flavor and the strong grapefruit aroma of cascade hops.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "66", 
+            "id": "VnN2I2", 
+            "isOrganic": "N", 
+            "name": "Rye of the Tiger", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2012-03-22 13:05:13"
+        }, 
+        {
+            "abv": "7.2", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:03", 
+                    "description": "We'll set the scene: 1989. Belgium. Boy on bike. (OK, make that a young man of 32). As our aspiring young homebrewer rides his mountain bike with fat tires through European villages famous for beer, New Belgium Brewing Company was but a glimmer in his eye. Or basement. For Jeff Lebesch would return to Fort Collins with a handful of ingredients and an imagination full of recipes. And then there was beer. Jeff's first two basement-brewed creations? A brown dubbel with earthy undertones named Abbey and a remarkably well-balanced amber he named Fat Tire. To say the rest was history would be to overlook his wife's involvement. Kim Jordan was New Belgium's first bottler, sales rep, distributor, marketer and financial planner. And now, she's our CEO.", 
+                    "established": "1989", 
+                    "id": "Jt43j7", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Jt43j7/upload_QAvBNG-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Jt43j7/upload_QAvBNG-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Jt43j7/upload_QAvBNG-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:03", 
+                            "id": "eOm6Xk", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.593415, 
+                            "locality": "Fort Collins", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -105.066874, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-888-622-4044", 
+                            "postalCode": "80524", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "500 Linden Street", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.newbelgium.com/", 
+                            "yearOpened": "1989"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-04-06 12:29:33", 
+                            "id": "m1a0ra", 
+                            "inPlanning": "Y", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 35.588813, 
+                            "locality": "Asheville", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -82.573593, 
+                            "name": "Asheville", 
+                            "openToPublic": "N", 
+                            "postalCode": "28806", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "155 Craven Street", 
+                            "updateDate": "2012-04-06 12:29:33"
+                        }
+                    ], 
+                    "name": "New Belgium Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-23 18:44:08", 
+                    "website": "http://www.newbelgium.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:08", 
+            "description": "Inspired by Finnish Sahti, a traditional rye ale brewed with juniper, our Sahti Ale is a hazy amber ale with a sturdy mouthfeel and a crisp and lively finnish. Brewed with Pale, Crystal, rye malts and whole oats, our version is bittered with Cascade and finished with Cascade and Amarillo hops. Juniper boughs are added to the mash and juniper berries, orange and lemon peel are pitched in the whirlpool creating a festive olfactory of citrus and juniper notes.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "26.4", 
+            "id": "Nwy05j", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Nwy05j/upload_VCyCp8-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Nwy05j/upload_VCyCp8-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Nwy05j/upload_VCyCp8-medium.png"
+            }, 
+            "name": "Sahti Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2012-03-22 13:05:11"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "description": "Spoetzl was founded in 1909, and claims to be the oldest independent brewery in Texas. A group of businessmen incorporated Shiner Brewing Association and placed Herman Weiss in as the company's first brewmaster. In 1914 a German immigrant brewer named Kosmas (or Kosmos) Spoetzl co-leased with Oswald Petzold with an option to buy in 1915. Spoetzl had attended brewmaster's school and apprenticed for three years in Germany, worked for eight years at the Pyramids Brewery in Cairo, Egypt, and then worked in Canada. He moved to San Antonio in search of a better climate for his health, bringing with him a family recipe for a Bavarian beer made from malted barley and hops.", 
+                    "established": "1909", 
+                    "id": "f35hQR", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/f35hQR/upload_8SElvW-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/f35hQR/upload_8SElvW-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/f35hQR/upload_8SElvW-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "id": "MLyOI0", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 29.434494, 
+                            "locality": "Shiner", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -97.166729, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "800-574-4637", 
+                            "postalCode": "77984", 
+                            "region": "Texas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "603 East Brewery Street", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.shiner.com/", 
+                            "yearOpened": "1909"
+                        }
+                    ], 
+                    "name": "Spoetzl Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-14 01:01:13", 
+                    "website": "http://www.shiner.com/"
+                }
+            ], 
+            "createDate": "2012-01-26 11:18:07", 
+            "description": "Medium-bodied, dark brown lager brewed with rye malt and chocolate rye from Germany,caramel malt and three hop varieties.", 
+            "id": "rRgc6z", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/rRgc6z/upload_AxVKa3-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/rRgc6z/upload_AxVKa3-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/rRgc6z/upload_AxVKa3-medium.png"
+            }, 
+            "name": "Shiner Ryes & Shine", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using phenol producing ale yeast. It should be brewed with at least 30 percent rye malt, and hop rates will be low. A banana -like fruity-estery aroma and flavor are typical but at low levels; phenolic, clove-like characteristics should also be perceived. Color is straw to dark amber, and the body should be light to medium in character. Diacetyl should not be perceived. If this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. If the beer is served with yeast, the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of rye and barley malt and hops. Darker versions of this style will be dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or light caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. As in the lighter colored versions, diacetyl should not be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 118, 
+                "name": "German-Style Rye Ale (Roggenbier) with or without Yeast", 
+                "ogMin": "1.047", 
+                "srmMax": "25", 
+                "srmMin": "4"
+            }, 
+            "styleId": 118, 
+            "updateDate": "2012-03-22 13:05:48"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 20
+}

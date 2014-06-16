@@ -1,0 +1,2825 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "5.1", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:02", 
+                    "description": "Morgantown's oldest and newest brewpub, located in the heart of downtown Morgantown West Virginia.  This casual local pub offers a wide range of craft beers brewed on the premises, great food, a live music venue and full calendar of events.   Meet friends for lunch or dinner, or have a beer and watch the big game on TV.  A must visit for craft beer lovers.", 
+                    "established": "1992", 
+                    "id": "mhZDXS", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/mhZDXS/upload_ZHl3kF-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/mhZDXS/upload_ZHl3kF-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/mhZDXS/upload_ZHl3kF-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:02", 
+                            "extendedAddress": "1291 University Ave", 
+                            "id": "Kfxx6k", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.630501, 
+                            "locality": "Morgantown", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -79.958062, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "304-292-6959", 
+                            "postalCode": "26508", 
+                            "region": "West Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2012-03-21 19:08:14", 
+                            "website": "http://morgantownbrewing.com/"
+                        }
+                    ], 
+                    "name": "Morgantown Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 16:31:40", 
+                    "website": "http://morgantownbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-09-28 04:10:51", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "17", 
+            "id": "cJRzFA", 
+            "isOrganic": "N", 
+            "name": "Alpha Blonde Ale", 
+            "srm": {
+                "hex": "F39C00", 
+                "id": 7, 
+                "name": "7"
+            }, 
+            "srmId": 7, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2013-11-16 23:43:27"
+        }, 
+        {
+            "abv": "6.7", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:58", 
+                    "description": "Horseheads Brewing broke ground on June 2006 and opened it's doors for business on July 3rd, 2007. The Master Brewer, after \"home-brewing\" for 8 years, received his education and certificate of concise brewing technology from the Siebel Institute in Chicago.", 
+                    "established": "2006", 
+                    "id": "XYs5bX", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/XYs5bX/upload_f6VLgY-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/XYs5bX/upload_f6VLgY-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/XYs5bX/upload_f6VLgY-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:58", 
+                            "hoursOfOperation": "Monday 12-6 PM\r\nTuesday\t12-6 PM\r\nWednesday 12-6 PM\r\nThursday 12-6 PM\r\nFriday 12-7 PM\r\nSaturday 12-7 PM\r\nSunday 12-4 PM", 
+                            "id": "fz3g3i", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.183297, 
+                            "locality": "Horseheads", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -76.812066, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "607-739-8468", 
+                            "postalCode": "14845", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "250 Old Ithaca Rd", 
+                            "updateDate": "2012-03-21 20:05:28", 
+                            "website": "http://www.horseheadsbrewing.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "Horseheads Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-14 11:26:46", 
+                    "website": "http://www.horseheadsbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-09-24 18:34:04", 
+            "description": "This style of beer is classified as an \"English-Style Summer Ale\". The focus is on the malts used during the brewing process. Our version of this beer uses malts imported from England. The taste is extremely mild, sweet and refreshing.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "22", 
+            "id": "BfyWi5", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/BfyWi5/upload_Bb6P1z-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/BfyWi5/upload_Bb6P1z-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/BfyWi5/upload_Bb6P1z-medium.png"
+            }, 
+            "name": "Chemung Canal Towpath Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2012-09-24 19:19:40"
+        }, 
+        {
+            "abv": "5.8", 
+            "available": {
+                "description": "Available during the summer months.", 
+                "id": 6, 
+                "name": "Summer"
+            }, 
+            "availableId": 6, 
+            "breweries": [
+                {
+                    "createDate": "2013-01-26 14:05:50", 
+                    "description": "We are a locally owned, and locally brewing in the Backwoods.\r\n\r\nWe are a 10 BBL Brewery in our first year of operation. The Brewery is nestled in the Heart of the Gorge. The Waters Family operates the brewpub and loves to serve our customers. We cannot wait to serve you and show you what our beer and the Gorge has to offer!", 
+                    "established": "2012", 
+                    "id": "0RQVHz", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/0RQVHz/upload_ZNChan-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/0RQVHz/upload_ZNChan-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/0RQVHz/upload_ZNChan-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-01-26 14:06:29", 
+                            "hoursOfOperation": "Thu - Sun: 3:00 pm - 9:00 pm", 
+                            "id": "KTYeGk", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 45.729414, 
+                            "locality": "Carson", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -121.8204496, 
+                            "name": "Main Brewpub", 
+                            "openToPublic": "Y", 
+                            "phone": "(509) 427-3412", 
+                            "postalCode": "98610", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1162 B Wind River RD", 
+                            "updateDate": "2013-01-26 14:06:29", 
+                            "website": "http://www.backwoodsbrewingcompany.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Backwoods Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-26 14:06:52", 
+                    "website": "http://www.backwoodsbrewingcompany.com/"
+                }
+            ], 
+            "createDate": "2013-01-26 14:08:47", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "25", 
+            "id": "mfOXIx", 
+            "isOrganic": "N", 
+            "name": "Copperline Summer Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2013-01-26 14:08:47"
+        }, 
+        {
+            "abv": "4.2", 
+            "available": {
+                "description": "Available during the summer months.", 
+                "id": 6, 
+                "name": "Summer"
+            }, 
+            "availableId": 6, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:10", 
+                    "id": "8dIvZw", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-01-03 02:42:10", 
+                            "id": "YyPy4g", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 51.623155, 
+                            "locality": "Swansea", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -3.940929, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "44-(01792)-775333", 
+                            "region": "Wales", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Unit 3, Century Park, Valley Way", 
+                            "updateDate": "2012-03-21 19:08:18"
+                        }
+                    ], 
+                    "name": "Tomos Watkin", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-10 13:15:32"
+                }
+            ], 
+            "createDate": "2013-05-10 13:17:15", 
+            "description": "Our immensely popular summer ale. \r\nVery light in colour, produced using no coloured malts, but strong in character and flavour.\r\n\r\nA blend of golding, fuggle and cascade hops give this beer a wonderfully refreshing zesty, \r\ncitrus taste and a light summer aroma.\r\n\r\nA great summer drink from the cask and now available in a bottle.", 
+            "id": "eBrjGQ", 
+            "isOrganic": "N", 
+            "name": "Cwrw Haf", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2013-05-10 13:22:23"
+        }, 
+        {
+            "abv": "5.6", 
+            "available": {
+                "description": "Available during the summer months.", 
+                "id": 6, 
+                "name": "Summer"
+            }, 
+            "availableId": 6, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:55", 
+                    "description": "The Flying Dog Legend begins in 1983, and like every good legend there are several versions of this tale. The villains of the peace in this story are two non-conformist, 'not likely to take it lying down' ranchers named George Stranahan and Richard McIntyre.\r\n\r\nAs George tells it, he and 11 of his closest friends and family decided to embark on what they called an \u201camateur mountaineering expedition\u201d to climb K2 in the Himalayas. Under-qualified and unprepared, they started their journey with a Sherpa, a donkey, and a suitcase full of contraband. Naturally, half way through the trip the contraband was gone and the Sherpa and donkey had run off, leaving George and his group to fend for themselves. Luckily, everyone managed to make it off the mountain alive, and with a new outlook on life.\r\n\r\nHorn Dog Denver Colorado BeerLike any good beer drinker would at the end of an experience like that, George and his group found a local Pakistani hotel bar to have a drink in. Now, alcohol is banned in most Muslim nations, but if you sign an affidavit stating you are the son of a Christian, it\u2019s like a license to drink. George gladly signed away and got down to some serious drinking. That\u2019s about the time he noticed a painting in the Flashman Hotel of a Flying Dog hanging on the wall that had been drawn by a local artist. Now, we all know dogs don\u2019t fly, but nobody told this particular dog it couldn\u2019t fly, just like no one had told George and his friends they couldn\u2019t make this extraordinary journey. The Flying Dog became a symbol that George and his group used to describe what had happened to them with the mantra, \u201cit is amazing what you can achieve if nobody tells you that you can't.", 
+                    "established": "1983", 
+                    "id": "jmGoBA", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/jmGoBA/upload_0z9L4W-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/jmGoBA/upload_0z9L4W-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/jmGoBA/upload_0z9L4W-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:55", 
+                            "hoursOfOperation": "Tours are offered every Thursday and Friday from 4 to 6 pm, along with two sessions on Saturday (12 to 2 pm and 2:30 - 4:30 pm).", 
+                            "id": "EPqUQP", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.361926, 
+                            "locality": "Frederick", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -77.424677, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "301-694-7899", 
+                            "postalCode": "21703", 
+                            "region": "Maryland", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4607 Wedgewood Blvd", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.flyingdogales.com/", 
+                            "yearOpened": "1983"
+                        }
+                    ], 
+                    "name": "Flying Dog Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 13:04:30", 
+                    "website": "http://www.flyingdogales.com/"
+                }
+            ], 
+            "createDate": "2014-03-21 12:38:51", 
+            "description": "Old Bay Summer Ale", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "UGdeCr", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/UGdeCr/upload_8X8Yvn-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/UGdeCr/upload_8X8Yvn-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/UGdeCr/upload_8X8Yvn-medium.png"
+            }, 
+            "name": "Dead Rise", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2014-05-02 12:09:57"
+        }, 
+        {
+            "available": {
+                "description": "Available during the summer months.", 
+                "id": 6, 
+                "name": "Summer"
+            }, 
+            "availableId": 6, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:04", 
+                    "description": "At the O'Fallon Brewery we are passionate about making beer and we work hard to brew beers that look good, smell good and taste good! Ours is a small manufacturing brewery located in St. Charles County, just north and west of St. Louis, Missouri. Founded in January, 2000 by Fran and Tony Caradonna, the O'Fallon Brewery currently employs eight full-time. In 2009 we brewed around 4,100 barrels of beer...equivalent to about 57,000 cases.", 
+                    "established": "2000", 
+                    "id": "3vnQcO", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/3vnQcO/upload_VKlyUe-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/3vnQcO/upload_VKlyUe-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/3vnQcO/upload_VKlyUe-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:04", 
+                            "id": "y7aFyk", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.806087, 
+                            "locality": "O'Fallon", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -90.753188, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "636-474-2337", 
+                            "postalCode": "63366", 
+                            "region": "Missouri", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "26 West Industrial Drive", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.ofallonbrewery.com/", 
+                            "yearOpened": "2000"
+                        }
+                    ], 
+                    "name": "O'Fallon Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-06 17:20:08", 
+                    "website": "http://www.ofallonbrewery.com/"
+                }
+            ], 
+            "createDate": "2013-11-17 01:28:37", 
+            "id": "UdIrKy", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/UdIrKy/upload_8CoAzY-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/UdIrKy/upload_8CoAzY-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/UdIrKy/upload_8CoAzY-medium.png"
+            }, 
+            "name": "Kite Tail", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2013-11-17 01:30:06"
+        }, 
+        {
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2013-08-02 20:19:39", 
+                    "description": "Long time Home brewer using the best ingredients from all over the world to bring the finest brews to you.\r\n\r\n4 legged friends always welcome, can book for private events on hours or days I am usually not open, growlers available and food is allowed to be brought in. I do have peanuts available.", 
+                    "established": "2012", 
+                    "id": "XPKDbB", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/XPKDbB/upload_gV1bYr-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/XPKDbB/upload_gV1bYr-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/XPKDbB/upload_gV1bYr-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-08-04 13:30:21", 
+                            "extendedAddress": "#5", 
+                            "hoursOfOperation": "Tuesday \u2013 Thursday: 3-9\r\nFriday: 3-10\r\nSaturday: 12-10\r\nSunday: 12-8", 
+                            "id": "utftMS", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.0236709, 
+                            "locality": "Boulder", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -105.2377903, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "303-396-0384", 
+                            "postalCode": "80301", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2516 49th Street", 
+                            "updateDate": "2013-08-04 13:30:21", 
+                            "website": "http://jwellsbrewery.com/"
+                        }
+                    ], 
+                    "name": "J Wells Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-04 13:30:49", 
+                    "website": "http://jwellsbrewery.com/"
+                }
+            ], 
+            "createDate": "2013-08-04 13:32:18", 
+            "description": "Light in color and flavor ale, easy drinking summer beverage.", 
+            "id": "D1hOqA", 
+            "isOrganic": "N", 
+            "name": "Light summer ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2013-08-04 13:32:18"
+        }, 
+        {
+            "abv": "4.9", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2014-05-22 14:18:45", 
+                    "description": "Producing iconic, rustic beers in the heart of the Texas Hill Country", 
+                    "established": "2014", 
+                    "id": "1Lis85", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/1Lis85/upload_4IyGFC-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/1Lis85/upload_4IyGFC-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/1Lis85/upload_4IyGFC-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-05-22 14:20:04", 
+                            "extendedAddress": "Suite 301", 
+                            "hoursOfOperation": "Thu: 5:00 pm - 10:00 pm\r\nFri: 2:00 pm - 12:00 am\r\nSat: 12:00 pm - 12:00 am\r\nSun: 2:00 pm - 10:00 pm", 
+                            "id": "s6xmV6", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 30.4058986, 
+                            "locality": "Austin", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -97.8739516, 
+                            "name": "Oasis Texas Brewing Company", 
+                            "openToPublic": "Y", 
+                            "postalCode": "78732", 
+                            "region": "Texas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6550 Comanche Trail", 
+                            "updateDate": "2014-05-22 19:21:30", 
+                            "website": "http://otxbc.com", 
+                            "yearOpened": "2014"
+                        }
+                    ], 
+                    "name": "Oasis Texas Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-22 19:22:10", 
+                    "website": "http://otxbc.com"
+                }
+            ], 
+            "createDate": "2014-05-22 14:38:15", 
+            "description": "A bright Texas session ale made with copious amounts of English Challenger hops and a classic English yeast strain \u2013 this beer is sure to make you feel right at home, no matter where you find yourself.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "27", 
+            "id": "A8Iqo6", 
+            "ingredients": {
+                "hops": [
+                    {
+                        "alphaAcidMin": 6.5, 
+                        "betaAcidMax": 4.5, 
+                        "betaAcidMin": 4, 
+                        "caryophylleneMax": 10, 
+                        "caryophylleneMin": 8, 
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "cohumuloneMax": 30, 
+                        "cohumuloneMin": 20, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United Kingdom", 
+                            "isoCode": "GB", 
+                            "isoThree": "GBR", 
+                            "name": "UNITED KINGDOM", 
+                            "numberCode": 826
+                        }, 
+                        "countryOfOrigin": "GB", 
+                        "createDate": "2013-06-24 16:07:28", 
+                        "description": "A granddaughter of Northern Brewer developed at Wye, Challenger is a classic true dual purpose hop and one of the most popular English hops of the 1980s and 1990s. It has a clean bittering from relatively high alpha acids and good aroma characteristics. It has a fine fruity aroma with spicy overtones. Like many other varieties developed at Wye, this hop is sometimes known as Wye Challenger, especially in older references. This simply indicates that it was developed at Wye, not necessarily anything about where it was grown.", 
+                        "farneseneMax": 3, 
+                        "farneseneMin": 1, 
+                        "humuleneMax": 32, 
+                        "humuleneMin": 25, 
+                        "id": 25, 
+                        "myrceneMax": 42, 
+                        "myrceneMin": 30, 
+                        "name": "Challenger", 
+                        "updateDate": "2013-06-24 16:10:37"
+                    }
+                ], 
+                "malt": [
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "characteristics": [
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Increases the body of the beer.", 
+                                "id": 3, 
+                                "name": "Body"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a caramel quality upon the beer.", 
+                                "id": 5, 
+                                "name": "Caramel"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Helps the head retention of the beer.", 
+                                "id": 9, 
+                                "name": "Head"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a sweet flavor upon the beer.", 
+                                "id": 14, 
+                                "name": "Sweet"
+                            }
+                        ], 
+                        "createDate": "2013-06-24 16:07:48", 
+                        "id": 481, 
+                        "name": "Caramel/Crystal Malt 45L"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "characteristics": [
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a nutty flavor upon the beer.", 
+                                "id": 11, 
+                                "name": "Nutty"
+                            }
+                        ], 
+                        "coarseFineDifference": 1.5, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United Kingdom", 
+                            "isoCode": "GB", 
+                            "isoThree": "GBR", 
+                            "name": "UNITED KINGDOM", 
+                            "numberCode": 826
+                        }, 
+                        "countryOfOrigin": "GB", 
+                        "createDate": "2013-06-24 16:07:57", 
+                        "description": "Maris Otter is an English thoroughbred and this winter barley variety is still the favored choice of many UK cask ale brewers. In the field, its yield has been surpassed hugely by more modern varieties, so it has to be grown on contract for the maltster each year by selected farmers. The resulting malt is typically described as having a rich, nutty flavor. Performance in the brewhouse is predictable and consistent with excellent run-offs.", 
+                        "diastaticPower": 120, 
+                        "dryYield": 82.5, 
+                        "id": 1920, 
+                        "maxInBatch": 100, 
+                        "moistureContent": 3, 
+                        "name": "Maris Otter", 
+                        "potential": 1.038, 
+                        "protein": 11.7, 
+                        "requiresMashing": "Y", 
+                        "srm": {
+                            "hex": "FFCA5A", 
+                            "id": 3, 
+                            "name": "3"
+                        }, 
+                        "srmId": 3, 
+                        "srmPrecise": 3, 
+                        "updateDate": "2013-06-24 16:10:14"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "createDate": "2013-06-24 16:07:53", 
+                        "id": 724, 
+                        "name": "Pilsner Malt"
+                    }
+                ]
+            }, 
+            "isOrganic": "N", 
+            "name": "London Homesick Ale", 
+            "originalGravity": "1.048", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2014-05-22 19:32:50"
+        }, 
+        {
+            "abv": "4.2", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2013-03-22 22:33:32", 
+                    "description": "One of the fastest growing craft breweries in the UK, producing three award-winning beers.", 
+                    "established": "2005", 
+                    "id": "fCroxq", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/fCroxq/upload_bjuUbQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/fCroxq/upload_bjuUbQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/fCroxq/upload_bjuUbQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-03-22 22:35:54", 
+                            "extendedAddress": "Off Spernal Lane", 
+                            "hoursOfOperation": "9 - 5 weekdays\r\n10 - 1 Saturdays\r\nClosed on Sundays", 
+                            "id": "teNvBQ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 52.2417579, 
+                            "locality": "Great Alne", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -1.8440071, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "01789 488007", 
+                            "postalCode": "B49 6JF", 
+                            "region": "Warwickshire", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Upper Spernall Farm", 
+                            "updateDate": "2013-03-23 11:49:02", 
+                            "website": "http://www.puritybrewing.com/", 
+                            "yearOpened": "2005"
+                        }
+                    ], 
+                    "mailingListUrl": "http://www.puritybrewing.com/", 
+                    "name": "Purity Brewing Co", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-09-09 22:19:16", 
+                    "website": "http://www.puritybrewing.com/"
+                }
+            ], 
+            "createDate": "2013-03-22 22:44:59", 
+            "description": "A zesty pale ale with a smooth and citrusy finish. Brewed with English Maris Otter, Caragold and Wheat malts, with Hallertau Northern Brewer bittering hops and Cascade and Willamette aroma hops.", 
+            "foodPairings": "Mad Goose is best served with white meats and poultry, such as pork, lamb or chicken.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 2, 
+                "name": "Goblet"
+            }, 
+            "glasswareId": 2, 
+            "id": "Q9sH0b", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Q9sH0b/upload_iwuaq1-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Q9sH0b/upload_iwuaq1-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Q9sH0b/upload_iwuaq1-medium.png"
+            }, 
+            "name": "Mad Goose", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2013-03-23 11:50:33"
+        }, 
+        {
+            "abv": "5.6", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2013-01-05 15:32:40", 
+                    "description": "Montauk Brewing Company was incorporated in 2010. For two years, the men of MBC drew up a plan of action and attacked the miles of paperwork that came with opening a microbrewery. After hard work and determination, and several tasting parties, they are ready to launch Long Island's easternmost craft brewery.", 
+                    "established": "2010", 
+                    "id": "9zVaSj", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/9zVaSj/upload_H7B9wX-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/9zVaSj/upload_H7B9wX-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/9zVaSj/upload_H7B9wX-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-01-05 15:33:23", 
+                            "hoursOfOperation": "Friday 5:30-8pm\r\nSaturday 12-8pm\r\nSunday 12-8pm", 
+                            "id": "d4TIzB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.036641, 
+                            "locality": "Montauk", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -71.944036, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(631) 668-8471", 
+                            "postalCode": "11954", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "62 S Erie Avenue", 
+                            "updateDate": "2013-01-05 15:33:35", 
+                            "website": "http://www.montaukbrewingco.com/"
+                        }
+                    ], 
+                    "name": "Montauk Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-10 15:35:31", 
+                    "website": "http://www.montaukbrewingco.com/"
+                }
+            ], 
+            "createDate": "2014-01-10 15:33:26", 
+            "description": "Our Summer Ale blends just the right amount of ingredients to combat that summer heat. The citrus finish will keep you coming back for more.", 
+            "ibu": "27.8", 
+            "id": "vJPVAe", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/vJPVAe/upload_eBOmFu-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/vJPVAe/upload_eBOmFu-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/vJPVAe/upload_eBOmFu-medium.png"
+            }, 
+            "name": "Montauk Summer Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2014-01-10 15:42:27"
+        }, 
+        {
+            "abv": "4.3", 
+            "breweries": [
+                {
+                    "createDate": "2012-12-19 21:44:44", 
+                    "description": "We are proud to be a successful small business in and from Sheffield.\r\n\r\nWe were lucky enough to get in on the ground floor of the revival of craft beer, and canny enough to grow continually throughout our existence.\r\n\r\nWe have established Moonshine as a very popular local beer and all of our regular and special beers have a following somewhere - sometimes in the most unusual places!\r\n\r\nWe have one pub of our own, The Rising Sun in Nether Green, Sheffield where you can always try one (or more!) of at least six of our beers that are always on show alongside up to seven beers from other small breweries. Nearly all of these are sourced by swapping with like-minded brewers, proving that we like to share our love for all things beer related.", 
+                    "id": "1RvWY5", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/1RvWY5/upload_X8mZn3-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/1RvWY5/upload_X8mZn3-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/1RvWY5/upload_X8mZn3-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-12-19 21:45:44", 
+                            "id": "YngH1r", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 53.360461, 
+                            "locality": "Sheffield", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -1.4772702, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "0114 281 2712", 
+                            "postalCode": "S8 0YX", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Unit 8, Aizlewood Road", 
+                            "updateDate": "2012-12-19 21:45:44"
+                        }
+                    ], 
+                    "name": "Abbeydale Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-19 21:45:52", 
+                    "website": "http://www.abbeydalebrewery.co.uk"
+                }
+            ], 
+            "createDate": "2012-12-19 21:53:05", 
+            "id": "ElWqMU", 
+            "isOrganic": "N", 
+            "name": "Moonshine", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2012-12-19 21:53:06"
+        }, 
+        {
+            "abv": "3.8", 
+            "breweries": [
+                {
+                    "createDate": "2013-02-03 14:40:41", 
+                    "description": "Le Brewery is a family run business, founded by Steve Skews in 2001. We share a passion for beer which is crafted by hand using only the finest ingredients without any nasties in sight.\r\n\r\nFrance is not a country noted for its beers, however, we've been on a mission to introduce good beer to Normandy. Le Brewery is located in the heart of cider country and produces British style real ale for the French market.\r\n\r\nOur beer is brewed on a 10-barrel brew plant, with all natural top quality ingredients and live yeast for a superior taste. We produce a number of \u2018house\u2019 beers from the hoppy Norman Gold to our rich English milk stout, Odo.", 
+                    "established": "2001", 
+                    "id": "622Y3A", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/622Y3A/upload_vEqRCf-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/622Y3A/upload_vEqRCf-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/622Y3A/upload_vEqRCf-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "France", 
+                                "isoCode": "FR", 
+                                "isoThree": "FRA", 
+                                "name": "FRANCE", 
+                                "numberCode": 250
+                            }, 
+                            "countryIsoCode": "FR", 
+                            "createDate": "2013-02-03 14:43:07", 
+                            "hoursOfOperation": "9am - 6pm from Tuesday until Saturday", 
+                            "id": "nkRssU", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.5786777, 
+                            "locality": "Jou\u00e9-du-Bois", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -0.1482296, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(+33) 02 33 37 77 26", 
+                            "postalCode": "61320", 
+                            "region": "Normandy", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "La Poelerie", 
+                            "updateDate": "2013-02-03 14:43:07", 
+                            "website": "http://www.le-brewery.com/", 
+                            "yearOpened": "2001"
+                        }
+                    ], 
+                    "name": "Le Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-02-03 14:44:14", 
+                    "website": "http://www.le-brewery.com/"
+                }
+            ], 
+            "createDate": "2013-02-03 14:49:15", 
+            "description": "Our summer wheat beer. A fresh new taste of Normandy, delicately elaborated with elderflowers and aromatic hops from our garden.", 
+            "id": "3kYf8F", 
+            "ingredients": {
+                "hops": [
+                    {
+                        "alphaAcidMin": 5.5, 
+                        "betaAcidMax": 7, 
+                        "betaAcidMin": 4.5, 
+                        "caryophylleneMax": 4.5, 
+                        "caryophylleneMin": 4.5, 
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "cohumuloneMax": 40, 
+                        "cohumuloneMin": 33, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United States", 
+                            "isoCode": "US", 
+                            "isoThree": "USA", 
+                            "name": "UNITED STATES", 
+                            "numberCode": 840
+                        }, 
+                        "countryOfOrigin": "US", 
+                        "createDate": "2013-06-24 16:07:28", 
+                        "description": "Cascade was created in the United States as an open-pollinated cross between Fuggle and Serebrianker. Its instantly recognizable grapefruit, floral aroma is characteristic of many American ales. Cascade is also one of the easiest hop varieties to grow; it can grow well under less than ideal conditions or in short growing seasons, and unlike most varieties, if started from a good rhizome a Cascade can produce a good crop even in its first growing season.", 
+                        "farneseneMax": 6, 
+                        "farneseneMin": 6, 
+                        "humuleneMax": 13, 
+                        "humuleneMin": 13, 
+                        "id": 22, 
+                        "myrceneMax": 60, 
+                        "myrceneMin": 45, 
+                        "name": "Cascade", 
+                        "updateDate": "2013-06-24 16:10:37"
+                    }, 
+                    {
+                        "alphaAcidMin": 6.5, 
+                        "betaAcidMax": 4.5, 
+                        "betaAcidMin": 4, 
+                        "caryophylleneMax": 10, 
+                        "caryophylleneMin": 8, 
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "cohumuloneMax": 30, 
+                        "cohumuloneMin": 20, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United Kingdom", 
+                            "isoCode": "GB", 
+                            "isoThree": "GBR", 
+                            "name": "UNITED KINGDOM", 
+                            "numberCode": 826
+                        }, 
+                        "countryOfOrigin": "GB", 
+                        "createDate": "2013-06-24 16:07:28", 
+                        "description": "A granddaughter of Northern Brewer developed at Wye, Challenger is a classic true dual purpose hop and one of the most popular English hops of the 1980s and 1990s. It has a clean bittering from relatively high alpha acids and good aroma characteristics. It has a fine fruity aroma with spicy overtones. Like many other varieties developed at Wye, this hop is sometimes known as Wye Challenger, especially in older references. This simply indicates that it was developed at Wye, not necessarily anything about where it was grown.", 
+                        "farneseneMax": 3, 
+                        "farneseneMin": 1, 
+                        "humuleneMax": 32, 
+                        "humuleneMin": 25, 
+                        "id": 25, 
+                        "myrceneMax": 42, 
+                        "myrceneMin": 30, 
+                        "name": "Challenger", 
+                        "updateDate": "2013-06-24 16:10:37"
+                    }, 
+                    {
+                        "alphaAcidMin": 3, 
+                        "betaAcidMax": 4.1, 
+                        "betaAcidMin": 1.8, 
+                        "caryophylleneMax": 12, 
+                        "caryophylleneMin": 7, 
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "cohumuloneMax": 33, 
+                        "cohumuloneMin": 25, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "Austria", 
+                            "isoCode": "AT", 
+                            "isoThree": "AUT", 
+                            "name": "AUSTRIA", 
+                            "numberCode": 40
+                        }, 
+                        "countryOfOrigin": "AT", 
+                        "createDate": "2013-06-24 16:07:37", 
+                        "description": "Styria is a traditional hop-growing region on the modern-day Austrian/Slovenian border, and hop farms can be found on both sides of the border, although in modern times this variety is more closely associated with Slovenia and is sometimes called Savinja Goldings after a river in Slovenia. Although referred to as Styrian Golding, this hop is actually genetically derived from Fuggle rather than Golding hops. At one time the less desirable Fuggles were exported to some areas as \"Fuggle Golding,\" which is probably the source of the name. This hop became the primary hop grown in Styria in the 1930s when their other landrace varieties were severely damaged by powdery mildew. Because it is genetically derived from Fuggle, it is not surprising that Styrian Goldings also resembles Fuggle in character, with a pleasant spicy aroma.", 
+                        "farneseneMax": 8, 
+                        "farneseneMin": 2, 
+                        "humuleneMax": 38, 
+                        "humuleneMin": 25, 
+                        "id": 134, 
+                        "myrceneMax": 38, 
+                        "myrceneMin": 25, 
+                        "name": "Styrian Goldings", 
+                        "updateDate": "2013-06-24 16:10:38"
+                    }
+                ], 
+                "malt": [
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "characteristics": [
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a nutty flavor upon the beer.", 
+                                "id": 11, 
+                                "name": "Nutty"
+                            }
+                        ], 
+                        "coarseFineDifference": 1.5, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United Kingdom", 
+                            "isoCode": "GB", 
+                            "isoThree": "GBR", 
+                            "name": "UNITED KINGDOM", 
+                            "numberCode": 826
+                        }, 
+                        "countryOfOrigin": "GB", 
+                        "createDate": "2013-06-24 16:07:57", 
+                        "description": "Maris Otter is an English thoroughbred and this winter barley variety is still the favored choice of many UK cask ale brewers. In the field, its yield has been surpassed hugely by more modern varieties, so it has to be grown on contract for the maltster each year by selected farmers. The resulting malt is typically described as having a rich, nutty flavor. Performance in the brewhouse is predictable and consistent with excellent run-offs.", 
+                        "diastaticPower": 120, 
+                        "dryYield": 82.5, 
+                        "id": 1920, 
+                        "maxInBatch": 100, 
+                        "moistureContent": 3, 
+                        "name": "Maris Otter", 
+                        "potential": 1.038, 
+                        "protein": 11.7, 
+                        "requiresMashing": "Y", 
+                        "srm": {
+                            "hex": "FFCA5A", 
+                            "id": 3, 
+                            "name": "3"
+                        }, 
+                        "srmId": 3, 
+                        "srmPrecise": 3, 
+                        "updateDate": "2013-06-24 16:10:14"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "characteristics": [
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a malty flavor upon the beer.", 
+                                "id": 10, 
+                                "name": "Malty"
+                            }
+                        ], 
+                        "createDate": "2013-06-24 16:07:42", 
+                        "id": 234, 
+                        "name": "Pale Malt"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "createDate": "2013-06-24 16:07:56", 
+                        "id": 854, 
+                        "name": "Wheat Malt"
+                    }
+                ], 
+                "misc": [
+                    {
+                        "category": "misc", 
+                        "categoryDisplay": "Miscellaneous", 
+                        "createDate": "2013-06-24 16:08:20", 
+                        "id": 1118, 
+                        "name": "Elderflowers"
+                    }
+                ]
+            }, 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/3kYf8F/upload_PbbVEH-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/3kYf8F/upload_PbbVEH-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/3kYf8F/upload_PbbVEH-medium.png"
+            }, 
+            "name": "Mysterieuse Lady", 
+            "originalGravity": "1.039", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2013-02-03 15:06:42"
+        }, 
+        {
+            "abv": "4.5", 
+            "available": {
+                "description": "Beer is not available.", 
+                "id": 3, 
+                "name": "Not Available"
+            }, 
+            "availableId": 3, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:51", 
+                    "description": "Heavy Seas Beer is brewed by Clipper City Brewing Company, in Baltimore, Maryland. The brewery was established by Hugh Sisson in 1995. Previously, Sisson operated Maryland's first brewpub, Sisson's. The brewery is named for the famed Clipper ship - first developed and built in the home port of Baltimore. While the name of the company remains Clipper City Brewing Company, all of its beer falls under the Heavy Seas brand. Heavy Seas is located at 4615 Hollins Ferry Road, Suite B, in the Halethorpe section of Baltimore. Heavy Seas currently offers a variety of beer styles in approx. 18 states within the United States.\r\n\r\nHeavy Seas mission is to bring back the local brewery, and to do it in such a way that we are more than just a fringe player, but a positive part of our area. To accomplish this mission we have created a broad portfolio of products with enough diversity that we have at least one beer that can appeal to everyone. Whether your preference is for a classic American style lager beer, or a big, challenging Hop Cubed Ale, we have a something that will suit your taste. We believe in bringing beer drinkers the quality and flavor of a handcrafted beer while supporting the local communities we serve.", 
+                    "established": "1995", 
+                    "id": "wTFQaf", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/wTFQaf/upload_mfJMWB-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/wTFQaf/upload_mfJMWB-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/wTFQaf/upload_mfJMWB-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:51", 
+                            "id": "yX6twV", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.230827, 
+                            "locality": "Baltimore", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -76.6751309, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "410-247-7822", 
+                            "postalCode": "21227", 
+                            "region": "Maryland", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4615-B Hollins Ferry Road", 
+                            "updateDate": "2012-05-24 02:07:39", 
+                            "website": "http://www.hsbeer.com/", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-05-23 22:13:06", 
+                            "hoursOfOperation": "Open noon Monday-Sunday", 
+                            "id": "vh3ZUn", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 39.286352, 
+                            "locality": "Baltimore", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -76.599143, 
+                            "name": "Heavy Seas Alehouse", 
+                            "openToPublic": "Y", 
+                            "phone": "410-522-0850", 
+                            "postalCode": "21231", 
+                            "region": "Maryland", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1300 Bank Street", 
+                            "updateDate": "2012-08-22 15:35:11", 
+                            "website": "http://heavyseasalehouse.com/"
+                        }
+                    ], 
+                    "name": "Heavy Seas Beer", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 12:54:55", 
+                    "website": "http://www.hsbeer.com/"
+                }
+            ], 
+            "createDate": "2012-05-23 22:19:14", 
+            "description": "This light-colored ale goes down smooth and quenches thirst, like summer beer should. Supremely drinkable, Sea Nymph is dry and light, clean and crisp, with a hint of fruit in its nose. Our main goal with this beer is refreshment, so it\u2019s low in bitterness and very effervescent. Enjoy it on the beach, by the bay, or in an air-conditioned sunroom.", 
+            "foodPairings": "Summer fruits, nachos, salads", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "ibu": "15", 
+            "id": "dG9Hqo", 
+            "ingredients": {
+                "hops": [
+                    {
+                        "alphaAcidMin": 6, 
+                        "betaAcidMax": 4.5, 
+                        "betaAcidMin": 3.5, 
+                        "caryophylleneMax": 8, 
+                        "caryophylleneMin": 4, 
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "cohumuloneMax": 30, 
+                        "cohumuloneMin": 28, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United States", 
+                            "isoCode": "US", 
+                            "isoThree": "USA", 
+                            "name": "UNITED STATES", 
+                            "numberCode": 840
+                        }, 
+                        "countryOfOrigin": "US", 
+                        "createDate": "2013-06-24 16:07:28", 
+                        "description": "Sometimes called a super Cascade, Centennial was bred in 1974 but not released until 1990. It has a floral, citrus aroma and a clean spicy flavor; its heritage includes Brewer's Gold, Fuggle, and East Kent Golding. Popular among craft brewers, Centennial lends its distinctive character to, among others, Sierra Nevada Celebration Ale and Sierra Nevada Bigfoot Barleywine.", 
+                        "farneseneMax": 1, 
+                        "humuleneMax": 18, 
+                        "humuleneMin": 10, 
+                        "id": 24, 
+                        "myrceneMax": 60, 
+                        "myrceneMin": 45, 
+                        "name": "Centennial", 
+                        "updateDate": "2013-06-24 16:10:37"
+                    }
+                ], 
+                "malt": [
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "createDate": "2013-06-24 16:07:45", 
+                        "id": 378, 
+                        "name": "Caramel/Crystal Malt"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "coarseFineDifference": 1.5, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United States", 
+                            "isoCode": "US", 
+                            "isoThree": "USA", 
+                            "name": "UNITED STATES", 
+                            "numberCode": 840
+                        }, 
+                        "countryOfOrigin": "US", 
+                        "createDate": "2013-06-24 16:07:57", 
+                        "description": "The is the standard starting point for almost all beer recipes. Smooth with a less grainy more moderate flavour.", 
+                        "diastaticPower": 140, 
+                        "dryYield": 79, 
+                        "id": 1922, 
+                        "maxInBatch": 100, 
+                        "moistureContent": 4, 
+                        "name": "Two-Row Pale Malt", 
+                        "potential": 1.036, 
+                        "protein": 12.3, 
+                        "requiresMashing": "Y", 
+                        "srm": {
+                            "hex": "FFD878", 
+                            "id": 2, 
+                            "name": "2"
+                        }, 
+                        "srmId": 2, 
+                        "srmPrecise": 2, 
+                        "updateDate": "2013-06-24 16:10:14"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "createDate": "2013-06-24 16:07:56", 
+                        "id": 854, 
+                        "name": "Wheat Malt"
+                    }
+                ]
+            }, 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/dG9Hqo/upload_KJZdVw-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/dG9Hqo/upload_KJZdVw-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/dG9Hqo/upload_KJZdVw-medium.png"
+            }, 
+            "name": "Sea Nymph Summer Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2013-08-15 00:15:49"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2014-02-11 18:18:01", 
+                    "description": "Beer Farmer, Lachlan Macbean agricultural school graduate, aims to bring the four components of a healthy lifestyle, water, grains, hops, and yeast together in a glass of fermented liquid delight.   Currently brewing the beer on contract, Lachlan looks forward to the day all his brewing will be done on his own system.   \r\n\r\nLachlan has 5 years of professional brewing experience, and over 20 years of homebrewing research and development up his sleeve, and he always tells people it is a craft that must be practised and  mastered.\r\n\r\nHe has completed a Graduate Certificate in Brewing at the University of Ballarat, but Lachlan will assure you, the learning is life long, every brew brings new knowledge, experience and passion.  \r\n\r\nLachlan is an International Beer Judge having been invited to judge at the World Beer Cup in San Diego in 2012, the New Zealand International Beer Awards from 2009-2012, and the Australian International Beer Awards 2009/10. \r\n\r\n\r\nLachlan was awarded the Young Brewer of the Year Award at the Australasian Brewers and Distillers Guild Meeting in 2006.", 
+                    "id": "7KBx3q", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/7KBx3q/upload_m2dUdY-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/7KBx3q/upload_m2dUdY-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/7KBx3q/upload_m2dUdY-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2014-02-11 23:53:53", 
+                            "id": "Lli3HQ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -32.926689, 
+                            "locality": "Newcastle", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 151.7789205, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+61 400 483 743", 
+                            "region": "New South Wales", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2014-02-11 23:53:53", 
+                            "website": "http://www.grainfedbrewing.com.au"
+                        }
+                    ], 
+                    "name": "Grainfed Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-13 13:07:06", 
+                    "website": "http://www.grainfedbrewing.com.au/"
+                }
+            ], 
+            "createDate": "2014-02-11 18:23:38", 
+            "description": "Just popping out for a \"sneaky one\"? if you have ever uttered these words you will not be disappointed by the first beer to be brewed at Grainfed Brewing Company.   The Sneaky One is a new style developed by brewer Lachlan MacBean, called Newcastle Summer Ale.  It is an easy drinking beer, brewed with all Australian malts and Australian  Summer Hops and ..........", 
+            "id": "08JTaf", 
+            "isOrganic": "N", 
+            "name": "Sneaky One", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2014-02-11 23:59:21"
+        }, 
+        {
+            "abv": "3.8", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-10-21 20:38:47", 
+                    "description": "Raw Brewing Company was created from a passion for real ale and an idea that became reality. After several years of enjoying real ale David decided to have a go himself as a hobby to see if he could produce quality real ale. After several months it was clear that the product was good with the assistance from an army of tasters! It was time then to turn this passion and idea into reality Raw Brewing Company was born.", 
+                    "id": "E8u8xa", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/E8u8xa/upload_0mOMM5-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/E8u8xa/upload_0mOMM5-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/E8u8xa/upload_0mOMM5-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-10-21 20:39:51", 
+                            "extendedAddress": "Unit 3 & 4 Silver House", 
+                            "id": "TOzkLy", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 53.259563, 
+                            "locality": "Staveley", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -1.349165, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "01246 475445", 
+                            "postalCode": "S43 3LS", 
+                            "region": "Chesterfield", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Adelphi Way,", 
+                            "updateDate": "2012-10-21 20:39:51", 
+                            "website": "http://www.rawbrew.com/"
+                        }
+                    ], 
+                    "name": "Raw Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-21 21:14:31", 
+                    "website": "http://www.rawbrew.com/"
+                }
+            ], 
+            "createDate": "2012-10-21 20:47:58", 
+            "description": "Munich and Caramalt give this beer a sweet malty base and a deep golden colour. German hops give a pleasant bitterness and Cascade and Chinnock provide the powerful citrus aromas. Available Jun-Aug", 
+            "id": "aurgHR", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/aurgHR/upload_xXndeO-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/aurgHR/upload_xXndeO-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/aurgHR/upload_xXndeO-medium.png"
+            }, 
+            "name": "Solstice Summer Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2012-10-21 20:48:00"
+        }, 
+        {
+            "abv": "4", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:11", 
+                    "description": "Uinta Brewing Company embarked upon its mission of brewing world class, full-flavored, craft-brewed beer in the winter of 1993. From a small, renovated mechanic\u2019s garage located in Salt Lake City, Uinta began distributing a tasty variety of beer ranging from 4.0% to over 10% alcohol by volume to local bars, restaurants, and liquor stores. Demand escalated, resulting in the installation of a bottling line in 1996. Then, in 2001, having outgrown its original building, Uinta built and relocated to a 26,000-square-foot facility, specifically designed for brewing beer. \r\nUinta Brewing is named after an east-west mountain range located in northeastern Utah. Many of Uinta\u2019s beer names are inspired by Utah\u2019s diverse landscapes or have historical significance. Cutthroat Pale Ale, Uinta\u2019s flagship beer, is named after Utah\u2019s state fish. Subsequent beer names followed suit, such as King's Peak Porter, named after Utah\u2019s highest peak, Golden Spike Hefeweizen, named after the spike used to commemorate the completion of the transcontinental railroad in Utah, and Dubhe, named after the Utah Centennial star.\r\nIn desire of creating a different experience in beer, Uinta launched its Crooked Line in 2010. These beers were dubbed \u201cbig beers\u201d both in taste, alcohol content (ranging from 9 to over 13% alcohol by volume) and size of bottle.  Crooked Line beers are packaged in 750 ml bottles and are cork finished. Knowing that each beer was quite different from the next, it was essential that each brew showcased its individuality outside the bottle as well. Uinta sought the talents of local artists to design the labels, assuring that each style was unique in packaging as well as in style and taste. The launch of the Crooked Line was quickly followed by the grand opening of the Little Big Beer Store\u2014an on-site store selling higher alcohol content beers\u2014refrigerated!\r\nInspired by an upcoming 20th anniversary, Uinta Brewery sought a fresh approach in showcasing its products while maintaining the classic Uinta feel which reflects an appreciation for the outdoors and characteristics of the mountain west.  Uinta Brewing spent most of 2010-2011 going through a massive redesign of its logo, labels, all packaging and its bottle. The process enabled Uinta to clearly organize and define three lines of beers under the Uinta Family:  The Classic Line, Organic Line and Crooked Line. \r\nUinta designed a custom, proprietary 12 ounce bottle as part of the redesign project. Referred to as the \u201ccompass bottle,\u201d the new bottle shape is branded by a 360-degree compass embossed into the bottle\u2019s shoulder.  The upshot?  You\u2019ll never get lost with a Uinta bottle in hand!  Naturally, adopting the custom-shaped bottle gave rise to the need for a substantial investment in new bottling line equipment.\r\nThe redesigned logo embodies the uniqueness of the company\u2019s namesake, the Uinta Mountains.  A compass is integrated into the logo with the needle pointing East-West, referencing the only major range facing East-West in the continental U.S.. The compass also speaks to Uinta\u2019s sense of exploration and direction as Uinta consistently strives to brew the best beer possible. \u201cEarth, Wind and Beer\u201d remains part of the logo referring to Uinta\u2019s long-standing commitment to environmental stewardship. \r\nSince 2001 Uinta Brewing has been 100% wind-powered, becoming the first Utah company to reach this mark. In an effort to continue its commitment to using renewable resources, Uinta Brewing installed solar-electric paneling on the brewery\u2019s roof in 2011.  \r\n Uinta beers have received awards and medals from regional, national, and international competitions, including the North American Beer Awards, World Beer Cup, and Great American Beer Festival. \r\nUinta is committed to brewing world-class beer using the best practices and ingredients.", 
+                    "established": "1993", 
+                    "id": "uoQoRs", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/uoQoRs/upload_q0zLYh-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/uoQoRs/upload_q0zLYh-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/uoQoRs/upload_q0zLYh-medium.png"
+                    }, 
+                    "isOrganic": "Y", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:11", 
+                            "extendedAddress": "(2375 West)", 
+                            "id": "X9LRdm", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.732632, 
+                            "locality": "Salt Lake City", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -111.954091, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-801-467-0909", 
+                            "postalCode": "84104", 
+                            "region": "Utah", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1722 South Fremont Drive", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.uintabrewing.com/", 
+                            "yearOpened": "1993"
+                        }
+                    ], 
+                    "name": "Uinta Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-21 23:53:21", 
+                    "website": "http://www.uintabrewing.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:19", 
+            "description": "Citrusy and thirst-quenching, this refreshing golden ale is highlighted by the use of unique hops.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 6, 
+                "name": "Snifter"
+            }, 
+            "glasswareId": 6, 
+            "ibu": "17", 
+            "id": "9C7uKO", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/9C7uKO/upload_WT0YG1-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/9C7uKO/upload_WT0YG1-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/9C7uKO/upload_WT0YG1-medium.png"
+            }, 
+            "name": "Sum'r", 
+            "srm": {
+                "hex": "FFCA5A", 
+                "id": 3, 
+                "name": "3"
+            }, 
+            "srmId": 3, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2013-08-09 20:25:17"
+        }, 
+        {
+            "abv": "4.4", 
+            "available": {
+                "description": "Available during the summer months.", 
+                "id": 6, 
+                "name": "Summer"
+            }, 
+            "availableId": 6, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:09", 
+                    "description": "Summit Brewing Company is a regional craft brewery in St. Paul, Minnesota that brews a wide selection of popular beers. It is sometimes mistakenly believed to be a microbrewery, even though Summit's output is in the top 50 of breweries in the United States, approximately 80,000 barrels of beer per year. Their flagship beer, an American pale ale (branded Summit Extra Pale Ale) is especially popular in the Twin Cities area.", 
+                    "established": "1986", 
+                    "id": "05irfI", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/05irfI/upload_HrHeVs-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/05irfI/upload_HrHeVs-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/05irfI/upload_HrHeVs-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:09", 
+                            "hoursOfOperation": "Tours\r\nTues. & Thurs. at 1:00pm AND Sat. at 10:30am & 1:00pm ALL tours require reservations. Visit summitbrewing.com to book online or call 651-265-7800 for reservations.", 
+                            "id": "iDB3hf", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.913934, 
+                            "locality": "Saint Paul", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -93.139635, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "651-265-7800", 
+                            "postalCode": "55102", 
+                            "region": "Minnesota", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "910 Montreal Circle", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.summitbrewing.com/", 
+                            "yearOpened": "1986"
+                        }
+                    ], 
+                    "name": "Summit Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:09", 
+                    "website": "http://www.summitbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-03-05 14:15:01", 
+            "id": "WdqOn4", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/WdqOn4/upload_1CAQQv-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/WdqOn4/upload_1CAQQv-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/WdqOn4/upload_1CAQQv-medium.png"
+            }, 
+            "name": "Summer Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2014-04-05 09:01:22"
+        }, 
+        {
+            "abv": "4.39", 
+            "available": {
+                "description": "Available during the summer months.", 
+                "id": 6, 
+                "name": "Summer"
+            }, 
+            "availableId": 6, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:47", 
+                    "description": "Starting out in 1998 as two guys with a dog, a van, and a dream, Blue Point Brewing Company quickly became one of the nation\u2019s premier microbreweries. After first launching our lightly toasted, complex, full-flavored Toasted Lager, we rapidly gained the respect of beer lovers far and wide. Soon after, we introduced several other brews and were being compared to breweries from noted craft-brewing capitals like Denver, Boston, Portland, and Seattle.\r\n\r\nBrewing isn\u2019t just our business, it\u2019s our passion. We\u2019re beer people. We started Blue Point Brewing Company because we wanted to make beer we would drink. To quench that desire, we select only top-quality ingredients and brew all-natural, unpasteurized beer. It\u2019s this approach that put us on the world beer map. From the World Beer Cup to the Great American Beer Festival and the Australian International Beer Awards \u2013 we\u2019re becoming noticed the world over. But we believe you should be the judge. Let us know what you think.", 
+                    "established": "1998", 
+                    "id": "zo4Tui", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/zo4Tui/upload_s2JWpp-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/zo4Tui/upload_s2JWpp-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/zo4Tui/upload_s2JWpp-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:47", 
+                            "hoursOfOperation": "Brewery & Tasting Room Hours:\r\nThursday and Friday 3-7pm\r\nSaturday 12-7pm", 
+                            "id": "3NgU9h", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.759127, 
+                            "locality": "Patchogue", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -73.021493, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "631-475-6944", 
+                            "postalCode": "11772", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "161 River Avenue", 
+                            "updateDate": "2012-09-29 20:43:41", 
+                            "website": "http://www.bluepointbrewing.com/", 
+                            "yearOpened": "1997"
+                        }
+                    ], 
+                    "name": "Blue Point Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-22 17:41:22", 
+                    "website": "http://www.bluepointbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:19", 
+            "description": "There is a cure for Summertime Blues and the prescription is simple: 1 six-pack of Blue Point Brewing Company\u2019s Summer Ale. Adult dosage: 12-oz servings as needed until mood improves. The delicious golden taste of Summer Ale comes from a substantial portion of wheat malt added to a traditional barley malt mix which gives this delicious brew a unique tartness not found in many beers today. No surprise \u2013 this light, thirst-quenching brew is best enjoyed on hot Summer days.", 
+            "foodPairings": "Salad; quiches; fish; Mexican", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "16", 
+            "id": "X5WRIi", 
+            "isOrganic": "N", 
+            "name": "Summer Ale", 
+            "originalGravity": "1.044", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2013-01-07 13:09:24"
+        }, 
+        {
+            "abv": "4.2", 
+            "available": {
+                "description": "Available during the summer months.", 
+                "id": 6, 
+                "name": "Summer"
+            }, 
+            "availableId": 6, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:03", 
+                    "description": "Narragansett Beer is New England's oldest beer, founded in 1890. It was the #1 beer New England from 1919 through the 1970's and the official beer of the Red Sox for over 30 years. It's now one of the fastest growing beers in New England and was winner of the Bronze Medal at the 2008 World Beer Cup.\r\n\r\nNarragansett has always been for New Englanders. That's why in these especially troubling times, we want to build a brand new brewery in the heart of New England. The brewery would provide a slew of new jobs and help stimulate New England's economy. We need to sell 7.5 million cases of beer a year to be able to make it all happen. And to do that, we need you! So Drink your part! You buy a case, we build a brewery.", 
+                    "established": "1890", 
+                    "id": "mGqkXE", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/mGqkXE/upload_wVgfPx-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/mGqkXE/upload_wVgfPx-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/mGqkXE/upload_wVgfPx-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:03", 
+                            "id": "lJDA6m", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.8190249, 
+                            "locality": "Providence", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -71.4097368, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "401-437-8970", 
+                            "postalCode": "2903", 
+                            "region": "Rhode Island", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "60 Ship Street", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.narragansettbeer.com/", 
+                            "yearOpened": "1890"
+                        }
+                    ], 
+                    "name": "Narragansett Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 22:04:02", 
+                    "website": "http://www.narragansettbeer.com/"
+                }
+            ], 
+            "createDate": "2013-02-02 13:07:05", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "2vz9xR", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/2vz9xR/upload_rd1jJ4-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/2vz9xR/upload_rd1jJ4-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/2vz9xR/upload_rd1jJ4-medium.png"
+            }, 
+            "name": "Summer Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2013-02-02 13:07:06"
+        }, 
+        {
+            "abv": "3.5", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-03-06 18:54:21", 
+                    "description": "Our small microbrewery is located in a picturesque industrial neighbourhood near the Danish capital, Copenhagen, and the airport in the city of Taarnby. There is absolute no doubt that we run the safest brewing enterprise in the country as our premises used to be an air-raid shelter. Our premises have also been used for storing bibles, hence reigns an atmosphere of divine tranquillity only otherwise found in Belgian monasteries. Well...\r\n \r\nFounders of the brewery are the two friends and dedicated home brewers Mr. Morten Valentin Lundsbak and Mr. Jacob Storm, who since the opening of the brewery have achieved diplomas of their skills as they have become Diploma Brewers at the Scandinavian School of Brewing.\r\n \r\nIt is our ambition to cater to all beer lovers - every time, which is why we only use pure ingredients during the brewing process. We make no shortcuts by using artificial additives to speed or help the processes. Furthermore, we have deliberately chosen neither to pasteurize nor filter our beer as we would like to preserve the best possible flavours and aromas.\r\n \r\nWe allow the beer to mature completely in the bottle before releasing it to the market. This process implies that a natural sediment may remain in the bottle. This sediment can easily be consumed, but if an aesthetic beer experience is desired, pour the beer gently into the glass without the sediment. And preferably use a high pour to get the full and frothy head as well as to release all the pleasant aromas from this well-brewed beer from Amager Bryghus.", 
+                    "id": "LOKnrY", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/LOKnrY/upload_6MBK5R-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/LOKnrY/upload_6MBK5R-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/LOKnrY/upload_6MBK5R-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Denmark", 
+                                "isoCode": "DK", 
+                                "isoThree": "DNK", 
+                                "name": "DENMARK", 
+                                "numberCode": 208
+                            }, 
+                            "countryIsoCode": "DK", 
+                            "createDate": "2012-03-06 18:55:10", 
+                            "id": "8tHhXL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 55.624252, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 12.595661, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+45 32 50 62 00 \u200e", 
+                            "postalCode": "2770", 
+                            "region": "Kastrup", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Fugleb\u00e6kvej 2 C", 
+                            "updateDate": "2012-03-21 19:08:22", 
+                            "website": "http://www.amagerbryghus.dk/"
+                        }
+                    ], 
+                    "name": "Amager Bryghus", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:20", 
+                    "website": "http://www.amagerbryghus.dk/"
+                }
+            ], 
+            "createDate": "2013-05-17 21:37:12", 
+            "description": "With our light summer beer, Amager Summer Fusion, we wanted to prove that you can easily make a beer that is low in alcohol but rich in flavor. As the name suggests, our beer a true fusions\u00f8l where we with arms and legs have stolen inspiration from several different styles - and from several countries.\r\n \r\nThe yeast we have used is a classic German pilsnerg\u00e6r, which we very much against its will has been fermented at 22 degrees Celsius - a technique familiar from the American beer \"California Common\" or \"Steam Beer\". In this way, we combine the crisp freshness of lager with a portion of fruity freshness that you experience in top-fermented beer.\r\n \r\nThe malt that we use is no ordinary election, we have grabbed the bag with English Mild Ale malt, which give the beer its dark roasted character, while a handful of German caramel malt gives a little sweetness and roundness.\r\n \r\nAnd then it would not be a real Amager beer if we had extremely generous with the hops. Here our choice fell on the classic American aromahumler Centennial, Chinook and Amarillo - You know how someone massaging the taste buds. And then leave these hops the most enjoyable, citrusy freshness.\r\n \r\nAre you confused? Well, that's no reason to. Amager Summer Fusion is the answer to the many who for years have been asking: \"When will we have an American-English German-of-bottom-fermented lager ale that tastes a lot without being bimmelim?\"\r\n \r\nAmager Summer Fusion was contributed from Amager Brewery to competition in the beer festival 2007 to find the perfect summer beer at max. 3.5% alcohol.", 
+            "id": "itNEDy", 
+            "isOrganic": "N", 
+            "name": "Summer Fusion", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2013-05-20 18:21:13"
+        }, 
+        {
+            "abv": "3.5", 
+            "breweries": [
+                {
+                    "createDate": "2014-02-11 17:53:41", 
+                    "description": "Based in Port Macquarie, the Black Duck Brewery offers a friendly, relaxed venue to try the range of locally brewed beers while you catch up with friends and family or just enjoy your break.\r\n With the full range beers on tap, local food platters, local produce, and much more to come, the Black Duck Brewery is a must visit destination on the Mid North Coast.\r\nSpend some time, meet the brewer, do the tour and experience the Black Duck Brewery.\r\n\r\nTo ensure satisfaction, all the Black Duck Brewery beers are \r\nbrewed and packaged on site. We do occasionally carry another small brewery's beer on tap to both support them and give you another beer experience.\r\n\r\nNon beer drinkers can enjoy some Apple Cider, a glass of local wine, some local soft drink or even a deliciously well crafted locally roasted coffee.\r\n\r\nThe Ploughman\u2019s platters are popular with a generous serve of \r\nlocal beer bread, ham, olives, relish and a few other tasty goodies.\r\nThe brewery hours are 10am to 6pm Thursday and Friday, 10am to 4pm Saturday and Sunday. \r\n\r\nYou can find us at 6B Acacia Avenue, Port Macquarie.\r\nYou can give the brewer a call on 0407 874 474 if you want to know more. \r\nGive us a call if you have a group and want some nibbles to ensure we have plenty.", 
+                    "id": "V0T8uP", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/V0T8uP/upload_Zb4vaQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/V0T8uP/upload_Zb4vaQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/V0T8uP/upload_Zb4vaQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2014-02-11 23:15:09", 
+                            "hoursOfOperation": "Thu - Fri: 10:00 am - 6:00 pm\r\nSat - Sun: 10:00 am - 4:00 pm", 
+                            "id": "drNCMo", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -31.444675, 
+                            "locality": "Port Macquarie", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 152.885941, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+61 407 874 474", 
+                            "postalCode": "2444", 
+                            "region": "New South Wales", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6B Acacia Avenue", 
+                            "updateDate": "2014-02-11 23:15:09", 
+                            "website": "http://www.blackduckbrewery.com.au", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Black Duck Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-11 23:15:24", 
+                    "website": "http://www.blackduckbrewery.com.au/"
+                }
+            ], 
+            "createDate": "2014-02-11 18:03:56", 
+            "description": "The Summer Swallow is a deliciously refreshing mid strength ale. This beer is for when you've just finished cutting your, (or your neighbour's) grass. A tasty cold beer perfect for that hot summer day.", 
+            "ibu": "19", 
+            "id": "fuFoWc", 
+            "isOrganic": "N", 
+            "name": "Summer Swallow", 
+            "srm": {
+                "hex": "E58500", 
+                "id": 9, 
+                "name": "9"
+            }, 
+            "srmId": 9, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2014-02-11 23:59:20"
+        }, 
+        {
+            "abv": "4.5", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:43", 
+                    "description": "We brew into a 10 Barrel Brewhouse, giving us the freedom to experiment with our recipes in order to produce the highest quality of beer that we can.  This isn\u2019t just any 10 Barrel brewhouse though, it\u2019s a state of the art system that allows us to blend new technology with the tradition of craft fundamentals.  In other words we can\u2019t produce a TON of beer, but we can make it the highest quality.", 
+                    "established": "2006", 
+                    "id": "snQlvg", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/snQlvg/upload_qMSc0A-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/snQlvg/upload_qMSc0A-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/snQlvg/upload_qMSc0A-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:43", 
+                            "extendedAddress": "Suite #107", 
+                            "id": "TGtEbk", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 44.089005, 
+                            "locality": "Bend", 
+                            "locationType": "office", 
+                            "locationTypeDisplay": "Office", 
+                            "longitude": -121.285385, 
+                            "name": "Office", 
+                            "openToPublic": "N", 
+                            "phone": "541-585-1007", 
+                            "postalCode": "97701", 
+                            "region": "Oregon", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "20750 High Desert Ln", 
+                            "updateDate": "2012-09-29 12:31:42"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-09-29 12:29:56", 
+                            "id": "YgHnZO", 
+                            "inPlanning": "Y", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 44.087318, 
+                            "locality": "Bend", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -121.281329, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(541) 585-1007", 
+                            "postalCode": "97701", 
+                            "region": "Oregon", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "62970 18th Street", 
+                            "updateDate": "2013-10-12 01:15:21"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-09-29 12:31:35", 
+                            "hoursOfOperation": "Mon - Thu: 11:00 am - 11:00 pm\r\nFri - Sat: 11:00 am - 12:00 am\r\nSun: 11:00 am - 11:00 pm", 
+                            "id": "B00bip", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 44.056622, 
+                            "locality": "Bend", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -121.328163, 
+                            "name": "Bend Pub", 
+                            "openToPublic": "Y", 
+                            "phone": "(541) 678-5228", 
+                            "postalCode": "97701", 
+                            "region": "Oregon", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1135 NW Galveston Ave", 
+                            "updateDate": "2012-09-29 12:31:35"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-10-12 01:14:54", 
+                            "hoursOfOperation": "Mon - Sun: 11:00 am - 12:00 am", 
+                            "id": "7W7T98", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.617859, 
+                            "locality": "Boise", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -116.202689, 
+                            "name": "Brewpub", 
+                            "openToPublic": "Y", 
+                            "phone": "(208) 344-5870", 
+                            "postalCode": "83702", 
+                            "region": "Idaho", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "826 West Bannock Street", 
+                            "updateDate": "2013-10-12 01:14:54", 
+                            "website": "http://www.10barrel.com/"
+                        }
+                    ], 
+                    "name": "10 Barrel Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-10-12 01:15:45", 
+                    "website": "http://www.10barrel.com/"
+                }
+            ], 
+            "createDate": "2014-04-09 10:59:44", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "O6F3Bo", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/O6F3Bo/upload_jH86PM-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/O6F3Bo/upload_jH86PM-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/O6F3Bo/upload_jH86PM-medium.png"
+            }, 
+            "name": "Swill Beer", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2014-04-10 09:07:46"
+        }, 
+        {
+            "abv": "4.5", 
+            "breweries": [
+                {
+                    "createDate": "2014-02-10 20:55:17", 
+                    "description": "Welcome to Thirsty Crow Brewery \u2013 Wagga Wagga\u2019s first microbrewery.", 
+                    "established": "2011", 
+                    "id": "PPr69E", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/PPr69E/upload_Kqzp7Y-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/PPr69E/upload_Kqzp7Y-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/PPr69E/upload_Kqzp7Y-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2014-02-11 00:50:16", 
+                            "hoursOfOperation": "Mon & Tues: 4pm - 10pm. \r\nWed to Sun 12pm - late.", 
+                            "id": "AaTxl4", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -35.103843, 
+                            "locality": "Wagga Wagga", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 147.367122, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+61 2 6921 7470", 
+                            "postalCode": "2650", 
+                            "region": "New South Wales", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "31 Kincaid St", 
+                            "updateDate": "2014-02-11 00:50:16", 
+                            "website": "http://thirstycrow.com.au/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Thirsty Crow Brewing Co", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-10 22:52:05", 
+                    "website": "http://thirstycrow.com.au/"
+                }
+            ], 
+            "createDate": "2014-02-10 21:12:44", 
+            "description": "Taking its name from Wagga\u2019s postcode, this is a highly aromatic take on the summer ale style. Awash with tropical aromas from its New World hops and esters from the yeast, it was first introduced for summer but proved popular enough to stick around all year.", 
+            "id": "YBFFmm", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/YBFFmm/upload_gjDDdM-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/YBFFmm/upload_gjDDdM-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/YBFFmm/upload_gjDDdM-medium.png"
+            }, 
+            "name": "Thirsty Crow 26-Fifty Summer Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2014-02-11 00:48:23"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "Colorado\u2019s first brewpub, Wynkoop Brewing Company was founded in 1988 by a group of young entrepreneurs and urban pioneers led by current Denver Governor John Hickenlooper.\r\n\r\nOur brewpub\u2019s hallmarks -- highly acclaimed small-batch beers, high quality food & service, the city\u2019s best pool hall and our glorious 1888 building -- helped make us a major catalyst for the revival of Lower Downtown Denver.\r\n\r\nToday Wynkoop Brewing Company is a beer-blessed Denver institution, a must-visit Colorado landmark and one of the nation\u2019s most revered craft breweries.\r\n\r\nWe\u2019re also one of the city\u2019s best places for private and corporate events. We\u2019ve hosted everything from Democratic National Convention parties to beer festivals, weddings and company conferences. (All with great beer and food.)\r\n\r\nToday we\u2019re expanding our downtown brewing efforts to deliver more of our ambitious, artisan-style craft beer to Denver\u2019s best beer outlets. Look for cans of our beer in local stores and kegs of all of our beers at the area\u2019s top bars and restaurants.", 
+                    "established": "1988", 
+                    "id": "GfdTrX", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/GfdTrX/upload_oxC8S0-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/GfdTrX/upload_oxC8S0-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/GfdTrX/upload_oxC8S0-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "hoursOfOperation": "Mon - Sun: 11:00 am - 2:00 am", 
+                            "id": "H09IRl", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.753509, 
+                            "locality": "Denver", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -104.998505, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "303-297-2700", 
+                            "postalCode": "80202", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1634 18th Street", 
+                            "updateDate": "2012-10-30 00:14:39", 
+                            "website": "http://www.wynkoop.com/", 
+                            "yearOpened": "1988"
+                        }
+                    ], 
+                    "name": "Wynkoop Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-13 23:58:28", 
+                    "website": "http://www.wynkoop.com/"
+                }
+            ], 
+            "createDate": "2013-08-14 17:45:59", 
+            "id": "7AcnMs", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/7AcnMs/upload_UI6mZn-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/7AcnMs/upload_UI6mZn-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/7AcnMs/upload_UI6mZn-medium.png"
+            }, 
+            "name": "Thrills & Spills Summer Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "30", 
+                "ibuMin": "20", 
+                "id": 6, 
+                "name": "English-Style Summer Ale", 
+                "ogMin": "1.036", 
+                "srmMax": "7", 
+                "srmMin": "4"
+            }, 
+            "styleId": 6, 
+            "updateDate": "2013-09-05 19:24:06"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 24
+}

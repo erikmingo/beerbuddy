@@ -1,0 +1,537 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "4.2", 
+            "breweries": [
+                {
+                    "createDate": "2013-05-02 23:01:59", 
+                    "id": "Vemjn6", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Thailand", 
+                                "isoCode": "TH", 
+                                "isoThree": "THA", 
+                                "name": "THAILAND", 
+                                "numberCode": 764
+                            }, 
+                            "countryIsoCode": "TH", 
+                            "createDate": "2013-05-03 00:45:46", 
+                            "id": "MQ1eA7", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 13.8361545, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 100.5633676, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "0-2617-9500-29", 
+                            "postalCode": "10900", 
+                            "region": "Bangkok", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "15 Vibhavadee Rangsit Road", 
+                            "updateDate": "2013-05-03 00:45:46", 
+                            "website": "http://www.thaibev.com/"
+                        }
+                    ], 
+                    "name": "Cosmos Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-03 00:44:01", 
+                    "website": "http://www.thaibev.com/"
+                }
+            ], 
+            "createDate": "2013-05-03 00:48:40", 
+            "id": "hTpLkp", 
+            "isOrganic": "N", 
+            "name": "Chang Light", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4.4", 
+                "abvMin": "3.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 8, 
+                    "name": "North American Lager"
+                }, 
+                "categoryId": 8, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These beers are extremely light straw to light amber in color, light in body, and high in carbonation. They should have a maximum carbohydrate level of 3.0 gm per 12 oz. (356 ml). These beers are characterized by extremely high degree of attenuation (often final gravity is less than 1.000 (0 \u00baPlato), but with typical American-style light lager alcohol levels. Corn, rice, or other grain adjuncts are often used. Flavor is very light/mild and very dry. Hop flavor, aroma and bitterness are negligible to very low. Very low yeasty flavors and fruity esters are acceptable in aroma and flavor. Chill haze and diacetyl should not be perceived.", 
+                "fgMax": "1.004", 
+                "fgMin": "0.992", 
+                "ibuMax": "10", 
+                "ibuMin": "3", 
+                "id": 95, 
+                "name": "American-Style Low-Carbohydrate Light Lager", 
+                "ogMin": "1.024", 
+                "srmMax": "10", 
+                "srmMin": "2"
+            }, 
+            "styleId": 95, 
+            "updateDate": "2013-05-03 00:48:40"
+        }, 
+        {
+            "abv": "3", 
+            "breweries": [
+                {
+                    "createDate": "2013-05-09 22:05:42", 
+                    "id": "1sdzYJ", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Turkey", 
+                                "isoCode": "TR", 
+                                "isoThree": "TUR", 
+                                "name": "TURKEY", 
+                                "numberCode": 792
+                            }, 
+                            "countryIsoCode": "TR", 
+                            "createDate": "2013-05-10 13:34:25", 
+                            "id": "FVaab5", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "90 2126429100", 
+                            "postalCode": "34603", 
+                            "region": "Istanbul", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Bah\u00fcelievler-Haznedar", 
+                            "updateDate": "2013-05-10 13:34:25", 
+                            "website": "http://www.efespilsen.com.tr/"
+                        }
+                    ], 
+                    "name": "Anadolu Efes Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-10 13:34:44", 
+                    "website": "http://www.efespilsen.com.tr/"
+                }
+            ], 
+            "createDate": "2013-05-10 13:37:42", 
+            "id": "KmNZNB", 
+            "isOrganic": "N", 
+            "name": "Efes Light", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4.4", 
+                "abvMin": "3.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 8, 
+                    "name": "North American Lager"
+                }, 
+                "categoryId": 8, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These beers are extremely light straw to light amber in color, light in body, and high in carbonation. They should have a maximum carbohydrate level of 3.0 gm per 12 oz. (356 ml). These beers are characterized by extremely high degree of attenuation (often final gravity is less than 1.000 (0 \u00baPlato), but with typical American-style light lager alcohol levels. Corn, rice, or other grain adjuncts are often used. Flavor is very light/mild and very dry. Hop flavor, aroma and bitterness are negligible to very low. Very low yeasty flavors and fruity esters are acceptable in aroma and flavor. Chill haze and diacetyl should not be perceived.", 
+                "fgMax": "1.004", 
+                "fgMin": "0.992", 
+                "ibuMax": "10", 
+                "ibuMin": "3", 
+                "id": 95, 
+                "name": "American-Style Low-Carbohydrate Light Lager", 
+                "ogMin": "1.024", 
+                "srmMax": "10", 
+                "srmMin": "2"
+            }, 
+            "styleId": 95, 
+            "updateDate": "2013-05-10 13:37:42"
+        }, 
+        {
+            "abv": "4", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2013-05-19 02:27:10", 
+                    "description": "FORT GARRY is Manitoba\u2019s oldest microbrewery. Established in 1930, our recipes and brewing techniques are a time honoured tradition that have been passed down through the generations. Only the finest raw ingredients are used to brew our fine ales and lagers. Our line up of products includes our world-famous Fort Garry Dark, Fort Garry Light, Fort Garry Pale Ale, Fort Garry Rouge and Frontier Pilsner. \r\n\r\nFort Garry also distributes brands in Manitoba for our sister brewery in British Columbia, Russell Brewing Company. Fort Garry Brewing and Russell Brewing Company are wholly owned subsidiaries of Russell Breweries Inc.", 
+                    "established": "1930", 
+                    "id": "P3fflp", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/P3fflp/upload_WR7gRf-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/P3fflp/upload_WR7gRf-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/P3fflp/upload_WR7gRf-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2013-05-22 12:06:06", 
+                            "hoursOfOperation": "Mon - Fri: 7:30 am - 3:30 am", 
+                            "id": "O3AeVj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 49.838619, 
+                            "locality": "Winnipeg", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -97.2059227, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+1 204-487-3678", 
+                            "postalCode": "R3P 2H8", 
+                            "region": "Manitoba", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "130 Lowson Crescent", 
+                            "updateDate": "2013-05-22 12:06:06", 
+                            "website": "http://www.fortgarry.com/", 
+                            "yearOpened": "1930"
+                        }
+                    ], 
+                    "name": "Fort Garry Brewing Company Ltd.", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-22 12:06:51", 
+                    "website": "http://www.fortgarry.com/"
+                }
+            ], 
+            "createDate": "2013-05-22 12:08:04", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "eQegBM", 
+            "isOrganic": "N", 
+            "name": "Fort Gary Premium Light", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4.4", 
+                "abvMin": "3.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 8, 
+                    "name": "North American Lager"
+                }, 
+                "categoryId": 8, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These beers are extremely light straw to light amber in color, light in body, and high in carbonation. They should have a maximum carbohydrate level of 3.0 gm per 12 oz. (356 ml). These beers are characterized by extremely high degree of attenuation (often final gravity is less than 1.000 (0 \u00baPlato), but with typical American-style light lager alcohol levels. Corn, rice, or other grain adjuncts are often used. Flavor is very light/mild and very dry. Hop flavor, aroma and bitterness are negligible to very low. Very low yeasty flavors and fruity esters are acceptable in aroma and flavor. Chill haze and diacetyl should not be perceived.", 
+                "fgMax": "1.004", 
+                "fgMin": "0.992", 
+                "ibuMax": "10", 
+                "ibuMin": "3", 
+                "id": 95, 
+                "name": "American-Style Low-Carbohydrate Light Lager", 
+                "ogMin": "1.024", 
+                "srmMax": "10", 
+                "srmMin": "2"
+            }, 
+            "styleId": 95, 
+            "updateDate": "2013-05-22 12:08:04"
+        }, 
+        {
+            "abv": "3.6", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "description": "The word about the quality of our beer began to get around the metro New York region as soon as we turned on the spigots and started to serve it in our Southampton restaurant. Almost from day one, leading restaurants, pubs and taverns have requested our crafted brews for  their own patrons. Our Brewmaster, Phil Markowski  has personally directed the flow of our ales and lagers into the finest outlets. Our Mission is to offer a wide variety of specialty ales and lagers.  Our small batch brews range from classic farmhouse styles to traditional sessions beers to be enjoyed year-round.", 
+                    "established": "1996", 
+                    "id": "6BaQ3W", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/6BaQ3W/upload_34ihW3-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/6BaQ3W/upload_34ihW3-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/6BaQ3W/upload_34ihW3-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "id": "EcxpYA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.890256, 
+                            "locality": "Southampton", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -72.392707, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "631-283-2800", 
+                            "postalCode": "11968", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "40 Bowden Square", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://southamptonbrewery.com/", 
+                            "yearOpened": "1996"
+                        }
+                    ], 
+                    "name": "Southampton Publick House", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:09", 
+                    "website": "http://southamptonbrewery.com/"
+                }
+            ], 
+            "createDate": "2014-05-23 12:27:59", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "ZwyYdK", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ZwyYdK/upload_IQdfbe-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ZwyYdK/upload_IQdfbe-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ZwyYdK/upload_IQdfbe-medium.png"
+            }, 
+            "name": "Montauk Light", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4.4", 
+                "abvMin": "3.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 8, 
+                    "name": "North American Lager"
+                }, 
+                "categoryId": 8, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These beers are extremely light straw to light amber in color, light in body, and high in carbonation. They should have a maximum carbohydrate level of 3.0 gm per 12 oz. (356 ml). These beers are characterized by extremely high degree of attenuation (often final gravity is less than 1.000 (0 \u00baPlato), but with typical American-style light lager alcohol levels. Corn, rice, or other grain adjuncts are often used. Flavor is very light/mild and very dry. Hop flavor, aroma and bitterness are negligible to very low. Very low yeasty flavors and fruity esters are acceptable in aroma and flavor. Chill haze and diacetyl should not be perceived.", 
+                "fgMax": "1.004", 
+                "fgMin": "0.992", 
+                "ibuMax": "10", 
+                "ibuMin": "3", 
+                "id": 95, 
+                "name": "American-Style Low-Carbohydrate Light Lager", 
+                "ogMin": "1.024", 
+                "srmMax": "10", 
+                "srmMin": "2"
+            }, 
+            "styleId": 95, 
+            "updateDate": "2014-06-10 13:10:32"
+        }, 
+        {
+            "abv": "4.8", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:51", 
+                    "established": "1992", 
+                    "id": "r5kixF", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/r5kixF/upload_6LyyGP-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/r5kixF/upload_6LyyGP-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/r5kixF/upload_6LyyGP-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:51", 
+                            "hoursOfOperation": "Mon - Sat:\t10:00 am - 7:00 pm\r\nSun:\t12:00 pm - 5:00 pm", 
+                            "id": "B2A0Gi", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.263609, 
+                            "locality": "Nantucket", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -70.131438, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "508-325-5929", 
+                            "postalCode": "02584", 
+                            "region": "Massachusetts", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5 Bartlett Farm Road", 
+                            "updateDate": "2012-10-29 15:32:20", 
+                            "website": "http://www.ciscobrewers.com/"
+                        }
+                    ], 
+                    "name": "Cisco Brewers", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-29 15:33:02", 
+                    "website": "http://www.ciscobrewers.com/"
+                }
+            ], 
+            "createDate": "2014-05-15 11:18:38", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "Rue0Lj", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Rue0Lj/upload_BIgs3q-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Rue0Lj/upload_BIgs3q-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Rue0Lj/upload_BIgs3q-medium.png"
+            }, 
+            "name": "Shark Tracker Light Lager", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4.4", 
+                "abvMin": "3.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 8, 
+                    "name": "North American Lager"
+                }, 
+                "categoryId": 8, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These beers are extremely light straw to light amber in color, light in body, and high in carbonation. They should have a maximum carbohydrate level of 3.0 gm per 12 oz. (356 ml). These beers are characterized by extremely high degree of attenuation (often final gravity is less than 1.000 (0 \u00baPlato), but with typical American-style light lager alcohol levels. Corn, rice, or other grain adjuncts are often used. Flavor is very light/mild and very dry. Hop flavor, aroma and bitterness are negligible to very low. Very low yeasty flavors and fruity esters are acceptable in aroma and flavor. Chill haze and diacetyl should not be perceived.", 
+                "fgMax": "1.004", 
+                "fgMin": "0.992", 
+                "ibuMax": "10", 
+                "ibuMin": "3", 
+                "id": 95, 
+                "name": "American-Style Low-Carbohydrate Light Lager", 
+                "ogMin": "1.024", 
+                "srmMax": "10", 
+                "srmMin": "2"
+            }, 
+            "styleId": 95, 
+            "updateDate": "2014-05-15 11:25:38"
+        }, 
+        {
+            "abv": "4.3", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:59", 
+                    "established": "1881", 
+                    "id": "pwBcRV", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:59", 
+                            "extendedAddress": "PO Box 746", 
+                            "id": "9ZGuDD", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.1531559, 
+                            "locality": "Smithton", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.7436052, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "15479", 
+                            "region": "Pennsylvania", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "254 Second St", 
+                            "updateDate": "2012-03-21 19:08:11", 
+                            "website": "http://www.stoneysbeer.com/"
+                        }
+                    ], 
+                    "name": "Jones Brewing Co", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-09-18 17:44:47", 
+                    "website": "http://www.stoneysbeer.com/"
+                }
+            ], 
+            "createDate": "2012-09-18 17:40:43", 
+            "description": "Stoney's Light is a Premium Light American Lager. Stoney's Light is brewed specifically to ensure a refreshing beer with a crisp, clean, light finish. With 90 Calories and low carbohydrates.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "haVmvX", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/haVmvX/upload_7O6zD4-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/haVmvX/upload_7O6zD4-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/haVmvX/upload_7O6zD4-medium.png"
+            }, 
+            "name": "Stoney's Light Premium Lager", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4.4", 
+                "abvMin": "3.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 8, 
+                    "name": "North American Lager"
+                }, 
+                "categoryId": 8, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These beers are extremely light straw to light amber in color, light in body, and high in carbonation. They should have a maximum carbohydrate level of 3.0 gm per 12 oz. (356 ml). These beers are characterized by extremely high degree of attenuation (often final gravity is less than 1.000 (0 \u00baPlato), but with typical American-style light lager alcohol levels. Corn, rice, or other grain adjuncts are often used. Flavor is very light/mild and very dry. Hop flavor, aroma and bitterness are negligible to very low. Very low yeasty flavors and fruity esters are acceptable in aroma and flavor. Chill haze and diacetyl should not be perceived.", 
+                "fgMax": "1.004", 
+                "fgMin": "0.992", 
+                "ibuMax": "10", 
+                "ibuMin": "3", 
+                "id": 95, 
+                "name": "American-Style Low-Carbohydrate Light Lager", 
+                "ogMin": "1.024", 
+                "srmMax": "10", 
+                "srmMin": "2"
+            }, 
+            "styleId": 95, 
+            "updateDate": "2012-09-18 17:52:40"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 6
+}

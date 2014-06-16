@@ -1,0 +1,736 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "available": {
+                "description": "Available during the fall months.", 
+                "id": 7, 
+                "name": "Fall"
+            }, 
+            "availableId": 7, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:54", 
+                    "description": "5 Seasons Brewing is passionate about serving local produce, all-natural meats, and artisanal cheeses. We believe in conserving the spirit of the farm and supporting local farmers. We are also acknowledged as the center of Atlanta\u2019s beer culture.", 
+                    "established": "2001", 
+                    "id": "PprWrh", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/PprWrh/upload_zp6a3V-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/PprWrh/upload_zp6a3V-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/PprWrh/upload_zp6a3V-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:54", 
+                            "hoursOfOperation": "Open 7 Days a Week\r\nMonday \u2014 Thursday 11 AM - 10:00 PM - Bar Open Until Midnight\r\n\r\nFriday & Saturday 11 AM - 11 PM - Bar Open Until 2 AM\r\n\r\nSunday 12 PM - 10 PM - Bar Open Until Midnight", 
+                            "id": "dPwh4p", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 33.907706, 
+                            "locality": "Sandy Springs", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -84.378787, 
+                            "name": "Prado", 
+                            "openToPublic": "Y", 
+                            "phone": "404-255-5911", 
+                            "postalCode": "30342", 
+                            "region": "Georgia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5600 Roswell Road", 
+                            "updateDate": "2013-05-08 18:50:13", 
+                            "website": "http://www.5seasonsbrewing.com/", 
+                            "yearOpened": "2001"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-10-23 13:31:09", 
+                            "hoursOfOperation": "Open daily at 11am (weekends at noon)\r\nKitchen closes at 10pm (Bar stays open until midnight)", 
+                            "id": "UDZFWm", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 34.064328, 
+                            "locality": "Alpharetta", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -84.25278, 
+                            "name": "North", 
+                            "openToPublic": "Y", 
+                            "phone": "(770) 521-5551", 
+                            "postalCode": "30022", 
+                            "region": "Georgia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3655 Old Milton Pkwy", 
+                            "updateDate": "2013-05-08 18:48:42", 
+                            "website": "http://www.5seasonsbrewing.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-10-23 13:32:49", 
+                            "hoursOfOperation": "Sun - Wed 11:30 am to 10 pm \r\n(Bar til 12)\r\n\r\nThurs 11:30 am to 10:30 pm \r\n(Bar til 12:30)\r\n\r\nFri - Sat 11:30 am to 11 pm \r\n(Bar til 1)", 
+                            "id": "6XI3gD", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 33.778961, 
+                            "locality": "Atlanta", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -84.410048, 
+                            "name": "Westside", 
+                            "openToPublic": "Y", 
+                            "phone": "(404) 875-3232", 
+                            "postalCode": "30318", 
+                            "region": "Georgia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1000 Marietta St NW #204", 
+                            "updateDate": "2013-05-08 18:49:36", 
+                            "website": "http://www.5seasonsbrewing/"
+                        }
+                    ], 
+                    "name": "5 Seasons Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-11-22 16:13:38", 
+                    "website": "http://www.5seasonsbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-05-08 18:31:52", 
+            "description": "Kind of like our M\u00fcnchner, only BIGGER! This full bodied, malty, mellow amber lager is brewed only once a year, to celebrate the Oktoberfest. Munich & Pilsen malts make this beer big and smooth, while German CaraMunich malt gives it a rich amber hue. This style is also known as M\u00e4rzenbier and Weis\u2019n Bier. Best enjoyed in a one liter Mass with three fingers of foamy head!", 
+            "id": "od3MEn", 
+            "isOrganic": "N", 
+            "name": "5 Seasons Bavarian Ecstasy Festbier", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4.4", 
+                "abvMin": "3.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 8, 
+                    "name": "North American Lager"
+                }, 
+                "categoryId": 8, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These beers are pale golden to amber in color, light to medium-light in body, and high in carbonation. Calorie level should not exceed 125 per 12 ounce serving. Corn, rice, or other grain or sugar adjuncts may be used but all malt formulations are also made. Malt and hop flavors are mild yet evident. Hop bitterness is evident and hop aroma may be negligible to evident. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.002", 
+                "ibuMax": "15", 
+                "ibuMin": "8", 
+                "id": 96, 
+                "name": "American-Style Amber (Low Calorie) Lager", 
+                "ogMin": "1.024", 
+                "srmMax": "12", 
+                "srmMin": "4"
+            }, 
+            "styleId": 96, 
+            "updateDate": "2013-05-09 00:15:46"
+        }, 
+        {
+            "abv": "5.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:58", 
+                    "description": "Hood Canal Brewery opened its doors in September 1996 in an 800 sq. Ft. pole building at the home of Don Wyatt, owner and brewer, just north of Poulsbo, Washington. Don had five years experience in home-brewing and worked at the Thomas Kemper Brewery before its closing. When Kemper's closed its doors, he decided to follow his passion and strike out on his own.\r\n \r\nDistribution of Hood Canal Beers started in Kitsap County. He later expanded his sales to the Seattle area via Odom Distributing Corporation, and now he personally distributes to bars, pubs, and grocery stores in Kitsap and surrounding counties.\r\n \r\nOur Tasting Room is on Bond Road between Kingston and Poulsbo. It's about the ten minute drive from the Kingston ferry terminal or from Poulsbo.", 
+                    "established": "1996", 
+                    "id": "Yr1UcD", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Yr1UcD/upload_HbYfTN-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Yr1UcD/upload_HbYfTN-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Yr1UcD/upload_HbYfTN-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:58", 
+                            "hoursOfOperation": "Wed - Thu: 2:00 pm - 8:00 pm\r\nFri - Sat: 12:00 pm - 8:00 pm\r\nSun: 12:00 pm - 7:00 pm", 
+                            "id": "AZlvTJ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.803707, 
+                            "locality": "Kingston", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -122.57332, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "360-297-8316", 
+                            "postalCode": "98346", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "26499 Bond Rd NE", 
+                            "updateDate": "2013-02-22 00:46:46", 
+                            "website": "http://www.hoodcanalbrewery.com/"
+                        }
+                    ], 
+                    "name": "Hood Canal Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-02-22 00:47:29", 
+                    "website": "http://www.hoodcanalbrewery.com/"
+                }
+            ], 
+            "createDate": "2013-02-21 19:28:08", 
+            "description": "Is a nice hoppy amber ale with a dark honey color. The aroma includes nuts and honey, with a pear sweetness. Then you get some toast and honey, followed by steadily increasing hop flavors.", 
+            "id": "kSSyhT", 
+            "isOrganic": "N", 
+            "name": "Agate Pass Amber", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4.4", 
+                "abvMin": "3.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 8, 
+                    "name": "North American Lager"
+                }, 
+                "categoryId": 8, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These beers are pale golden to amber in color, light to medium-light in body, and high in carbonation. Calorie level should not exceed 125 per 12 ounce serving. Corn, rice, or other grain or sugar adjuncts may be used but all malt formulations are also made. Malt and hop flavors are mild yet evident. Hop bitterness is evident and hop aroma may be negligible to evident. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.002", 
+                "ibuMax": "15", 
+                "ibuMin": "8", 
+                "id": 96, 
+                "name": "American-Style Amber (Low Calorie) Lager", 
+                "ogMin": "1.024", 
+                "srmMax": "12", 
+                "srmMin": "4"
+            }, 
+            "styleId": 96, 
+            "updateDate": "2013-02-22 00:58:00"
+        }, 
+        {
+            "abv": "4.3", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:49", 
+                    "description": "Bull & Bones is a brewpub with both an upscale dining room and a separate sports bar with a casual dining area. Currently offering 7 craft beers brewed on site in our 10 barrel brewhaus. We have a wood-fired grill, on-site smoker, an ice rail integrated into our granite bar, 20 HDTV's, and 7 championship pool tables!", 
+                    "established": "2008", 
+                    "id": "O3eRGR", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/O3eRGR/upload_UvO3JC-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/O3eRGR/upload_UvO3JC-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/O3eRGR/upload_UvO3JC-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:49", 
+                            "hoursOfOperation": "Mon - Sun:\t11:00 am\t-\t2:00 am", 
+                            "id": "4JeSmy", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.2162344, 
+                            "locality": "Blacksburg", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -80.4010595, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "540-953-2855", 
+                            "postalCode": "24060", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1470 S Main St", 
+                            "updateDate": "2012-03-21 19:08:05", 
+                            "website": "http://www.bullandbones.com/"
+                        }
+                    ], 
+                    "name": "Bull & Bones Brewhaus & Grill", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-13 18:16:24", 
+                    "website": "http://www.bullandbones.com/"
+                }
+            ], 
+            "createDate": "2013-08-13 17:46:17", 
+            "description": "(Silver Medal winner L.A. Internatinal) An all malt, golden American Light Lager consisting of low hop bitterness and aroma, with a light malt body that is clean and crisp. This ultra light has great drinkability with a less filling body. However, this one contains no preservatives and provides a freshness that cannot be duplicated by a bottled beer.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "11", 
+            "id": "BdLLPU", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/BdLLPU/upload_UnDZho-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/BdLLPU/upload_UnDZho-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/BdLLPU/upload_UnDZho-medium.png"
+            }, 
+            "name": "All Night Light", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4.4", 
+                "abvMin": "3.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 8, 
+                    "name": "North American Lager"
+                }, 
+                "categoryId": 8, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These beers are pale golden to amber in color, light to medium-light in body, and high in carbonation. Calorie level should not exceed 125 per 12 ounce serving. Corn, rice, or other grain or sugar adjuncts may be used but all malt formulations are also made. Malt and hop flavors are mild yet evident. Hop bitterness is evident and hop aroma may be negligible to evident. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.002", 
+                "ibuMax": "15", 
+                "ibuMin": "8", 
+                "id": 96, 
+                "name": "American-Style Amber (Low Calorie) Lager", 
+                "ogMin": "1.024", 
+                "srmMax": "12", 
+                "srmMin": "4"
+            }, 
+            "styleId": 96, 
+            "updateDate": "2013-08-13 17:48:50"
+        }, 
+        {
+            "abv": "4.1", 
+            "breweries": [
+                {
+                    "createDate": "2014-02-13 18:07:04", 
+                    "description": "Green Beacon Brewing Company is Teneriffe\u2019s first boutique craft brewery and ale works. We produce a range of local and seasonal craft beers, served alongside the best Queensland seafood.\r\n\r\nOur beer is made on site in our brewery, which runs parallel to our bar in order to showcase the all natural and craft nature of our business. This is where all the action happens!\r\n\r\nCome along and enjoy a craft beer or two in our rustic Teneriffe warehouse setting, watch our brewery in action, have a chat to our brewers and enjoy a plate of fresh local seafood.", 
+                    "id": "X8ret4", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/X8ret4/upload_OjmG28-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/X8ret4/upload_OjmG28-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/X8ret4/upload_OjmG28-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2014-02-14 01:01:09", 
+                            "id": "3g2uC2", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -27.4528914, 
+                            "locality": "Teneriffe Brisbane", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 153.046532, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+61 7 3252 8393", 
+                            "postalCode": "4006", 
+                            "region": "Queensland", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "26 Helen Street", 
+                            "updateDate": "2014-02-14 01:01:09", 
+                            "website": "http://www.greenbeacon.com.au"
+                        }
+                    ], 
+                    "name": "Green Beacon Brewing Co", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-14 01:02:18", 
+                    "website": "http://www.greenbeacon.com.au/"
+                }
+            ], 
+            "createDate": "2014-02-13 18:17:59", 
+            "description": "Another Green Beacon favourite that lets the distinct malt profile clearly take centre stage.  Pale and Amber grists from a world famous British floor maltser, combine wonderfully to lend sublime malt character and depth to this amber ale. Copper in colour and hopped with traditional Fuggles and Goldings, Anchor is a craft delight that is good drinking all year round and a nice change up for those who prefer a malty backbone to their ales.", 
+            "ibu": "25.3", 
+            "id": "6XV1We", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/6XV1We/upload_7HXUlj-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/6XV1We/upload_7HXUlj-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/6XV1We/upload_7HXUlj-medium.png"
+            }, 
+            "name": "Anchor Amber Ale", 
+            "srm": {
+                "hex": "952D00", 
+                "id": 21, 
+                "name": "21"
+            }, 
+            "srmId": 21, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4.4", 
+                "abvMin": "3.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 8, 
+                    "name": "North American Lager"
+                }, 
+                "categoryId": 8, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These beers are pale golden to amber in color, light to medium-light in body, and high in carbonation. Calorie level should not exceed 125 per 12 ounce serving. Corn, rice, or other grain or sugar adjuncts may be used but all malt formulations are also made. Malt and hop flavors are mild yet evident. Hop bitterness is evident and hop aroma may be negligible to evident. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.002", 
+                "ibuMax": "15", 
+                "ibuMin": "8", 
+                "id": 96, 
+                "name": "American-Style Amber (Low Calorie) Lager", 
+                "ogMin": "1.024", 
+                "srmMax": "12", 
+                "srmMin": "4"
+            }, 
+            "styleId": 96, 
+            "updateDate": "2014-02-14 01:03:29"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Beer is not available.", 
+                "id": 3, 
+                "name": "Not Available"
+            }, 
+            "availableId": 3, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "The Saturnalian Saga of Magic Hat began in 1994 when our first batch of beer was brewed in a funky little space on Flynn Avenue, in Burlington, Vermont.  Dozens of beers and a brewery later, the Vermont brewery finds itself reaching more than 30 states with its unique take on classic styles.  Magic Hat continues to be a leader in craft beer and is currently the only craft brewer putting a performance in every bottle.", 
+                    "established": "1994", 
+                    "id": "qIqpZc", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/qIqpZc/upload_rtve34-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/qIqpZc/upload_rtve34-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/qIqpZc/upload_rtve34-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "id": "Bp3teL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.428405, 
+                            "locality": "South Burlington", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -73.213148, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-802-658-2739", 
+                            "postalCode": "5403", 
+                            "region": "Vermont", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5 Bartlett Bay Road", 
+                            "updateDate": "2013-08-12 16:50:30", 
+                            "website": "http://www.magichat.net/", 
+                            "yearOpened": "1994"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:47:25", 
+                            "id": "a4dr04", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 52.408494, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 12.562564, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "region": "Brandenburg", 
+                            "status": "deleted", 
+                            "statusDisplay": "Deleted", 
+                            "updateDate": "2012-08-13 12:40:53"
+                        }
+                    ], 
+                    "name": "Magic Hat Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 16:33:41", 
+                    "website": "http://www.magichat.net/"
+                }
+            ], 
+            "createDate": "2013-04-12 11:27:46", 
+            "id": "hYMONe", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/hYMONe/upload_ECrpDe-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/hYMONe/upload_ECrpDe-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/hYMONe/upload_ECrpDe-medium.png"
+            }, 
+            "name": "Art Hop Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4.4", 
+                "abvMin": "3.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 8, 
+                    "name": "North American Lager"
+                }, 
+                "categoryId": 8, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These beers are pale golden to amber in color, light to medium-light in body, and high in carbonation. Calorie level should not exceed 125 per 12 ounce serving. Corn, rice, or other grain or sugar adjuncts may be used but all malt formulations are also made. Malt and hop flavors are mild yet evident. Hop bitterness is evident and hop aroma may be negligible to evident. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.002", 
+                "ibuMax": "15", 
+                "ibuMin": "8", 
+                "id": 96, 
+                "name": "American-Style Amber (Low Calorie) Lager", 
+                "ogMin": "1.024", 
+                "srmMax": "12", 
+                "srmMin": "4"
+            }, 
+            "styleId": 96, 
+            "updateDate": "2013-08-14 18:37:51"
+        }, 
+        {
+            "abv": "3.9", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "Winery Exchange was founded in 1999 and is headquartered in Novato, California, USA. The company maintains regional sales offices around the United States and international offices in the United Kingdom and Spain.\r\n\r\nWinery Exchange is the only full-service, corporate brand, beverage alcohol company that sources beer, wine and spirits from the finest regions worldwide. The company was founded with the intent of blending extensive industry expertise with cutting-edge business practices. The result is a dynamic, fast-growing company poised to take advantage of new trends in the beverage alcohol industry.", 
+                    "established": "1999", 
+                    "id": "ytIKJu", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ytIKJu/upload_3NZP95-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ytIKJu/upload_3NZP95-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ytIKJu/upload_3NZP95-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "extendedAddress": "Suite 200", 
+                            "id": "aPdSL0", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.0740437, 
+                            "locality": "Novato", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.5428807, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "877-946-3793", 
+                            "postalCode": "94947", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "500 Redwood Boulevard", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://www.wineryexchange.com/", 
+                            "yearOpened": "1999"
+                        }
+                    ], 
+                    "name": "Winery Exchange", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:11", 
+                    "website": "http://www.wineryexchange.com/"
+                }
+            ], 
+            "createDate": "2014-06-13 19:34:17", 
+            "ibu": "10", 
+            "id": "0Vgj0X", 
+            "isOrganic": "N", 
+            "name": "Big Flats 1901 Light", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4.4", 
+                "abvMin": "3.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 8, 
+                    "name": "North American Lager"
+                }, 
+                "categoryId": 8, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These beers are pale golden to amber in color, light to medium-light in body, and high in carbonation. Calorie level should not exceed 125 per 12 ounce serving. Corn, rice, or other grain or sugar adjuncts may be used but all malt formulations are also made. Malt and hop flavors are mild yet evident. Hop bitterness is evident and hop aroma may be negligible to evident. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.002", 
+                "ibuMax": "15", 
+                "ibuMin": "8", 
+                "id": 96, 
+                "name": "American-Style Amber (Low Calorie) Lager", 
+                "ogMin": "1.024", 
+                "srmMax": "12", 
+                "srmMin": "4"
+            }, 
+            "styleId": 96, 
+            "updateDate": "2014-06-14 16:25:54"
+        }, 
+        {
+            "abv": "5.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-09-27 13:32:05", 
+                    "description": "Golden Mongoose offers unique high quality beer and alcoholic beverages. We strive to give our customers upscale products featuring a distinct and flavorful taste.", 
+                    "id": "nVevxY", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/nVevxY/upload_13QEN1-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/nVevxY/upload_13QEN1-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/nVevxY/upload_13QEN1-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "name": "Golden Mongoose", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-09-27 13:32:06", 
+                    "website": "http://goldenmongoose.com/"
+                }
+            ], 
+            "createDate": "2012-09-27 13:33:39", 
+            "description": "Traditional Indian light lagers left a lot to be desired. We wanted to offer a craft beer with a balanced taste which pairs well with the flavors of South Asian cuisine. We searched far and wide for a taste that brings something else to the palate...something unique...something sophisticated...something indulgent...Moksha Craft Amber Lager was born.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "22", 
+            "id": "TGOAAQ", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/TGOAAQ/upload_OzAJGK-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/TGOAAQ/upload_OzAJGK-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/TGOAAQ/upload_OzAJGK-medium.png"
+            }, 
+            "name": "Moksha", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4.4", 
+                "abvMin": "3.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 8, 
+                    "name": "North American Lager"
+                }, 
+                "categoryId": 8, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These beers are pale golden to amber in color, light to medium-light in body, and high in carbonation. Calorie level should not exceed 125 per 12 ounce serving. Corn, rice, or other grain or sugar adjuncts may be used but all malt formulations are also made. Malt and hop flavors are mild yet evident. Hop bitterness is evident and hop aroma may be negligible to evident. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.002", 
+                "ibuMax": "15", 
+                "ibuMin": "8", 
+                "id": 96, 
+                "name": "American-Style Amber (Low Calorie) Lager", 
+                "ogMin": "1.024", 
+                "srmMax": "12", 
+                "srmMin": "4"
+            }, 
+            "styleId": 96, 
+            "updateDate": "2012-09-27 13:33:41"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 7
+}

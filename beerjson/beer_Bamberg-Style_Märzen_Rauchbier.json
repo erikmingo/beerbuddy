@@ -1,0 +1,298 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "5.6", 
+            "available": {
+                "description": "Available during the spring months.", 
+                "id": 5, 
+                "name": "Spring"
+            }, 
+            "availableId": 5, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:10", 
+                    "description": "The Prodigal Brewery is an award winning brewery in the White Mountains of New Hampshire, specializing in German-inspired farmstead ales and lagers.", 
+                    "established": "2010", 
+                    "id": "KYZTeH", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/KYZTeH/upload_aIClfN-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/KYZTeH/upload_aIClfN-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/KYZTeH/upload_aIClfN-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:10", 
+                            "id": "f4HWSu", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.7424166, 
+                            "locality": "Effingham", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -71.0677108, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "N", 
+                            "phone": "603-539-2210", 
+                            "postalCode": "03882", 
+                            "region": "New Hampshire", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "678 Town House Rd", 
+                            "updateDate": "2014-01-06 12:17:05", 
+                            "website": "http://www.theprodigalbrewery.com/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "The Prodigal Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-06 17:58:05", 
+                    "website": "http://www.theprodigalbrewery.com/"
+                }
+            ], 
+            "createDate": "2014-01-02 18:24:57", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "27", 
+            "id": "9dX7vl", 
+            "isOrganic": "N", 
+            "name": "Brother Mutt's Smoked Marzen", 
+            "originalGravity": "1.056", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "srm": {
+                "hex": "9B3200", 
+                "id": 20, 
+                "name": "20"
+            }, 
+            "srmId": 20, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.9", 
+                "abvMin": "5.3", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 7, 
+                    "name": "European-germanic Lager"
+                }, 
+                "categoryId": 7, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Bamberg-style Rauchbier M\u00e4rzen should have beechwood smoky characters that range from detectable to prevalent in the aroma and flavor. Smoke character is neither harshly phenolic nor acrid, but rather very smooth, almost rendering a perception of mild sweetness to this style of beer. The beer is generally toasted malty sweet and full-bodied with low to medium-low hop bitterness. Noble-type hop flavor is low but may be perceptible. The aroma should strike a balance between malt, hop, and smoke. Fruity esters, diacetyl, and chill haze should not be perceived.", 
+                "fgMax": "1.02", 
+                "fgMin": "1.012", 
+                "ibuMax": "25", 
+                "ibuMin": "18", 
+                "id": 85, 
+                "name": "Bamberg-Style M\u00e4rzen Rauchbier", 
+                "ogMin": "1.05", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 85, 
+            "updateDate": "2014-02-10 11:31:08"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:55", 
+                    "description": "The Fort Collins Brewery is a microbrewery located in Fort Collins, Colorado. We have been open for 7 years and provide 7 full time and 4 seasonal brews.\r\n\r\nWant to see where the brewers of FCB spend their days? Swing by for a TOUR! Guided Brewery Tours take place every Saturday at: 1,2,3,4 & 5 with no reservations necessary. Tours are FREE!", 
+                    "established": "2003", 
+                    "id": "pMsqwL", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/pMsqwL/upload_CpHUv6-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/pMsqwL/upload_CpHUv6-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/pMsqwL/upload_CpHUv6-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:55", 
+                            "hoursOfOperation": "Mon - Wed: 11:00 am\t - 6:00 pm\r\nThu - Sat: 11:00 am - 7:00 pm", 
+                            "id": "nHLlnK", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.58878, 
+                            "locality": "Fort Collins", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -105.059556, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "970-472-1499", 
+                            "postalCode": "80524", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1020 E. Lincoln Ave", 
+                            "updateDate": "2014-04-01 13:24:02", 
+                            "website": "http://www.fortcollinsbrewery.com/", 
+                            "yearOpened": "2003"
+                        }
+                    ], 
+                    "name": "Fort Collins Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-01 12:59:33", 
+                    "website": "http://www.fortcollinsbrewery.com/"
+                }
+            ], 
+            "createDate": "2014-01-28 12:59:21", 
+            "id": "kYtseW", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/kYtseW/upload_XxkVZq-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/kYtseW/upload_XxkVZq-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/kYtseW/upload_XxkVZq-medium.png"
+            }, 
+            "name": "Out of the Ashes", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.9", 
+                "abvMin": "5.3", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 7, 
+                    "name": "European-germanic Lager"
+                }, 
+                "categoryId": 7, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Bamberg-style Rauchbier M\u00e4rzen should have beechwood smoky characters that range from detectable to prevalent in the aroma and flavor. Smoke character is neither harshly phenolic nor acrid, but rather very smooth, almost rendering a perception of mild sweetness to this style of beer. The beer is generally toasted malty sweet and full-bodied with low to medium-low hop bitterness. Noble-type hop flavor is low but may be perceptible. The aroma should strike a balance between malt, hop, and smoke. Fruity esters, diacetyl, and chill haze should not be perceived.", 
+                "fgMax": "1.02", 
+                "fgMin": "1.012", 
+                "ibuMax": "25", 
+                "ibuMin": "18", 
+                "id": 85, 
+                "name": "Bamberg-Style M\u00e4rzen Rauchbier", 
+                "ogMin": "1.05", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 85, 
+            "updateDate": "2014-01-29 10:03:01"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available during the fall months.", 
+                "id": 7, 
+                "name": "Fall"
+            }, 
+            "availableId": 7, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:51", 
+                    "description": "Combining the principles of the German Purity Law of 1516 (Reinheitsgebot) with a little creativity and Texas ingenuity, Circle Brewing Co. endeavors to create a better beer. By utilizing only the main four ingredients, Water, Malt, Hops, and Yeast, we ensure the highest quality of product in the purest possible form.", 
+                    "established": "2011", 
+                    "id": "wnlFAt", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/wnlFAt/upload_PVHFlS-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/wnlFAt/upload_PVHFlS-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/wnlFAt/upload_PVHFlS-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:51", 
+                            "extendedAddress": "Suite B", 
+                            "id": "wOiNxq", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 30.391098, 
+                            "locality": "Austin", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -97.715928, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "78758", 
+                            "region": "Texas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2340 W Braker Ln.", 
+                            "updateDate": "2012-03-21 20:05:29", 
+                            "website": "http://www.circlebrewing.com/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Circle Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 16:21:00", 
+                    "website": "http://www.circlebrewing.com/"
+                }
+            ], 
+            "createDate": "2013-08-09 15:56:19", 
+            "description": "Based upon the original German Rauchbier, SMOKIN' BEECH stays true to its heritage. A melding of the two original Bamberg Rauchs, this lager conjures the best of both rival brews. Munich and Beechwood Smoked Malts blend to create a brew that is not overly smokey, but compliments the rich malty sweetness inherent to the traditional style. Properly proportioned and balanced accordingly...it's smokin'!", 
+            "ibu": "18.1", 
+            "id": "rHtCsy", 
+            "isOrganic": "N", 
+            "name": "SMOKIN' BEECH Bamberg-Style Rauchbier", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.9", 
+                "abvMin": "5.3", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 7, 
+                    "name": "European-germanic Lager"
+                }, 
+                "categoryId": 7, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Bamberg-style Rauchbier M\u00e4rzen should have beechwood smoky characters that range from detectable to prevalent in the aroma and flavor. Smoke character is neither harshly phenolic nor acrid, but rather very smooth, almost rendering a perception of mild sweetness to this style of beer. The beer is generally toasted malty sweet and full-bodied with low to medium-low hop bitterness. Noble-type hop flavor is low but may be perceptible. The aroma should strike a balance between malt, hop, and smoke. Fruity esters, diacetyl, and chill haze should not be perceived.", 
+                "fgMax": "1.02", 
+                "fgMin": "1.012", 
+                "ibuMax": "25", 
+                "ibuMin": "18", 
+                "id": 85, 
+                "name": "Bamberg-Style M\u00e4rzen Rauchbier", 
+                "ogMin": "1.05", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 85, 
+            "updateDate": "2013-08-09 16:45:04"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 3
+}

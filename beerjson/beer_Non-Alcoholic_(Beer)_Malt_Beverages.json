@@ -1,0 +1,2660 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:43", 
+                    "description": "Founded in 1986, the Abita Brewing Company is nestled in the piney woods 30 miles north of New Orleans.\r\n\r\nIn its first year, the brewery produced 1,500 barrels of beer. We had no idea what we started. Customers loved our beer! By 1994, we outgrew the original site (now our 100-seat brew pub) and moved up the road to a larger facility to keep up with demand.\r\n\r\n\r\nWe brew over 151,000 barrels of beer and 9,100 barrels of root beer in our state-of-the-art brewing facility. Our lagers and ales are brewed in small batches, hand-crafted by a team of dedicated workers with only the highest ideals of quality. This pride, along with our brewing process, is what creates our great brews.\r\n\r\nWe are privately owned and operated by local shareholders, many who have been with us since day one.\r\n\r\nAbita uses only the finest ingredients \u2013 British and North American malted barley, German and American yeast strains, Pacific Northwest hops and the pure artesian water of Abita Springs.\r\n\r\nIn Abita Springs, we are blessed with the purest of water. Drawn from our deep wells, our pristine water is not altered in any way.\r\n\r\nAbita Beer has no preservatives, additives or stabilizers and is cold filtered. The result is beer that is the finest and freshest tasting as proven by our loyal customers and great chefs of the south who use Abita Beer in their recipes.", 
+                    "established": "1986", 
+                    "id": "BBE5WM", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/BBE5WM/upload_WCZDku-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/BBE5WM/upload_WCZDku-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/BBE5WM/upload_WCZDku-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:43", 
+                            "id": "d8IJKF", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 30.482408, 
+                            "locality": "Abita Springs", 
+                            "locationType": "office", 
+                            "locationTypeDisplay": "Office", 
+                            "longitude": -90.056605, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "N", 
+                            "phone": "800-737-2311", 
+                            "postalCode": "70420", 
+                            "region": "Louisiana", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "PO Box 1510", 
+                            "updateDate": "2012-09-29 14:34:51", 
+                            "yearOpened": "1986"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-09-29 14:34:50", 
+                            "hoursOfOperation": "Wed, Thur & Fri: 2pm - 3pm\r\nTour Time: 2pm\r\n\r\nSat: 10am - 3pm\r\nTour Times: 11am, 12pm, 1pm & 2pm\r\n\r\nSun, Mon & Tue: No tours", 
+                            "id": "PdSE1h", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 30.482685, 
+                            "locality": "Abita Springs", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -90.054401, 
+                            "name": "Tasting Room", 
+                            "openToPublic": "Y", 
+                            "postalCode": "70433", 
+                            "region": "Louisiana", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "21084 Louisiana 36", 
+                            "updateDate": "2012-09-29 14:36:41"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-09-29 14:36:40", 
+                            "hoursOfOperation": "Monday - Closed\r\nTuesday - 11:00 - 9:00\r\nWednesday - 11:00 - 9:00\r\nThursday - 11:00 - 9:00\r\nFriday - 11:00 - 10:00\r\nSaturday - 11:00 - 10:00\r\nSunday - 11:00 - 9:00", 
+                            "id": "1xB2B8", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 30.478473, 
+                            "locality": "Abita Springs", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -90.039069, 
+                            "name": "Brewpub", 
+                            "openToPublic": "Y", 
+                            "phone": "(985) 892-5837", 
+                            "postalCode": "70420", 
+                            "region": "Louisiana", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "72011 Holly Street", 
+                            "updateDate": "2012-09-29 14:36:40", 
+                            "website": "http://www.abitabrewpub.com/", 
+                            "yearOpened": "2004"
+                        }
+                    ], 
+                    "name": "Abita Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 21:42:59", 
+                    "website": "http://www.abita.com/"
+                }
+            ], 
+            "createDate": "2012-09-29 15:04:55", 
+            "description": "Abita Root Beer is made with a hot mix process using spring water, herbs, vanilla and yucca (which creates foam). Unlike most soft drink manufacturers, Abita sweetens its root beer with pure Louisiana cane sugar. The resulting taste is reminiscent of soft drinks made in the 1940s and 1950s, before bottlers turned to corn sugar and fructose. Some soft drink makers add caffeine to their product, but Abita is naturally caffeine-free.\r\n\r\nAdd a scoop of vanilla ice cream for an old-fashioned root beer float. Abita Root Beer can also be used in cooking to create delicious glazes and sauces as well as cakes and other desserts, or you can keep it simple \u2013 just pour it into a frosty mug and slurp loudly through a straw.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "rlErBn", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/rlErBn/upload_d3HqXl-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/rlErBn/upload_d3HqXl-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/rlErBn/upload_d3HqXl-medium.png"
+            }, 
+            "name": "Abita Root Beer", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2013-08-13 19:54:54"
+        }, 
+        {
+            "abv": "0.4", 
+            "breweries": [
+                {
+                    "createDate": "2013-05-15 23:49:37", 
+                    "description": "Eichhof is committed to a responsible consumption of beer. Most people enjoy a cold beer in moderation and as part of their positive lifestyle. However, it is also a fact that a minority does not know the boundaries, so they harm themselves and others. We take our responsibility very seriously as a beer manufacturing company and have established principles to which we adhere strictly to all activities.\r\n\r\nOur communication is done according to strict, self-imposed strict guidelines. So Eichhof not explicitly apply to persons under the age of 18 in his communications and sponsorship activities.\r\n\r\nIn Eichhof we also rely on an alcohol-free work environment and maintain the principle of \"Who is working, do not drink.\" Our employees take with their behavior in their private lives is an important ambassador role.", 
+                    "established": "1834", 
+                    "id": "Vy6jKr", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Vy6jKr/upload_MVpta2-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Vy6jKr/upload_MVpta2-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Vy6jKr/upload_MVpta2-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Switzerland", 
+                                "isoCode": "CH", 
+                                "isoThree": "CHE", 
+                                "name": "SWITZERLAND", 
+                                "numberCode": 756
+                            }, 
+                            "countryIsoCode": "CH", 
+                            "createDate": "2013-05-22 11:40:17", 
+                            "id": "X60E3Q", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.0407123, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 8.2987264, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "8005", 
+                            "region": "Lucerna", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Obergrundstrasse 110", 
+                            "updateDate": "2013-05-22 11:40:17", 
+                            "website": "http://www.eichhof.ch/", 
+                            "yearOpened": "1834"
+                        }
+                    ], 
+                    "name": "Brauerei Eichhof", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-22 11:40:51", 
+                    "website": "http://www.eichhof.ch/"
+                }
+            ], 
+            "createDate": "2013-05-22 11:45:00", 
+            "description": "Without alcohol and still beery taste. The fine spicy aroma, mild bitterness and freshness characterize this smooth beer. Alcohol-free beer with Eichhof enjoyment is guaranteed even without alcohol.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "zyXM3G", 
+            "isOrganic": "N", 
+            "name": "Alkoholfrei", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2013-05-22 11:45:00"
+        }, 
+        {
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:44", 
+                    "description": "The brewery was founded on June 11, 1870 in Amsterdam and named after the Amstel River, the waters of which also served for refrigeration. By 1872, Amstel was annually producing 10,000 hectoliters. For the purpose of storing the beer, winter ice from canals was kept in special double-walled cellars. Originally, the beer was mostly drank in Amsterdam. From 1883, it was also exported to Great Britain and Indonesia.", 
+                    "established": "1870", 
+                    "id": "rljvd7", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/rljvd7/upload_LTUZWN-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/rljvd7/upload_LTUZWN-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/rljvd7/upload_LTUZWN-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Netherlands", 
+                                "isoCode": "NL", 
+                                "isoThree": "NLD", 
+                                "name": "NETHERLANDS", 
+                                "numberCode": 528
+                            }, 
+                            "countryIsoCode": "NL", 
+                            "createDate": "2012-01-03 02:41:44", 
+                            "id": "IOz8d9", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 52.373095, 
+                            "locality": "Amsterdam", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 4.893305, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "800-022-9885", 
+                            "region": "Amsterdam", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Antwoordnummer 7181", 
+                            "updateDate": "2012-03-21 20:05:24", 
+                            "website": "http://www.amstel.com/", 
+                            "yearOpened": "1870"
+                        }
+                    ], 
+                    "name": "Amstel Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-05 11:56:06", 
+                    "website": "http://www.amstel.com/"
+                }
+            ], 
+            "createDate": "2014-04-24 16:58:41", 
+            "description": "Amstel 0.0 is the answer to the growing demand for real-alcoholic beer. A completely non-alcoholic beer with the familiar flavor of Amstel. 0.0 replaces Amstel Amstel Malt, which still 0.1% alcohol in it. Amstel 0.0% was tested among consumers as most refreshing light beer.'s Unique blend of hops and craftsmanship creates an inimitable alcoholic beer with a full, fresh flavor.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "yiHoMo", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/yiHoMo/upload_EXvdzO-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/yiHoMo/upload_EXvdzO-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/yiHoMo/upload_EXvdzO-medium.png"
+            }, 
+            "name": "Amstel 0.0", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2014-04-25 11:19:41"
+        }, 
+        {
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:44", 
+                    "description": "The brewery was founded on June 11, 1870 in Amsterdam and named after the Amstel River, the waters of which also served for refrigeration. By 1872, Amstel was annually producing 10,000 hectoliters. For the purpose of storing the beer, winter ice from canals was kept in special double-walled cellars. Originally, the beer was mostly drank in Amsterdam. From 1883, it was also exported to Great Britain and Indonesia.", 
+                    "established": "1870", 
+                    "id": "rljvd7", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/rljvd7/upload_LTUZWN-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/rljvd7/upload_LTUZWN-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/rljvd7/upload_LTUZWN-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Netherlands", 
+                                "isoCode": "NL", 
+                                "isoThree": "NLD", 
+                                "name": "NETHERLANDS", 
+                                "numberCode": 528
+                            }, 
+                            "countryIsoCode": "NL", 
+                            "createDate": "2012-01-03 02:41:44", 
+                            "id": "IOz8d9", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 52.373095, 
+                            "locality": "Amsterdam", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 4.893305, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "800-022-9885", 
+                            "region": "Amsterdam", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Antwoordnummer 7181", 
+                            "updateDate": "2012-03-21 20:05:24", 
+                            "website": "http://www.amstel.com/", 
+                            "yearOpened": "1870"
+                        }
+                    ], 
+                    "name": "Amstel Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-05 11:56:06", 
+                    "website": "http://www.amstel.com/"
+                }
+            ], 
+            "createDate": "2014-04-24 16:19:47", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "id": "2AVL9K", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/2AVL9K/upload_qglSAB-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/2AVL9K/upload_qglSAB-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/2AVL9K/upload_qglSAB-medium.png"
+            }, 
+            "name": "Amstel Free", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2014-04-24 16:24:37"
+        }, 
+        {
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:53", 
+                    "description": "Our unique, cozy and family-friendly brewpub is tucked away in a small industrial park in Lynnwood, WA. We have been at this location producing our handcrafted ales since 2005. We take pride in serving our patrons more than just a quick beer or a bite to eat; we want to build friendships that go beyond the bar. Beer to us is something that bonds and brings people together from all walks of life. We specialize in transforming your events and parties either at our brewery or your home into an impressive beer experience. Our dispensing systems are not only innovative and efficient, they will enhance your party and will impress your guests\u2026they will be talking about the amazing beer and the cool \u201cparty pig\u201d long after your party. Over the past 5 years we have grown from a small production brewery with a tasting room into a neighborhood hangout. Come in and enjoy one of our handcrafted beverages in our cedar lined pub or out in our beer garden, oh and don\u2019t forget to order our Big \u201cE\u201d Signature Reuben. Next time you are faced with a \u201cBeer Emergency\u201d either personal or with your friends come down to the Big \u201cE\u201d and we will help bail you out.", 
+                    "established": "2005", 
+                    "id": "4VZysG", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/4VZysG/upload_PweKR2-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/4VZysG/upload_PweKR2-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/4VZysG/upload_PweKR2-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:53", 
+                            "hoursOfOperation": "Tuesday- Saturday 11:00 AM to 10:00 PM", 
+                            "id": "ihEkIF", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.809864, 
+                            "locality": "Lynnwood", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -122.302111, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "425-672-7051", 
+                            "postalCode": "98036", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5030 208th ST SW Ste. A", 
+                            "updateDate": "2012-04-13 15:22:48"
+                        }
+                    ], 
+                    "name": "Big E Ales", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-13 15:37:21", 
+                    "website": "http://www.bigeales.com/"
+                }
+            ], 
+            "createDate": "2012-04-13 15:32:08", 
+            "description": "True old fashioned Root Beer made with 22 different ingredients including real vanilla and pure cane sugar. It pairs perfectly with vanilla bean ice cream to make a one of a kind float.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "YJqpyK", 
+            "isOrganic": "N", 
+            "name": "Big \u201cE\u201d Old-fashioned Root Beer", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2012-04-13 15:32:08"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:17:59", 
+                    "established": "1870", 
+                    "id": "Ig9jd1", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:47:49", 
+                            "id": "gTpOw3", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 50.094631, 
+                            "locality": "Frankfurt", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 8.69086, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "60598", 
+                            "region": "Hesse", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Darmst\u00e4dter Landstrasse 185", 
+                            "updateDate": "2012-08-13 02:01:42"
+                        }
+                    ], 
+                    "name": "Binding-Brauerei", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-13 02:01:18", 
+                    "website": "http://www.binding.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 12:08:40", 
+            "id": "DcvJMA", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/DcvJMA/upload_v759Hk-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/DcvJMA/upload_v759Hk-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/DcvJMA/upload_v759Hk-medium.png"
+            }, 
+            "name": "Binding Braumeister Kraft Malz", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2014-03-29 16:39:27"
+        }, 
+        {
+            "abv": "0.05", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:46", 
+                    "id": "UOmjKJ", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Italy", 
+                                "isoCode": "IT", 
+                                "isoThree": "ITA", 
+                                "name": "ITALY", 
+                                "numberCode": 380
+                            }, 
+                            "countryIsoCode": "IT", 
+                            "createDate": "2012-01-03 02:41:46", 
+                            "id": "n75rVD", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 46.0597744, 
+                            "locality": "Udine", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 13.227573, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "39-800-1859.00", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Viale Venezia 9", 
+                            "updateDate": "2012-03-21 19:08:02"
+                        }
+                    ], 
+                    "name": "Birra Moretti", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:04"
+                }
+            ], 
+            "createDate": "2013-05-05 15:33:12", 
+            "id": "zBdSfd", 
+            "isOrganic": "N", 
+            "name": "Birra Moretti Zero", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2013-05-05 15:48:45"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2013-05-17 18:33:44", 
+                    "description": "Owned by Molson Coors", 
+                    "established": "1989", 
+                    "id": "qCAOOu", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-05-29 12:35:31", 
+                            "id": "wufvse", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 52.8046602, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -1.6268494, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "DE14 1JZ", 
+                            "region": "Burton-on-Trent", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "137 High Street", 
+                            "updateDate": "2013-05-29 12:35:31", 
+                            "website": "http://www.cobrabeer.com/", 
+                            "yearOpened": "1989"
+                        }
+                    ], 
+                    "name": "Cobra Beer", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-29 12:36:52", 
+                    "website": "http://www.cobrabeer.com/"
+                }
+            ], 
+            "createDate": "2013-05-29 12:37:31", 
+            "id": "bn0eZe", 
+            "isOrganic": "N", 
+            "name": "Cobra", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2013-05-29 12:37:32"
+        }, 
+        {
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:52", 
+                    "description": "Devil\u2019s Canyon Brewing Company, located in the heart of the San Francisco bay area peninsula, produces award-winning, handcrafted beer and root beer centered on the most premium ingredients. Brewed in Belmont, and delivered fresh to 33 (and growing) counties throughout California.\r\n\r\nThe brewery\u2019s name is derived from the original Spanish name for the City of Belmont. Prior to the 1780\u2019s the canyon portion of Belmont and San Carlos was known as \u201cla Canada del Diablo\u201d or Devil\u2019s Canyon. Since opening their doors in 2001, Devil\u2019s Canyon Brewery has won over 28 awards for their craft beers and received the 2009 \u201cPeople\u2019s Choice\u201d award at the San Francisco International Beer Festival.", 
+                    "established": "2001", 
+                    "id": "fAUAsu", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/fAUAsu/upload_BP432H-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/fAUAsu/upload_BP432H-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/fAUAsu/upload_BP432H-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:52", 
+                            "id": "XCgfE8", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.49888, 
+                            "locality": "San Carlos", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.244886, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "650-592-2739", 
+                            "postalCode": "94070", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "934 Washington Street", 
+                            "updateDate": "2013-06-25 10:47:46", 
+                            "website": "http://www.DevilsCanyon.com/", 
+                            "yearOpened": "2001"
+                        }
+                    ], 
+                    "name": "Devil's Canyon Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-24 22:45:56", 
+                    "website": "http://www.DevilsCanyon.com/"
+                }
+            ], 
+            "createDate": "2012-09-27 12:22:43", 
+            "description": "Devil\u2019s Canyon Brand Root Beer\u2122 is hand crafted in small batches using natural ingredients.\r\n\r\nSweetened with cane sugar, agave nectar & local California honey, Devil\u2019s Canyon\u2019s Brand root beer contains zero refined sugars or corn syrup and is caffeine, and alcohol free!", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "xr6Pa1", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/xr6Pa1/upload_iT2Hli-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/xr6Pa1/upload_iT2Hli-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/xr6Pa1/upload_iT2Hli-medium.png"
+            }, 
+            "name": "Devil's Canyon Brand Draught Root Beer", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2013-05-09 20:51:05"
+        }, 
+        {
+            "abv": "0.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:06", 
+                    "description": "At the world's largest wheat beer brewery, tradition and progress go hand in hand: our beer is brewed according to traditional recipes, but using state-of-the-art technology. Today, beer connoisseurs in Germany and around the world regard our traditional specialty beers from Erding, Bavaria, as the ultimate in wheat beer enjoyment.\r\n\r\nThe beginnings of Erdinger Weissbr\u00e4u date back to 1886, the year in which construction of a wheat beer brewery in Erding was first officially recorded. After several changes in ownership, the General Manager at the time, Franz Brombach, bought the brewery in 1935 and re-named it Erdinger Weissbr\u00e4u on December 27, 1949.\r\n\r\nIn 1965, the son of Franz Brombach, Werner Brombach, entered the business. He took over the private brewery in 1975 and still leads his father's successful business today. In addition to a strong emphasis on quality, Werner Brombach focuses above all on a targeted sales and promotion strategy with a clear brand identity, which highlights the values of the old Bavarian beer specialty and its superior quality standards.\r\n\r\nToday, Erdinger weissbier stands for wheat beer enjoyment and the Bavarian brewing tradition. The traditional brewery has established itself as the national and international market leader for weissbier. As one of Germany's largest private breweries, Erdinger Weissbr\u00e4u is among the leaders on the national German beer market.", 
+                    "established": "1886", 
+                    "id": "m9SH4l", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/m9SH4l/upload_FwusIa-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/m9SH4l/upload_FwusIa-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/m9SH4l/upload_FwusIa-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:42:06", 
+                            "id": "qVyAhN", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.31532, 
+                            "locality": "Erding", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 11.89111, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "49-(0)8122-/-4090", 
+                            "region": "Bayern", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Franz-Brombach-Strae 1-20", 
+                            "updateDate": "2012-03-21 19:08:15"
+                        }
+                    ], 
+                    "name": "Privatbrauerei Erdinger Weissbr\u00e4u", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-05 12:00:55", 
+                    "website": "http://www.erdinger.de"
+                }
+            ], 
+            "createDate": "2014-04-16 15:52:50", 
+            "description": "Whether at work, before driving or after sports, there are certain occasions where it is wiser to avoid alcohol. For those who don't want to miss out on the delicious taste of wheat beer, though, the solution is ERDINGER Alkoholfrei. It is brewed with the customary care and experience gained from over 125 years of brewing tradition and in accordance with the highest quality standards.\r\n\r\nErdinger's master brewers have succeeded in retaining the aromatic, full-bodied Erdinger character. It is this unique flavor which has spread the fame of ERDINGER Weissbr\u00e4u far beyond the borders of Germany.\r\n\r\nERDINGER Alkoholfrei thus represents a further top product in the ERDINGER range and a genuine alternative to its other specialty wheat beers.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "wlooTR", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/wlooTR/upload_oFSfNX-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/wlooTR/upload_oFSfNX-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/wlooTR/upload_oFSfNX-medium.png"
+            }, 
+            "name": "Erdinger Alkoholfrei", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2014-04-16 16:53:10"
+        }, 
+        {
+            "abv": "0.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:53", 
+                    "established": "1378", 
+                    "id": "7xnVem", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/7xnVem/upload_FJnuj2-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/7xnVem/upload_FJnuj2-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/7xnVem/upload_FJnuj2-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:41:53", 
+                            "id": "k13l66", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 51.81623, 
+                            "locality": "Stadt Einbeck", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 9.86431, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "49-(0)5561-/-797-0", 
+                            "postalCode": "37574", 
+                            "region": "Niedersachsen", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Papenstr. 4-7", 
+                            "updateDate": "2013-05-05 15:21:58", 
+                            "website": "http://www.einbeckerbrauhaus.de/"
+                        }
+                    ], 
+                    "name": "Einbecker Brauhaus AG", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-05 15:21:23", 
+                    "website": "http://www.einbeckerbrauhaus.de/"
+                }
+            ], 
+            "createDate": "2013-05-03 22:00:15", 
+            "id": "syNQow", 
+            "isOrganic": "N", 
+            "name": "Falkenturm Analcolica", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2013-05-05 15:25:48"
+        }, 
+        {
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "The Woodstock Inn opened in 1982.\r\n\r\nThe Woodstock Inn Brewery began brewing beer in 1995 on a 7 barrel system. We started as a Brew Pub with 8 different beers. As demand for our beers grew we added a 30 barrel production facility in 2012. We have two breweries on our property. The seven barrel brewery brews for our restaurant and does limited releases. The 30 barrel does all of our production and bottling. We do Brewery Tours every day at noon, seven days a week. There is a $5.00 charge, a pint glass a tasting is included. We also have a cask ale always on in the Brew Pub.  \r\n \r\nThe Brewery is open for breakfast, lunch and dinner, 7 days a week. We also have 33 well appointed guest rooms, we also have a function room for 165 for weddings and gatherings.  Please stop by for a visit.", 
+                    "established": "1995", 
+                    "id": "uEeGC0", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/uEeGC0/upload_cZJJV4-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/uEeGC0/upload_cZJJV4-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/uEeGC0/upload_cZJJV4-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "hoursOfOperation": "Open 11:30am-10pm Daily \r\nPlease call ahead for offseason hours", 
+                            "id": "TVCOly", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.0323926, 
+                            "locality": "Woodstock", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -71.6868168, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "800-321-3985", 
+                            "postalCode": "03262", 
+                            "region": "New Hampshire", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "135 Main Street North", 
+                            "updateDate": "2013-12-20 19:23:07", 
+                            "website": "http://www.woodstockinnnh.com/", 
+                            "yearOpened": "1995"
+                        }
+                    ], 
+                    "name": "Woodstock Inn Station & Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-12-31 15:15:29", 
+                    "website": "http://www.woodstockinnbrewery.com/"
+                }
+            ], 
+            "createDate": "2012-04-23 13:51:16", 
+            "description": "Try a K & M Root Beer float. Named for Keegan and Molly Rice.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "WjZGSM", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/WjZGSM/upload_TkgKPg-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/WjZGSM/upload_TkgKPg-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/WjZGSM/upload_TkgKPg-medium.png"
+            }, 
+            "name": "Good Old-Time Root Beer", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2012-04-23 13:51:16"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "id": "LKHXzR", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "id": "mMZcCW", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.094631, 
+                            "locality": "Frankfurt/Main", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 8.69086, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "60598", 
+                            "region": "Hessen", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Darmst\u00c3?\u00c2\u00a4dter Landstrasse 185", 
+                            "updateDate": "2012-03-21 19:08:16", 
+                            "website": "http://www.schoefferhofer.de/"
+                        }
+                    ], 
+                    "name": "Sch\u00f6efferhofer", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:08", 
+                    "website": "http://www.schoefferhofer.de/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:10", 
+            "description": "alcohol-free Hefeweizen with the tipical taste, isotonic,", 
+            "id": "ZBXJCR", 
+            "isOrganic": "N", 
+            "name": "Hefeweizen Alkoholfrei", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2013-11-09 12:53:25"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:54", 
+                    "description": "5 Seasons Brewing is passionate about serving local produce, all-natural meats, and artisanal cheeses. We believe in conserving the spirit of the farm and supporting local farmers. We are also acknowledged as the center of Atlanta\u2019s beer culture.", 
+                    "established": "2001", 
+                    "id": "PprWrh", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/PprWrh/upload_zp6a3V-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/PprWrh/upload_zp6a3V-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/PprWrh/upload_zp6a3V-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:54", 
+                            "hoursOfOperation": "Open 7 Days a Week\r\nMonday \u2014 Thursday 11 AM - 10:00 PM - Bar Open Until Midnight\r\n\r\nFriday & Saturday 11 AM - 11 PM - Bar Open Until 2 AM\r\n\r\nSunday 12 PM - 10 PM - Bar Open Until Midnight", 
+                            "id": "dPwh4p", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 33.907706, 
+                            "locality": "Sandy Springs", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -84.378787, 
+                            "name": "Prado", 
+                            "openToPublic": "Y", 
+                            "phone": "404-255-5911", 
+                            "postalCode": "30342", 
+                            "region": "Georgia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5600 Roswell Road", 
+                            "updateDate": "2013-05-08 18:50:13", 
+                            "website": "http://www.5seasonsbrewing.com/", 
+                            "yearOpened": "2001"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-10-23 13:31:09", 
+                            "hoursOfOperation": "Open daily at 11am (weekends at noon)\r\nKitchen closes at 10pm (Bar stays open until midnight)", 
+                            "id": "UDZFWm", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 34.064328, 
+                            "locality": "Alpharetta", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -84.25278, 
+                            "name": "North", 
+                            "openToPublic": "Y", 
+                            "phone": "(770) 521-5551", 
+                            "postalCode": "30022", 
+                            "region": "Georgia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3655 Old Milton Pkwy", 
+                            "updateDate": "2013-05-08 18:48:42", 
+                            "website": "http://www.5seasonsbrewing.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-10-23 13:32:49", 
+                            "hoursOfOperation": "Sun - Wed 11:30 am to 10 pm \r\n(Bar til 12)\r\n\r\nThurs 11:30 am to 10:30 pm \r\n(Bar til 12:30)\r\n\r\nFri - Sat 11:30 am to 11 pm \r\n(Bar til 1)", 
+                            "id": "6XI3gD", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 33.778961, 
+                            "locality": "Atlanta", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -84.410048, 
+                            "name": "Westside", 
+                            "openToPublic": "Y", 
+                            "phone": "(404) 875-3232", 
+                            "postalCode": "30318", 
+                            "region": "Georgia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1000 Marietta St NW #204", 
+                            "updateDate": "2013-05-08 18:49:36", 
+                            "website": "http://www.5seasonsbrewing/"
+                        }
+                    ], 
+                    "name": "5 Seasons Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-11-22 16:13:38", 
+                    "website": "http://www.5seasonsbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-05-09 00:05:44", 
+            "description": "We brew our own all-natural, hand crafted root beer right here. It\u2019s made with cane sugar, brown sugar,     vanilla bean, star anise, cinnamon, cardamom, juniper berries, toasted coriander and hops.\r\n\r\nThere is no caffeine.  Save room for a float!", 
+            "id": "YAXDV1", 
+            "isOrganic": "N", 
+            "name": "High-5 Root Beer", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2013-05-09 00:05:44"
+        }, 
+        {
+            "abv": "0.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:56", 
+                    "description": "St. James's Gate Brewery (Irish: Gr\u00fadlann Gheata Shan S\u00e9amuis) is a brewery founded in 1759 in Dublin, Ireland by Arthur Guinness. The company is now a part of Diageo, a company formed via the merger of Guinness  and Grand Metropolitan in 1997. The main product produced at the brewery is Guinness Draft.\r\n\r\nLeased for 9,000 years in 1759 by Arthur Guinness at \u00a345 per year, St. James's Gate has been the home of Guinness ever since. It became the largest brewery in Ireland in 1838, and was the largest in the world in 1914, covering 64 acres. Although no longer the largest brewery in the world, it is still the largest brewer of stout in the world. During the 19th and early 20th centuries, the brewery owned most of the buildings in the surrounding area, including many streets of housing for brewery employees, and offices associated with the brewery. The brewery also made all of its own power using its own power plant.\r\n\r\nThere is an attached exhibition on the 250-year-old history of Guinness, called the Guinness Storehouse.", 
+                    "established": "1759", 
+                    "id": "HaPdSL", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/HaPdSL/upload_5ar2S5-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/HaPdSL/upload_5ar2S5-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/HaPdSL/upload_5ar2S5-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Ireland", 
+                                "isoCode": "IE", 
+                                "isoThree": "IRL", 
+                                "name": "IRELAND", 
+                                "numberCode": 372
+                            }, 
+                            "countryIsoCode": "IE", 
+                            "createDate": "2012-01-03 02:41:56", 
+                            "id": "9RsQkk", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 53.34309, 
+                            "locality": "Dublin City", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -6.290799, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "8", 
+                            "region": "Dublin", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "109 James's Street", 
+                            "updateDate": "2012-03-21 20:05:24", 
+                            "website": "http://www.guinness.com/", 
+                            "yearOpened": "1759"
+                        }
+                    ], 
+                    "name": "Guinness", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-05 12:00:04", 
+                    "website": "http://www.guinness.com/"
+                }
+            ], 
+            "createDate": "2012-05-30 20:29:03", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "e4in1c", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/e4in1c/upload_T06m9q-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/e4in1c/upload_T06m9q-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/e4in1c/upload_T06m9q-medium.png"
+            }, 
+            "name": "Kaliber", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2014-04-30 14:21:51"
+        }, 
+        {
+            "abv": "0.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:00", 
+                    "description": "The brewery was founded on 4 February 1803 by John Haas. His father, Johann Eberhard Haas chatted in Krombach an inn. As for a Regulation of 25 July 1618 serving of beer was only allowed if the restaurant also had its own brewery and a malt kiln, John Haas set up a brewery in the family business. \r\n\r\nThe water for the brewery (\"Hasbrauerei\") they picked first in barrels from a spring at the foot of the Grumbergs in the west of the village by bullock carts to brewery. 1854 had a brewery owner Haas church annual 17 Gulden (Florin) pay rent that the water pipeline was conducted on church land to the village.", 
+                    "established": "1803", 
+                    "id": "AP2EQU", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/AP2EQU/upload_zrUQP7-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/AP2EQU/upload_zrUQP7-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/AP2EQU/upload_zrUQP7-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:42:00", 
+                            "id": "yhMoEc", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.99106, 
+                            "locality": "Kreuztal-Krombach,", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 7.95535, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(2732) 880 380", 
+                            "postalCode": "57223", 
+                            "region": "North Rhine-Westphalia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Hagener Stra\u00dfe 261", 
+                            "updateDate": "2012-03-21 19:08:12", 
+                            "website": "http://www.krombacher.de/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:45:53", 
+                            "id": "UfxKKB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 51.503106, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 7.497394, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "region": "Nordrhein-Westfalen", 
+                            "status": "deleted", 
+                            "statusDisplay": "Deleted", 
+                            "updateDate": "2012-08-16 15:40:39"
+                        }
+                    ], 
+                    "name": "Krombacher Gruppe", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-05 12:02:36", 
+                    "website": "http://www.krombacher.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 12:14:25", 
+            "description": "Aroma; hops, sweet malts, straw. Off white head, some lacings, golden body. Taste; grassy hops, fruity grassy malts. Clean taste, with hops playing a modest but distinct role underneath all through the tasting. To palate clean, smooth, easy. Finishes half dry with grass, hops, some malts and grains, and not as shortlived finish as many non-alcoholic beers have.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "id": "nLrWjX", 
+            "isOrganic": "N", 
+            "name": "Krombacher Alkoholfrei", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2014-04-22 12:26:08"
+        }, 
+        {
+            "abv": "0.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:00", 
+                    "description": "The brewery was founded on 4 February 1803 by John Haas. His father, Johann Eberhard Haas chatted in Krombach an inn. As for a Regulation of 25 July 1618 serving of beer was only allowed if the restaurant also had its own brewery and a malt kiln, John Haas set up a brewery in the family business. \r\n\r\nThe water for the brewery (\"Hasbrauerei\") they picked first in barrels from a spring at the foot of the Grumbergs in the west of the village by bullock carts to brewery. 1854 had a brewery owner Haas church annual 17 Gulden (Florin) pay rent that the water pipeline was conducted on church land to the village.", 
+                    "established": "1803", 
+                    "id": "AP2EQU", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/AP2EQU/upload_zrUQP7-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/AP2EQU/upload_zrUQP7-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/AP2EQU/upload_zrUQP7-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:42:00", 
+                            "id": "yhMoEc", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.99106, 
+                            "locality": "Kreuztal-Krombach,", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 7.95535, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(2732) 880 380", 
+                            "postalCode": "57223", 
+                            "region": "North Rhine-Westphalia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Hagener Stra\u00dfe 261", 
+                            "updateDate": "2012-03-21 19:08:12", 
+                            "website": "http://www.krombacher.de/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:45:53", 
+                            "id": "UfxKKB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 51.503106, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 7.497394, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "region": "Nordrhein-Westfalen", 
+                            "status": "deleted", 
+                            "statusDisplay": "Deleted", 
+                            "updateDate": "2012-08-16 15:40:39"
+                        }
+                    ], 
+                    "name": "Krombacher Gruppe", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-05 12:02:36", 
+                    "website": "http://www.krombacher.de/"
+                }
+            ], 
+            "createDate": "2014-04-19 19:21:20", 
+            "description": "The popular Krombacher wheat makes in this refreshing new interpretation of the classic for the full-bodied flavor. The perfect complement to this is the specially tailored to the fruity wheat flavor lemonade. Thus the two components combine into a mature, full-bodied, fresh taste experience. Krombacher wheat cyclists - there's also alcohol free.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "id": "KlPzrl", 
+            "isOrganic": "N", 
+            "name": "Krombacher Radler Alkoholfrei", 
+            "servingTemperature": "very_cold", 
+            "servingTemperatureDisplay": "Very Cold - (0-4C/32-39F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2014-04-22 12:24:06"
+        }, 
+        {
+            "abv": "0.4", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:00", 
+                    "description": "The brewery was founded on 4 February 1803 by John Haas. His father, Johann Eberhard Haas chatted in Krombach an inn. As for a Regulation of 25 July 1618 serving of beer was only allowed if the restaurant also had its own brewery and a malt kiln, John Haas set up a brewery in the family business. \r\n\r\nThe water for the brewery (\"Hasbrauerei\") they picked first in barrels from a spring at the foot of the Grumbergs in the west of the village by bullock carts to brewery. 1854 had a brewery owner Haas church annual 17 Gulden (Florin) pay rent that the water pipeline was conducted on church land to the village.", 
+                    "established": "1803", 
+                    "id": "AP2EQU", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/AP2EQU/upload_zrUQP7-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/AP2EQU/upload_zrUQP7-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/AP2EQU/upload_zrUQP7-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:42:00", 
+                            "id": "yhMoEc", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.99106, 
+                            "locality": "Kreuztal-Krombach,", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 7.95535, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(2732) 880 380", 
+                            "postalCode": "57223", 
+                            "region": "North Rhine-Westphalia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Hagener Stra\u00dfe 261", 
+                            "updateDate": "2012-03-21 19:08:12", 
+                            "website": "http://www.krombacher.de/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:45:53", 
+                            "id": "UfxKKB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 51.503106, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 7.497394, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "region": "Nordrhein-Westfalen", 
+                            "status": "deleted", 
+                            "statusDisplay": "Deleted", 
+                            "updateDate": "2012-08-16 15:40:39"
+                        }
+                    ], 
+                    "name": "Krombacher Gruppe", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-05 12:02:36", 
+                    "website": "http://www.krombacher.de/"
+                }
+            ], 
+            "createDate": "2014-04-19 19:01:40", 
+            "description": "Beer Krombacher Weizen Alkofrei is good foaming light non-alcoholic unfiltered beer with authentic rich flavor and aroma of young wheat. Thanks unfiltered yeast particles Krombacher Weizen nonalcoholic has a characteristic opaque color. Before use, shake the recommended beer.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "iRhBiK", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/iRhBiK/upload_ckRqkt-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/iRhBiK/upload_ckRqkt-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/iRhBiK/upload_ckRqkt-medium.png"
+            }, 
+            "name": "Krombacher Weizen Alkoholfrei", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2014-04-19 22:31:36"
+        }, 
+        {
+            "abv": "0.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:44", 
+                    "description": "Anheuser-Busch operates 12 breweries in the United States, 14 in China and one in the United Kingdom. Anheuser-Busch's operations and resources are focused on adding to life's enjoyment not only through the responsible consumption of beer by adults, but through theme park entertainment and packaging.  In the United States, the company holds a 48.5 percent share of U.S. beer sales. Worldwide, Anheuser-Busch's beer sales volume was 128.4 million barrels in 2007.  The St. Louis-based company's subsidiaries include one of the largest U.S. manufacturers of aluminum beverage containers and one of the world's largest recyclers of aluminum beverage cans. Anheuser-Busch also has interests in malt production, rice milling, real estate development, turf farming, metalized and paper label printing, bottle production and transportation services.", 
+                    "established": "1852", 
+                    "id": "BznahA", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/BznahA/upload_1PzrC7-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/BznahA/upload_1PzrC7-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/BznahA/upload_1PzrC7-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:44", 
+                            "hoursOfOperation": "September though May\r\nMon-Sat: 10 a.m. - 4 p.m.\r\nSun: 11:30 a.m. - 4 p.m.\r\n\r\nJune though August\r\nMon-Sat: 9 a.m. - 5 p.m.\r\nSun: 11:30 a.m. - 5 p.m.", 
+                            "id": "ZApGug", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.5985037, 
+                            "locality": "Saint Louis", 
+                            "locationType": "macro", 
+                            "locationTypeDisplay": "Macro Brewery", 
+                            "longitude": -90.2093428, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(314) 577-2626", 
+                            "postalCode": "63118", 
+                            "region": "Missouri", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "One Busch Place", 
+                            "updateDate": "2014-01-05 22:48:18", 
+                            "website": "http://www.anheuser-busch.com/", 
+                            "yearOpened": "1852"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:02:01", 
+                            "id": "doVlXA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 40.6169416, 
+                            "locality": "Fort Collins", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -105.0018273, 
+                            "name": "Fort Collins", 
+                            "openToPublic": "N", 
+                            "phone": "(970) 490-4500", 
+                            "postalCode": "80524", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2351 Busch Dr", 
+                            "updateDate": "2013-07-13 23:02:01", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:02:44", 
+                            "id": "G8EZgb", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 34.2210112, 
+                            "locality": "Van Nuys", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -118.4768522, 
+                            "name": "Los Angeles", 
+                            "openToPublic": "N", 
+                            "phone": "(818) 989-5300", 
+                            "postalCode": "91406", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "15800 Roscoe Blvd", 
+                            "updateDate": "2013-07-13 23:02:44", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:03:49", 
+                            "id": "sRxNq2", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 43.1624453, 
+                            "locality": "Baldwinsville", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -76.3096615, 
+                            "name": "Baldwinsville", 
+                            "openToPublic": "N", 
+                            "phone": "(315) 635-4000", 
+                            "postalCode": "13027", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2885 Belgium Rd", 
+                            "updateDate": "2013-07-13 23:03:49", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:04:45", 
+                            "id": "UlgBzT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 34.2558728, 
+                            "locality": "Cartersville", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -84.7831874, 
+                            "name": "Cartersville", 
+                            "openToPublic": "N", 
+                            "phone": "(770) 386-2000", 
+                            "postalCode": "30121", 
+                            "region": "Georgia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "100 Busch Dr NE", 
+                            "updateDate": "2013-07-13 23:04:45", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:05:39", 
+                            "id": "75P08u", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 40.102482, 
+                            "locality": "Columbus", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -82.9933123, 
+                            "name": "Columbus", 
+                            "openToPublic": "N", 
+                            "phone": "(614) 888-6644", 
+                            "postalCode": "43229", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "700 Schrock Rd", 
+                            "updateDate": "2013-07-13 23:05:39", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:06:25", 
+                            "id": "jP7oIL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.236362, 
+                            "locality": "Fairfield", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -122.091866, 
+                            "name": "Fairfield", 
+                            "openToPublic": "N", 
+                            "phone": "(707) 429-2000", 
+                            "postalCode": "94534", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3101 Busch Dr", 
+                            "updateDate": "2013-07-13 23:06:25", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:07:07", 
+                            "id": "LiqcRm", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 29.773088, 
+                            "locality": "Houston", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -95.269255, 
+                            "name": "Houston", 
+                            "openToPublic": "N", 
+                            "phone": "(713) 675-2311", 
+                            "postalCode": "77029", 
+                            "region": "Texas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "775 Gellhorn Dr", 
+                            "updateDate": "2013-07-13 23:07:07", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:07:42", 
+                            "id": "y2ZQbD", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 30.433924, 
+                            "locality": "Jacksonville", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -81.650619, 
+                            "name": "Jacksonville", 
+                            "openToPublic": "N", 
+                            "phone": "(904) 751-0700", 
+                            "postalCode": "32218", 
+                            "region": "Florida", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "111 Busch Dr", 
+                            "updateDate": "2013-07-13 23:07:42", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:08:31", 
+                            "hoursOfOperation": "Mon: 10:00 am - 4:00 pm\r\nThu - Sun: 10:00 am - 4:00 pm", 
+                            "id": "aMIEke", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 42.8287766, 
+                            "locality": "Merrimack", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -71.4911518, 
+                            "name": "Merrimack", 
+                            "openToPublic": "Y", 
+                            "phone": "(603) 595-1202", 
+                            "postalCode": "03054", 
+                            "region": "New Hampshire", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "221 Daniel Webster Hwy", 
+                            "updateDate": "2014-01-05 22:50:01", 
+                            "website": "http://anheuser-busch.com/", 
+                            "yearOpened": "1970"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:09:14", 
+                            "id": "Cg12u5", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 40.7067437, 
+                            "locality": "Newark", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -74.1736086, 
+                            "name": "Newark", 
+                            "openToPublic": "N", 
+                            "phone": "(973) 645-7700", 
+                            "postalCode": "07114", 
+                            "region": "New Jersey", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "200 US Highway 1", 
+                            "updateDate": "2013-07-13 23:09:14", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:09:54", 
+                            "id": "ozjr3W", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 37.2381215, 
+                            "locality": "Williamsburg", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -76.652522, 
+                            "name": "Williamsburg", 
+                            "openToPublic": "N", 
+                            "phone": "(757) 253-3600", 
+                            "postalCode": "23185", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "7801 Pocahontas Trail", 
+                            "updateDate": "2013-07-13 23:09:54", 
+                            "website": "http://anheuser-busch.com/"
+                        }
+                    ], 
+                    "name": "Anheuser-Busch InBev", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-15 12:54:43", 
+                    "website": "http://www.anheuser-busch.com/"
+                }
+            ], 
+            "createDate": "2013-11-08 20:58:01", 
+            "description": "O'Doul's and O'Doul's Amber are non-alcohol malt beverages. \r\n\r\nO\u2019Doul\u2019s has a mild, sweet taste with a slightly dry finish. O\u2019Doul\u2019s Amber has a rich, slightly sweet taste with flavorful hop finish. \r\n\r\nO\u2019Doul\u2019s and O\u2019Doul\u2019s Amber are brewed as traditional premium beers \u2013 fermented and aged to full maturity. The alcohol is then removed through the use of low temperature, low-pressure distillation. This extremely gentle process allows the alcohol to be removed without heating or cooking the beer, which retains the full, rich and delicate flavor and balance of our non-alcohol brews.", 
+            "id": "n6p2aw", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/n6p2aw/upload_jMrZUv-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/n6p2aw/upload_jMrZUv-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/n6p2aw/upload_jMrZUv-medium.png"
+            }, 
+            "name": "O'Doul's", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2013-11-08 22:44:30"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2013-05-15 23:49:37", 
+                    "description": "Eichhof is committed to a responsible consumption of beer. Most people enjoy a cold beer in moderation and as part of their positive lifestyle. However, it is also a fact that a minority does not know the boundaries, so they harm themselves and others. We take our responsibility very seriously as a beer manufacturing company and have established principles to which we adhere strictly to all activities.\r\n\r\nOur communication is done according to strict, self-imposed strict guidelines. So Eichhof not explicitly apply to persons under the age of 18 in his communications and sponsorship activities.\r\n\r\nIn Eichhof we also rely on an alcohol-free work environment and maintain the principle of \"Who is working, do not drink.\" Our employees take with their behavior in their private lives is an important ambassador role.", 
+                    "established": "1834", 
+                    "id": "Vy6jKr", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Vy6jKr/upload_MVpta2-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Vy6jKr/upload_MVpta2-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Vy6jKr/upload_MVpta2-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Switzerland", 
+                                "isoCode": "CH", 
+                                "isoThree": "CHE", 
+                                "name": "SWITZERLAND", 
+                                "numberCode": 756
+                            }, 
+                            "countryIsoCode": "CH", 
+                            "createDate": "2013-05-22 11:40:17", 
+                            "id": "X60E3Q", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.0407123, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 8.2987264, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "8005", 
+                            "region": "Lucerna", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Obergrundstrasse 110", 
+                            "updateDate": "2013-05-22 11:40:17", 
+                            "website": "http://www.eichhof.ch/", 
+                            "yearOpened": "1834"
+                        }
+                    ], 
+                    "name": "Brauerei Eichhof", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-22 11:40:51", 
+                    "website": "http://www.eichhof.ch/"
+                }
+            ], 
+            "createDate": "2013-05-22 11:46:21", 
+            "description": "The aroma of fresh lemons accompanied the feinbierigen taste of Eichhof Panach\u00e9 alkhoholfrei and offers the connoisseur a cool and carefree drinking experience.", 
+            "id": "EbyyM8", 
+            "isOrganic": "N", 
+            "name": "Panache", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2013-05-22 11:46:21"
+        }, 
+        {
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:51", 
+                    "description": "In 1873, as the United States approached its centennial year, its people were busy building a new kind of nation. It was thirsty work. And that's where Coors Brewing Company came in. When we began in that same year, we were a small, family-owned brewery, located at the foot of the Rocky Mountains. We were busy creating the same kind of crisp, refreshing beer we're known for today. While hundreds of such family-owned breweries have come and gone in the years since, we believe the reasons for our success are simple. We've never compromised on quality in producing our award-winning brews and we've never lost sight of our rich Rocky Mountain heritage. Just as important, we've always believed in doing well by doing good. We treat our employees with respect, we support the local communities where we do business, and we strive to protect the environment. That's just how we do business.", 
+                    "established": "1895", 
+                    "id": "avMkil", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/avMkil/upload_zHTNq2-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/avMkil/upload_zHTNq2-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/avMkil/upload_zHTNq2-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:51", 
+                            "id": "JZk4BM", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.759876, 
+                            "locality": "Golden", 
+                            "locationType": "macro", 
+                            "locationTypeDisplay": "Macro Brewery", 
+                            "longitude": -105.219026, 
+                            "name": "Golden Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-866-812-2337", 
+                            "postalCode": "80401", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "311 Tenth Street", 
+                            "updateDate": "2014-04-18 13:55:56", 
+                            "website": "http://www.coors.com/", 
+                            "yearOpened": "1873"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-09-21 20:40:25", 
+                            "id": "LKzaHC", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.3568877, 
+                            "locality": "Elkton", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -78.6765693, 
+                            "name": "Shenandoah Facility", 
+                            "openToPublic": "N", 
+                            "phone": "(540) 289-8201", 
+                            "postalCode": "22827", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5135 South East Side Hwy", 
+                            "updateDate": "2014-04-18 13:53:04", 
+                            "website": "http://www.millercoors.com/", 
+                            "yearOpened": "2007"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-04-18 13:46:11", 
+                            "id": "AhsRDX", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 31.5927553, 
+                            "locality": "Albany", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -84.0879927, 
+                            "name": "Albany Brewery", 
+                            "openToPublic": "N", 
+                            "postalCode": "31705", 
+                            "region": "Georgia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "405 Cordele Road", 
+                            "updateDate": "2014-04-18 13:46:56", 
+                            "website": "http://www.millercoors.com/", 
+                            "yearOpened": "1979"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-04-18 13:46:55", 
+                            "id": "n1bFMy", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 41.8785888, 
+                            "locality": "Chicago", 
+                            "locationType": "office", 
+                            "locationTypeDisplay": "Office", 
+                            "longitude": -87.6371, 
+                            "name": "Chicago Headquarters", 
+                            "openToPublic": "N", 
+                            "postalCode": "60606", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "250 South Wacker Drive", 
+                            "updateDate": "2014-04-18 13:47:41", 
+                            "website": "http://www.millercoors.com/", 
+                            "yearOpened": "2009"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-04-18 13:47:40", 
+                            "id": "PLK3WP", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 36.5179677, 
+                            "locality": "Eden", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -79.7150607, 
+                            "name": "Eden Brewery", 
+                            "openToPublic": "N", 
+                            "postalCode": "27289", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "863 E. Meadow Road", 
+                            "updateDate": "2014-04-18 13:48:24", 
+                            "website": "http://www.millercoors.com/", 
+                            "yearOpened": "1978"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-04-18 13:48:23", 
+                            "id": "1f2rfq", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 32.6433233, 
+                            "locality": "Fort Worth", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -97.3198541, 
+                            "name": "Fort Worth Brewery", 
+                            "openToPublic": "N", 
+                            "postalCode": "76134", 
+                            "region": "Texas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "7001 South Freeway", 
+                            "updateDate": "2014-04-18 13:49:21", 
+                            "website": "http://www.millercoors.com/", 
+                            "yearOpened": "1966"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-04-18 13:49:19", 
+                            "id": "GIUTyi", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 39.7651047, 
+                            "locality": "Golden", 
+                            "locationType": "office", 
+                            "locationTypeDisplay": "Office", 
+                            "longitude": -105.200336, 
+                            "name": "Golden Office", 
+                            "openToPublic": "N", 
+                            "postalCode": "80401", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "17735 West 32nd Ave", 
+                            "updateDate": "2014-04-18 13:50:10", 
+                            "website": "http://www.millercoors.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-04-18 13:51:02", 
+                            "id": "scDI89", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 34.1216703, 
+                            "locality": "Irwindale", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -117.9382061, 
+                            "name": "Irwindale Brewery", 
+                            "openToPublic": "N", 
+                            "postalCode": "91706", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "15801 East First Street", 
+                            "updateDate": "2014-04-18 13:51:43", 
+                            "website": "http://www.millercoors.com/", 
+                            "yearOpened": "1980"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-04-18 13:51:41", 
+                            "id": "Uvw6Ha", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 43.043906, 
+                            "locality": "Milwaukee", 
+                            "locationType": "office", 
+                            "locationTypeDisplay": "Office", 
+                            "longitude": -87.961934, 
+                            "name": "Milwaukee Office", 
+                            "openToPublic": "N", 
+                            "postalCode": "53208", 
+                            "region": "Wisconsin", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3939 West Highland Blvd", 
+                            "updateDate": "2014-04-18 13:52:25", 
+                            "website": "http://www.millercoors.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-04-18 13:52:24", 
+                            "id": "7FeuR1", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 43.0422255, 
+                            "locality": "Milwaukee", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -87.9631211, 
+                            "name": "Milwaukee Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "53208", 
+                            "region": "Wisconsin", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4000 West State Street", 
+                            "updateDate": "2014-04-18 13:54:14", 
+                            "website": "http://www.millercoors.com/", 
+                            "yearOpened": "1855"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-04-18 13:54:13", 
+                            "id": "jZNiaS", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 39.457537, 
+                            "locality": "Trenton", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -84.485393, 
+                            "name": "Trenton Brewery", 
+                            "openToPublic": "N", 
+                            "postalCode": "45067", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2525 Wayne Madison Road", 
+                            "updateDate": "2014-04-18 13:55:56", 
+                            "website": "http://www.millercoors.com/", 
+                            "yearOpened": "1991"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-04-18 13:55:40", 
+                            "id": "Lt6Wjt", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 43.177416, 
+                            "locality": "Watertown", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -88.760608, 
+                            "name": "Watertown Hops Company", 
+                            "openToPublic": "N", 
+                            "postalCode": "53094", 
+                            "region": "Wisconsin", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1224 American Way", 
+                            "updateDate": "2014-04-18 13:55:40", 
+                            "website": "http://www.watertownhops.com/", 
+                            "yearOpened": "1989"
+                        }
+                    ], 
+                    "name": "Coors Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-29 13:19:47", 
+                    "website": "http://www.sabmiller.com/"
+                }
+            ], 
+            "createDate": "2013-04-30 23:25:03", 
+            "description": "Introduced in 1989, Sharp's is a non-alcohol alternative to premium beers. Our patented Ever-Cool brewing process allows Sharp's to be brewed at a lower temperature, minimizing production of alcohol and giving Sharp's the great taste of beer.", 
+            "id": "JzTfzY", 
+            "isOrganic": "N", 
+            "name": "Sharp's", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.", 
+                "id": 139, 
+                "name": "Non-Alcoholic (Beer) Malt Beverages"
+            }, 
+            "styleId": 139, 
+            "updateDate": "2014-04-18 13:43:42"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 21
+}

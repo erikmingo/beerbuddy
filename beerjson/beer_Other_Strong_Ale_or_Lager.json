@@ -1,0 +1,2051 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "7", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:06", 
+                    "description": "We are a gypsy brewery, without a permanent brewing home. We like it that way, we can be whatever we want to be on a shoestring budget. What more do you want than that?\r\n\r\nOur flagship beer is Jack D'Or. Jack is the mournful grain of barley you can see to the right. He is the soul of beer, nature's magician, creating sugar from starch and bringing together the Pretty Things to produce the substance we adore: beer.", 
+                    "established": "2008", 
+                    "id": "oe2DQp", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/oe2DQp/upload_VJlHnW-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/oe2DQp/upload_VJlHnW-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/oe2DQp/upload_VJlHnW-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:06", 
+                            "id": "8bdJml", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.366235, 
+                            "locality": "Cambridge", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -71.080849, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "N", 
+                            "phone": "617-666-1650", 
+                            "postalCode": "02142", 
+                            "region": "Massachusetts", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "P.O. Box 426037", 
+                            "updateDate": "2013-03-20 17:48:36", 
+                            "website": "http://www.prettythingsbeertoday.com/"
+                        }
+                    ], 
+                    "name": "Pretty Things Beer & Ale Project", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-23 19:30:17", 
+                    "website": "http://www.prettythingsbeertoday.com/"
+                }
+            ], 
+            "createDate": "2012-04-23 19:03:02", 
+            "description": "If you\u2019re looking for another reason to try Pretty Things this summer, we hope a well-stated 7% pale lager might be a good bet too. We hear what you\u2019re saying: \u201ca filtered Pretty Things lager\u201d? Nothing strange about that, we love to brew all sorts of beers!\r\n\r\nThis time we were looking to make the un-lawnmower beer (with an emphisis on the \u201cUN\u201d). Just how do we go about doing that? How about by starting with some of the world\u2019s greatest pilsner malt from Weyermann in Bamberg, Germany? There\u2019s no rice and corn in our darling either \u2013 just the best malted barley for purpose in the world. What else? All of the hops used in brewing American Darling come from the Hallertau hop region of Germany. Fermentation uses a blend of three of Europe\u2019s great lager yeasts, low temperature fermentation and lagering, over a period of six weeks. Yes, that\u2019s the UN lawnmower beer.\r\n\r\nThe next step in the process is to filter so that it can be more portable, without sediment to worry about disturbing. Put it in your coolers, your picnic baskets\u2026 your saddlebags. Take it to family reunions and pie eating contests, parades, beaches, fancy mustache conventions, hot dog factory tours, monorail excursions, secret basement lairs\u2026 wherever good summer fun happens!\r\n\r\nThen fire up the grill, not just once \u2013 how about like every day! Get out the horse shoes, kick up your feet and forget that oily red jalopy out back even has a purpose.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "45", 
+            "id": "6iy2Xq", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/6iy2Xq/upload_42jSDr-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/6iy2Xq/upload_42jSDr-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/6iy2Xq/upload_42jSDr-medium.png"
+            }, 
+            "name": "American Darling", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2012-04-23 19:03:03"
+        }, 
+        {
+            "abv": "8.8", 
+            "breweries": [
+                {
+                    "createDate": "2013-05-09 21:53:36", 
+                    "established": "1931", 
+                    "id": "AvTZ60", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Singapore", 
+                                "isoCode": "SG", 
+                                "isoThree": "SGP", 
+                                "name": "SINGAPORE", 
+                                "numberCode": 702
+                            }, 
+                            "countryIsoCode": "SG", 
+                            "createDate": "2013-05-10 19:59:49", 
+                            "id": "hSeoOy", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 1.3361749, 
+                            "locality": "Singapore", 
+                            "locationType": "macro", 
+                            "locationTypeDisplay": "Macro Brewery", 
+                            "longitude": 103.647081, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+65-6860-3005", 
+                            "postalCode": "39934", 
+                            "region": "Singapore", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "459 Jalan Ahmad Ibrahim", 
+                            "updateDate": "2014-02-02 14:51:46", 
+                            "website": "http://www.apb.com.sg/"
+                        }
+                    ], 
+                    "name": "Asia Pacific Breweries Ltd.", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-02 14:50:54", 
+                    "website": "http://www.apb.com.sg/"
+                }
+            ], 
+            "createDate": "2013-05-10 20:01:06", 
+            "id": "tRxKeo", 
+            "isOrganic": "N", 
+            "name": "Baron's Strong Brew", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2013-05-10 20:01:06"
+        }, 
+        {
+            "abv": "4.2", 
+            "breweries": [
+                {
+                    "createDate": "2013-11-21 13:25:06", 
+                    "description": "Orlison Brewing Co. lives by the motto, \u201cBrew No Evil.\u201d People drink beer to live and to celebrate life \u2014 nobody wants a glass filled with bad deeds. Orlison Brewing Co.\u2019s clear lagers represent its good intentions. Its pure ingredients signify honesty toward life\u2019s finer moments. Its crisp beers symbolize passion and direction. Orlison\u2019s lagers are served cold, which embodies the company\u2019s coolness and poise, while the full-flavored taste of its beers illustrates a full, free spirit and goodwill toward fellow men. \r\n\r\nPlain and simple, Orlison brews beers that make people happy.\r\n\r\nOrlison Brewing Co. \u2014 Brew No Evil\u2122.", 
+                    "id": "Ut4fRw", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Ut4fRw/upload_Wt4yT6-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Ut4fRw/upload_Wt4yT6-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Ut4fRw/upload_Wt4yT6-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-11-21 13:26:00", 
+                            "hoursOfOperation": "Mon - Fri: 3:30 pm - 5:50 pm", 
+                            "id": "70rxW5", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.640053, 
+                            "locality": "Airway Heights", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -117.589934, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(509) 244-2536", 
+                            "postalCode": "99001", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "12921 W. 17th Ave", 
+                            "updateDate": "2013-11-21 13:26:00", 
+                            "website": "http://www.orlisonbrewing.com/"
+                        }
+                    ], 
+                    "name": "Orlison Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-11-21 13:26:39", 
+                    "website": "http://www.orlisonbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-11-21 13:28:24", 
+            "description": "Br\u00fcnette is a European-style brown lager that mixes the robust malt character of a British brown mild with the easy finish of a German lager. Through the blending of 5 different malts, this beer features a complex, smooth and highly flavorful body with hints of nut, cocoa and a hint of coffee. With an airy, silky mouthfeel and such an incredibly complimenting series of flavors, Br\u00fcnette is sure to become your new favorite lager.\r\n\r\nBr\u00fcnette won a bronze medal in the American dark lager category at the 2010 World Beer Cup.", 
+            "id": "5wWeEJ", 
+            "isOrganic": "N", 
+            "name": "Br\u00fcnette", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2013-11-21 13:28:24"
+        }, 
+        {
+            "abv": "6.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-03-06 18:54:21", 
+                    "description": "Our small microbrewery is located in a picturesque industrial neighbourhood near the Danish capital, Copenhagen, and the airport in the city of Taarnby. There is absolute no doubt that we run the safest brewing enterprise in the country as our premises used to be an air-raid shelter. Our premises have also been used for storing bibles, hence reigns an atmosphere of divine tranquillity only otherwise found in Belgian monasteries. Well...\r\n \r\nFounders of the brewery are the two friends and dedicated home brewers Mr. Morten Valentin Lundsbak and Mr. Jacob Storm, who since the opening of the brewery have achieved diplomas of their skills as they have become Diploma Brewers at the Scandinavian School of Brewing.\r\n \r\nIt is our ambition to cater to all beer lovers - every time, which is why we only use pure ingredients during the brewing process. We make no shortcuts by using artificial additives to speed or help the processes. Furthermore, we have deliberately chosen neither to pasteurize nor filter our beer as we would like to preserve the best possible flavours and aromas.\r\n \r\nWe allow the beer to mature completely in the bottle before releasing it to the market. This process implies that a natural sediment may remain in the bottle. This sediment can easily be consumed, but if an aesthetic beer experience is desired, pour the beer gently into the glass without the sediment. And preferably use a high pour to get the full and frothy head as well as to release all the pleasant aromas from this well-brewed beer from Amager Bryghus.", 
+                    "id": "LOKnrY", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/LOKnrY/upload_6MBK5R-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/LOKnrY/upload_6MBK5R-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/LOKnrY/upload_6MBK5R-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Denmark", 
+                                "isoCode": "DK", 
+                                "isoThree": "DNK", 
+                                "name": "DENMARK", 
+                                "numberCode": 208
+                            }, 
+                            "countryIsoCode": "DK", 
+                            "createDate": "2012-03-06 18:55:10", 
+                            "id": "8tHhXL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 55.624252, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 12.595661, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+45 32 50 62 00 \u200e", 
+                            "postalCode": "2770", 
+                            "region": "Kastrup", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Fugleb\u00e6kvej 2 C", 
+                            "updateDate": "2012-03-21 19:08:22", 
+                            "website": "http://www.amagerbryghus.dk/"
+                        }
+                    ], 
+                    "name": "Amager Bryghus", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:20", 
+                    "website": "http://www.amagerbryghus.dk/"
+                }
+            ], 
+            "createDate": "2013-05-17 21:25:53", 
+            "description": "English: When the frost really bites and winter surest and coldest and most sad it is to remember to treat themselves. For just that we have truly earned it. This winter we have brewed a special beer that lends itself particularly excellent for just cozy and pampered life of luxury - like the fireplace video. Canadian Winter is a collaborative brew with Garrison Brewing in Halifax, Nova Scotia - one of Canada's leading craft brewers - who stopped by Amager Brewery a gray day in November. The result of our joint efforts, this Winter Warmer - a rich beer of British descent. Here it is the rich and good malts that are put on the agenda, while the bitterness is toned down. On the other hand, we have seasoned the discreet with good things, which in combination with alcohol will warm you, body and soul. We guarantee!", 
+            "id": "yqdrKh", 
+            "isOrganic": "N", 
+            "name": "Canadian Winter", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2013-05-23 23:59:29"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:10", 
+                    "description": "Thomas Hooker Brewing Company, located in Bloomfield, is Connecticut's local brewery with a national reputation. One taste and you'll recognize why small batch local brewing with quality ingredients produces a superior beer.\r\n\r\nBuilt on the premise that small manufactures creating quality products are still to backbone of this country, we are proud to be in our second decade of producing great quality craft beers in Hartford County. We offer eleven unique beers (7 ales and 4 lagers) that are highly respected and recognized for consistency and quality. Recently named as the 73rd best brewer in the world by RateBeer.com, and ranked number 15 in the top 50 American Micro Breweries by the Beer Advocate, Connecticut should be proud of their small brewer with a huge reputation.", 
+                    "established": "2003", 
+                    "id": "UBBbRq", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/UBBbRq/upload_0kqGJf-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/UBBbRq/upload_0kqGJf-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/UBBbRq/upload_0kqGJf-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:10", 
+                            "id": "mnI5Ck", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.8086764, 
+                            "locality": "Bloomfield", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -72.7108523, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "860-242-3111", 
+                            "postalCode": "6002", 
+                            "region": "Connecticut", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "16 Tobey Road", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.hookerbeer.com/", 
+                            "yearOpened": "2003"
+                        }
+                    ], 
+                    "name": "Thomas Hooker Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-18 12:10:22", 
+                    "website": "http://www.hookerbeer.com/"
+                }
+            ], 
+            "createDate": "2014-02-18 12:11:19", 
+            "id": "tXCPZO", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/tXCPZO/upload_Xc8zmM-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/tXCPZO/upload_Xc8zmM-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/tXCPZO/upload_Xc8zmM-medium.png"
+            }, 
+            "name": "Defiance", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2014-02-19 10:01:54"
+        }, 
+        {
+            "abv": "7", 
+            "available": {
+                "description": "Available during the spring months.", 
+                "id": 5, 
+                "name": "Spring"
+            }, 
+            "availableId": 5, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:00", 
+                    "description": "Lake Louie Brewing started out as a mid-life crisis for owner Tom Porter.  He had spent 20+ years in the Engineering field and was looking to make a change in careers and a change in outlook.  Having been homebrewing for a couple of years, Tom wrote a \u2018cartoon\u2019 of a business plan that stated that a 3 barrel brewery could make a profit (in the first year, no less!).\r\n\r\nArmed with said business plan and a cashed in 401k, Tom and his wife DeAnn proceeded to convert a metal storage shed on their property into a nascent brewery.\r\n\r\nLake Louie Brewing is located on 18.5 acres of land purchased from Tom\u2019s uncle Louie Carpenter (hence the name \u2018Lake Louie\u2019) near the small town of Arena, Wisconsin (population: not too many, traffic lights: zero).  Lake Louie was the skinny dipping pond for area youth (including Tom in his day).\r\n\r\nAt the end of one full year\u2019s brewing, Lake Louie has produced the astounding sum of 106 barrels of beer.  2001 year end totals:  276 barrels.  A 258% increase in one year (lookout Bud!).", 
+                    "established": "2000", 
+                    "id": "PfbcZa", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/PfbcZa/upload_u4xMHf-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/PfbcZa/upload_u4xMHf-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/PfbcZa/upload_u4xMHf-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:00", 
+                            "id": "fHseLN", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.1706377, 
+                            "locality": "Arena", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -89.9323658, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "608-753-2675", 
+                            "postalCode": "53503", 
+                            "region": "Wisconsin", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "7556 Pine Road", 
+                            "updateDate": "2012-09-16 19:27:13", 
+                            "website": "http://www.lakelouie.com/"
+                        }
+                    ], 
+                    "name": "Lake Louie Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-09-16 19:27:32", 
+                    "website": "http://www.lakelouie.com/"
+                }
+            ], 
+            "createDate": "2012-09-21 02:17:20", 
+            "description": "A springtime version of our Tommy\u2019s Porter brewed with less dark malt and more hops. Expect an early sellout of this refreshing beer.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "27", 
+            "id": "YXgDNq", 
+            "isOrganic": "N", 
+            "name": "Dino's Dark", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2012-09-21 11:24:07"
+        }, 
+        {
+            "abv": "7.5", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:44", 
+                    "description": "Atwater Block Brewery, founded in 1997, is housed in a 1916 factory warehouse located in Detroit's historic Rivertown district. Brewing relentlessly on our imported Kaspar Schultz system, we've ridden the wave of aggressive ales while holding true to our German roots through our traditional Lagers. With drinkability and tradition at heart, it's easy for us to \"Drink Our Share and Sell the Rest\"!", 
+                    "established": "1997", 
+                    "id": "boTIWO", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/boTIWO/upload_J4TRNH-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/boTIWO/upload_J4TRNH-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/boTIWO/upload_J4TRNH-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:44", 
+                            "hoursOfOperation": "Wed-sat from 4PM until 11PM", 
+                            "id": "s53vAs", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.337152, 
+                            "locality": "Detroit", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.018559, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "313-877-9205", 
+                            "postalCode": "48207", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "237 Joseph Campau Street", 
+                            "updateDate": "2012-07-27 12:39:39", 
+                            "website": "http://www.atwaterbeer.com/", 
+                            "yearOpened": "1997"
+                        }
+                    ], 
+                    "name": "Atwater Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 21:43:52", 
+                    "website": "http://www.atwaterbeer.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:06", 
+            "description": "A well-kept secret of the Atwater line, the Double Down is an old hand in the increasingly popular Amber Lager category. With the body and bitterness of an Amber Ale and the lacy head and crisp focus of traditional German Lager, makes this beer a pleasing treat on both fronts.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "75", 
+            "id": "0kGi52", 
+            "isOrganic": "N", 
+            "name": "Double Down Sticke Alt", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2013-08-14 00:19:23"
+        }, 
+        {
+            "abv": "7.4", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:11", 
+                    "description": "Valiant Brewing Company is a craft brewery in for Orange, California which serves the Southern California area with an exceptional line up of craft beer.", 
+                    "established": "2010", 
+                    "id": "pkG6MD", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/pkG6MD/upload_1r3L4g-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/pkG6MD/upload_1r3L4g-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/pkG6MD/upload_1r3L4g-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:11", 
+                            "extendedAddress": "Unit C", 
+                            "hoursOfOperation": "Thu - Fri: 5:00 pm - 9:00 pm\r\nSat: 12:00 pm - 9:00 pm", 
+                            "id": "h0kWMH", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 33.8255472, 
+                            "locality": "Orange", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -117.8641555, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(714) 408-2825", 
+                            "postalCode": "92865", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2294 N. Batavia", 
+                            "updateDate": "2013-08-09 12:51:13", 
+                            "website": "http://www.valiantbrewing.com/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "mailingListUrl": "http://www.valiantbrewing.com/sign-up-for-our-newsletter", 
+                    "name": "Valiant Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-13 18:11:43", 
+                    "website": "http://www.valiantbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-09-19 22:30:58", 
+            "id": "cohUsD", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/cohUsD/upload_MABVSJ-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/cohUsD/upload_MABVSJ-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/cohUsD/upload_MABVSJ-medium.png"
+            }, 
+            "name": "Golden Mouth", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2013-09-21 13:26:13"
+        }, 
+        {
+            "abv": "7.5", 
+            "available": {
+                "description": "Beer is not available.", 
+                "id": 3, 
+                "name": "Not Available"
+            }, 
+            "availableId": 3, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:06", 
+                    "description": "Based in the Pacific Northwest, Pyramid Breweries began as Hart Brewing in 1984 and launched the flagship brand of Pyramid Ales.  In 1996, the company was reborn as Pyramid Breweries and currently offers craft beers produced under the Pyramid family of ales and lagers.  With breweries in Seattle, WA, Portland, OR, and Berkeley, CA, Pyramid also owns Alehouses at all three locations and an additional Alehouse in Walnut Creek, CA.", 
+                    "established": "1984", 
+                    "id": "By7ytz", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/By7ytz/upload_pTbwo7-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/By7ytz/upload_pTbwo7-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/By7ytz/upload_pTbwo7-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:06", 
+                            "id": "yEyjRD", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 47.5924, 
+                            "locality": "Seattle", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.3351834, 
+                            "name": "Seattle Home Office", 
+                            "openToPublic": "Y", 
+                            "phone": "(206) 682-8322", 
+                            "postalCode": "98134", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "91 S Royal Brougham Way", 
+                            "updateDate": "2013-08-12 18:21:15", 
+                            "website": "http://www.pyramidbrew.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:15", 
+                            "hoursOfOperation": "Day Dining \r\nMonday - Thursday 11:30am - 10:00pm \r\nFriday 11:30am - 11:00pm \r\nSaturday 11:30am - 11:00pm \r\nSunday 11:30am - 10:00pm", 
+                            "id": "h88zok", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 37.879624, 
+                            "locality": "Berkeley", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.300147, 
+                            "name": "Berkeley", 
+                            "openToPublic": "Y", 
+                            "phone": "510-528-9880", 
+                            "postalCode": "94710", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "901 Gilman Street", 
+                            "updateDate": "2012-12-24 14:09:52", 
+                            "website": "http://www.pyramidbrew.com/alehouses/berkeley"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:15", 
+                            "hoursOfOperation": "Day Dining \r\nMonday - Thursday 11:00am - 10:00pm \r\nFriday 11:00am - 11:00pm \r\nSaturday 11:00am - 11:00pm \r\nSunday 11:00am - 9:00pm", 
+                            "id": "JRrnyB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.5920122, 
+                            "locality": "Seattle", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.3346949, 
+                            "name": "Seattle", 
+                            "openToPublic": "Y", 
+                            "phone": "206-682-3377", 
+                            "postalCode": "98134", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1201 First Avenue South", 
+                            "updateDate": "2013-08-12 18:21:07", 
+                            "website": "http://www.pyramidbrew.com/alehouses/seattle"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-08-09 20:13:42", 
+                            "hoursOfOperation": "Monday\t11:00am - 9:00pm\r\nTuesday - Thursday\t11:00am - 10:00pm\r\nFriday\t11:00am - 11:00pm\r\nSaturday\t12:00pm - 11:00pm\r\nSunday\t12:00pm - 9:00pm", 
+                            "id": "dPSuK7", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 45.541628, 
+                            "locality": "Portland", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -122.713737, 
+                            "name": "Portland", 
+                            "openToPublic": "Y", 
+                            "phone": "503-228-5269", 
+                            "postalCode": "97210", 
+                            "region": "Oregon", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2730 NW 31st", 
+                            "updateDate": "2012-08-09 20:14:39", 
+                            "website": "http://www.pyramidbrew.com/alehouses/portland"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-08-09 20:14:38", 
+                            "hoursOfOperation": "Monday - Thursday\t11:30am - 9:00pm\r\nFriday\t11:30am - 11:00pm\r\nSaturday\t12:00pm - 10:00pm\r\nSunday\t12:00pm - 7:00pm", 
+                            "id": "FjBiTY", 
+                            "inPlanning": "N", 
+                            "isClosed": "Y", 
+                            "isPrimary": "N", 
+                            "latitude": 38.5791177, 
+                            "locality": "Sacramento", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -121.4929869, 
+                            "name": "Sacramento", 
+                            "openToPublic": "Y", 
+                            "phone": "916-498-9800", 
+                            "postalCode": "95814", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1029 K Street", 
+                            "updateDate": "2013-08-12 23:47:38", 
+                            "website": "http://www.pyramidbrew.com/alehouses/sacramento", 
+                            "yearClosed": "2013"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-08-09 20:15:30", 
+                            "hoursOfOperation": "Monday - Tuesday\t11:30am - 10:00pm\r\nWednesday - Thursday\t11:30am - 10:30pm\r\nFriday - Saturday\t11:30am - 11:00pm\r\nSunday\t11:30am - 10:00pm", 
+                            "id": "s2uWcz", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 37.8991595, 
+                            "locality": "Walnut Creek", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.0619714, 
+                            "name": "Walnut Creek", 
+                            "openToPublic": "Y", 
+                            "phone": "925-946-1520", 
+                            "postalCode": "94596", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1410 Locust Street", 
+                            "updateDate": "2013-08-12 19:10:24", 
+                            "website": "http://www.pyramidbrew.com/alehouses/walnut-creek"
+                        }
+                    ], 
+                    "mailingListUrl": "http://www.pyramidbrew.com/newsletter", 
+                    "name": "Pyramid Breweries", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 16:49:28", 
+                    "website": "http://www.pyramidbrew.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:27", 
+            "id": "AAj4GG", 
+            "isOrganic": "N", 
+            "name": "Imperial Hefeweizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2013-08-14 18:48:17"
+        }, 
+        {
+            "abv": "6", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:06", 
+                    "description": "Based in the Pacific Northwest, Pyramid Breweries began as Hart Brewing in 1984 and launched the flagship brand of Pyramid Ales.  In 1996, the company was reborn as Pyramid Breweries and currently offers craft beers produced under the Pyramid family of ales and lagers.  With breweries in Seattle, WA, Portland, OR, and Berkeley, CA, Pyramid also owns Alehouses at all three locations and an additional Alehouse in Walnut Creek, CA.", 
+                    "established": "1984", 
+                    "id": "By7ytz", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/By7ytz/upload_pTbwo7-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/By7ytz/upload_pTbwo7-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/By7ytz/upload_pTbwo7-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:06", 
+                            "id": "yEyjRD", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 47.5924, 
+                            "locality": "Seattle", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.3351834, 
+                            "name": "Seattle Home Office", 
+                            "openToPublic": "Y", 
+                            "phone": "(206) 682-8322", 
+                            "postalCode": "98134", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "91 S Royal Brougham Way", 
+                            "updateDate": "2013-08-12 18:21:15", 
+                            "website": "http://www.pyramidbrew.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:15", 
+                            "hoursOfOperation": "Day Dining \r\nMonday - Thursday 11:30am - 10:00pm \r\nFriday 11:30am - 11:00pm \r\nSaturday 11:30am - 11:00pm \r\nSunday 11:30am - 10:00pm", 
+                            "id": "h88zok", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 37.879624, 
+                            "locality": "Berkeley", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.300147, 
+                            "name": "Berkeley", 
+                            "openToPublic": "Y", 
+                            "phone": "510-528-9880", 
+                            "postalCode": "94710", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "901 Gilman Street", 
+                            "updateDate": "2012-12-24 14:09:52", 
+                            "website": "http://www.pyramidbrew.com/alehouses/berkeley"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:15", 
+                            "hoursOfOperation": "Day Dining \r\nMonday - Thursday 11:00am - 10:00pm \r\nFriday 11:00am - 11:00pm \r\nSaturday 11:00am - 11:00pm \r\nSunday 11:00am - 9:00pm", 
+                            "id": "JRrnyB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.5920122, 
+                            "locality": "Seattle", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.3346949, 
+                            "name": "Seattle", 
+                            "openToPublic": "Y", 
+                            "phone": "206-682-3377", 
+                            "postalCode": "98134", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1201 First Avenue South", 
+                            "updateDate": "2013-08-12 18:21:07", 
+                            "website": "http://www.pyramidbrew.com/alehouses/seattle"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-08-09 20:13:42", 
+                            "hoursOfOperation": "Monday\t11:00am - 9:00pm\r\nTuesday - Thursday\t11:00am - 10:00pm\r\nFriday\t11:00am - 11:00pm\r\nSaturday\t12:00pm - 11:00pm\r\nSunday\t12:00pm - 9:00pm", 
+                            "id": "dPSuK7", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 45.541628, 
+                            "locality": "Portland", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -122.713737, 
+                            "name": "Portland", 
+                            "openToPublic": "Y", 
+                            "phone": "503-228-5269", 
+                            "postalCode": "97210", 
+                            "region": "Oregon", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2730 NW 31st", 
+                            "updateDate": "2012-08-09 20:14:39", 
+                            "website": "http://www.pyramidbrew.com/alehouses/portland"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-08-09 20:14:38", 
+                            "hoursOfOperation": "Monday - Thursday\t11:30am - 9:00pm\r\nFriday\t11:30am - 11:00pm\r\nSaturday\t12:00pm - 10:00pm\r\nSunday\t12:00pm - 7:00pm", 
+                            "id": "FjBiTY", 
+                            "inPlanning": "N", 
+                            "isClosed": "Y", 
+                            "isPrimary": "N", 
+                            "latitude": 38.5791177, 
+                            "locality": "Sacramento", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -121.4929869, 
+                            "name": "Sacramento", 
+                            "openToPublic": "Y", 
+                            "phone": "916-498-9800", 
+                            "postalCode": "95814", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1029 K Street", 
+                            "updateDate": "2013-08-12 23:47:38", 
+                            "website": "http://www.pyramidbrew.com/alehouses/sacramento", 
+                            "yearClosed": "2013"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-08-09 20:15:30", 
+                            "hoursOfOperation": "Monday - Tuesday\t11:30am - 10:00pm\r\nWednesday - Thursday\t11:30am - 10:30pm\r\nFriday - Saturday\t11:30am - 11:00pm\r\nSunday\t11:30am - 10:00pm", 
+                            "id": "s2uWcz", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 37.8991595, 
+                            "locality": "Walnut Creek", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.0619714, 
+                            "name": "Walnut Creek", 
+                            "openToPublic": "Y", 
+                            "phone": "925-946-1520", 
+                            "postalCode": "94596", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1410 Locust Street", 
+                            "updateDate": "2013-08-12 19:10:24", 
+                            "website": "http://www.pyramidbrew.com/alehouses/walnut-creek"
+                        }
+                    ], 
+                    "mailingListUrl": "http://www.pyramidbrew.com/newsletter", 
+                    "name": "Pyramid Breweries", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 16:49:28", 
+                    "website": "http://www.pyramidbrew.com/"
+                }
+            ], 
+            "createDate": "2013-11-17 00:06:20", 
+            "id": "PXwKCq", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/PXwKCq/upload_pby1AX-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/PXwKCq/upload_pby1AX-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/PXwKCq/upload_pby1AX-medium.png"
+            }, 
+            "name": "IPL", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2014-02-11 11:59:57"
+        }, 
+        {
+            "abv": "6.4", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-07-31 04:49:17", 
+                    "description": "Canada\u2019s longest running, British Columbian-owned brewery was established in 1957 on a fresh water spring in Prince George, BC. Originally named Caribou Brewing, Pacific Western Brewing Company (PWB) has had seven owners over it's storied past and achieved many milestones. Including, being the first Canadian brewer to export to mainland China in 1991 and then to Russia in 1996. Along the way these achievements have shaped the BC beer backbone for over fifty years.\r\n\r\nPWB Accomplishments\r\n\r\n2005 - First Canadian Gold Medal Winner, Industry International Awards in Munich\r\n2003 - First ISO 9001 Certified Brewery in North America\r\n1997 - First Certified Organic Lager Beer in Canada\r\n1996 - First North American Brewery Certified to ISO 9002\r\n1996 - First Lager and Lime Beer\r\n1995 - First Malted Herb Beer\r\n1993 - First Ice Beer in Canada\r\n1988 - First Dry Beer in Canada\r\n1983 - First Brewery Operated Beer Store in BC\r\n1982 - First Dark Mild Beer in Canada\r\n1969 - First Malt Liquor in Canada\r\n1965 - First Canned Beer in BC", 
+                    "established": "1957", 
+                    "id": "bSzuQk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/bSzuQk/upload_PMtfDd-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/bSzuQk/upload_PMtfDd-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/bSzuQk/upload_PMtfDd-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2012-07-31 12:21:38", 
+                            "id": "CmDhK5", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 49.249219, 
+                            "locality": "Burnaby", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.974695, 
+                            "name": "Burnaby", 
+                            "openToPublic": "N", 
+                            "phone": "(604) 421-2119", 
+                            "postalCode": "V5G 4T9", 
+                            "region": "British Columbia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3876 Norland Avenue", 
+                            "updateDate": "2012-07-31 12:23:04"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2012-07-31 12:22:44", 
+                            "id": "p5wVTW", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 53.931261, 
+                            "locality": "Prince George", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.783412, 
+                            "name": "Prince George", 
+                            "openToPublic": "N", 
+                            "phone": "(250) 562-2424", 
+                            "postalCode": "V2K 4M4", 
+                            "region": "British Columbia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "641 North Nechako Road", 
+                            "updateDate": "2012-07-31 12:23:04"
+                        }
+                    ], 
+                    "name": "Pacific Western Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-07-31 13:24:11", 
+                    "website": "http://www.pwbrewing.net/"
+                }
+            ], 
+            "createDate": "2012-07-31 13:04:52", 
+            "description": "Full Flavored Lager: Strong malty aroma with sweet notes\r\n\r\nFermented longer with a special yeast \u2014 the reason for the higher alcohol content \u2014 Ironhorse is a strong brew for beer connoisseurs. It\u2019s bold graphics and original appeal are not for the faint-of-palate \u2014 this lager is a brawny mouthful of velvet smoothness.\r\n\r\nIn spite of its impressive 6.4% alcohol content, Ironhorse is an extremely easy-drinking beer that goes well with food. Its rich, complex taste with suggestions of tartness will appeal to the gourmet who appreciates a brew that does more than satisfy a thirst. Great with spicy food or roast chicken.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "nn3mUT", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/nn3mUT/upload_0v7lTb-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/nn3mUT/upload_0v7lTb-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/nn3mUT/upload_0v7lTb-medium.png"
+            }, 
+            "name": "Ironhorse", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2012-07-31 13:04:53"
+        }, 
+        {
+            "abv": "7.3", 
+            "breweries": [
+                {
+                    "createDate": "2013-05-02 22:15:08", 
+                    "id": "H1L7UE", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Serbia and Montenegro", 
+                                "isoCode": "CS", 
+                                "name": "SERBIA AND MONTENEGRO"
+                            }, 
+                            "countryIsoCode": "CS", 
+                            "createDate": "2013-05-03 01:11:24", 
+                            "id": "b3TGSz", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "025783147", 
+                            "postalCode": "25250", 
+                            "region": "Apatin", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Trg Oslobo\u0111enja 5", 
+                            "updateDate": "2013-05-03 01:11:25"
+                        }
+                    ], 
+                    "name": "Apatinska Pivara A.D.", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-03 01:10:35"
+                }
+            ], 
+            "createDate": "2013-05-03 01:12:57", 
+            "id": "UymFQc", 
+            "isOrganic": "N", 
+            "name": "Jelen Strong", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2013-05-03 01:12:57"
+        }, 
+        {
+            "abv": "10", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:55", 
+                    "description": "Founders Brewing Company, founded by Mike Stevens and Dave Engbers produced its first beer in November of 1997. Built out of a dream and a passion for home brewing, what started out as a hobby quickly became a thriving business.  As the years have passed, Founders has built its brewery on the exploration of recipe development and brewing techniques. We are not the standard micro-brewery, rather we have traveled a path that breaks from the standard craft-brewer.\r\n\r\nCarving a niche out of the craft industry, Founders Brewing Company has built its reputation on producing very unique beers. Our focus is to offer our wholesalers, retailers and consumers a product that stands alone on the shelf and offers a true drinking experience to our friends, the consumer.  As the years have passed, Founders has built its brewery on the exploration of recipe development and brewing techniques. We are not the standard micro-brewery, rather we have traveled a path that breaks from the standard craft-brewer. Carving a niche out of the craft industry, Founders Brewing Company has built its reputation on producing very unique beers. Our focus is to offer our wholesalers, retailers and consumers a product that stands alone on the shelf and offers a true drinking experience to our friends, the consumer.", 
+                    "established": "1997", 
+                    "id": "Idm5Y5", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Idm5Y5/upload_5gYn8V-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Idm5Y5/upload_5gYn8V-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Idm5Y5/upload_5gYn8V-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:55", 
+                            "id": "7VPQrN", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.958468, 
+                            "locality": "Grand Rapids", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -85.673516, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "616-776-1195", 
+                            "postalCode": "49503", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "235 Grandville Avenue SW", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.foundersbrewing.com/", 
+                            "yearOpened": "1997"
+                        }
+                    ], 
+                    "name": "Founders Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 13:04:48", 
+                    "website": "http://www.foundersbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-10-30 14:58:37", 
+            "description": "Mango Magnifico con Calor [Magnificent Mango with Heat] is a never-before-released, high-gravity fruit beer brewed with mango and a touch of Michigan-grown habaneros. Each 750mL bottle of this 10% ABV ale is intended to be shared. Not a traditional fruit beer, the delicate tropical fruit in Mango Magnifico is punctuated by a hint of heat, increasing the overall depth of flavor and adding another level of complexity. A refreshing drink for the warm summer months.", 
+            "id": "Fl4I7A", 
+            "isOrganic": "N", 
+            "name": "Mango Magnifico", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2013-10-30 17:11:27", 
+            "year": 2013
+        }, 
+        {
+            "abv": "10.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:50", 
+                    "id": "bQcGLo", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Denmark", 
+                                "isoCode": "DK", 
+                                "isoThree": "DNK", 
+                                "name": "DENMARK", 
+                                "numberCode": 208
+                            }, 
+                            "countryIsoCode": "DK", 
+                            "createDate": "2012-01-03 02:41:50", 
+                            "id": "jaLI5s", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 55.664848, 
+                            "locality": "Kbenhavn", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 12.537572, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "45-33-27-33-27", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Vesterflledvej 100", 
+                            "updateDate": "2012-03-21 19:08:05"
+                        }
+                    ], 
+                    "name": "Carlsberg Bryggerierne", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:05"
+                }
+            ], 
+            "createDate": "2014-06-03 19:05:56", 
+            "id": "HfNtSe", 
+            "isOrganic": "N", 
+            "name": "Master Brew", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2014-06-04 11:46:41"
+        }, 
+        {
+            "abv": "9", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:48", 
+                    "description": "The company ' Alken- Maes Breweries SA \" was officially created in 1988 from the merger of breweries and Cristal Alken Maes . However, the roots of these two entities go back much further, to 1880. This year, Egied Maes bought the brewery Sint- Micha\u00ebl . Shortly after , Arthur Boes founded a brewery in Alken, about 100 km away.\r\n\r\nBoth breweries are growing consistently . In 1928, the first Belgian pils born: the Cristal. Maes Pils follows in 1946. Then Grimbergen , Ciney and others complement the portfolio until the merger in 1988. Having been acquired by Groupe Danone and Scottish & Newcastle, Alken- Maes joined 2008 HEINEKEN Company.\r\n\r\nHEINEKEN under the wing of Alken- Maes had a difficult period , and the new brewery can fully assume its position as an innovative challenger on the Belgian market . (Re ) launches beers Maes, Desperados and Grimbergen are successful and show the new momentum of the business.", 
+                    "established": "1988", 
+                    "id": "9ynYAy", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/9ynYAy/upload_X0bog5-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/9ynYAy/upload_X0bog5-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/9ynYAy/upload_X0bog5-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Belgium", 
+                                "isoCode": "BE", 
+                                "isoThree": "BEL", 
+                                "name": "BELGIUM", 
+                                "numberCode": 56
+                            }, 
+                            "countryIsoCode": "BE", 
+                            "createDate": "2012-01-03 02:41:48", 
+                            "id": "KmAbWk", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.4414339, 
+                            "locality": "Jumet", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 4.4140138, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "32-071-34-02-22", 
+                            "region": "Hainaut", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Rue Derbque 7", 
+                            "updateDate": "2012-03-21 19:08:04", 
+                            "website": "http://www.alkenmaes.be/"
+                        }
+                    ], 
+                    "name": "Brouwerij Alken-Maes", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-05 12:03:59", 
+                    "website": "http://www.alkenmaes.be/"
+                }
+            ], 
+            "createDate": "2013-05-17 19:42:22", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 1, 
+                "name": "Flute"
+            }, 
+            "glasswareId": 1, 
+            "id": "kDCF1p", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/kDCF1p/upload_UIFow7-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/kDCF1p/upload_UIFow7-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/kDCF1p/upload_UIFow7-medium.png"
+            }, 
+            "name": "Slalom Strong", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2014-05-04 12:36:31"
+        }, 
+        {
+            "abv": "9", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:09", 
+                    "id": "yltqrR", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-01-03 02:42:09", 
+                            "id": "uCyeOp", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 55.8593325, 
+                            "locality": "Glasgow", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -4.2324123, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "44-(0141)-552-6552", 
+                            "region": "Scotland", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "161 Duke Street", 
+                            "updateDate": "2012-03-21 19:08:18"
+                        }
+                    ], 
+                    "name": "Tennent Caledonian Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:09"
+                }
+            ], 
+            "createDate": "2013-05-07 23:32:57", 
+            "id": "FlY4rs", 
+            "isOrganic": "N", 
+            "name": "Tennent's Super Strong Lager", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2013-05-09 16:55:37"
+        }, 
+        {
+            "abv": "8", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-07-31 04:49:17", 
+                    "description": "Canada\u2019s longest running, British Columbian-owned brewery was established in 1957 on a fresh water spring in Prince George, BC. Originally named Caribou Brewing, Pacific Western Brewing Company (PWB) has had seven owners over it's storied past and achieved many milestones. Including, being the first Canadian brewer to export to mainland China in 1991 and then to Russia in 1996. Along the way these achievements have shaped the BC beer backbone for over fifty years.\r\n\r\nPWB Accomplishments\r\n\r\n2005 - First Canadian Gold Medal Winner, Industry International Awards in Munich\r\n2003 - First ISO 9001 Certified Brewery in North America\r\n1997 - First Certified Organic Lager Beer in Canada\r\n1996 - First North American Brewery Certified to ISO 9002\r\n1996 - First Lager and Lime Beer\r\n1995 - First Malted Herb Beer\r\n1993 - First Ice Beer in Canada\r\n1988 - First Dry Beer in Canada\r\n1983 - First Brewery Operated Beer Store in BC\r\n1982 - First Dark Mild Beer in Canada\r\n1969 - First Malt Liquor in Canada\r\n1965 - First Canned Beer in BC", 
+                    "established": "1957", 
+                    "id": "bSzuQk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/bSzuQk/upload_PMtfDd-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/bSzuQk/upload_PMtfDd-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/bSzuQk/upload_PMtfDd-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2012-07-31 12:21:38", 
+                            "id": "CmDhK5", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 49.249219, 
+                            "locality": "Burnaby", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.974695, 
+                            "name": "Burnaby", 
+                            "openToPublic": "N", 
+                            "phone": "(604) 421-2119", 
+                            "postalCode": "V5G 4T9", 
+                            "region": "British Columbia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3876 Norland Avenue", 
+                            "updateDate": "2012-07-31 12:23:04"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2012-07-31 12:22:44", 
+                            "id": "p5wVTW", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 53.931261, 
+                            "locality": "Prince George", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.783412, 
+                            "name": "Prince George", 
+                            "openToPublic": "N", 
+                            "phone": "(250) 562-2424", 
+                            "postalCode": "V2K 4M4", 
+                            "region": "British Columbia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "641 North Nechako Road", 
+                            "updateDate": "2012-07-31 12:23:04"
+                        }
+                    ], 
+                    "name": "Pacific Western Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-07-31 13:24:11", 
+                    "website": "http://www.pwbrewing.net/"
+                }
+            ], 
+            "createDate": "2012-07-31 13:14:53", 
+            "description": "Specialty Lager: Robust aroma malt with roasted toffee notes\r\nTNT Strong is actually its very own unique PWB lager blend, many British Columbians have already discovered the quality of our highest alcohol beer and it has recently exploded in Alberta \u2013 pun intended.\r\n\r\nTNT Strong is not at all intimidating for an 8% and the pure spring water base gives it an extreme drinkability. This is how strong beers were meant to be made \u2013 Blow Away Your Thirst! Great with spicy food or roast chicken.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "kKqFhx", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/kKqFhx/upload_0yllgo-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/kKqFhx/upload_0yllgo-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/kKqFhx/upload_0yllgo-medium.png"
+            }, 
+            "name": "TNT 8% Extra Strong Beer", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2012-07-31 13:14:53"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-07-31 04:49:17", 
+                    "description": "Canada\u2019s longest running, British Columbian-owned brewery was established in 1957 on a fresh water spring in Prince George, BC. Originally named Caribou Brewing, Pacific Western Brewing Company (PWB) has had seven owners over it's storied past and achieved many milestones. Including, being the first Canadian brewer to export to mainland China in 1991 and then to Russia in 1996. Along the way these achievements have shaped the BC beer backbone for over fifty years.\r\n\r\nPWB Accomplishments\r\n\r\n2005 - First Canadian Gold Medal Winner, Industry International Awards in Munich\r\n2003 - First ISO 9001 Certified Brewery in North America\r\n1997 - First Certified Organic Lager Beer in Canada\r\n1996 - First North American Brewery Certified to ISO 9002\r\n1996 - First Lager and Lime Beer\r\n1995 - First Malted Herb Beer\r\n1993 - First Ice Beer in Canada\r\n1988 - First Dry Beer in Canada\r\n1983 - First Brewery Operated Beer Store in BC\r\n1982 - First Dark Mild Beer in Canada\r\n1969 - First Malt Liquor in Canada\r\n1965 - First Canned Beer in BC", 
+                    "established": "1957", 
+                    "id": "bSzuQk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/bSzuQk/upload_PMtfDd-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/bSzuQk/upload_PMtfDd-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/bSzuQk/upload_PMtfDd-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2012-07-31 12:21:38", 
+                            "id": "CmDhK5", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 49.249219, 
+                            "locality": "Burnaby", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.974695, 
+                            "name": "Burnaby", 
+                            "openToPublic": "N", 
+                            "phone": "(604) 421-2119", 
+                            "postalCode": "V5G 4T9", 
+                            "region": "British Columbia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3876 Norland Avenue", 
+                            "updateDate": "2012-07-31 12:23:04"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2012-07-31 12:22:44", 
+                            "id": "p5wVTW", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 53.931261, 
+                            "locality": "Prince George", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.783412, 
+                            "name": "Prince George", 
+                            "openToPublic": "N", 
+                            "phone": "(250) 562-2424", 
+                            "postalCode": "V2K 4M4", 
+                            "region": "British Columbia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "641 North Nechako Road", 
+                            "updateDate": "2012-07-31 12:23:04"
+                        }
+                    ], 
+                    "name": "Pacific Western Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-07-31 13:24:11", 
+                    "website": "http://www.pwbrewing.net/"
+                }
+            ], 
+            "createDate": "2012-07-31 13:13:54", 
+            "description": "Full Flavored Lager: Strong malty aroma with sweet notes\r\n\r\nIf you like an explosion of taste in your mouth, TNT Strong Malt is an amber-coloured manly brew and it is a long-time favourite in B.C. \u2013 guaranteed to blow away any thirst.\r\n\r\nTNT is slow-brewed \u2014 toasted nectars with tones of floral hops and suggestions of sugary malt. Their subtle, but deep flavour give them a rich, multi-layered character reminiscent of nights of apr\u00e8s ski and chalet fires. Great with spicy food or roast chicken.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "817RYW", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/817RYW/upload_1mzjeW-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/817RYW/upload_1mzjeW-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/817RYW/upload_1mzjeW-medium.png"
+            }, 
+            "name": "TNT Strong Malt", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2012-07-31 13:13:55"
+        }, 
+        {
+            "abv": "7", 
+            "available": {
+                "description": "Available during the winter months.", 
+                "id": 8, 
+                "name": "Winter"
+            }, 
+            "availableId": 8, 
+            "breweries": [
+                {
+                    "createDate": "2012-11-16 18:24:04", 
+                    "description": "Berghoff\u2019s history as a beer brand goes back over 120 years, and in that time it has developed a reputation of high quality and consistency. The first batch of Berghoff beer was brewed in Fort Wayne, Indiana in 1887 by Herman Berghoff and his three brothers. Herman\u2019s desire to expand the market for the family\u2019s beer led him to sell the product at the Chicago World\u2019s Fair where it received high acclaim. Since then, Berghoff has continued its success and relevance in the Chicago market and beyond.           \r\n\r\n   As the craft beer market has evolved, the brand has received fresh, exciting updates. Berghoff changed its brewing location and is now proudly brewed at Point Brewery in Stevens Point, Wisconsin. Berghoff has also refreshed itself with updated recipes and packaging. With consulting from brewing experts Randy Mosher and John Hannafan, Berghoff\u2019s new, top-notch beers are ready to satisfy consumer demand. As the brewery looks to the future, Berghoff beer will continue to evolve as trends change, but will always maintain its roots as an authentic German-style brew whose history and tradition will never be forgotten.", 
+                    "established": "1887", 
+                    "id": "nJjPsG", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/nJjPsG/upload_5EzK2B-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/nJjPsG/upload_5EzK2B-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/nJjPsG/upload_5EzK2B-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-11-16 18:24:44", 
+                            "id": "kU9sBG", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.241017, 
+                            "locality": "Mequon", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -87.946315, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(262) 238-1236", 
+                            "postalCode": "53092", 
+                            "region": "Wisconsin", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3122 W. Woodfield Drive", 
+                            "updateDate": "2012-11-16 18:24:44", 
+                            "website": "http://berghoffbrewery.com/"
+                        }
+                    ], 
+                    "name": "Berghoff Brewery, Inc", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 16:17:53", 
+                    "website": "http://berghoffbeer.com/"
+                }
+            ], 
+            "createDate": "2013-08-09 15:38:50", 
+            "description": "This rich, smooth copper colored ale is brewed with six malts for a lot of aromatic complexity, with cookie, caramel, raisin and toasted marshmallow notes.", 
+            "foodPairings": "Glazed Ham, Rib Roast, Pecan & Pumpkin Pie,", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "23", 
+            "id": "ceRaa6", 
+            "isOrganic": "N", 
+            "name": "Winter Ale", 
+            "originalGravity": "16.5", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "srm": {
+                "hex": "A63E00", 
+                "id": 18, 
+                "name": "18"
+            }, 
+            "srmId": 18, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2013-08-09 16:51:41"
+        }, 
+        {
+            "abv": "5.8", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:18:12", 
+                    "established": "1995", 
+                    "id": "zGfZjm", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-13 01:35:23", 
+                            "id": "ivXuST", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 53.895343, 
+                            "locality": "Wismar", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 11.461131, 
+                            "name": "Main Brewpub", 
+                            "openToPublic": "Y", 
+                            "postalCode": "23966", 
+                            "region": "Mecklenburg-Vorpommern", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Kleine Hohe Str. 15", 
+                            "updateDate": "2012-08-13 01:35:23"
+                        }
+                    ], 
+                    "name": "Brauhaus am Lohberg", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-13 01:34:57", 
+                    "website": "http://www.brauhaus-wismar.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 12:10:34", 
+            "id": "61JE4n", 
+            "isOrganic": "N", 
+            "name": "Wismarer Weihnachtsbier", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Any style of beer can be made stronger than the classic style guidelines. The goal should be to reach a balance between the style's character and the additional alcohol. Refer to this guide when making styles stronger and appropriately identify the style created (for example: double alt, triple fest, or quadruple Pilsener).", 
+                "id": 138, 
+                "name": "Other Strong Ale or Lager"
+            }, 
+            "styleId": 138, 
+            "updateDate": "2012-08-19 15:34:48"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 20
+}

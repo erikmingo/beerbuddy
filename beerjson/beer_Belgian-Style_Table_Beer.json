@@ -1,0 +1,910 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "3.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-11-02 10:30:52", 
+                    "description": "Started in 1893 as a dairy farm. Eug\u00e8ne de Ro brewed his first top-fermented beer in 1898. 4 years later he was also brewing bottom-fermented beers. In 1929 the dairy closed, so the brewery was able to expand production into other types of beers: Bock, Export, Pilsner and Stout Ale. In 1950 they established their first bottling plant. Up until then the beer was only being sold in kegs. Between 1968 and 1990 they've been expanding by taking over breweries in the south of the Netherlands and North of France. In the 1990's they've started modernising the brewery. In 2010 this modernisation process was completed when they inaugurated their new kegigng hall. They're currently the third biggest pilsner brewery in Belgium.", 
+                    "established": "1898", 
+                    "id": "Fm39JC", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Fm39JC/upload_WMrszz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Fm39JC/upload_WMrszz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Fm39JC/upload_WMrszz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Belgium", 
+                                "isoCode": "BE", 
+                                "isoThree": "BEL", 
+                                "name": "BELGIUM", 
+                                "numberCode": 56
+                            }, 
+                            "countryIsoCode": "BE", 
+                            "createDate": "2012-11-02 10:53:27", 
+                            "id": "jfaN0S", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.965154, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 4.60969, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "3190", 
+                            "region": "Boortmeerbeek", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Provinciesteenweg 28", 
+                            "updateDate": "2012-11-02 10:53:27", 
+                            "website": "http://www.haacht.com/"
+                        }
+                    ], 
+                    "name": "Haacht", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-11-02 12:20:49", 
+                    "website": "http://www.haacht.com/"
+                }
+            ], 
+            "createDate": "2012-11-02 14:54:37", 
+            "description": "In the past, table beer was commonplace on family tables. \r\n\r\nThis is actually not as strange as it sounds. Table beer contains vitamins and fewer calories than the majority of soft drinks.  Furthermore a table beer can be very flavoursome and its low alcohol is in its favour.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "id": "vh2HoB", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/vh2HoB/upload_KHNiCk-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/vh2HoB/upload_KHNiCk-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/vh2HoB/upload_KHNiCk-medium.png"
+            }, 
+            "name": "Bavaro", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "0.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These ales and lagers are very low in alcohol and historically in Belgium enjoyed with meals by both adults and children. Pale to very dark brown in color. Additions of caramel coloring are sometimes employed to adjust color. They are light bodied with relatively low carbonation with limited aftertaste. The mouth feel is light to moderate, though higher than one might anticipate, usually because of unfermented sugars/malt sugars. Malted barley, wheat and rye may be used as well as unmalted wheat, rye, oats and corn. A mild malt character could be evident. Aroma/Flavor hops are most commonly used to employ a flavor balance that is only low in bitterness. Traditional versions do not use artificial sweeteners nor are they excessively sweet. More modern versions of this beer incorporate sweeteners such as sugar and saccharine added post fermentation to sweeten the palate and add to a perception of smoothness. Spices (such as orange and lemon peel, as well as coriander) may be added in barely perceptible amounts, but this is not common. Diacetyl should not be perceived. Competition directors may choose to break out subcategories of Traditional and Modern.", 
+                "fgMax": "1.034", 
+                "fgMin": "1.004", 
+                "ibuMax": "15", 
+                "ibuMin": "5", 
+                "id": 69, 
+                "name": "Belgian-Style Table Beer", 
+                "ogMin": "1.008", 
+                "srmMax": "50", 
+                "srmMin": "5", 
+                "updateDate": "2013-02-18 02:18:18"
+            }, 
+            "styleId": 69, 
+            "updateDate": "2012-11-03 16:05:07"
+        }, 
+        {
+            "abv": "4.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2014-01-10 15:44:47", 
+                    "id": "P6X6bT", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/P6X6bT/upload_6Uu3tg-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/P6X6bT/upload_6Uu3tg-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/P6X6bT/upload_6Uu3tg-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Italy", 
+                                "isoCode": "IT", 
+                                "isoThree": "ITA", 
+                                "name": "ITALY", 
+                                "numberCode": 380
+                            }, 
+                            "countryIsoCode": "IT", 
+                            "createDate": "2014-01-10 15:45:51", 
+                            "id": "masmMk", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.8685053, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 11.0521323, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "region": "Prato", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Via per iolo 34/A", 
+                            "updateDate": "2014-01-10 15:45:51", 
+                            "website": "http://www.iduemastri.it/"
+                        }
+                    ], 
+                    "name": "I due Mastri", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-10 15:44:50", 
+                    "website": "http://www.iduemastri.it/"
+                }
+            ], 
+            "createDate": "2014-01-10 15:52:04", 
+            "description": "Hebe, daughter of Zeus and Hera, the sister of Ares and of Ilizia, is a symbol of eternal youth and vitality. Handmaid of the gods pours the nectar in golden cups at their banquet, the brewery is the idea of \u200b\u200byouth and carbonation, the predominant character of this beer.", 
+            "foodPairings": "Ideal as an aperitif accompanied by appetizers tasted fried or with cheese ripened seeds. Impressing with fish or shellfish.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 8, 
+                "name": "Tulip"
+            }, 
+            "glasswareId": 8, 
+            "id": "mGZvcx", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/mGZvcx/upload_CgPukv-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/mGZvcx/upload_CgPukv-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/mGZvcx/upload_CgPukv-medium.png"
+            }, 
+            "name": "EBE", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "0.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These ales and lagers are very low in alcohol and historically in Belgium enjoyed with meals by both adults and children. Pale to very dark brown in color. Additions of caramel coloring are sometimes employed to adjust color. They are light bodied with relatively low carbonation with limited aftertaste. The mouth feel is light to moderate, though higher than one might anticipate, usually because of unfermented sugars/malt sugars. Malted barley, wheat and rye may be used as well as unmalted wheat, rye, oats and corn. A mild malt character could be evident. Aroma/Flavor hops are most commonly used to employ a flavor balance that is only low in bitterness. Traditional versions do not use artificial sweeteners nor are they excessively sweet. More modern versions of this beer incorporate sweeteners such as sugar and saccharine added post fermentation to sweeten the palate and add to a perception of smoothness. Spices (such as orange and lemon peel, as well as coriander) may be added in barely perceptible amounts, but this is not common. Diacetyl should not be perceived. Competition directors may choose to break out subcategories of Traditional and Modern.", 
+                "fgMax": "1.034", 
+                "fgMin": "1.004", 
+                "ibuMax": "15", 
+                "ibuMin": "5", 
+                "id": 69, 
+                "name": "Belgian-Style Table Beer", 
+                "ogMin": "1.008", 
+                "srmMax": "50", 
+                "srmMin": "5", 
+                "updateDate": "2013-02-18 02:18:18"
+            }, 
+            "styleId": 69, 
+            "updateDate": "2014-01-11 10:00:48"
+        }, 
+        {
+            "abv": "2.9", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:59", 
+                    "description": "Located in the beautiful Texas Hill Country, Jester King Craft Brewery is an authentic farmhouse brewery committed to brewing artisan ales of great depth and character. At times drawing influences from the world beyond traditional brewers\u2019 yeast, Jester King\u2019s beer is not rushed to market but allowed to mature \u2013 often in oak barrels \u2013 to create the most enjoyable, interesting and exciting beer we can make. An additional layer of complexity is added to Jester King\u2019s bottled beers by allowing a second fermentation to take place in the bottle. As part of its commitment to sustainability, the slow food movement and Texas, Jester King beer uses as many organic and local ingredients as possible and will soon be brewed with harvested rainwater.", 
+                    "established": "2010", 
+                    "id": "7kCNmJ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/7kCNmJ/upload_P84WGp-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/7kCNmJ/upload_P84WGp-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/7kCNmJ/upload_P84WGp-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:59", 
+                            "extendedAddress": "Bld. B", 
+                            "id": "M4K0XQ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 30.233431, 
+                            "locality": "Austin", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -97.995129, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "512-537-5100", 
+                            "postalCode": "78736", 
+                            "region": "Texas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "13005 Fitzhugh Rd", 
+                            "updateDate": "2012-03-21 19:08:11", 
+                            "website": "http://www.jesterkingbrewery.com/"
+                        }
+                    ], 
+                    "mailingListUrl": "http://jesterkingbrewery.us2.list-manage.com/subscribe?u=6f34dbbfef5b3f1e8acd76313&id=0c0f75758f", 
+                    "name": "Jester King Craft Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-06-25 16:29:11", 
+                    "website": "http://www.jesterkingbrewery.com/"
+                }
+            ], 
+            "createDate": "2012-04-15 12:56:38", 
+            "description": "A clear and simple expression of the delicate interplay between noble hops and farmhouse yeast. Throughout Northern Europe, light-bodied, well-hopped, low alcohol table beers were often the beverage of choice with all meals at times and in places where the water wasn\u2019t always safe to drink.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "o5Bwzl", 
+            "ingredients": {
+                "hops": [
+                    {
+                        "alphaAcidMin": 3, 
+                        "betaAcidMax": 8, 
+                        "betaAcidMin": 3, 
+                        "caryophylleneMax": 12, 
+                        "caryophylleneMin": 10, 
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "cohumuloneMax": 28, 
+                        "cohumuloneMin": 23, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "Czech Republic", 
+                            "isoCode": "CZ", 
+                            "isoThree": "CZE", 
+                            "name": "CZECH REPUBLIC", 
+                            "numberCode": 203
+                        }, 
+                        "countryOfOrigin": "CZ", 
+                        "createDate": "2013-06-24 16:07:29", 
+                        "description": "Saaz, now known as Zatec, is the name of a city noted for its hop production. Historically, hops from Saaz (?atec) were considered among the finest in Europe, and were the backbone of the original Bohemian Pilsner; ?atec (Saaz in German) is in the area in NW part of Bohemia of the modern-day Czech Republic. In brewing, Saaz usually refers to the hop cultivar traditionally associated with Saaz and Bohemian Pilsner. Although the traditional name for this hop would be Saazer (or Saaz Saazer when grown in the Saaz area), it is generally simply referred to as Saaz or Czech Saaz. zech Saaz is grown not only in ?atec area but also in Tr?ice area (Central Moravia) and ?st? n/L area (North Bohemia). Saazer hops are also grown in other countries. Saaz grown outside of the Czech Republic will have different characteristics and will generally be identified by their nation of origin: for example, Saaz (American). True Saaz Saazer hops are prized for their mild, pleasant flavor, and are the only choice for brewing an authentic Pilsner.", 
+                        "farneseneMax": 20, 
+                        "farneseneMin": 11, 
+                        "humuleneMax": 45, 
+                        "humuleneMin": 15, 
+                        "id": 34, 
+                        "myrceneMax": 40, 
+                        "myrceneMin": 20, 
+                        "name": "Saaz (Czech)", 
+                        "updateDate": "2013-06-24 16:10:38"
+                    }, 
+                    {
+                        "alphaAcidMin": 4, 
+                        "betaAcidMax": 2.8, 
+                        "betaAcidMin": 1.9, 
+                        "caryophylleneMax": 16, 
+                        "caryophylleneMin": 12, 
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "cohumuloneMax": 32, 
+                        "cohumuloneMin": 28, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United Kingdom", 
+                            "isoCode": "GB", 
+                            "isoThree": "GBR", 
+                            "name": "UNITED KINGDOM", 
+                            "numberCode": 826
+                        }, 
+                        "countryOfOrigin": "GB", 
+                        "createDate": "2013-06-24 16:07:29", 
+                        "description": "The premier English aroma hop, an English landrace with a lineage going back to 1790. Ideal for bittering and finishing any kind of English ales, and also works well in lagers due to its delicate, slightly spicy aroma.", 
+                        "farneseneMax": 0.4, 
+                        "farneseneMin": 0.4, 
+                        "humuleneMax": 45, 
+                        "humuleneMin": 38, 
+                        "id": 36, 
+                        "myrceneMax": 25, 
+                        "myrceneMin": 25, 
+                        "name": "East Kent Golding", 
+                        "updateDate": "2013-06-24 16:10:37"
+                    }
+                ], 
+                "malt": [
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "characteristics": [
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Helps the head retention of the beer.", 
+                                "id": 9, 
+                                "name": "Head"
+                            }
+                        ], 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "Germany", 
+                            "isoCode": "DE", 
+                            "isoThree": "DEU", 
+                            "name": "GERMANY", 
+                            "numberCode": 276
+                        }, 
+                        "countryOfOrigin": "DE", 
+                        "createDate": "2013-06-24 16:07:41", 
+                        "description": "Lowers mash, wort, and beer pH. Contains 1-2% lactic acid. Enhances enzymatic activity in mash and improves extract efficiency. Lightens color in pale brews. Enhances stability and extends shelf life of finished beer. Promotes well-rounded, complex beer flavor.", 
+                        "dryYield": 58.4, 
+                        "id": 166, 
+                        "maxInBatch": 10, 
+                        "moistureContent": 7, 
+                        "name": "Acidulated Malt", 
+                        "potential": 1.027, 
+                        "protein": 12, 
+                        "requiresMashing": "Y", 
+                        "srm": {
+                            "hex": "FFCA5A", 
+                            "id": 3, 
+                            "name": "3"
+                        }, 
+                        "srmId": 3, 
+                        "srmPrecise": 3, 
+                        "updateDate": "2013-06-24 16:10:14"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "characteristics": [
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a caramel quality upon the beer.", 
+                                "id": 5, 
+                                "name": "Caramel"
+                            }
+                        ], 
+                        "createDate": "2013-06-24 16:07:57", 
+                        "id": 1924, 
+                        "name": "CaraMunich"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "createDate": "2013-06-24 16:07:53", 
+                        "id": 724, 
+                        "name": "Pilsner Malt"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "coarseFineDifference": 1.5, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United States", 
+                            "isoCode": "US", 
+                            "isoThree": "USA", 
+                            "name": "UNITED STATES", 
+                            "numberCode": 840
+                        }, 
+                        "countryOfOrigin": "US", 
+                        "createDate": "2013-06-24 16:07:57", 
+                        "description": "The is the standard starting point for almost all beer recipes. Smooth with a less grainy more moderate flavour.", 
+                        "diastaticPower": 140, 
+                        "dryYield": 79, 
+                        "id": 1922, 
+                        "maxInBatch": 100, 
+                        "moistureContent": 4, 
+                        "name": "Two-Row Pale Malt", 
+                        "potential": 1.036, 
+                        "protein": 12.3, 
+                        "requiresMashing": "Y", 
+                        "srm": {
+                            "hex": "FFD878", 
+                            "id": 2, 
+                            "name": "2"
+                        }, 
+                        "srmId": 2, 
+                        "srmPrecise": 2, 
+                        "updateDate": "2013-06-24 16:10:14"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "createDate": "2013-06-24 16:07:56", 
+                        "id": 854, 
+                        "name": "Wheat Malt"
+                    }
+                ], 
+                "yeast": [
+                    {
+                        "category": "yeast", 
+                        "categoryDisplay": "Yeast", 
+                        "createDate": "2013-06-24 16:09:05", 
+                        "id": 1632, 
+                        "name": "Farmhouse Ale"
+                    }
+                ]
+            }, 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/o5Bwzl/upload_SwxHcn-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/o5Bwzl/upload_SwxHcn-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/o5Bwzl/upload_SwxHcn-medium.png"
+            }, 
+            "name": "Le Petit Prince", 
+            "originalGravity": "1.027", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "0.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These ales and lagers are very low in alcohol and historically in Belgium enjoyed with meals by both adults and children. Pale to very dark brown in color. Additions of caramel coloring are sometimes employed to adjust color. They are light bodied with relatively low carbonation with limited aftertaste. The mouth feel is light to moderate, though higher than one might anticipate, usually because of unfermented sugars/malt sugars. Malted barley, wheat and rye may be used as well as unmalted wheat, rye, oats and corn. A mild malt character could be evident. Aroma/Flavor hops are most commonly used to employ a flavor balance that is only low in bitterness. Traditional versions do not use artificial sweeteners nor are they excessively sweet. More modern versions of this beer incorporate sweeteners such as sugar and saccharine added post fermentation to sweeten the palate and add to a perception of smoothness. Spices (such as orange and lemon peel, as well as coriander) may be added in barely perceptible amounts, but this is not common. Diacetyl should not be perceived. Competition directors may choose to break out subcategories of Traditional and Modern.", 
+                "fgMax": "1.034", 
+                "fgMin": "1.004", 
+                "ibuMax": "15", 
+                "ibuMin": "5", 
+                "id": 69, 
+                "name": "Belgian-Style Table Beer", 
+                "ogMin": "1.008", 
+                "srmMax": "50", 
+                "srmMin": "5", 
+                "updateDate": "2013-02-18 02:18:18"
+            }, 
+            "styleId": 69, 
+            "updateDate": "2014-04-28 11:05:19"
+        }, 
+        {
+            "abv": "1.2", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-11-02 10:30:52", 
+                    "description": "Started in 1893 as a dairy farm. Eug\u00e8ne de Ro brewed his first top-fermented beer in 1898. 4 years later he was also brewing bottom-fermented beers. In 1929 the dairy closed, so the brewery was able to expand production into other types of beers: Bock, Export, Pilsner and Stout Ale. In 1950 they established their first bottling plant. Up until then the beer was only being sold in kegs. Between 1968 and 1990 they've been expanding by taking over breweries in the south of the Netherlands and North of France. In the 1990's they've started modernising the brewery. In 2010 this modernisation process was completed when they inaugurated their new kegigng hall. They're currently the third biggest pilsner brewery in Belgium.", 
+                    "established": "1898", 
+                    "id": "Fm39JC", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Fm39JC/upload_WMrszz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Fm39JC/upload_WMrszz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Fm39JC/upload_WMrszz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Belgium", 
+                                "isoCode": "BE", 
+                                "isoThree": "BEL", 
+                                "name": "BELGIUM", 
+                                "numberCode": 56
+                            }, 
+                            "countryIsoCode": "BE", 
+                            "createDate": "2012-11-02 10:53:27", 
+                            "id": "jfaN0S", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.965154, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 4.60969, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "3190", 
+                            "region": "Boortmeerbeek", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Provinciesteenweg 28", 
+                            "updateDate": "2012-11-02 10:53:27", 
+                            "website": "http://www.haacht.com/"
+                        }
+                    ], 
+                    "name": "Haacht", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-11-02 12:20:49", 
+                    "website": "http://www.haacht.com/"
+                }
+            ], 
+            "createDate": "2012-11-02 14:43:12", 
+            "description": "In the past, table beer was commonplace on family tables.\r\nThis is actually not as strange as it sounds. Table beer contains vitamins and fewer calories than the majority of soft drinks.  Furthermore a table beer can be very flavoursome and its low alcohol is in its favour. \r\n\r\n'Maltosa' is a brown table beer that contains just 1.2% alcohol.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 1, 
+                "name": "Flute"
+            }, 
+            "glasswareId": 1, 
+            "id": "bSyck8", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/bSyck8/upload_CwfjSM-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/bSyck8/upload_CwfjSM-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/bSyck8/upload_CwfjSM-medium.png"
+            }, 
+            "name": "Maltosa", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "0.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These ales and lagers are very low in alcohol and historically in Belgium enjoyed with meals by both adults and children. Pale to very dark brown in color. Additions of caramel coloring are sometimes employed to adjust color. They are light bodied with relatively low carbonation with limited aftertaste. The mouth feel is light to moderate, though higher than one might anticipate, usually because of unfermented sugars/malt sugars. Malted barley, wheat and rye may be used as well as unmalted wheat, rye, oats and corn. A mild malt character could be evident. Aroma/Flavor hops are most commonly used to employ a flavor balance that is only low in bitterness. Traditional versions do not use artificial sweeteners nor are they excessively sweet. More modern versions of this beer incorporate sweeteners such as sugar and saccharine added post fermentation to sweeten the palate and add to a perception of smoothness. Spices (such as orange and lemon peel, as well as coriander) may be added in barely perceptible amounts, but this is not common. Diacetyl should not be perceived. Competition directors may choose to break out subcategories of Traditional and Modern.", 
+                "fgMax": "1.034", 
+                "fgMin": "1.004", 
+                "ibuMax": "15", 
+                "ibuMin": "5", 
+                "id": 69, 
+                "name": "Belgian-Style Table Beer", 
+                "ogMin": "1.008", 
+                "srmMax": "50", 
+                "srmMin": "5", 
+                "updateDate": "2013-02-18 02:18:18"
+            }, 
+            "styleId": 69, 
+            "updateDate": "2012-11-03 16:05:11"
+        }, 
+        {
+            "abv": "6.67", 
+            "breweries": [
+                {
+                    "createDate": "2012-04-26 00:05:08", 
+                    "description": "Asheville's Premier Craft Beer Bar", 
+                    "established": "2012", 
+                    "id": "sQlYnZ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/sQlYnZ/upload_ymxy47-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/sQlYnZ/upload_ymxy47-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/sQlYnZ/upload_ymxy47-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-04-26 00:07:40", 
+                            "hoursOfOperation": "Daily 4pm - Midnight\r\nSunday 2pm - 9pm", 
+                            "id": "evDRDG", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.50325, 
+                            "locality": "Asheville", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -82.522369, 
+                            "name": "South Monk", 
+                            "openToPublic": "Y", 
+                            "phone": "828.505.4564", 
+                            "postalCode": "28803", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "20 Gala Drive Suite 101", 
+                            "updateDate": "2012-04-26 00:07:40", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Thirsty Monk Pub & Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-26 00:18:14", 
+                    "website": "http://monkpub.com/"
+                }
+            ], 
+            "createDate": "2012-04-26 00:18:14", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 6, 
+                "name": "Snifter"
+            }, 
+            "glasswareId": 6, 
+            "id": "pRsOdG", 
+            "isOrganic": "N", 
+            "name": "Smurfette", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "0.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These ales and lagers are very low in alcohol and historically in Belgium enjoyed with meals by both adults and children. Pale to very dark brown in color. Additions of caramel coloring are sometimes employed to adjust color. They are light bodied with relatively low carbonation with limited aftertaste. The mouth feel is light to moderate, though higher than one might anticipate, usually because of unfermented sugars/malt sugars. Malted barley, wheat and rye may be used as well as unmalted wheat, rye, oats and corn. A mild malt character could be evident. Aroma/Flavor hops are most commonly used to employ a flavor balance that is only low in bitterness. Traditional versions do not use artificial sweeteners nor are they excessively sweet. More modern versions of this beer incorporate sweeteners such as sugar and saccharine added post fermentation to sweeten the palate and add to a perception of smoothness. Spices (such as orange and lemon peel, as well as coriander) may be added in barely perceptible amounts, but this is not common. Diacetyl should not be perceived. Competition directors may choose to break out subcategories of Traditional and Modern.", 
+                "fgMax": "1.034", 
+                "fgMin": "1.004", 
+                "ibuMax": "15", 
+                "ibuMin": "5", 
+                "id": 69, 
+                "name": "Belgian-Style Table Beer", 
+                "ogMin": "1.008", 
+                "srmMax": "50", 
+                "srmMin": "5", 
+                "updateDate": "2013-02-18 02:18:18"
+            }, 
+            "styleId": 69, 
+            "updateDate": "2012-04-26 00:18:14"
+        }, 
+        {
+            "abv": "4.7", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:07", 
+                    "description": "Revolution Brewing is Chicago's new hometown craft brewery. Our brewpub in Logan Square is a bustling, neighborhood institution where friends and families meet to enjoy the freshest beer in town. Opening our brewery has been a labor of love. We think you can see that in everything we do ranging from the details of our carved fists holding up our mahogany bar to the pungent hop aroma of our Anti-Hero IPA to our creative dishes like our bacon-fat popcorn.\r\n\r\nThe growth of craft breweries in the U.S. has been nothing short of a revolution and we're proud to be standing tall in this new crowd. The changing tastes of beer drinkers demand bigger flavors and more variety. That's exactly what we give you at Revolution Brewing. Our brewpub produces about 50 different beer styles each year. We've got session beers like Workingman Mild, hop-bombs like Double Fist and more bourbon barrel aged beers than you can shake a stave at. We have fun doing what we do and invite you to come in and join us.", 
+                    "established": "2010", 
+                    "id": "PHkaP0", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/PHkaP0/upload_KAcjV2-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/PHkaP0/upload_KAcjV2-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/PHkaP0/upload_KAcjV2-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:07", 
+                            "hoursOfOperation": "Mon-Fri: 11am-2am\r\nSat: 10am-3am\r\nSun: 10am-2am", 
+                            "id": "xjjDoA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 41.923363, 
+                            "locality": "Chicago", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -87.698071, 
+                            "name": "Brewpub", 
+                            "openToPublic": "Y", 
+                            "phone": "773-227-2739", 
+                            "postalCode": "60647", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2323 N Milwaukee Ave", 
+                            "updateDate": "2013-10-09 11:56:17", 
+                            "website": "http://revbrew.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-08-10 17:02:16", 
+                            "id": "6gM8vr", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.941773, 
+                            "locality": "Chicago", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -87.707668, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "773-588-2267", 
+                            "postalCode": "60618", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3340 N Kedzie Ave", 
+                            "updateDate": "2013-02-14 21:12:46"
+                        }
+                    ], 
+                    "name": "Revolution Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 14:25:25", 
+                    "website": "http://revbrew.com/"
+                }
+            ], 
+            "createDate": "2012-08-10 16:47:11", 
+            "description": "Our 2012 Replicale submission to the Illinois Craft Brewers Guild. This year, 15 Illinois breweries made a similar base beer, each choosing a different Belgian ale yeast for fermentation. The yeast we chose is clean, with good ester fruitiness and a lightly tart complexity. It is light-medium bodied with a dry finish and medium hop bitterness, and at 4.7%, it is a refreshing and sessionable Belgian-style ale.", 
+            "id": "rrvIMV", 
+            "isOrganic": "N", 
+            "name": "Solitaire", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "0.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These ales and lagers are very low in alcohol and historically in Belgium enjoyed with meals by both adults and children. Pale to very dark brown in color. Additions of caramel coloring are sometimes employed to adjust color. They are light bodied with relatively low carbonation with limited aftertaste. The mouth feel is light to moderate, though higher than one might anticipate, usually because of unfermented sugars/malt sugars. Malted barley, wheat and rye may be used as well as unmalted wheat, rye, oats and corn. A mild malt character could be evident. Aroma/Flavor hops are most commonly used to employ a flavor balance that is only low in bitterness. Traditional versions do not use artificial sweeteners nor are they excessively sweet. More modern versions of this beer incorporate sweeteners such as sugar and saccharine added post fermentation to sweeten the palate and add to a perception of smoothness. Spices (such as orange and lemon peel, as well as coriander) may be added in barely perceptible amounts, but this is not common. Diacetyl should not be perceived. Competition directors may choose to break out subcategories of Traditional and Modern.", 
+                "fgMax": "1.034", 
+                "fgMin": "1.004", 
+                "ibuMax": "15", 
+                "ibuMin": "5", 
+                "id": 69, 
+                "name": "Belgian-Style Table Beer", 
+                "ogMin": "1.008", 
+                "srmMax": "50", 
+                "srmMin": "5", 
+                "updateDate": "2013-02-18 02:18:18"
+            }, 
+            "styleId": 69, 
+            "updateDate": "2012-08-10 18:09:36"
+        }, 
+        {
+            "abv": "4.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:07", 
+                    "description": "Fresh and Flavorful Craft Beer in Redlands, California.", 
+                    "established": "2012", 
+                    "id": "mugYfD", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/mugYfD/upload_vqS4OV-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/mugYfD/upload_vqS4OV-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/mugYfD/upload_vqS4OV-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:07", 
+                            "id": "qpIAF8", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 34.070768, 
+                            "locality": "Redlands", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -117.2373, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "909-478-7800", 
+                            "postalCode": "92374", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1315 Research Drive", 
+                            "updateDate": "2013-08-13 18:27:45", 
+                            "website": "http://ritualbrewing.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Ritual Brewing Co.", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-02 15:18:27", 
+                    "website": "http://ritualbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-08-13 18:59:31", 
+            "description": "While most savvy beer consumers have heard of Belgian Dubbels, Tripels and Quadruples, few have ever had a Belgian-style Enkel, meaning \u201cSingle\u201d. This is an ale rarely, if ever, brewed on the West Coast, let alone America.\r\n\r\nTypically, Tafelbier (Table Beer) is brewed only at Trappist Monasteries for the monks to enjoy with meals. They often drink only half a bottle with lunch and the rest with supper, despite the beer\u2019s low alcohol content. Our Tafelbier is modest in strength, robed in warm, golden hues and soft on the palate with a smooth, dry finish.", 
+            "ibu": "29", 
+            "id": "LUkQ7z", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/LUkQ7z/upload_vQBKeD-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/LUkQ7z/upload_vQBKeD-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/LUkQ7z/upload_vQBKeD-medium.png"
+            }, 
+            "name": "Tafelbier", 
+            "originalGravity": "1.048", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "0.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "These ales and lagers are very low in alcohol and historically in Belgium enjoyed with meals by both adults and children. Pale to very dark brown in color. Additions of caramel coloring are sometimes employed to adjust color. They are light bodied with relatively low carbonation with limited aftertaste. The mouth feel is light to moderate, though higher than one might anticipate, usually because of unfermented sugars/malt sugars. Malted barley, wheat and rye may be used as well as unmalted wheat, rye, oats and corn. A mild malt character could be evident. Aroma/Flavor hops are most commonly used to employ a flavor balance that is only low in bitterness. Traditional versions do not use artificial sweeteners nor are they excessively sweet. More modern versions of this beer incorporate sweeteners such as sugar and saccharine added post fermentation to sweeten the palate and add to a perception of smoothness. Spices (such as orange and lemon peel, as well as coriander) may be added in barely perceptible amounts, but this is not common. Diacetyl should not be perceived. Competition directors may choose to break out subcategories of Traditional and Modern.", 
+                "fgMax": "1.034", 
+                "fgMin": "1.004", 
+                "ibuMax": "15", 
+                "ibuMin": "5", 
+                "id": 69, 
+                "name": "Belgian-Style Table Beer", 
+                "ogMin": "1.008", 
+                "srmMax": "50", 
+                "srmMin": "5", 
+                "updateDate": "2013-02-18 02:18:18"
+            }, 
+            "styleId": 69, 
+            "updateDate": "2013-08-13 19:18:53"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 7
+}

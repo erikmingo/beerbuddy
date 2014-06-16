@@ -1,0 +1,103 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "4.75", 
+            "available": {
+                "description": "Beer is not available.", 
+                "id": 3, 
+                "name": "Not Available"
+            }, 
+            "availableId": 3, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:10", 
+                    "description": "Over one hundred years ago, the building known as the Palace Livery provided a vital service making it a unique gathering place for residents of and travelers to Southwest Michigan. This former horse stable has been brought back to life as The Livery. Located at 190 5th street, in the Arts District of downtown Benton Harbor, Michigan, the Livery features 12 taps of \"Hand-Forged Microbrew\", 2 Real Ale taps, an outdoor bier garden, free WIFI, and a Caf\u00e9 serving great food. Music and other live entertainment are regularly featured in The Upper Livery entertainment venue. You must be age 21 or older to enter The Livery. People under age 21 must be accompanied by parent or legal guardian.", 
+                    "established": "2005", 
+                    "id": "XdP8EM", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/XdP8EM/upload_ZGzaQt-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/XdP8EM/upload_ZGzaQt-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/XdP8EM/upload_ZGzaQt-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:10", 
+                            "hoursOfOperation": "Mon - Thu: 4:00 pm - 12:00 am\r\nFri: 11:30 am - 1:00 am\r\nSat: 12:00 pm - 1:00 am\r\nSun: 12:00 pm - 12:00 am", 
+                            "id": "OIROBN", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.1184758, 
+                            "locality": "Benton Harbor", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -86.4536849, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "269-925-8760", 
+                            "postalCode": "49022", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "190 5th Street", 
+                            "updateDate": "2013-08-14 11:21:08", 
+                            "website": "http://www.liverybrew.com/"
+                        }
+                    ], 
+                    "name": "The Livery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-12-17 22:18:22", 
+                    "website": "http://www.liverybrew.com/"
+                }
+            ], 
+            "createDate": "2012-02-14 12:59:03", 
+            "description": "Semi sweet with fresh pear flavor, There are also flavors of oak and a slightly sour approach due to 100% oak barrel fermentation.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "2QzBY3", 
+            "isOrganic": "N", 
+            "name": "Perry", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "7", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Mild. Medium to medium-sweet. Still to lightly sparkling. Only very slight acetification is acceptable. Mousiness, ropy/oily characters are serious faults.", 
+                "fgMax": "1.02", 
+                "fgMin": "1", 
+                "id": 152, 
+                "name": "Common Perry", 
+                "ogMax": "1.06", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 152, 
+            "updateDate": "2013-12-17 22:20:42"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 1
+}

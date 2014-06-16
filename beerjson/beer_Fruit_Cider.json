@@ -1,0 +1,2730 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:50", 
+                    "description": "The California Cider Company is owned by Geoffrey House, the man credited with initiating the national cider renaissance. Utilizing his insider's view of the cider industry, he took more than two years to develop the Ace Cider. House, owner of the second largest specialty beer and cider marketing company in the US, began importing ciders into the US in 1986. Since then he has seen explosive sales growth, as hard cider has moved beyond specialty beer and liquor stores and established itself on the supermarket shelves as a new drink category.\r\n\r\nWith Sonoma's superior apple juice giving Ace Ciders their great fresh taste and House's expertise and in-depth knowledge of the hard cider business providing a marketing edge, CCC is beginning to take a dominant position in this increasingly significant new beverage market.\r\n\r\nAs with all alcoholic beverages, we urge you to please drink responsibly.", 
+                    "established": "1994", 
+                    "id": "ZIDkN9", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:50", 
+                            "extendedAddress": "Building 4", 
+                            "hoursOfOperation": "ACE- in-the-HOLE Pub is open on Fridays only from 2pm-5pm.", 
+                            "id": "kuAItj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.424961, 
+                            "locality": "Sebastopol", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.848101, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "707-829-1101", 
+                            "postalCode": "95472", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2064 Gravenstein Highway North", 
+                            "updateDate": "2012-07-27 12:23:07", 
+                            "website": "http://www.acecider.com/"
+                        }
+                    ], 
+                    "name": "California Cider Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-19 21:40:50", 
+                    "website": "http://www.acecider.com/"
+                }
+            ], 
+            "createDate": "2012-07-25 15:02:53", 
+            "description": "Ace Apple, CCC's flagship brand, is made with 100% pure, local apple juice giving it a fresh, natural taste and setting it apart from most other brands (not using 100% juice).", 
+            "id": "oIJI7W", 
+            "isOrganic": "N", 
+            "name": "Ace Apple Hard Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2012-12-19 21:41:41"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:50", 
+                    "description": "The California Cider Company is owned by Geoffrey House, the man credited with initiating the national cider renaissance. Utilizing his insider's view of the cider industry, he took more than two years to develop the Ace Cider. House, owner of the second largest specialty beer and cider marketing company in the US, began importing ciders into the US in 1986. Since then he has seen explosive sales growth, as hard cider has moved beyond specialty beer and liquor stores and established itself on the supermarket shelves as a new drink category.\r\n\r\nWith Sonoma's superior apple juice giving Ace Ciders their great fresh taste and House's expertise and in-depth knowledge of the hard cider business providing a marketing edge, CCC is beginning to take a dominant position in this increasingly significant new beverage market.\r\n\r\nAs with all alcoholic beverages, we urge you to please drink responsibly.", 
+                    "established": "1994", 
+                    "id": "ZIDkN9", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:50", 
+                            "extendedAddress": "Building 4", 
+                            "hoursOfOperation": "ACE- in-the-HOLE Pub is open on Fridays only from 2pm-5pm.", 
+                            "id": "kuAItj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.424961, 
+                            "locality": "Sebastopol", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.848101, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "707-829-1101", 
+                            "postalCode": "95472", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2064 Gravenstein Highway North", 
+                            "updateDate": "2012-07-27 12:23:07", 
+                            "website": "http://www.acecider.com/"
+                        }
+                    ], 
+                    "name": "California Cider Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-19 21:40:50", 
+                    "website": "http://www.acecider.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:42:38", 
+            "description": "A totally unique alcoholic beverage with a distinctive taste and rich brown color. Ace Apple Honey has a pronounced honey bouquet with a smooth texture and dry finish.", 
+            "id": "fXrQIm", 
+            "isOrganic": "N", 
+            "name": "Ace Fermented Apple Honey Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2012-12-19 21:41:43"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:50", 
+                    "description": "The California Cider Company is owned by Geoffrey House, the man credited with initiating the national cider renaissance. Utilizing his insider's view of the cider industry, he took more than two years to develop the Ace Cider. House, owner of the second largest specialty beer and cider marketing company in the US, began importing ciders into the US in 1986. Since then he has seen explosive sales growth, as hard cider has moved beyond specialty beer and liquor stores and established itself on the supermarket shelves as a new drink category.\r\n\r\nWith Sonoma's superior apple juice giving Ace Ciders their great fresh taste and House's expertise and in-depth knowledge of the hard cider business providing a marketing edge, CCC is beginning to take a dominant position in this increasingly significant new beverage market.\r\n\r\nAs with all alcoholic beverages, we urge you to please drink responsibly.", 
+                    "established": "1994", 
+                    "id": "ZIDkN9", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:50", 
+                            "extendedAddress": "Building 4", 
+                            "hoursOfOperation": "ACE- in-the-HOLE Pub is open on Fridays only from 2pm-5pm.", 
+                            "id": "kuAItj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.424961, 
+                            "locality": "Sebastopol", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.848101, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "707-829-1101", 
+                            "postalCode": "95472", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2064 Gravenstein Highway North", 
+                            "updateDate": "2012-07-27 12:23:07", 
+                            "website": "http://www.acecider.com/"
+                        }
+                    ], 
+                    "name": "California Cider Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-19 21:40:50", 
+                    "website": "http://www.acecider.com/"
+                }
+            ], 
+            "createDate": "2012-07-25 15:05:11", 
+            "id": "Qc26Gx", 
+            "isOrganic": "N", 
+            "name": "Ace Fermented Berry Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2012-12-19 21:41:42"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:50", 
+                    "description": "The California Cider Company is owned by Geoffrey House, the man credited with initiating the national cider renaissance. Utilizing his insider's view of the cider industry, he took more than two years to develop the Ace Cider. House, owner of the second largest specialty beer and cider marketing company in the US, began importing ciders into the US in 1986. Since then he has seen explosive sales growth, as hard cider has moved beyond specialty beer and liquor stores and established itself on the supermarket shelves as a new drink category.\r\n\r\nWith Sonoma's superior apple juice giving Ace Ciders their great fresh taste and House's expertise and in-depth knowledge of the hard cider business providing a marketing edge, CCC is beginning to take a dominant position in this increasingly significant new beverage market.\r\n\r\nAs with all alcoholic beverages, we urge you to please drink responsibly.", 
+                    "established": "1994", 
+                    "id": "ZIDkN9", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:50", 
+                            "extendedAddress": "Building 4", 
+                            "hoursOfOperation": "ACE- in-the-HOLE Pub is open on Fridays only from 2pm-5pm.", 
+                            "id": "kuAItj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.424961, 
+                            "locality": "Sebastopol", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.848101, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "707-829-1101", 
+                            "postalCode": "95472", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2064 Gravenstein Highway North", 
+                            "updateDate": "2012-07-27 12:23:07", 
+                            "website": "http://www.acecider.com/"
+                        }
+                    ], 
+                    "name": "California Cider Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-19 21:40:50", 
+                    "website": "http://www.acecider.com/"
+                }
+            ], 
+            "createDate": "2012-07-25 15:12:24", 
+            "id": "2vkuQO", 
+            "isOrganic": "N", 
+            "name": "Ace Hard Pumpkin Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2012-12-19 21:41:42"
+        }, 
+        {
+            "abv": "6.9", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:50", 
+                    "description": "The California Cider Company is owned by Geoffrey House, the man credited with initiating the national cider renaissance. Utilizing his insider's view of the cider industry, he took more than two years to develop the Ace Cider. House, owner of the second largest specialty beer and cider marketing company in the US, began importing ciders into the US in 1986. Since then he has seen explosive sales growth, as hard cider has moved beyond specialty beer and liquor stores and established itself on the supermarket shelves as a new drink category.\r\n\r\nWith Sonoma's superior apple juice giving Ace Ciders their great fresh taste and House's expertise and in-depth knowledge of the hard cider business providing a marketing edge, CCC is beginning to take a dominant position in this increasingly significant new beverage market.\r\n\r\nAs with all alcoholic beverages, we urge you to please drink responsibly.", 
+                    "established": "1994", 
+                    "id": "ZIDkN9", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:50", 
+                            "extendedAddress": "Building 4", 
+                            "hoursOfOperation": "ACE- in-the-HOLE Pub is open on Fridays only from 2pm-5pm.", 
+                            "id": "kuAItj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.424961, 
+                            "locality": "Sebastopol", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.848101, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "707-829-1101", 
+                            "postalCode": "95472", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2064 Gravenstein Highway North", 
+                            "updateDate": "2012-07-27 12:23:07", 
+                            "website": "http://www.acecider.com/"
+                        }
+                    ], 
+                    "name": "California Cider Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-19 21:40:50", 
+                    "website": "http://www.acecider.com/"
+                }
+            ], 
+            "createDate": "2012-07-25 15:14:20", 
+            "description": "Ace Joker Cider is a new premium Champagne like cider produced by The California Cider Company (CCC). Light in color with a 8% alcohol content, this delicious addition to our foray of ciders can be tried on tap at our pub, Ace-in-the-Hole, or from 22oz bottles. The Joke is on us! Ace Cider is gluten free!", 
+            "id": "fFTiZp", 
+            "isOrganic": "N", 
+            "name": "Ace Joker Hard Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2012-12-19 21:41:43"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:50", 
+                    "description": "The California Cider Company is owned by Geoffrey House, the man credited with initiating the national cider renaissance. Utilizing his insider's view of the cider industry, he took more than two years to develop the Ace Cider. House, owner of the second largest specialty beer and cider marketing company in the US, began importing ciders into the US in 1986. Since then he has seen explosive sales growth, as hard cider has moved beyond specialty beer and liquor stores and established itself on the supermarket shelves as a new drink category.\r\n\r\nWith Sonoma's superior apple juice giving Ace Ciders their great fresh taste and House's expertise and in-depth knowledge of the hard cider business providing a marketing edge, CCC is beginning to take a dominant position in this increasingly significant new beverage market.\r\n\r\nAs with all alcoholic beverages, we urge you to please drink responsibly.", 
+                    "established": "1994", 
+                    "id": "ZIDkN9", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:50", 
+                            "extendedAddress": "Building 4", 
+                            "hoursOfOperation": "ACE- in-the-HOLE Pub is open on Fridays only from 2pm-5pm.", 
+                            "id": "kuAItj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.424961, 
+                            "locality": "Sebastopol", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.848101, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "707-829-1101", 
+                            "postalCode": "95472", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2064 Gravenstein Highway North", 
+                            "updateDate": "2012-07-27 12:23:07", 
+                            "website": "http://www.acecider.com/"
+                        }
+                    ], 
+                    "name": "California Cider Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-19 21:40:50", 
+                    "website": "http://www.acecider.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:42:38", 
+            "description": "Ace Pear is made from a base of 100% pure, local apple juice. Pear essence is added to give the cider its distinctive pear taste; a taste so fresh and natural it is already proving as popular as its more traditional apple counterpart.", 
+            "id": "m8yUK3", 
+            "isOrganic": "N", 
+            "name": "Ace Perry Hard Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2013-07-22 11:55:15"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-07-25 14:46:56", 
+                    "description": "Once upon a time cider was the drink of choice. We've been making ciders for decades... now we want to share them with you. Branch out and experience our Angry Orchard.", 
+                    "established": "2011", 
+                    "id": "tYf3W8", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-07-27 12:04:21", 
+                            "id": "jVKSiL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.106614, 
+                            "locality": "Cincinnati", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -84.504552, 
+                            "name": "Main Cidery", 
+                            "openToPublic": "Y", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2012-07-27 12:04:21", 
+                            "website": "http://angryorchard.com/"
+                        }
+                    ], 
+                    "name": "Angry Orchard", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-07-27 12:02:55", 
+                    "website": "http://www.angryorchard.com/"
+                }
+            ], 
+            "createDate": "2012-07-27 13:54:38", 
+            "description": "Our Apple Ginger cider is a unlike any other cider. The addition of Nigerian ginger flavor adds a spiciness and warmth to the cider. The fresh ginger and apple flavors blend together for a sweet, yet slightly tart taste with a distinct ginger aroma. The result is a smooth, refreshing, slightly sweet cider with a subtle dry, yet complex, warming finish from the ginger.", 
+            "id": "kq5lL0", 
+            "isOrganic": "N", 
+            "name": "Apple Ginger", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2012-08-23 18:22:42"
+        }, 
+        {
+            "abv": "4.5", 
+            "breweries": [
+                {
+                    "createDate": "2014-02-07 04:36:34", 
+                    "description": "The Balmain Brewing Company was launched in 2010 in honour of tradition, mates and pub culture. The Company is owned by a group of passionate mates, locals to Balmain, with the following vision:\r\n\u2022 Becoming Sydney\u2019s own iconic local beer company, representing tradition, mates and pub culture\r\n\u2022 Brewing hand-crafted quality beer\r\n\u2022 Having the majority of pubs in Sydney pouring a Balmain Brewing Company beer\r\n\u2022 Re-opening the old Balmain Brewery of the 1980\u2019s as a Microbrewery/Restaurant.\r\n\r\nThe mates dreamed up the plan while drinking over the years in each of Balmain\u2019s 17 pubs, and hearing about the Balmain Brewery of last century and the 55 pubs of the 1800\u2019s! Over the last couple of years several beers have been launched \u2013 Balmain Pale Ale, Balmain Pilsner and Balmain Bock, as well as the recent launch of the Balmain Apple Cider. 2012 will see the introduction of a wider range of bottled beer and the planned opening of the Balmain Microbrewery/Restaurant.", 
+                    "established": "2010", 
+                    "id": "zbBOK0", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/zbBOK0/upload_lxurtQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/zbBOK0/upload_lxurtQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/zbBOK0/upload_lxurtQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2014-02-08 15:47:16", 
+                            "extendedAddress": "PO Box 604", 
+                            "id": "todpTX", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -33.8575499, 
+                            "locality": "Balmain", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 151.1810431, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "N", 
+                            "phone": "+61 418 244 658", 
+                            "postalCode": "2041", 
+                            "region": "New South Wales", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2014-02-08 15:47:16", 
+                            "website": "http://www.balmainbrewingcompany.com.au/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Balmain Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-08 15:45:59", 
+                    "website": "http://www.balmainbrewingcompany.com.au/"
+                }
+            ], 
+            "createDate": "2014-02-07 04:48:54", 
+            "description": "The Balmain Original Apple Cider is truly a NSW craft cider, with apples sourced from the Blue Mountains and Orange. A careful blend of apple varieties are pressed on the day we need them, then sent straight to the brewery. The apple juice is then slowly fermented and then chilled to retain the natural fruit sugars needed to balance the refreshing acidity of the apples. The cider is traditionally fined to give it brightness in both appearance and flavour. Balmain Cider is a medium dry cider with great sharpness and a refreshing aromatic apple aroma.", 
+            "id": "pxaPKP", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/pxaPKP/upload_bkOoSB-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/pxaPKP/upload_bkOoSB-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/pxaPKP/upload_bkOoSB-medium.png"
+            }, 
+            "name": "Balmain Apple Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2014-02-08 17:50:07"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:50", 
+                    "description": "The California Cider Company is owned by Geoffrey House, the man credited with initiating the national cider renaissance. Utilizing his insider's view of the cider industry, he took more than two years to develop the Ace Cider. House, owner of the second largest specialty beer and cider marketing company in the US, began importing ciders into the US in 1986. Since then he has seen explosive sales growth, as hard cider has moved beyond specialty beer and liquor stores and established itself on the supermarket shelves as a new drink category.\r\n\r\nWith Sonoma's superior apple juice giving Ace Ciders their great fresh taste and House's expertise and in-depth knowledge of the hard cider business providing a marketing edge, CCC is beginning to take a dominant position in this increasingly significant new beverage market.\r\n\r\nAs with all alcoholic beverages, we urge you to please drink responsibly.", 
+                    "established": "1994", 
+                    "id": "ZIDkN9", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:50", 
+                            "extendedAddress": "Building 4", 
+                            "hoursOfOperation": "ACE- in-the-HOLE Pub is open on Fridays only from 2pm-5pm.", 
+                            "id": "kuAItj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.424961, 
+                            "locality": "Sebastopol", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.848101, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "707-829-1101", 
+                            "postalCode": "95472", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2064 Gravenstein Highway North", 
+                            "updateDate": "2012-07-27 12:23:07", 
+                            "website": "http://www.acecider.com/"
+                        }
+                    ], 
+                    "name": "California Cider Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-19 21:40:50", 
+                    "website": "http://www.acecider.com/"
+                }
+            ], 
+            "createDate": "2012-09-17 19:38:13", 
+            "id": "NMS7rU", 
+            "isOrganic": "N", 
+            "name": "Berry Hard Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2012-12-19 21:41:44"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2013-10-29 15:40:37", 
+                    "id": "mAAJMW", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-11-13 18:03:31", 
+                            "id": "hCCFgr", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.074784, 
+                            "locality": "Spring Lake", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -86.1585, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(616) 842-4337", 
+                            "postalCode": "49456", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "14921 Cleveland St", 
+                            "updateDate": "2013-11-13 18:03:31", 
+                            "website": "http://www.vandermill.com/"
+                        }
+                    ], 
+                    "name": "Vander Mill Winery, Cider Mill & Microbrewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-11-13 18:02:18", 
+                    "website": "http://www.vandermill.com/"
+                }
+            ], 
+            "createDate": "2014-03-21 12:43:41", 
+            "description": "Apple Blueberry Cider. When creating products from Michigan fruits it seems natural to include Michigan blueberries. They add a nice fruity flavor to the cider. Like our other hard ciders, this one is not too sweet or overpowering. This product should be served cold in a pint glass.", 
+            "id": "6aMSMI", 
+            "isOrganic": "N", 
+            "name": "Blue Gold", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2014-03-21 12:43:41"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:03", 
+                    "description": "The Neil House Brewery was started by Patrick Kelleher, who was, at the time, an undergraduate student in Chemistry at The Ohio State University. What started as a hobby turned into a passion, and now the Neil House Brewery is open as a fully-functional Columbus-area microbrewery.\r\n\r\nAlso, the Neil House is a fully stocked retailer of homebrewing supplies. Whether you are into making beer, wine, mead, cider, soda, or cheese, please check the Homebrew Supply section of our website for prices, and stop into the store.", 
+                    "established": "2009", 
+                    "id": "t2Diqc", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/t2Diqc/upload_NcncFA-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/t2Diqc/upload_NcncFA-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/t2Diqc/upload_NcncFA-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:03", 
+                            "extendedAddress": "Suite C, D, E", 
+                            "id": "wURFd8", 
+                            "inPlanning": "N", 
+                            "isClosed": "Y", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.98506, 
+                            "locality": "Columbus", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -82.8552, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "330-936-7467", 
+                            "postalCode": "43213", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "372 Morrison Rd", 
+                            "updateDate": "2013-12-09 00:02:52", 
+                            "website": "http://www.neilhousebrewery.com/", 
+                            "yearOpened": "2009"
+                        }
+                    ], 
+                    "name": "Neil House Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-06-10 22:09:54", 
+                    "website": "http://www.neilhousebrewery.com/"
+                }
+            ], 
+            "createDate": "2012-06-10 16:51:17", 
+            "id": "okhMuv", 
+            "isOrganic": "N", 
+            "name": "Brewmaster\u2019s Select Cranberry Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2012-06-10 23:23:37"
+        }, 
+        {
+            "abv": "6.9", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2013-05-05 01:17:19", 
+                    "description": "A southern guy from Virginia had a farm in the Blue Ridge Mountains and met a top cider maker in the world from New Zealand.  It doesn\u2019t get much more southern than that!  Now the two of them are making hard cider and history.", 
+                    "id": "XnBFll", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-05-09 01:00:51", 
+                            "hoursOfOperation": "We're open for Sales, Tastings and Tours 11 am to 6 pm 7 days a week.\r\n\r\nWe're closed on New Year's Day, Easter, Thanksgiving Day, and Christmas Day.", 
+                            "id": "ge5JEA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.8815497, 
+                            "locality": "Nellysford", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -78.9034916, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(434) 361-1030", 
+                            "postalCode": "22958", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1020 Rockfish Valley Highway", 
+                            "updateDate": "2013-05-09 01:00:51", 
+                            "website": "http://www.boldrock.com"
+                        }
+                    ], 
+                    "name": "Bold Rock Hard Cider", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-09 00:58:18", 
+                    "website": "http://www.boldrock.com"
+                }
+            ], 
+            "createDate": "2013-05-09 01:04:05", 
+            "description": "In the heart of the Blue Ridge Mountains at Wintergreen, Virginia is a cidery overlooking the Rockfish River.  Here a custom blend of Virginia apples is crafted to make a premium hard cider with a rounded, full-bodied apple taste.  Rich and beautifully effervescent, Crimson Ridge is exceptionally well-balanced, bringing out the very best in Virginia apples.", 
+            "id": "dFtkd9", 
+            "isOrganic": "N", 
+            "name": "Crimson Ridge Vat No. 1", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2013-05-09 01:09:44"
+        }, 
+        {
+            "abv": "6.9", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2013-05-05 01:17:19", 
+                    "description": "A southern guy from Virginia had a farm in the Blue Ridge Mountains and met a top cider maker in the world from New Zealand.  It doesn\u2019t get much more southern than that!  Now the two of them are making hard cider and history.", 
+                    "id": "XnBFll", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-05-09 01:00:51", 
+                            "hoursOfOperation": "We're open for Sales, Tastings and Tours 11 am to 6 pm 7 days a week.\r\n\r\nWe're closed on New Year's Day, Easter, Thanksgiving Day, and Christmas Day.", 
+                            "id": "ge5JEA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.8815497, 
+                            "locality": "Nellysford", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -78.9034916, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(434) 361-1030", 
+                            "postalCode": "22958", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1020 Rockfish Valley Highway", 
+                            "updateDate": "2013-05-09 01:00:51", 
+                            "website": "http://www.boldrock.com"
+                        }
+                    ], 
+                    "name": "Bold Rock Hard Cider", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-09 00:58:18", 
+                    "website": "http://www.boldrock.com"
+                }
+            ], 
+            "createDate": "2013-05-09 01:04:07", 
+            "description": "In the heart of the Blue Ridge Mountains at Wintergreen, Virginia is a cidery overlooking the Rockfish River.  Here a custom blend of Virginia apples is crafted to make a premium hard cider with a rounded, full-bodied apple taste.  Rich and beautifully effervescent, Crimson Ridge is exceptionally well-balanced, bringing out the very best in Virginia apples.", 
+            "id": "FZcYma", 
+            "isOrganic": "N", 
+            "name": "Crimson Ridge Vintage Dry", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2013-05-09 01:09:28"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-07-25 14:46:56", 
+                    "description": "Once upon a time cider was the drink of choice. We've been making ciders for decades... now we want to share them with you. Branch out and experience our Angry Orchard.", 
+                    "established": "2011", 
+                    "id": "tYf3W8", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-07-27 12:04:21", 
+                            "id": "jVKSiL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.106614, 
+                            "locality": "Cincinnati", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -84.504552, 
+                            "name": "Main Cidery", 
+                            "openToPublic": "Y", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2012-07-27 12:04:21", 
+                            "website": "http://angryorchard.com/"
+                        }
+                    ], 
+                    "name": "Angry Orchard", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-07-27 12:02:55", 
+                    "website": "http://www.angryorchard.com/"
+                }
+            ], 
+            "createDate": "2012-07-27 13:53:25", 
+            "description": "This crisp and refreshing cider offers sweet apple notes upfront with a subtle dryness at the finish for a balanced cider taste. The addition of Fuji apples adds a layer of complexity and brings out a fresh apple aroma and slightly sweet, ripe apple flavor.", 
+            "id": "WCe928", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/WCe928/upload_heGOac-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/WCe928/upload_heGOac-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/WCe928/upload_heGOac-medium.png"
+            }, 
+            "name": "Crisp Apple", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2014-04-14 17:24:40"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2014-02-14 17:16:30", 
+                    "description": "Born and brewed in Margaret River, Cheeky Monkey is producing Western Australia\u2019s freshest line up of craft beers and ciders. But it\u2019s not all about the beer, we\u2019re blessed with an idyllic location half way between Margaret River and Dunsborough on Caves Road. It\u2019s a location that affords the kind of space that lets kids play free whilst you relax, kick back and enjoy a long lunch. Check out our Cheeky Beer Blog for the latest news and events at Cheeky Monkey Brewey & Cidery.", 
+                    "established": "2012", 
+                    "id": "0PktUo", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/0PktUo/upload_IUqhLA-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/0PktUo/upload_IUqhLA-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/0PktUo/upload_IUqhLA-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2014-02-15 12:24:30", 
+                            "hoursOfOperation": "Mon - Sun: 10:00 am - 6:00 pm", 
+                            "id": "IJUWUu", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -33.9740296, 
+                            "locality": "Margaret River", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 115.0320926, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "97 555 555", 
+                            "postalCode": "6280", 
+                            "region": "Western Australia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4259 Caves Road", 
+                            "updateDate": "2014-02-15 12:24:30", 
+                            "website": "http://cheekymonkeybrewery.com.au/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Cheeky Monkey Brewery & Cidery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-15 12:25:56", 
+                    "website": "http://cheekymonkeybrewery.com.au/"
+                }
+            ], 
+            "createDate": "2014-02-14 17:27:20", 
+            "description": "Developed in Manjimup WA, the Pink Lady apple is the star of our cider blend. We add a splash of pear which rounds out the the mouthfeel and provides body making our cider immensely enjoyable.\r\n\r\nOverall the cider has a crisp acidity which mimics biting into a apple, clean with a light aroma of apple and elderberry characters.", 
+            "id": "QlYgah", 
+            "isOrganic": "N", 
+            "name": "Crooked Tale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2014-02-15 12:48:12"
+        }, 
+        {
+            "abv": "7", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2013-09-03 16:28:24", 
+                    "description": "Think Globally, Drink Locally\r\n\r\nLocated in historic Lexington, MI the winery offers many award winning wines AND CRAFT BEER for samples, by the glass, and by the bottle. Wine makers Connie Currie and Steven Velloff have created a warm and inviting atmosphere  \"Where the past meets the present and good friends come to meet.\"", 
+                    "id": "co0kH4", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-09-03 16:30:20", 
+                            "hoursOfOperation": "Mon - Thu: 4:00 pm - 9:00 pm\r\nFri: 4:00 pm - 10:00 pm\r\nSat: 11:00 am - 10:00 pm\r\nSun: 11:00 am - 6:00 pm", 
+                            "id": "0IMQ2L", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 43.2682975, 
+                            "locality": "Lexington", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -82.5309595, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(810) 359-5012", 
+                            "postalCode": "48450", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5475 N. Main Street", 
+                            "updateDate": "2014-03-20 11:47:48", 
+                            "website": "http://www.lexingtonbrewery.com/"
+                        }
+                    ], 
+                    "name": "Lexington Brewing Company and Wine House", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-20 11:47:22", 
+                    "website": "http://www.lexingtonbrewery.com/"
+                }
+            ], 
+            "createDate": "2014-03-24 23:35:35", 
+            "description": "EastCider is a Hard Apple Cider. This dry cider has a real crisp, light, refreshing flavor", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "4lHvvO", 
+            "isOrganic": "N", 
+            "name": "EastCider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2014-03-24 23:35:35"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:50", 
+                    "description": "The California Cider Company is owned by Geoffrey House, the man credited with initiating the national cider renaissance. Utilizing his insider's view of the cider industry, he took more than two years to develop the Ace Cider. House, owner of the second largest specialty beer and cider marketing company in the US, began importing ciders into the US in 1986. Since then he has seen explosive sales growth, as hard cider has moved beyond specialty beer and liquor stores and established itself on the supermarket shelves as a new drink category.\r\n\r\nWith Sonoma's superior apple juice giving Ace Ciders their great fresh taste and House's expertise and in-depth knowledge of the hard cider business providing a marketing edge, CCC is beginning to take a dominant position in this increasingly significant new beverage market.\r\n\r\nAs with all alcoholic beverages, we urge you to please drink responsibly.", 
+                    "established": "1994", 
+                    "id": "ZIDkN9", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:50", 
+                            "extendedAddress": "Building 4", 
+                            "hoursOfOperation": "ACE- in-the-HOLE Pub is open on Fridays only from 2pm-5pm.", 
+                            "id": "kuAItj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.424961, 
+                            "locality": "Sebastopol", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.848101, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "707-829-1101", 
+                            "postalCode": "95472", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2064 Gravenstein Highway North", 
+                            "updateDate": "2012-07-27 12:23:07", 
+                            "website": "http://www.acecider.com/"
+                        }
+                    ], 
+                    "name": "California Cider Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-19 21:40:50", 
+                    "website": "http://www.acecider.com/"
+                }
+            ], 
+            "createDate": "2012-12-19 21:42:10", 
+            "id": "vrIC6I", 
+            "isOrganic": "N", 
+            "name": "Frosty Jack's Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2012-12-19 21:42:11"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-11-20 23:47:12", 
+                    "description": "We are the first, and only, licensed and bonded cidery in the Piedmont of the Carolinas.  We produce various types of Award Winning Hand-Crafted Hard Ciders with a commitment to sustainable agricultural practices.\r\n \r\nAs an extension of Windy Hill Orchard and Cidery, we are family owned and operated and located in York, SC.\r\n \r\nPlease be sure to visit our facebook page and our orchard website for details about upcoming events, product news, and hours and directions.", 
+                    "established": "2011", 
+                    "id": "eGtqKZ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/eGtqKZ/upload_JaIVoQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/eGtqKZ/upload_JaIVoQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/eGtqKZ/upload_JaIVoQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-11-23 14:38:56", 
+                            "hoursOfOperation": "Tuesday through Saturday: 9:00 a.m. till 5:00 p.m.\r\nSelect Sundays*: Noon till 5:00 p.m.", 
+                            "id": "bRKIdZ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.024739, 
+                            "locality": "York", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -81.280858, 
+                            "name": "Main Cidery", 
+                            "openToPublic": "Y", 
+                            "phone": "(803) 684-0690", 
+                            "postalCode": "29745", 
+                            "region": "South Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1860 Black Highway", 
+                            "updateDate": "2012-11-23 14:38:56", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Windy Hill Orchard & Cidery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-11-23 14:42:46", 
+                    "website": "http://windyhillorchard.com/yorkcider/"
+                }
+            ], 
+            "createDate": "2012-11-23 14:41:20", 
+            "description": "\u201cGala Peach\u201d is our sweet cider that was released in April of 2011.  A salute to the peach industry in the southeast, Gala Peach is best described as Refreshing!  Although not a traditional style cider, we are sure you will enjoy this cider by itself or on the rocks.  Silver Medal Winner in the 2011 Great Lakes International Cider and Perry Competition", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "icCdE6", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/icCdE6/upload_Cbrjyz-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/icCdE6/upload_Cbrjyz-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/icCdE6/upload_Cbrjyz-medium.png"
+            }, 
+            "name": "Gala Peach", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2012-11-23 14:41:21"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-07-25 14:46:56", 
+                    "description": "Once upon a time cider was the drink of choice. We've been making ciders for decades... now we want to share them with you. Branch out and experience our Angry Orchard.", 
+                    "established": "2011", 
+                    "id": "tYf3W8", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-07-27 12:04:21", 
+                            "id": "jVKSiL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.106614, 
+                            "locality": "Cincinnati", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -84.504552, 
+                            "name": "Main Cidery", 
+                            "openToPublic": "Y", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2012-07-27 12:04:21", 
+                            "website": "http://angryorchard.com/"
+                        }
+                    ], 
+                    "name": "Angry Orchard", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-07-27 12:02:55", 
+                    "website": "http://www.angryorchard.com/"
+                }
+            ], 
+            "createDate": "2014-04-21 20:23:27", 
+            "description": "Our Green Apple Cider has a bright, fresh apple aroma, with notes of honeydew melon and kiwi. This cider is a tart blend of a lively apple flavor and balanced sweetness.", 
+            "id": "HJCT5F", 
+            "isOrganic": "N", 
+            "name": "Green Apple", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2014-04-22 15:30:55"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-05-30 20:30:57", 
+                    "description": "This Original Hard-Cider has been made on our family-owned farm in Flushing, Michigan for well over a hundred years. It was first pressed back in the 1850's. Not much as changed in the process since then. We use the same apples from the same orchards as my great-great grandfather did before the time of the Civil War. We are proud of that. It gives us a sense of history.\r\n\r\nThe cider has played an important role in the ongoing history of our farm. The sale of cider actually saved our farm during the Great Depression. And, during the Prohibition people came from far and wide for our \"Special Farm Cider.\"", 
+                    "established": "1850", 
+                    "id": "5kOAIa", 
+                    "isOrganic": "Y", 
+                    "name": "Almar Orchards", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-05-30 20:33:12", 
+                    "website": "http://organicscrumpy.com/"
+                }
+            ], 
+            "createDate": "2012-05-30 20:32:52", 
+            "description": "An English-style of farmhouse cider that has always been popular on the farms of southern England. It was also known here in the states in the early 1800\u2019s. While we are not an English-style cider we are definitely a Farmhouse Cider.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "siAPKU", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/siAPKU/upload_V70iS8-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/siAPKU/upload_V70iS8-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/siAPKU/upload_V70iS8-medium.png"
+            }, 
+            "name": "J.K.'s Scrumpy Apple Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2012-08-25 03:31:30"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-05-30 20:17:11", 
+                    "description": "In 1997, Original Sin\u2019s founder, Gidon Coll, set out on a mission to create a great American cider, both dry and natural. He extensively researched the history of cider and cider making and soon began sourcing the best apples and yeast strains. Supported by a local wine expert, he began mixing and testing in a small upstate New York winery, and brought his samples to NYC bars each week for feedback from owners, managers, and patrons. After six months, the first batch of O.S. was released to establishments in Brooklyn and Manhattan. Soon after, the product received critical acclaim from sources as diverse as The New York Times, New York Post, Paper Magazine, and Market Watch. Today, you can find our unique and acclaimed ciders in over half the country, with more regions being added every month.", 
+                    "established": "1997", 
+                    "id": "EnDjqH", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/EnDjqH/upload_DGiGbq-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/EnDjqH/upload_DGiGbq-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/EnDjqH/upload_DGiGbq-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "name": "Original Sin", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-05-30 20:17:12", 
+                    "website": "http://origsin.com/"
+                }
+            ], 
+            "createDate": "2012-05-30 20:18:28", 
+            "description": "Original Sin is a crisp, clean cider that allows the natural flavors of the apple to speak for itself. Original Sin is a refreshing cider that can be enjoyed in a pub or a fine restaurant, or as a mixed drink.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 1, 
+                "name": "Flute"
+            }, 
+            "glasswareId": 1, 
+            "id": "PRHAik", 
+            "isOrganic": "N", 
+            "name": "Original Sin Hard Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2012-08-29 20:05:21"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:50", 
+                    "description": "The California Cider Company is owned by Geoffrey House, the man credited with initiating the national cider renaissance. Utilizing his insider's view of the cider industry, he took more than two years to develop the Ace Cider. House, owner of the second largest specialty beer and cider marketing company in the US, began importing ciders into the US in 1986. Since then he has seen explosive sales growth, as hard cider has moved beyond specialty beer and liquor stores and established itself on the supermarket shelves as a new drink category.\r\n\r\nWith Sonoma's superior apple juice giving Ace Ciders their great fresh taste and House's expertise and in-depth knowledge of the hard cider business providing a marketing edge, CCC is beginning to take a dominant position in this increasingly significant new beverage market.\r\n\r\nAs with all alcoholic beverages, we urge you to please drink responsibly.", 
+                    "established": "1994", 
+                    "id": "ZIDkN9", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ZIDkN9/upload_Yfbf6R-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:50", 
+                            "extendedAddress": "Building 4", 
+                            "hoursOfOperation": "ACE- in-the-HOLE Pub is open on Fridays only from 2pm-5pm.", 
+                            "id": "kuAItj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.424961, 
+                            "locality": "Sebastopol", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.848101, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "707-829-1101", 
+                            "postalCode": "95472", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2064 Gravenstein Highway North", 
+                            "updateDate": "2012-07-27 12:23:07", 
+                            "website": "http://www.acecider.com/"
+                        }
+                    ], 
+                    "name": "California Cider Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-19 21:40:50", 
+                    "website": "http://www.acecider.com/"
+                }
+            ], 
+            "createDate": "2012-12-19 21:42:11", 
+            "id": "YB10Fj", 
+            "isOrganic": "N", 
+            "name": "Pear Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2012-12-19 21:42:12"
+        }, 
+        {
+            "abv": "6.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-09-18 17:39:30", 
+                    "description": "A Michigan Microbrewery. Join us in our Tap Room to experience made-on-premiss hand-crafted beer and light food offerings!", 
+                    "established": "2012", 
+                    "id": "aC2KSX", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-09-18 17:40:10", 
+                            "hoursOfOperation": "Mon - Thu: 12:00 pm - 10:00 pm\r\nFri - Sat: 12:00 pm - 12:00 am\r\nSun: 12:00 pm - 9:00 pm", 
+                            "id": "j2wNuw", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 45.396541, 
+                            "locality": "Petoskey", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -84.903793, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(231) 753-2057", 
+                            "postalCode": "49770", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1844 M-119 Harbor-Petoskey Rd.", 
+                            "updateDate": "2013-01-20 15:09:17", 
+                            "website": "http://www.petoskeybrewing.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Petoskey Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-20 14:58:46", 
+                    "website": "http://www.petoskeybrewing.com/"
+                }
+            ], 
+            "createDate": "2013-01-20 15:02:02", 
+            "description": "A traditional semi-sweet hard cider made with a unique blend of Michigan apples.  It\u2019s slightly spicy and has a fresh apple aroma.  Hard cider is gluten-free.", 
+            "id": "kPbXrp", 
+            "isOrganic": "N", 
+            "name": "Red Brick Hard Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2013-01-20 15:02:02"
+        }, 
+        {
+            "abv": "4", 
+            "breweries": [
+                {
+                    "createDate": "2012-10-21 16:30:54", 
+                    "description": "The brewery was founded in 1856 by Lieutenant Per W Luthander. The brewery was purchased in 1898 by brewer Axel Herman Johansson and it is still owned by the family. Despite, or perhaps because of, that we are the country's oldest family brewery, we have always focused on development. Our large production investments have resulted in one of Europe's most modern breweries, with the high and consistent quality is guaranteed by our own water source since 1856.", 
+                    "established": "1856", 
+                    "id": "QdxFHn", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/QdxFHn/upload_lfiZDE-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/QdxFHn/upload_lfiZDE-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/QdxFHn/upload_lfiZDE-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Sweden", 
+                                "isoCode": "SE", 
+                                "isoThree": "SWE", 
+                                "name": "SWEDEN", 
+                                "numberCode": 752
+                            }, 
+                            "countryIsoCode": "SE", 
+                            "createDate": "2012-10-21 16:31:57", 
+                            "id": "fu2qgB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 57.668705, 
+                            "locality": "Vimmerby", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 15.901955, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "0492-165 00", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "598 86", 
+                            "updateDate": "2012-10-21 16:31:57", 
+                            "yearOpened": "1856"
+                        }
+                    ], 
+                    "name": "\u00c5bro Bryggeri", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-21 21:27:06", 
+                    "website": "http://www.abro.se"
+                }
+            ], 
+            "createDate": "2012-10-21 16:34:33", 
+            "id": "MmfZbc", 
+            "isOrganic": "N", 
+            "name": "Rekorderlig Premium Apple & Blackcurrant Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2012-10-21 16:34:33"
+        }, 
+        {
+            "abv": "4.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-10-21 16:30:54", 
+                    "description": "The brewery was founded in 1856 by Lieutenant Per W Luthander. The brewery was purchased in 1898 by brewer Axel Herman Johansson and it is still owned by the family. Despite, or perhaps because of, that we are the country's oldest family brewery, we have always focused on development. Our large production investments have resulted in one of Europe's most modern breweries, with the high and consistent quality is guaranteed by our own water source since 1856.", 
+                    "established": "1856", 
+                    "id": "QdxFHn", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/QdxFHn/upload_lfiZDE-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/QdxFHn/upload_lfiZDE-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/QdxFHn/upload_lfiZDE-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Sweden", 
+                                "isoCode": "SE", 
+                                "isoThree": "SWE", 
+                                "name": "SWEDEN", 
+                                "numberCode": 752
+                            }, 
+                            "countryIsoCode": "SE", 
+                            "createDate": "2012-10-21 16:31:57", 
+                            "id": "fu2qgB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 57.668705, 
+                            "locality": "Vimmerby", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 15.901955, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "0492-165 00", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "598 86", 
+                            "updateDate": "2012-10-21 16:31:57", 
+                            "yearOpened": "1856"
+                        }
+                    ], 
+                    "name": "\u00c5bro Bryggeri", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-21 21:27:06", 
+                    "website": "http://www.abro.se"
+                }
+            ], 
+            "createDate": "2012-10-21 16:34:34", 
+            "id": "z6ONl3", 
+            "isOrganic": "N", 
+            "name": "Rekorderlig Wild Berries Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2014-02-07 22:59:09"
+        }, 
+        {
+            "abv": "6", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:56", 
+                    "description": "When the first Goose Island Brewpub opened its doors in 1988, domestic, mass-produced beer was deeply ingrained in Midwestern culture. The craft beer industry was still in its infancy, with only a handful of brewpubs in existence in the Midwest. In his travels across Europe, beer-lover John Hall had enjoyed a distinctive local brew in each region he visited. Hall was convinced that Midwesterners could produce beers as good or better than those he\u2019d tasted in his travels. Living on the shore of the largest system of fresh water on the planet Earth, in a city with rapidly evolving tastes \u2013 John decided that his hometown, Chicago, would be the ideal place to do just that.\r\n\r\nThe key to building interest in craft beer, Hall decided, was to allow consumers to watch the brewing process \u2013 while providing them with the then-novel experience of enjoying a wide variety of distinctive beers that had been produced on-site. Hall wanted to not only cater to his customers\u2019 tastes, but to challenge them as well. Goose Island\u2019s brewers set to work crafting a diverse selection of unique beers \u2013 and on Friday, May 13, 1988 the Goose Island Brewpub was born.\r\n\r\nIt turned out that John was right; Chicagoans palates evolved rapidly once Goose Island\u2019s Brewpub opened its doors and introduced the city to distinctive craft beer. By 1995, the brewpub had become so popular that John Hall decided to open a larger brewery and bottling plant to keep up with demand. Finding still more room for growth, in 1999 Hall opened a second Goose Island Brewpub just a stone\u2019s throw away from historic Wrigley Field.\r\n\r\nToday, Goose Island continues to brew an innovative selection of over 50 craft beers at the brewpub, the best of which are then bottled at our Fulton Street brewery. Goose Island beers are now enjoyed in all 50 states and Europe.", 
+                    "established": "1995", 
+                    "id": "APW1BC", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/APW1BC/upload_ouqMGQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/APW1BC/upload_ouqMGQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/APW1BC/upload_ouqMGQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:56", 
+                            "id": "S2n5TB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.887107, 
+                            "locality": "Chicago", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -87.6720969, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-800-466-7363", 
+                            "postalCode": "60612", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1800 West Fulton Street", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.gooseisland.com/", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:15", 
+                            "id": "D2gG2C", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 41.9137478, 
+                            "locality": "Chicago", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -87.6543466, 
+                            "name": "Clybourn", 
+                            "openToPublic": "N", 
+                            "phone": "800-466-7363", 
+                            "postalCode": "60614", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1800 North Clybourn Avenue", 
+                            "updateDate": "2013-09-18 10:48:09", 
+                            "yearOpened": "1995"
+                        }
+                    ], 
+                    "name": "Goose Island Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 21:59:02", 
+                    "website": "http://www.gooseisland.com/"
+                }
+            ], 
+            "createDate": "2012-08-20 14:46:22", 
+            "description": "Light amber color, apple aroma, crisp apple flavor, crisp body.", 
+            "id": "jU7LzG", 
+            "isOrganic": "N", 
+            "name": "Seedling Farms Hard Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2012-08-20 17:35:26"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-11-20 23:47:12", 
+                    "description": "We are the first, and only, licensed and bonded cidery in the Piedmont of the Carolinas.  We produce various types of Award Winning Hand-Crafted Hard Ciders with a commitment to sustainable agricultural practices.\r\n \r\nAs an extension of Windy Hill Orchard and Cidery, we are family owned and operated and located in York, SC.\r\n \r\nPlease be sure to visit our facebook page and our orchard website for details about upcoming events, product news, and hours and directions.", 
+                    "established": "2011", 
+                    "id": "eGtqKZ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/eGtqKZ/upload_JaIVoQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/eGtqKZ/upload_JaIVoQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/eGtqKZ/upload_JaIVoQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-11-23 14:38:56", 
+                            "hoursOfOperation": "Tuesday through Saturday: 9:00 a.m. till 5:00 p.m.\r\nSelect Sundays*: Noon till 5:00 p.m.", 
+                            "id": "bRKIdZ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.024739, 
+                            "locality": "York", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -81.280858, 
+                            "name": "Main Cidery", 
+                            "openToPublic": "Y", 
+                            "phone": "(803) 684-0690", 
+                            "postalCode": "29745", 
+                            "region": "South Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1860 Black Highway", 
+                            "updateDate": "2012-11-23 14:38:56", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Windy Hill Orchard & Cidery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-11-23 14:42:46", 
+                    "website": "http://windyhillorchard.com/yorkcider/"
+                }
+            ], 
+            "createDate": "2012-11-23 14:40:42", 
+            "description": "\u201cStrawberry Pippin\u201d is our dry cider that we introduced in 2010. Using natural strawberry essences to attain slight fruity undertones, Strawberry Pippin is the definition of dry and, like a French Cider or a dry chardonnay, is best sipped slowly to allow the natural tartness to come through.  Bronze Medal Winner in the 2011 Great Lakes International Cider and Perry Competition.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "6ITp4f", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/6ITp4f/upload_nA8I5c-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/6ITp4f/upload_nA8I5c-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/6ITp4f/upload_nA8I5c-medium.png"
+            }, 
+            "name": "Strawberry Pippin", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2012-11-23 14:40:43"
+        }, 
+        {
+            "abv": "6.9", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:52", 
+                    "description": "Classically refined, but not styled as a traditional \"sweet beer\" beer alternative, Crispin ciders are crisp and clean, not sweet and sticky and never sacrifice superior quality refreshment satisfaction for overbearing complexity.\r\n\r\nAlways true to the apple, Crispin Hard Ciders naturally fermented in the USA use fresh pressed apple-juice, not from apple juice concentrate, from a premium blend of US West Coast apples, with no added malt, grape wine or spirit alcohol. Crispin\u2019s unique USA produced ciders are smoothed with pure apple juice or from natural sugar sources like organic honey or organic maple syrup, and contain no added colorants, sorbate or benzoate preservatives.\r\n\r\nCrispin ciders have 7 different varietals - Original, Light and Brut; classic European styled crisp clean ciders, Browns Lane; an imported classic English dry cider, and our line of Artisanal Reserves; Honey Crisp, The Saint and Lansdowne - unfiltered \"cloudy\" ciders, ground-breaking \"craft beer\" uniquely American ciders.\r\n\r\nCrispin ciders are all Gluten Free for the wheat-intolerant person.", 
+                    "established": "2008", 
+                    "id": "nCojAV", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/nCojAV/upload_rVcbaH-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/nCojAV/upload_rVcbaH-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/nCojAV/upload_rVcbaH-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:52", 
+                            "extendedAddress": "Suite 10", 
+                            "id": "Gw62Ze", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.9879616, 
+                            "locality": "Minneapolis", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -93.2541382, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "612-331-3699", 
+                            "postalCode": "55414", 
+                            "region": "Minnesota", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "405 Central Ave SE", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://www.crispincider.com/", 
+                            "yearOpened": "2008"
+                        }
+                    ], 
+                    "name": "Crispin Cider", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-02 12:47:18", 
+                    "website": "http://www.crispincider.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:22", 
+            "description": "Experience a sweetly floral to herbal aromatic bouquet and an elegant yeasty flavor with a sustained mouth-feel that develops complexity on the palate. Naturally fermented with Belgian Trappist yeasts using a premium apple juice blend, not from concentrate, with no added malt, spirit or grape alcohol. The Saint\u2019s artisanal Cloudy Filtration style uses racked unfiltered apple wine smoothed with pure organic maple syrup, a touch of apple juice, no added sugar, colorants or sorbate or benzoate preservatives, and is filtered cold for bold, crisp refreshment.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "ViMCuV", 
+            "isOrganic": "N", 
+            "name": "The Saint", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2012-04-11 19:35:52"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2013-10-29 15:40:37", 
+                    "id": "mAAJMW", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-11-13 18:03:31", 
+                            "id": "hCCFgr", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.074784, 
+                            "locality": "Spring Lake", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -86.1585, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(616) 842-4337", 
+                            "postalCode": "49456", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "14921 Cleveland St", 
+                            "updateDate": "2013-11-13 18:03:31", 
+                            "website": "http://www.vandermill.com/"
+                        }
+                    ], 
+                    "name": "Vander Mill Winery, Cider Mill & Microbrewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-11-13 18:02:18", 
+                    "website": "http://www.vandermill.com/"
+                }
+            ], 
+            "createDate": "2014-03-21 12:44:01", 
+            "description": "Beginning with our traditional hard apple cider we then steep candied pecans. We make our own cinnamon roasted pecans that bring vanilla, cinnamon, and a nuttyness to this product that makes it a truly unique cider. Totally Roasted is semi-.sweet with a tart finish.", 
+            "id": "iu5GVj", 
+            "isOrganic": "N", 
+            "name": "Totally Roasted", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2014-03-21 12:44:01"
+        }, 
+        {
+            "abv": "5.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-07-25 14:46:56", 
+                    "description": "Once upon a time cider was the drink of choice. We've been making ciders for decades... now we want to share them with you. Branch out and experience our Angry Orchard.", 
+                    "established": "2011", 
+                    "id": "tYf3W8", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-07-27 12:04:21", 
+                            "id": "jVKSiL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.106614, 
+                            "locality": "Cincinnati", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -84.504552, 
+                            "name": "Main Cidery", 
+                            "openToPublic": "Y", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2012-07-27 12:04:21", 
+                            "website": "http://angryorchard.com/"
+                        }
+                    ], 
+                    "name": "Angry Orchard", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-07-27 12:02:55", 
+                    "website": "http://www.angryorchard.com/"
+                }
+            ], 
+            "createDate": "2012-07-27 13:54:04", 
+            "description": "Our Traditional Dry cider is made in the style of English draft ciders. This cider is bittersweet and slightly spicy with a bright apple aroma. It is a leaner cider with a dry finish and without any juice added to impart extra sweetness.", 
+            "id": "8WMxBZ", 
+            "isOrganic": "N", 
+            "name": "Traditional Dry", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2014-01-25 14:15:58"
+        }, 
+        {
+            "abv": "4.7", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2013-05-05 01:17:19", 
+                    "description": "A southern guy from Virginia had a farm in the Blue Ridge Mountains and met a top cider maker in the world from New Zealand.  It doesn\u2019t get much more southern than that!  Now the two of them are making hard cider and history.", 
+                    "id": "XnBFll", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-05-09 01:00:51", 
+                            "hoursOfOperation": "We're open for Sales, Tastings and Tours 11 am to 6 pm 7 days a week.\r\n\r\nWe're closed on New Year's Day, Easter, Thanksgiving Day, and Christmas Day.", 
+                            "id": "ge5JEA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.8815497, 
+                            "locality": "Nellysford", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -78.9034916, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(434) 361-1030", 
+                            "postalCode": "22958", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1020 Rockfish Valley Highway", 
+                            "updateDate": "2013-05-09 01:00:51", 
+                            "website": "http://www.boldrock.com"
+                        }
+                    ], 
+                    "name": "Bold Rock Hard Cider", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-09 00:58:18", 
+                    "website": "http://www.boldrock.com"
+                }
+            ], 
+            "createDate": "2013-05-09 01:04:08", 
+            "description": "From the heart of the Bluer Ridge Mountains at Wintergreen, Virginia, comes this crisp and refreshing hard cider crafted with care using Virginia apples.  NOW THAT'S LOCAL!  From backyard barbeques to elegant evenings, Bold Rock's Virginia Apple goes with good times.", 
+            "id": "rtLMw1", 
+            "isOrganic": "N", 
+            "name": "Virginia Apple", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2013-05-09 01:06:44"
+        }, 
+        {
+            "abv": "4.7", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2013-05-05 01:17:19", 
+                    "description": "A southern guy from Virginia had a farm in the Blue Ridge Mountains and met a top cider maker in the world from New Zealand.  It doesn\u2019t get much more southern than that!  Now the two of them are making hard cider and history.", 
+                    "id": "XnBFll", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-05-09 01:00:51", 
+                            "hoursOfOperation": "We're open for Sales, Tastings and Tours 11 am to 6 pm 7 days a week.\r\n\r\nWe're closed on New Year's Day, Easter, Thanksgiving Day, and Christmas Day.", 
+                            "id": "ge5JEA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.8815497, 
+                            "locality": "Nellysford", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -78.9034916, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(434) 361-1030", 
+                            "postalCode": "22958", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1020 Rockfish Valley Highway", 
+                            "updateDate": "2013-05-09 01:00:51", 
+                            "website": "http://www.boldrock.com"
+                        }
+                    ], 
+                    "name": "Bold Rock Hard Cider", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-09 00:58:18", 
+                    "website": "http://www.boldrock.com"
+                }
+            ], 
+            "createDate": "2013-05-09 01:04:09", 
+            "description": "Internationally acclaimed cider master, Brian Shanks, ensures the consistent high quality of every hand-crafted batch of BOLD ROCK Virginia Draft.  As extra quality assurance, our thirsty band of Bold Rockers taste-tests our cider (at least) daily!  This smooth and distinctive hard cider has superb drinkability making it perfect anytime anywhere.", 
+            "id": "UD4B5S", 
+            "isOrganic": "N", 
+            "name": "Virginia Draft", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Like a dry wine with complex flavors. The apple character must marry with the added fruit so that neither dominates the other.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 155, 
+                "name": "Fruit Cider", 
+                "ogMax": "1.07", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 155, 
+            "updateDate": "2013-08-02 23:09:46"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 32
+}

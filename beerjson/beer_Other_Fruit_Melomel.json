@@ -1,0 +1,401 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "13", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:48", 
+                    "description": "Like most things, there are various ways to make mead. At Brothers Drake, our philosophy on making mead is based on the following principles:\r\n\r\n1. Start Local: We buy local honey, support local agriculture, and produce a local product.\r\n\r\n2. Use the Best: We look for the highest quality local product on the market, ordering from the best from the source closest to Ohio.\r\n\r\n3. No Heat: We do not boil our honey or any water used in production. The No Heat Method keeps honey flavors true to the source and a better mead.\r\n\r\n4. No Added Sulfites: Unlike grapes which have wild yeast growing on them, honey is naturally antiseptic and antibiotic, so no sulfites needed.\r\n\r\n5. Build community: We share our knowledge openly and are grateful to people everywhere who ask questions, share their perspective, and engage in an open collaborative dialogue on mead-making.\r\n\r\n6. Embrace creativity: Our mead can be paired with wonderful cheeses, appetizers, and entrees, as well as used in cooking and in mixed drinks.\r\n\r\nThese basic principles guide our craft, our partnerships, and our practices. We look forward to sharing a drink with you!", 
+                    "id": "IEFRaK", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:48", 
+                            "id": "0Y6wSh", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.987311, 
+                            "locality": "Columbus", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.004595, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "614-388-8765", 
+                            "postalCode": "43201", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "26 E. 5th Avenue", 
+                            "updateDate": "2012-03-21 19:08:04", 
+                            "website": "http://brothersdrake.com/"
+                        }
+                    ], 
+                    "name": "Brothers Drake Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-06-16 20:17:24", 
+                    "website": "http://brothersdrake.com/"
+                }
+            ], 
+            "createDate": "2012-06-10 21:06:55", 
+            "description": "Actually, the \u2018bergamot\u2019 in our mead is called Scarlet Bee Balm. It\u2019s native to eastern North America and grows right up the street from us at Jorgensen\u2019s Organic farm in Westerville. The firecracker-red flowers are added to our central Ohio wildflower honey with tons of blueberries from Mansfield, Ohio. The result is a balance of berry and tea flavors with a barely sweet finish. If you can stop drinking it long enough to eat\u2026 try light, creamy cheeses or along side a fresh lemon sorbet.", 
+            "id": "m73LJD", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/m73LJD/upload_F6R7cu-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/m73LJD/upload_F6R7cu-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/m73LJD/upload_F6R7cu-medium.png"
+            }, 
+            "name": "Bergamot Blue", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. Different types of fruit can result in widely different characteristics; allow for a variation in the final product.", 
+                "id": 145, 
+                "name": "Other Fruit Melomel"
+            }, 
+            "styleId": 145, 
+            "updateDate": "2012-06-11 00:03:41"
+        }, 
+        {
+            "abv": "7.82", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:47", 
+                    "description": "The original Bluegrass Brewing Company opened in 1993 at this location, 3929 Shelbyville Road, near Westport Rd., & Chenoweth, & Breckenridge Lanes. It is the city's oldest remaining brewpub and was the first to make a significant mark on the national brewpub and microbrewery scene. Louisville's best beer is made at this location, and large glass windows in the back dining room allow you to witness the brewing operation. The headbrewer is Jerry Gnagy, assisted by Sam Cruz and Cody Mingus.", 
+                    "established": "1993", 
+                    "id": "ERW6Da", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ERW6Da/upload_fjjbGe-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ERW6Da/upload_fjjbGe-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ERW6Da/upload_fjjbGe-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:47", 
+                            "hoursOfOperation": "Sunday -Thursday: 11 AM -11 PM (kitchen closes at 10)\r\nFriday and Saturday: 11 AM -1 PM (kitchen closes at 11)", 
+                            "id": "8yIWus", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.252999, 
+                            "locality": "Louisville", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -85.654044, 
+                            "name": "BBC East St Matthews", 
+                            "openToPublic": "Y", 
+                            "phone": "502-899-7070", 
+                            "postalCode": "40207", 
+                            "region": "Kentucky", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3929 Shelbyville Rd.", 
+                            "updateDate": "2012-04-15 19:12:47", 
+                            "yearOpened": "1993"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-04-15 19:11:15", 
+                            "hoursOfOperation": "Monday - Thursday: 11 AM -10 PM\r\nFriday - Saturday: 11 AM -11 PM\r\nClosed Sunday", 
+                            "id": "f78xIY", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.246998, 
+                            "locality": "Louisville", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -85.758183, 
+                            "name": "BBC Theatre Square", 
+                            "openToPublic": "Y", 
+                            "phone": "502-568-2224", 
+                            "postalCode": "40202", 
+                            "region": "Kentucky", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "660 South 4th Street", 
+                            "updateDate": "2012-04-15 19:12:47", 
+                            "yearOpened": "2006"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-04-15 19:12:22", 
+                            "hoursOfOperation": "Monday - Thursday: 11 AM \u2013 Midnight\r\nFriday - Saturday: 11 AM \u2013 1 AM\r\nSunday: Noon \u2013 9PM", 
+                            "id": "HQrlRz", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.256433, 
+                            "locality": "Louisville", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -85.755058, 
+                            "name": "BBC 3rd and Main", 
+                            "openToPublic": "Y", 
+                            "phone": "502-562-0007", 
+                            "postalCode": "40202", 
+                            "region": "Kentucky", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "300 West Main Street", 
+                            "updateDate": "2012-04-15 19:12:47", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Bluegrass Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-15 19:14:01", 
+                    "website": "http://www.bbcbrew.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:38", 
+            "description": "Historically a meade was made to celebrate the union of a couple and given to them for celebration of their marriage. Truly defined as a braggot, BBC Luna De Miel is a fermented honey ale flavored with a blend of raspberries and blackberries. Luna De Miel is a refreshing change from standard BBC offerings. Luna De Miel is effervescent, fruity, and light, yet warming from its moderate strength. BBC Luna De Miel is offered in a wine glass.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "tRycLQ", 
+            "isOrganic": "N", 
+            "name": "Luna de Miel: Raspberry Meade", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. Different types of fruit can result in widely different characteristics; allow for a variation in the final product.", 
+                "id": 145, 
+                "name": "Other Fruit Melomel"
+            }, 
+            "styleId": 145, 
+            "updateDate": "2012-03-22 13:05:19"
+        }, 
+        {
+            "abv": "13", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:48", 
+                    "description": "Like most things, there are various ways to make mead. At Brothers Drake, our philosophy on making mead is based on the following principles:\r\n\r\n1. Start Local: We buy local honey, support local agriculture, and produce a local product.\r\n\r\n2. Use the Best: We look for the highest quality local product on the market, ordering from the best from the source closest to Ohio.\r\n\r\n3. No Heat: We do not boil our honey or any water used in production. The No Heat Method keeps honey flavors true to the source and a better mead.\r\n\r\n4. No Added Sulfites: Unlike grapes which have wild yeast growing on them, honey is naturally antiseptic and antibiotic, so no sulfites needed.\r\n\r\n5. Build community: We share our knowledge openly and are grateful to people everywhere who ask questions, share their perspective, and engage in an open collaborative dialogue on mead-making.\r\n\r\n6. Embrace creativity: Our mead can be paired with wonderful cheeses, appetizers, and entrees, as well as used in cooking and in mixed drinks.\r\n\r\nThese basic principles guide our craft, our partnerships, and our practices. We look forward to sharing a drink with you!", 
+                    "id": "IEFRaK", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:48", 
+                            "id": "0Y6wSh", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.987311, 
+                            "locality": "Columbus", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.004595, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "614-388-8765", 
+                            "postalCode": "43201", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "26 E. 5th Avenue", 
+                            "updateDate": "2012-03-21 19:08:04", 
+                            "website": "http://brothersdrake.com/"
+                        }
+                    ], 
+                    "name": "Brothers Drake Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-06-16 20:17:24", 
+                    "website": "http://brothersdrake.com/"
+                }
+            ], 
+            "createDate": "2012-06-10 21:04:36", 
+            "description": "We are excited to craft our first, and probably the only available, Paw Paw mead. We believe it\u2019s a true example of using local & indigenous ingredients. The Paw Paw fruit and the spicebush berry are both lesser-used native edibles from the Eastern region of the US. We found our fruit and spice at Integration Acres farm near Albany, Ohio. They host the annual Paw Paw festival and helped make the Paw Paw the native state fruit of Ohio. With all this celebration, we think you\u2019ll understand why each drop of this mead is a statement of the richness and diversity that Ohio is capable of. It bursts a spectrum of tastes - earth, citrus, melon, honey, and spice. Paw Paw blushes a light pink with a semi-sweet finish. Intriguing on it\u2019s own \u2013 and an entirely new experience with food. Explore.", 
+            "id": "XTbj0L", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/XTbj0L/upload_DIU7XG-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/XTbj0L/upload_DIU7XG-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/XTbj0L/upload_DIU7XG-medium.png"
+            }, 
+            "name": "Paw Paw", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. Different types of fruit can result in widely different characteristics; allow for a variation in the final product.", 
+                "id": 145, 
+                "name": "Other Fruit Melomel"
+            }, 
+            "styleId": 145, 
+            "updateDate": "2012-06-10 23:51:35"
+        }, 
+        {
+            "abv": "13", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:48", 
+                    "description": "Like most things, there are various ways to make mead. At Brothers Drake, our philosophy on making mead is based on the following principles:\r\n\r\n1. Start Local: We buy local honey, support local agriculture, and produce a local product.\r\n\r\n2. Use the Best: We look for the highest quality local product on the market, ordering from the best from the source closest to Ohio.\r\n\r\n3. No Heat: We do not boil our honey or any water used in production. The No Heat Method keeps honey flavors true to the source and a better mead.\r\n\r\n4. No Added Sulfites: Unlike grapes which have wild yeast growing on them, honey is naturally antiseptic and antibiotic, so no sulfites needed.\r\n\r\n5. Build community: We share our knowledge openly and are grateful to people everywhere who ask questions, share their perspective, and engage in an open collaborative dialogue on mead-making.\r\n\r\n6. Embrace creativity: Our mead can be paired with wonderful cheeses, appetizers, and entrees, as well as used in cooking and in mixed drinks.\r\n\r\nThese basic principles guide our craft, our partnerships, and our practices. We look forward to sharing a drink with you!", 
+                    "id": "IEFRaK", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:48", 
+                            "id": "0Y6wSh", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.987311, 
+                            "locality": "Columbus", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.004595, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "614-388-8765", 
+                            "postalCode": "43201", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "26 E. 5th Avenue", 
+                            "updateDate": "2012-03-21 19:08:04", 
+                            "website": "http://brothersdrake.com/"
+                        }
+                    ], 
+                    "name": "Brothers Drake Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-06-16 20:17:24", 
+                    "website": "http://brothersdrake.com/"
+                }
+            ], 
+            "createDate": "2012-06-10 21:03:38", 
+            "description": "Brad the Beekeeper gave us a huge 55-gallon drum of his fresh wildflower honey to cast this mead on the summer solstice - the actual solstice, which is June 21st. We work with the beautiful Val of Jorgensen\u2019s farm to source our organic red raspberries, which we combine with marionberries and cherries, for surprisingly nuanced triple-berry melomel mead. And it should be ready to enjoy by the winter solstice... \u2018Six months\u2019, you say? It might seem like a while, but time is the priceless ingredient that makes things just right. And this one is worth the wait.  Our dry version is strong on fruit and pairs with robust dishes.", 
+            "id": "v9suqu", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/v9suqu/upload_L3WFPO-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/v9suqu/upload_L3WFPO-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/v9suqu/upload_L3WFPO-medium.png"
+            }, 
+            "name": "Scarlet Solstice", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. Different types of fruit can result in widely different characteristics; allow for a variation in the final product.", 
+                "id": 145, 
+                "name": "Other Fruit Melomel"
+            }, 
+            "styleId": 145, 
+            "updateDate": "2012-06-10 23:51:00"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 4
+}

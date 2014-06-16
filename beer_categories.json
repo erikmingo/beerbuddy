@@ -1,0 +1,71 @@
+{
+    "data": [
+        {
+            "createDate": "2012-03-21 20:06:45", 
+            "id": 1, 
+            "name": "British Origin Ales"
+        }, 
+        {
+            "createDate": "2012-03-21 20:06:45", 
+            "id": 2, 
+            "name": "Irish Origin Ales"
+        }, 
+        {
+            "createDate": "2012-03-21 20:06:45", 
+            "id": 3, 
+            "name": "North American Origin Ales"
+        }, 
+        {
+            "createDate": "2012-03-21 20:06:46", 
+            "id": 4, 
+            "name": "German Origin Ales"
+        }, 
+        {
+            "createDate": "2012-03-21 20:06:46", 
+            "id": 5, 
+            "name": "Belgian And French Origin Ales"
+        }, 
+        {
+            "createDate": "2012-03-21 20:06:46", 
+            "id": 6, 
+            "name": "International Ale Styles"
+        }, 
+        {
+            "createDate": "2012-03-21 20:06:46", 
+            "id": 7, 
+            "name": "European-germanic Lager"
+        }, 
+        {
+            "createDate": "2012-03-21 20:06:46", 
+            "id": 8, 
+            "name": "North American Lager"
+        }, 
+        {
+            "createDate": "2012-03-21 20:06:46", 
+            "id": 9, 
+            "name": "Other Lager"
+        }, 
+        {
+            "createDate": "2012-03-21 20:06:46", 
+            "id": 10, 
+            "name": "International Styles"
+        }, 
+        {
+            "createDate": "2012-03-21 20:06:46", 
+            "id": 11, 
+            "name": "Hybrid/mixed Beer"
+        }, 
+        {
+            "createDate": "2012-03-21 20:06:46", 
+            "id": 12, 
+            "name": "Mead, Cider, & Perry"
+        }, 
+        {
+            "createDate": "2013-08-10 12:44:20", 
+            "id": 13, 
+            "name": "Other Origin"
+        }
+    ], 
+    "message": "Request Successful", 
+    "status": "success"
+}

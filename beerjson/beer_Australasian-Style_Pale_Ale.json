@@ -1,0 +1,1048 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "4.9", 
+            "breweries": [
+                {
+                    "createDate": "2014-02-07 04:36:34", 
+                    "description": "The Balmain Brewing Company was launched in 2010 in honour of tradition, mates and pub culture. The Company is owned by a group of passionate mates, locals to Balmain, with the following vision:\r\n\u2022 Becoming Sydney\u2019s own iconic local beer company, representing tradition, mates and pub culture\r\n\u2022 Brewing hand-crafted quality beer\r\n\u2022 Having the majority of pubs in Sydney pouring a Balmain Brewing Company beer\r\n\u2022 Re-opening the old Balmain Brewery of the 1980\u2019s as a Microbrewery/Restaurant.\r\n\r\nThe mates dreamed up the plan while drinking over the years in each of Balmain\u2019s 17 pubs, and hearing about the Balmain Brewery of last century and the 55 pubs of the 1800\u2019s! Over the last couple of years several beers have been launched \u2013 Balmain Pale Ale, Balmain Pilsner and Balmain Bock, as well as the recent launch of the Balmain Apple Cider. 2012 will see the introduction of a wider range of bottled beer and the planned opening of the Balmain Microbrewery/Restaurant.", 
+                    "established": "2010", 
+                    "id": "zbBOK0", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/zbBOK0/upload_lxurtQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/zbBOK0/upload_lxurtQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/zbBOK0/upload_lxurtQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2014-02-08 15:47:16", 
+                            "extendedAddress": "PO Box 604", 
+                            "id": "todpTX", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -33.8575499, 
+                            "locality": "Balmain", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 151.1810431, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "N", 
+                            "phone": "+61 418 244 658", 
+                            "postalCode": "2041", 
+                            "region": "New South Wales", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2014-02-08 15:47:16", 
+                            "website": "http://www.balmainbrewingcompany.com.au/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Balmain Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-08 15:45:59", 
+                    "website": "http://www.balmainbrewingcompany.com.au/"
+                }
+            ], 
+            "createDate": "2014-02-07 04:43:04", 
+            "description": "The Balmain Pale Ale was launched in May 2010 in celebration of tradition, mates and pub culture. A distinctive full flavoured English\u2013style ale, the Balmain Pale Ale displays a rich malt character upfront which is derived from a blend of two base and three speciality malts. Used in conjunction\r\nthe result is a beautiful golden-copper colour with hints of sweet caramel on the palate. Malt is balanced with a mix of 3 complementary Hop varieties that give an assertive yet clean bitterness, along with an aroma providing hints of citrus hue and mild spice notes. The Balmain Pale Ale is all natural and unfiltered, and at 4.9% ABV, it\u2019s perfect to enjoy on its own or paired with your favourite local dish. Balmain Pale Ale is best enjoyed at 6-8\u00b0C to bring out the complexity and balance. It has been designed for the drinking pleasure and enjoyment of beer drinkers\r\nand critics alike.", 
+            "id": "z0Pys6", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/z0Pys6/upload_paq3EM-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/z0Pys6/upload_paq3EM-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/z0Pys6/upload_paq3EM-medium.png"
+            }, 
+            "name": "Balmain Pale Ale", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "6.2", 
+                "abvMin": "4.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This style is a mild, pale, light-bodied ale with a color varying from light to amber. Hop bitterness and flavor range from very low to low. Hop aroma is often absent. A fruity or estery aroma should be perceived. Diacetyl should be very low. DMS and chill haze should not present.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "20", 
+                "id": 74, 
+                "name": "Australasian-Style Pale Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "14", 
+                "srmMin": "5"
+            }, 
+            "styleId": 74, 
+            "updateDate": "2014-02-08 17:50:15"
+        }, 
+        {
+            "abv": "4", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2014-02-05 22:11:47", 
+                    "description": "Welcome to Bays Brewery and its wide range of quality Beers, Ciders and Real Tasty Drinks (RTD\u2019s). In landing on this page you have proved to have a passion for true hand crafted beverages and we thank you. Bays has a long history of making quality products dating back to 1993. Located in the Sunshine Capital of New Zealand, Bays make some of finest beer around. Step into Bays Brewery and experience a piece of Nelson, New Zealand. If it is fun you seek, you have found it here. Kia Ora.\r\n\r\nCheers from the Crew at Bays Brewery!", 
+                    "established": "1993", 
+                    "id": "33Ov6W", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/33Ov6W/upload_agpvQZ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/33Ov6W/upload_agpvQZ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/33Ov6W/upload_agpvQZ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "New Zealand", 
+                                "isoCode": "NZ", 
+                                "isoThree": "NZL", 
+                                "name": "NEW ZEALAND", 
+                                "numberCode": 554
+                            }, 
+                            "countryIsoCode": "NZ", 
+                            "createDate": "2014-02-06 16:06:17", 
+                            "hoursOfOperation": "Mon - Thu: 11:00 am - 5:30 pm\r\nFri - Sat: 11:00 am - 6:00 pm\r\nSun: 12:00 pm - 5:30 pm", 
+                            "id": "oE1miM", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -41.2954656, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 173.2411911, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+64 3-547 8097", 
+                            "postalCode": "7010", 
+                            "region": "Nelson", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "89 Pascoe St", 
+                            "updateDate": "2014-02-06 16:06:17", 
+                            "website": "http://baysbrewery.co.nz/", 
+                            "yearOpened": "1993"
+                        }
+                    ], 
+                    "name": "Bays Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-06 16:06:35", 
+                    "website": "http://www.baysbrewery.co.nz"
+                }
+            ], 
+            "createDate": "2014-02-05 22:17:13", 
+            "description": "This Kiwi style Draught Beer offers a small twist on tradition. Keeping the Kiwi palate in mind, Draught has a unique hop aroma character combined with a malty flavour base. Unlike mass produced products, Draught has been matured in the fermentation stage for a minimum of 4 weeks.", 
+            "foodPairings": "Bays Kiwi Draught with Fish and Chips is a match made in heaven. Also Pork dishes provide a great pairing.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "rHPQ8G", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/rHPQ8G/upload_SyUxhk-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/rHPQ8G/upload_SyUxhk-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/rHPQ8G/upload_SyUxhk-medium.png"
+            }, 
+            "name": "Bays Draught Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "6.2", 
+                "abvMin": "4.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This style is a mild, pale, light-bodied ale with a color varying from light to amber. Hop bitterness and flavor range from very low to low. Hop aroma is often absent. A fruity or estery aroma should be perceived. Diacetyl should be very low. DMS and chill haze should not present.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "20", 
+                "id": 74, 
+                "name": "Australasian-Style Pale Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "14", 
+                "srmMin": "5"
+            }, 
+            "styleId": 74, 
+            "updateDate": "2014-02-06 16:20:37"
+        }, 
+        {
+            "abv": "2.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2014-02-05 22:11:47", 
+                    "description": "Welcome to Bays Brewery and its wide range of quality Beers, Ciders and Real Tasty Drinks (RTD\u2019s). In landing on this page you have proved to have a passion for true hand crafted beverages and we thank you. Bays has a long history of making quality products dating back to 1993. Located in the Sunshine Capital of New Zealand, Bays make some of finest beer around. Step into Bays Brewery and experience a piece of Nelson, New Zealand. If it is fun you seek, you have found it here. Kia Ora.\r\n\r\nCheers from the Crew at Bays Brewery!", 
+                    "established": "1993", 
+                    "id": "33Ov6W", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/33Ov6W/upload_agpvQZ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/33Ov6W/upload_agpvQZ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/33Ov6W/upload_agpvQZ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "New Zealand", 
+                                "isoCode": "NZ", 
+                                "isoThree": "NZL", 
+                                "name": "NEW ZEALAND", 
+                                "numberCode": 554
+                            }, 
+                            "countryIsoCode": "NZ", 
+                            "createDate": "2014-02-06 16:06:17", 
+                            "hoursOfOperation": "Mon - Thu: 11:00 am - 5:30 pm\r\nFri - Sat: 11:00 am - 6:00 pm\r\nSun: 12:00 pm - 5:30 pm", 
+                            "id": "oE1miM", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -41.2954656, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 173.2411911, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+64 3-547 8097", 
+                            "postalCode": "7010", 
+                            "region": "Nelson", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "89 Pascoe St", 
+                            "updateDate": "2014-02-06 16:06:17", 
+                            "website": "http://baysbrewery.co.nz/", 
+                            "yearOpened": "1993"
+                        }
+                    ], 
+                    "name": "Bays Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-06 16:06:35", 
+                    "website": "http://www.baysbrewery.co.nz"
+                }
+            ], 
+            "createDate": "2014-02-05 22:23:19", 
+            "description": "This Light Ale is a tasty reprieve from some of the higher alcohol beers. Light allows you to continue drinking with your mates without getting to out of hand. Light offers a break between other beers while keeping a signature craft taste in mind.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "iEZqaZ", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/iEZqaZ/upload_A1kFOT-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/iEZqaZ/upload_A1kFOT-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/iEZqaZ/upload_A1kFOT-medium.png"
+            }, 
+            "name": "Bays Light Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "6.2", 
+                "abvMin": "4.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This style is a mild, pale, light-bodied ale with a color varying from light to amber. Hop bitterness and flavor range from very low to low. Hop aroma is often absent. A fruity or estery aroma should be perceived. Diacetyl should be very low. DMS and chill haze should not present.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "20", 
+                "id": 74, 
+                "name": "Australasian-Style Pale Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "14", 
+                "srmMin": "5"
+            }, 
+            "styleId": 74, 
+            "updateDate": "2014-02-06 16:20:44"
+        }, 
+        {
+            "abv": "4.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:00", 
+                    "description": "After many trials and experimentations, our first beer, Little Creatures Pale Ale, was proudly presented to the Australian market just in time for the summer of 2001.\r\n\r\nThroughout the years, we\u2019ve created a little family of beers that we brew today with the same enthusiasm and drive as the day we began. And while we continue to grow and stretch our horizons, we are still excited by and are motivated to make better beer with greater consistency each and every day.\r\n\r\nWe welcome you to share our passion for great beer, where ever you are.", 
+                    "established": "2000", 
+                    "id": "xDHt8e", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/xDHt8e/upload_vHlv78-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/xDHt8e/upload_vHlv78-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/xDHt8e/upload_vHlv78-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2012-01-03 02:42:00", 
+                            "id": "JEkSqQ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -32.059367, 
+                            "locality": "Fremantle", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 115.744945, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+61 8 9430 5155", 
+                            "postalCode": "6160", 
+                            "region": "Western Australia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "40 Mews Road", 
+                            "updateDate": "2014-02-15 12:16:53", 
+                            "website": "http://www.littlecreatures.com.au/"
+                        }
+                    ], 
+                    "name": "Little Creatures Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-03 23:10:00", 
+                    "website": "http://www.littlecreatures.com.au/"
+                }
+            ], 
+            "createDate": "2013-11-27 04:59:55", 
+            "description": "This bright filtered ale (see, there is something in a name\u2026) takes inspiration from both the new and old worlds of brewing. It may be a hybrid ale in origin, but we like to think of it as the creation of a truly Australian style ale.\r\n\r\nUsing four gentle malts including Pale, Carapils, Munich and Vienna and whole hop flowers, this beer is clean, crisp and refreshingly balanced.", 
+            "ibu": "24", 
+            "id": "dIHOi5", 
+            "isOrganic": "N", 
+            "name": "Bright Ale", 
+            "srm": {
+                "hex": "F39C00", 
+                "id": 7, 
+                "name": "7"
+            }, 
+            "srmId": 7, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "6.2", 
+                "abvMin": "4.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This style is a mild, pale, light-bodied ale with a color varying from light to amber. Hop bitterness and flavor range from very low to low. Hop aroma is often absent. A fruity or estery aroma should be perceived. Diacetyl should be very low. DMS and chill haze should not present.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "20", 
+                "id": 74, 
+                "name": "Australasian-Style Pale Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "14", 
+                "srmMin": "5"
+            }, 
+            "styleId": 74, 
+            "updateDate": "2013-11-28 16:09:22"
+        }, 
+        {
+            "abv": "4", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2014-02-05 22:11:47", 
+                    "description": "Welcome to Bays Brewery and its wide range of quality Beers, Ciders and Real Tasty Drinks (RTD\u2019s). In landing on this page you have proved to have a passion for true hand crafted beverages and we thank you. Bays has a long history of making quality products dating back to 1993. Located in the Sunshine Capital of New Zealand, Bays make some of finest beer around. Step into Bays Brewery and experience a piece of Nelson, New Zealand. If it is fun you seek, you have found it here. Kia Ora.\r\n\r\nCheers from the Crew at Bays Brewery!", 
+                    "established": "1993", 
+                    "id": "33Ov6W", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/33Ov6W/upload_agpvQZ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/33Ov6W/upload_agpvQZ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/33Ov6W/upload_agpvQZ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "New Zealand", 
+                                "isoCode": "NZ", 
+                                "isoThree": "NZL", 
+                                "name": "NEW ZEALAND", 
+                                "numberCode": 554
+                            }, 
+                            "countryIsoCode": "NZ", 
+                            "createDate": "2014-02-06 16:06:17", 
+                            "hoursOfOperation": "Mon - Thu: 11:00 am - 5:30 pm\r\nFri - Sat: 11:00 am - 6:00 pm\r\nSun: 12:00 pm - 5:30 pm", 
+                            "id": "oE1miM", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -41.2954656, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 173.2411911, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+64 3-547 8097", 
+                            "postalCode": "7010", 
+                            "region": "Nelson", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "89 Pascoe St", 
+                            "updateDate": "2014-02-06 16:06:17", 
+                            "website": "http://baysbrewery.co.nz/", 
+                            "yearOpened": "1993"
+                        }
+                    ], 
+                    "name": "Bays Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-06 16:06:35", 
+                    "website": "http://www.baysbrewery.co.nz"
+                }
+            ], 
+            "createDate": "2014-02-05 22:21:32", 
+            "description": "This New Zealand style Pale Ale creates a mildly hopped aroma profile combined with a subtle malt balance. Harleys takes a traditional English Pale Ale and adds some specialty New Zealand hops and malt. Harleys is named after Nelson\u2019s early iconic brewer, (who became one of Nelson City\u2019s most eminent forefathers.) Not to be confused with the original Harleys brew, this new and improved beer creates a significantly different taste profile altogether. Enjoy a Harleys Pale Ale at local pubs and restaurants.", 
+            "foodPairings": "Indian or Mediterranean food along with Shellfish", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "5ur2R8", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/5ur2R8/upload_QUjC9w-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/5ur2R8/upload_QUjC9w-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/5ur2R8/upload_QUjC9w-medium.png"
+            }, 
+            "name": "Harleys Premium Ale", 
+            "servingTemperature": "very_cold", 
+            "servingTemperatureDisplay": "Very Cold - (0-4C/32-39F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "6.2", 
+                "abvMin": "4.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This style is a mild, pale, light-bodied ale with a color varying from light to amber. Hop bitterness and flavor range from very low to low. Hop aroma is often absent. A fruity or estery aroma should be perceived. Diacetyl should be very low. DMS and chill haze should not present.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "20", 
+                "id": 74, 
+                "name": "Australasian-Style Pale Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "14", 
+                "srmMin": "5"
+            }, 
+            "styleId": 74, 
+            "updateDate": "2014-02-06 16:21:03"
+        }, 
+        {
+            "abv": "4.2", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "id": "mqdIn6", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/mqdIn6/upload_CXjMnl-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/mqdIn6/upload_CXjMnl-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/mqdIn6/upload_CXjMnl-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "id": "zK0nK8", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -33.8866587, 
+                            "locality": "Camperdown", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 151.174297, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "61-(02)-9519-3579", 
+                            "region": "New South Wales", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "99 Pyrmont Bridge Road", 
+                            "updateDate": "2012-03-21 19:08:13", 
+                            "website": "http://www.maltshovel.com.au/"
+                        }
+                    ], 
+                    "name": "Malt Shovel Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-03 23:09:21", 
+                    "website": "http://www.maltshovel.com.au/"
+                }
+            ], 
+            "createDate": "2014-05-11 07:50:55", 
+            "id": "CxsOV6", 
+            "isOrganic": "N", 
+            "name": "James Squire 150 Lashes", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "6.2", 
+                "abvMin": "4.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This style is a mild, pale, light-bodied ale with a color varying from light to amber. Hop bitterness and flavor range from very low to low. Hop aroma is often absent. A fruity or estery aroma should be perceived. Diacetyl should be very low. DMS and chill haze should not present.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "20", 
+                "id": 74, 
+                "name": "Australasian-Style Pale Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "14", 
+                "srmMin": "5"
+            }, 
+            "styleId": 74, 
+            "updateDate": "2014-05-12 12:07:48"
+        }, 
+        {
+            "abv": "4.8", 
+            "breweries": [
+                {
+                    "createDate": "2014-02-07 17:54:57", 
+                    "description": "Based in Erina on the beautiful N.S.W Central Coast, situated between sydney and newcastle and proudly the Coast's first homegrown craft brewery . We are 100% locally owned company with a 100% locally made product. \r\n\r\nEstablished in 2012 and officially opening our doors in 2013, Six String Brewing Company is all about great beer and great music! The idea of opening up their own brewery was spawned in 2009 after long term home brewer Chris had had enough of the IT and corporate world took to convincing old school friend, Adam that it was more than just a great idea. After a number of 'research trips' to Western Australia, New Zealand and the U.S it was a good 12 months before the idea got off the ground and the reality of what was involved began to hit home. After a number of false starts and a marathon of bureaucratic hurdles  the current location was secured in 2012 and the real fun of setting up the brew house and taproom began. \r\n\r\nSix String Brewing company has in the short time its been open has with chris' brews and Adams sales expertise gone from strength to strength and hope to continue spreading word of the craft beer revolution happening across Australia starting with the Central Coast.", 
+                    "established": "2012", 
+                    "id": "5BnR5B", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/5BnR5B/upload_0Ltc0R-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/5BnR5B/upload_0Ltc0R-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/5BnR5B/upload_0Ltc0R-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2014-02-08 17:26:06", 
+                            "hoursOfOperation": "Wed - Thu: 12:00 pm - 6:00 pm\r\nFri - Sat: 12:00 pm - 10:00 pm\r\nSun: 12:00 pm - 5:00 pm", 
+                            "id": "zPFsEi", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -33.4276774, 
+                            "locality": "Erina", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 151.3952755, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+61 2 4365 4536", 
+                            "postalCode": "2250", 
+                            "region": "New South Wales", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4/330 The Entrance Road", 
+                            "updateDate": "2014-02-08 17:26:06", 
+                            "website": "http://www.sixstringbrewing.com.au"
+                        }
+                    ], 
+                    "name": "Six String Brewing Co", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-08 17:27:44", 
+                    "website": "http://www.sixstringbrewing.com.au/"
+                }
+            ], 
+            "createDate": "2014-02-07 18:09:17", 
+            "description": "As you might expect from a beer that\u2019s a hybrid between American and Australian Pale Ales, this beer does its stock and trade on fruity and floral hop characters. But, really, in this day and age it seems you can\u2019t go and release a Pale Ale without having it loaded with hops \u2013 you\u2019ll be laughed out of the brewery. No chance here though; hops from the two countries give a heap of passionfruit, mango and citrus aromas. But it\u2019s not all in the head. While the beer has been designed to have a clean and dry finish, over the top of the malt you get the hop characters coming through again. That helps add bitterness which contributes to a refreshing beer that doesn\u2019t lack for flavour. The best way to sum up this beer? It\u2019s just feels really good to drink.", 
+            "id": "ABe4OS", 
+            "isOrganic": "N", 
+            "name": "Pale Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "6.2", 
+                "abvMin": "4.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This style is a mild, pale, light-bodied ale with a color varying from light to amber. Hop bitterness and flavor range from very low to low. Hop aroma is often absent. A fruity or estery aroma should be perceived. Diacetyl should be very low. DMS and chill haze should not present.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "20", 
+                "id": 74, 
+                "name": "Australasian-Style Pale Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "14", 
+                "srmMin": "5"
+            }, 
+            "styleId": 74, 
+            "updateDate": "2014-02-08 17:50:52"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2014-02-06 21:39:39", 
+                    "description": "We are an Australian-owned and operated brewery lead by fifth and sixth generation convict descendants. Our craft beers will bring to life the true stories of early Australian convicts and settlers, beginning with traditional, great tasting ales - just like your grandfathers\u2019 grandfather drank.\r\n\r\nRocks Brewing Co beers will amaze beer lovers with their complex and sophisticated flavours, which are achieved while staying true to our simple brewing process -\r\n\u201cNothing but Barley, Hops, Water & Yeast.\u201d\r\n\r\nOur first batch of Red Ale was brewed September 2008. Since then we have created plenty of other beers, along with a cider.\r\n\r\nRocks beers are currently available on tap in selected pubs and restaurants as well as in bottles at good craft beer retailers. Keep an eye out for our distinctive logos on the taps and in the fridges of all good drinking establishments, we're bound to be there.", 
+                    "established": "2008", 
+                    "id": "u0ZLYp", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/u0ZLYp/upload_7fQw9a-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/u0ZLYp/upload_7fQw9a-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/u0ZLYp/upload_7fQw9a-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2014-02-08 15:37:28", 
+                            "id": "fBCDAf", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -33.9186331, 
+                            "locality": "Alexandria", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 151.1881408, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+61 2 9669 3722", 
+                            "postalCode": "2015", 
+                            "region": "Sydney", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "160 Bourke Rd", 
+                            "updateDate": "2014-02-08 15:37:28", 
+                            "website": "http://www.rocksbrewing.com"
+                        }
+                    ], 
+                    "name": "Rocks Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-03 23:10:09", 
+                    "website": "http://hartspub.com/rocksbrewing/Home.htm"
+                }
+            ], 
+            "createDate": "2014-02-06 21:41:55", 
+            "description": "Hangings were frequent in the early days of Sydney Town.  The first gaol on George Street, now the Four Seasons Hotel, was the site of hundreds of hangings. The hill above (where Harts Pub is situated) was referred to as Gallows Hill, where locals would gather to watch the hangman work. Alexander Green, a convict in his own right, was appointed to the position of public executioner in 1828 and during 27 years hung over 490 people, including 6 women. He was instantly recognisable, having a livid scar down the side of his face \u2013 the result of an axe attack by a prisoner. In early May 1855 he was committed to a lunatic asylum for the remainder of his life.", 
+            "id": "H657xU", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/H657xU/upload_9QbGEn-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/H657xU/upload_9QbGEn-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/H657xU/upload_9QbGEn-medium.png"
+            }, 
+            "name": "The Hangman", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "6.2", 
+                "abvMin": "4.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This style is a mild, pale, light-bodied ale with a color varying from light to amber. Hop bitterness and flavor range from very low to low. Hop aroma is often absent. A fruity or estery aroma should be perceived. Diacetyl should be very low. DMS and chill haze should not present.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "20", 
+                "id": 74, 
+                "name": "Australasian-Style Pale Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "14", 
+                "srmMin": "5"
+            }, 
+            "styleId": 74, 
+            "updateDate": "2014-02-08 17:51:26"
+        }, 
+        {
+            "abv": "4", 
+            "breweries": [
+                {
+                    "createDate": "2014-02-11 17:53:41", 
+                    "description": "Based in Port Macquarie, the Black Duck Brewery offers a friendly, relaxed venue to try the range of locally brewed beers while you catch up with friends and family or just enjoy your break.\r\n With the full range beers on tap, local food platters, local produce, and much more to come, the Black Duck Brewery is a must visit destination on the Mid North Coast.\r\nSpend some time, meet the brewer, do the tour and experience the Black Duck Brewery.\r\n\r\nTo ensure satisfaction, all the Black Duck Brewery beers are \r\nbrewed and packaged on site. We do occasionally carry another small brewery's beer on tap to both support them and give you another beer experience.\r\n\r\nNon beer drinkers can enjoy some Apple Cider, a glass of local wine, some local soft drink or even a deliciously well crafted locally roasted coffee.\r\n\r\nThe Ploughman\u2019s platters are popular with a generous serve of \r\nlocal beer bread, ham, olives, relish and a few other tasty goodies.\r\nThe brewery hours are 10am to 6pm Thursday and Friday, 10am to 4pm Saturday and Sunday. \r\n\r\nYou can find us at 6B Acacia Avenue, Port Macquarie.\r\nYou can give the brewer a call on 0407 874 474 if you want to know more. \r\nGive us a call if you have a group and want some nibbles to ensure we have plenty.", 
+                    "id": "V0T8uP", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/V0T8uP/upload_Zb4vaQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/V0T8uP/upload_Zb4vaQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/V0T8uP/upload_Zb4vaQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2014-02-11 23:15:09", 
+                            "hoursOfOperation": "Thu - Fri: 10:00 am - 6:00 pm\r\nSat - Sun: 10:00 am - 4:00 pm", 
+                            "id": "drNCMo", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -31.444675, 
+                            "locality": "Port Macquarie", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 152.885941, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+61 407 874 474", 
+                            "postalCode": "2444", 
+                            "region": "New South Wales", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6B Acacia Avenue", 
+                            "updateDate": "2014-02-11 23:15:09", 
+                            "website": "http://www.blackduckbrewery.com.au", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Black Duck Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-11 23:15:24", 
+                    "website": "http://www.blackduckbrewery.com.au/"
+                }
+            ], 
+            "createDate": "2014-02-11 18:04:41", 
+            "description": "This is an Australian pale ale with a good malt presence backed up with good Aussie grown hops for flavour and aroma. The Platypus name comes from the duck (us), and the bill, (Willamette hops). The grey is the belly colour of the monotreme and Holden has a Platypus Grey they used on older models. This beer is built for the Australian palate and as with all our beers is preservative free so it can be enjoyed.", 
+            "ibu": "23", 
+            "id": "IDycg3", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/IDycg3/upload_ruPXts-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/IDycg3/upload_ruPXts-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/IDycg3/upload_ruPXts-medium.png"
+            }, 
+            "name": "The Platypus", 
+            "srm": {
+                "hex": "B04500", 
+                "id": 17, 
+                "name": "17"
+            }, 
+            "srmId": 17, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "6.2", 
+                "abvMin": "4.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This style is a mild, pale, light-bodied ale with a color varying from light to amber. Hop bitterness and flavor range from very low to low. Hop aroma is often absent. A fruity or estery aroma should be perceived. Diacetyl should be very low. DMS and chill haze should not present.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "20", 
+                "id": 74, 
+                "name": "Australasian-Style Pale Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "14", 
+                "srmMin": "5"
+            }, 
+            "styleId": 74, 
+            "updateDate": "2014-02-11 23:59:17"
+        }, 
+        {
+            "abv": "4.9", 
+            "breweries": [
+                {
+                    "createDate": "2014-02-06 21:29:11", 
+                    "description": "In 1986, the Lord was taken over by its current custodians, including Managing Director Blair Hayden. With the aid of an 1852 photograph the new custodians took a beautiful old pub and restored it to its former Colonial glory. A stunning sandstone fa\u00e7ade was revealed along with many convict made chisel marks on the locally quarried stone.\r\n\r\nIn keeping with the ambience of the architecture the new custodians were inspired to create beers in the style of the traditional English style ale with no added sugar and extremely full flavoured \u2013 instead of lager as made by the big Brewers dominating the market.\r\n\r\nA microbrewery was built in the back area of the bar and cellar and the rest is history. Over a quarter century in fact.", 
+                    "established": "1986", 
+                    "id": "HgqXPO", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/HgqXPO/upload_xmJvsb-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/HgqXPO/upload_xmJvsb-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/HgqXPO/upload_xmJvsb-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2014-02-08 17:33:45", 
+                            "hoursOfOperation": "Mon - Sat: 11:00 am - 11:00 pm\r\nSun: 12:00 pm - 10:00 pm", 
+                            "id": "E2hUXa", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -33.858176, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 151.203357, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+61 2 9251 4044", 
+                            "postalCode": "2000", 
+                            "region": "Sydney", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "19 Kent St", 
+                            "updateDate": "2014-02-08 17:33:45", 
+                            "website": "http://www.lordnelsonbrewery.com"
+                        }
+                    ], 
+                    "name": "Lord Nelson Brewery Hotel", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-08 17:34:57", 
+                    "website": "http://www.lordnelsonbrewery.com/"
+                }
+            ], 
+            "createDate": "2014-02-06 21:34:57", 
+            "description": "Australian Pale Ale - delightfully balanced malt, overtones of herbaceous hop characters, citrus flora's and aromas. Medium gold in colour.", 
+            "id": "Q8uhVB", 
+            "isOrganic": "N", 
+            "name": "Three Sheets", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "6.2", 
+                "abvMin": "4.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This style is a mild, pale, light-bodied ale with a color varying from light to amber. Hop bitterness and flavor range from very low to low. Hop aroma is often absent. A fruity or estery aroma should be perceived. Diacetyl should be very low. DMS and chill haze should not present.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "20", 
+                "id": 74, 
+                "name": "Australasian-Style Pale Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "14", 
+                "srmMin": "5"
+            }, 
+            "styleId": 74, 
+            "updateDate": "2014-02-08 17:51:27"
+        }, 
+        {
+            "abv": "4.5", 
+            "breweries": [
+                {
+                    "createDate": "2014-02-14 17:33:08", 
+                    "description": "McLaren Vale Beer Company was founded by a couple of Craft Beer loving, proud South Australian mates, who enjoyed decades of heading down to the Vale from Adelaide for summer holidays and long weekends. Being lovers of great food and beverage and local produce, the rich tapestry of McLaren Vale always delivered. As the boys got to know the wine community and gained a deeper understanding of the region, they realised there was a tremendous opportunity for a beer producer to add another dimension to the local offering. Beer has long been a popular post-work refreshment for the wine community and we like to think that behind every great wine is great beer.\r\nUs South Aussies are spoilt for choice when it comes to great food, beverage and produce. We have an appreciation for the good things in life, having grown up with such quality at our fingertips. This is the reason we started a beer company in this great state. We feel at home here and with that comes a responsibility to play a part in the great food and beverage offering.", 
+                    "established": "2008", 
+                    "id": "cjTheF", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/cjTheF/upload_KnEOQR-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/cjTheF/upload_KnEOQR-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/cjTheF/upload_KnEOQR-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2014-02-15 12:27:13", 
+                            "id": "udDKeL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -35.211062, 
+                            "locality": "McLaren Vale", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 138.532265, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+61 1300 682 337", 
+                            "postalCode": "5172", 
+                            "region": "South Australia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2014-02-15 12:27:13", 
+                            "website": "http://www.mvbeer.com", 
+                            "yearOpened": "2008"
+                        }
+                    ], 
+                    "name": "McLaren Vale Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-15 12:28:14", 
+                    "website": "http://www.mvbeer.com/"
+                }
+            ], 
+            "createDate": "2014-02-14 17:58:14", 
+            "description": "An Australian pale ale with a refreshing balance of malt, hops and yeast characters. hop additions of amarillo and cascade give a wonderful fresh crisp finish with lingering flavors of citrus, passionfruit and peaches. the hop flavors and aromas are matched beautifully with the sweet honey finish from crystal malt.", 
+            "ibu": "25", 
+            "id": "Hij730", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Hij730/upload_0XX0IX-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Hij730/upload_0XX0IX-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Hij730/upload_0XX0IX-medium.png"
+            }, 
+            "name": "Vale /Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "6.2", 
+                "abvMin": "4.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This style is a mild, pale, light-bodied ale with a color varying from light to amber. Hop bitterness and flavor range from very low to low. Hop aroma is often absent. A fruity or estery aroma should be perceived. Diacetyl should be very low. DMS and chill haze should not present.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "20", 
+                "id": 74, 
+                "name": "Australasian-Style Pale Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "14", 
+                "srmMin": "5"
+            }, 
+            "styleId": 74, 
+            "updateDate": "2014-02-15 12:46:35"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 11
+}

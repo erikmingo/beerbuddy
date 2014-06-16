@@ -1,0 +1,1950 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "4.7", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:06", 
+                    "description": "At the world's largest wheat beer brewery, tradition and progress go hand in hand: our beer is brewed according to traditional recipes, but using state-of-the-art technology. Today, beer connoisseurs in Germany and around the world regard our traditional specialty beers from Erding, Bavaria, as the ultimate in wheat beer enjoyment.\r\n\r\nThe beginnings of Erdinger Weissbr\u00e4u date back to 1886, the year in which construction of a wheat beer brewery in Erding was first officially recorded. After several changes in ownership, the General Manager at the time, Franz Brombach, bought the brewery in 1935 and re-named it Erdinger Weissbr\u00e4u on December 27, 1949.\r\n\r\nIn 1965, the son of Franz Brombach, Werner Brombach, entered the business. He took over the private brewery in 1975 and still leads his father's successful business today. In addition to a strong emphasis on quality, Werner Brombach focuses above all on a targeted sales and promotion strategy with a clear brand identity, which highlights the values of the old Bavarian beer specialty and its superior quality standards.\r\n\r\nToday, Erdinger weissbier stands for wheat beer enjoyment and the Bavarian brewing tradition. The traditional brewery has established itself as the national and international market leader for weissbier. As one of Germany's largest private breweries, Erdinger Weissbr\u00e4u is among the leaders on the national German beer market.", 
+                    "established": "1886", 
+                    "id": "m9SH4l", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/m9SH4l/upload_FwusIa-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/m9SH4l/upload_FwusIa-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/m9SH4l/upload_FwusIa-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:42:06", 
+                            "id": "qVyAhN", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.31532, 
+                            "locality": "Erding", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 11.89111, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "49-(0)8122-/-4090", 
+                            "region": "Bayern", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Franz-Brombach-Strae 1-20", 
+                            "updateDate": "2012-03-21 19:08:15"
+                        }
+                    ], 
+                    "name": "Privatbrauerei Erdinger Weissbr\u00e4u", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-05 12:00:55", 
+                    "website": "http://www.erdinger.de"
+                }
+            ], 
+            "createDate": "2014-03-20 12:53:42", 
+            "description": "Erdinger Champ is a wheat beer that is best drank straight from the bottle. This beer has an easy twist open cap in a longneck bottle. The fine yeast used gives the Champ the charachter of a Bavarian wheat beer. It also provides a natural cloudy appearance.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "poWK4l", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/poWK4l/upload_FzUuWT-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/poWK4l/upload_FzUuWT-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/poWK4l/upload_FzUuWT-medium.png"
+            }, 
+            "name": "Erdinger Champ", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2014-03-20 17:59:35"
+        }, 
+        {
+            "abv": "5.3", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:06", 
+                    "description": "At the world's largest wheat beer brewery, tradition and progress go hand in hand: our beer is brewed according to traditional recipes, but using state-of-the-art technology. Today, beer connoisseurs in Germany and around the world regard our traditional specialty beers from Erding, Bavaria, as the ultimate in wheat beer enjoyment.\r\n\r\nThe beginnings of Erdinger Weissbr\u00e4u date back to 1886, the year in which construction of a wheat beer brewery in Erding was first officially recorded. After several changes in ownership, the General Manager at the time, Franz Brombach, bought the brewery in 1935 and re-named it Erdinger Weissbr\u00e4u on December 27, 1949.\r\n\r\nIn 1965, the son of Franz Brombach, Werner Brombach, entered the business. He took over the private brewery in 1975 and still leads his father's successful business today. In addition to a strong emphasis on quality, Werner Brombach focuses above all on a targeted sales and promotion strategy with a clear brand identity, which highlights the values of the old Bavarian beer specialty and its superior quality standards.\r\n\r\nToday, Erdinger weissbier stands for wheat beer enjoyment and the Bavarian brewing tradition. The traditional brewery has established itself as the national and international market leader for weissbier. As one of Germany's largest private breweries, Erdinger Weissbr\u00e4u is among the leaders on the national German beer market.", 
+                    "established": "1886", 
+                    "id": "m9SH4l", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/m9SH4l/upload_FwusIa-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/m9SH4l/upload_FwusIa-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/m9SH4l/upload_FwusIa-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:42:06", 
+                            "id": "qVyAhN", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.31532, 
+                            "locality": "Erding", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 11.89111, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "49-(0)8122-/-4090", 
+                            "region": "Bayern", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Franz-Brombach-Strae 1-20", 
+                            "updateDate": "2012-03-21 19:08:15"
+                        }
+                    ], 
+                    "name": "Privatbrauerei Erdinger Weissbr\u00e4u", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-05 12:00:55", 
+                    "website": "http://www.erdinger.de"
+                }
+            ], 
+            "createDate": "2014-03-20 12:51:18", 
+            "description": "Erdinger Weissbier Cristal is a specialty wheat beer that goes through a fine filtration process that makes this a clear beer. Erdinger Weissbier has a sparkling and refreshing character and has a wheaty taste. This beer is brewed according to a traditional recipe, which leaves a smooth aftertaste on the palate.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "DUnVvK", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/DUnVvK/upload_IVC7rv-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/DUnVvK/upload_IVC7rv-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/DUnVvK/upload_IVC7rv-medium.png"
+            }, 
+            "name": "Erdinger Kristall", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2014-03-26 10:39:34"
+        }, 
+        {
+            "abv": "5.6", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:06", 
+                    "description": "At the world's largest wheat beer brewery, tradition and progress go hand in hand: our beer is brewed according to traditional recipes, but using state-of-the-art technology. Today, beer connoisseurs in Germany and around the world regard our traditional specialty beers from Erding, Bavaria, as the ultimate in wheat beer enjoyment.\r\n\r\nThe beginnings of Erdinger Weissbr\u00e4u date back to 1886, the year in which construction of a wheat beer brewery in Erding was first officially recorded. After several changes in ownership, the General Manager at the time, Franz Brombach, bought the brewery in 1935 and re-named it Erdinger Weissbr\u00e4u on December 27, 1949.\r\n\r\nIn 1965, the son of Franz Brombach, Werner Brombach, entered the business. He took over the private brewery in 1975 and still leads his father's successful business today. In addition to a strong emphasis on quality, Werner Brombach focuses above all on a targeted sales and promotion strategy with a clear brand identity, which highlights the values of the old Bavarian beer specialty and its superior quality standards.\r\n\r\nToday, Erdinger weissbier stands for wheat beer enjoyment and the Bavarian brewing tradition. The traditional brewery has established itself as the national and international market leader for weissbier. As one of Germany's largest private breweries, Erdinger Weissbr\u00e4u is among the leaders on the national German beer market.", 
+                    "established": "1886", 
+                    "id": "m9SH4l", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/m9SH4l/upload_FwusIa-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/m9SH4l/upload_FwusIa-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/m9SH4l/upload_FwusIa-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:42:06", 
+                            "id": "qVyAhN", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.31532, 
+                            "locality": "Erding", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 11.89111, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "49-(0)8122-/-4090", 
+                            "region": "Bayern", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Franz-Brombach-Strae 1-20", 
+                            "updateDate": "2012-03-21 19:08:15"
+                        }
+                    ], 
+                    "name": "Privatbrauerei Erdinger Weissbr\u00e4u", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-05 12:00:55", 
+                    "website": "http://www.erdinger.de"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:10", 
+            "description": "In December 1997 Erdinger Weissbr\u00e4u decided to liven up the cold winter months with a new wheat beer specialty. This first beer specially brewed for the winter season was christened Erdinger Schneewei\u00dfe.\r\n\r\nSlightly darker and stronger than classic Erdinger Weissbier \"with fine yeast\", our new \"Schneewei\u00dfe\" wheat beer is a welcome change during the cold winter months - the perfect time for a little indulgence!\r\n\r\nErdinger Schneewei\u00dfe uses the first malts from the summer harvest. It's not until mid October that the wheat beer specialty develops its amber color and spicy flavor - a result of its long maturing period. \"Schneewei\u00dfe\" goes particularly well with hearty food - something not uncommon during the Christmas season!\r\n\r\nThe seasonal beer is available from November to February.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "HDGdZW", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/HDGdZW/upload_ZKzaL2-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/HDGdZW/upload_ZKzaL2-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/HDGdZW/upload_ZKzaL2-medium.png"
+            }, 
+            "name": "Erdinger Schneewei\u00dfe", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2014-04-16 16:52:29"
+        }, 
+        {
+            "abv": "6.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:11", 
+                    "description": "VPB is the third oldest brewpub on the East Coast.", 
+                    "established": "1988", 
+                    "id": "HAszUa", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:11", 
+                            "hoursOfOperation": "Sun-Wed 11:30 a.m. to 1 a.m. \r\nThu-Sat   11:30 a.m. to 2 a.m.", 
+                            "id": "sBybsd", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.477262, 
+                            "locality": "Burlington", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -73.214394, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(802) 865-0500", 
+                            "postalCode": "5401", 
+                            "region": "Vermont", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "144 College St.", 
+                            "updateDate": "2012-04-18 23:42:08", 
+                            "website": "http://www.vermontbrewery.com/"
+                        }
+                    ], 
+                    "name": "Vermont Pub & Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-24 03:40:05", 
+                    "website": "http://www.vermontbrewery.com/"
+                }
+            ], 
+            "createDate": "2012-04-24 03:33:08", 
+            "description": "2006 Great International Beer Festival Silver Medal Winner\r\n\r\nA light, refreshing fruit beer fermented with over 500 pounds of real raspberries! At 6.2% ABV it is in the early reaches of the strong category! This ruby red, sour mashed and oak aged weiss bi\u00e8re is for everyone. Maybe some oak, cherry and vanilla come through? Try mixing it with our currently offered stout, on tap. It is real, it is right and it works. The freshest framboise on tap in town, no question.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 8, 
+                "name": "Tulip"
+            }, 
+            "glasswareId": 8, 
+            "id": "NUoApN", 
+            "ingredients": {
+                "misc": [
+                    {
+                        "category": "misc", 
+                        "categoryDisplay": "Miscellaneous", 
+                        "createDate": "2013-06-24 16:08:42", 
+                        "id": 1391, 
+                        "name": "Rasberries"
+                    }
+                ]
+            }, 
+            "isOrganic": "N", 
+            "name": "Forbidden Fruit", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2012-04-24 03:33:27"
+        }, 
+        {
+            "abv": "3.9", 
+            "breweries": [
+                {
+                    "createDate": "2014-02-06 22:27:52", 
+                    "description": "We are very proud of what the Flat Rock Brew Cafe stands for, and with our dedicated and friendly staff, look forward to seeing all our friends, locals and appreciators of beer, wine and cider!\r\n \r\nBeer is certainly our focus and our aim is for customers to walk out of the cafe more enlightened about this great beverage, than when they came in.  The Flat Rock Brew Cafe is home to a working 'nano-brewery' and a member of the Craft Beer Industry Association. The brewhouse itself consists of a Braumeister system, one very familiar to home brewers. German made, it provides efficiency in the brewing process and was selected for its compact design. For those who want to really explore the world of beer, we offer unique beer tasting events and brewery tours.\r\n \r\nSomething that is important to us is supporting the local community and since opening, we have been involved in many fund raising events for a number of local schools and businesses. We have also become the venue of choice for community meetings from sporting clubs to pre-schools.\r\n \r\nOur great range of wines and ciders are mostly Australian as we aim to support local producers.\r\n \r\nOur food is highly regarded and compliments our range of beverages. From share plates to weekly curry specials, there's always something for everyone including vegetarian and gluten-free options.\r\n \r\nWe truly appreciate the support you have all given us since opening and we look forward to seeing you here at Flat Rock Brew Cafe in the near future.", 
+                    "id": "kxjm18", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/kxjm18/upload_ikbsPL-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/kxjm18/upload_ikbsPL-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/kxjm18/upload_ikbsPL-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2014-02-08 15:55:14", 
+                            "hoursOfOperation": "Wed - Fri: 3:00 pm - 11:00 pm\r\nSat: 12:00 pm - 11:00 pm\r\nSun: 12:00 pm - 10:00 pm", 
+                            "id": "W8Mdcy", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -33.817406, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 151.200852, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+61 2 9460 6696", 
+                            "postalCode": "2065", 
+                            "region": "Sydney", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "290 Willoughby Road", 
+                            "updateDate": "2014-02-08 15:55:14", 
+                            "website": "http://www.flatrockbrewcafe.com.au"
+                        }
+                    ], 
+                    "name": "Flat Rock Brew Cafe", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-08 15:55:44", 
+                    "website": "http://www.flatrockbrewcafe.com.au/"
+                }
+            ], 
+            "createDate": "2014-02-06 23:01:47", 
+            "description": "Brewed to style using authentic German malts and noble hops, this beer typically has hints of banana and clove from the yeast. This is a very refreshing beer, ideal for an Australian summer day and will accompany a large range of foods on our menu.", 
+            "id": "kMyMZE", 
+            "isOrganic": "N", 
+            "name": "German Weiss", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2014-02-08 17:50:41"
+        }, 
+        {
+            "abv": "5.3", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:05", 
+                    "description": "The name of the Paulaner brewery refers to the order of friars that resided in Neuhauser Stra\u00dfe in Munich who were part of the order of Saint Francis of Paola. The monks had brewed beer for their own use since 1634. The beer that was permitted to be sold on holidays was a Bock style which gained local fame. After the abolition of the Neudeck Cloister in 1799, the building was converted into a penitentiary. Franz Xaver Zacherl, the brewer, purchased the former cloister brewery and continued the Starkbier tradition with the product Salvator, which is latin for Saviour. In 1861 the Salvatorkeller (Salvator cellar) was opened upon Nockherberg. In 1928 the brewery merged with the Gebr\u00fcder Thomas brewery creating Paulaner Salvator Thomas Br\u00e4u. 1994 saw the acquisition into the Kulmbacher brewery group with the affiliated producers Plauen and Chemnitz. A daughter company is the Auer Br\u00e4u AG Rosenheim. Paulaner belongs to the BHI (Brau Holding International AG), a joint venture between Sch\u00f6rghuber Ventures (50.1%) and with Holland's Heineken N.V. (49.9%).", 
+                    "established": "1634", 
+                    "id": "jCUFvI", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/jCUFvI/upload_Duz4H9-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/jCUFvI/upload_Duz4H9-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/jCUFvI/upload_Duz4H9-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:42:05", 
+                            "hoursOfOperation": "Tours: Monday to Friday, 12.30 p.m. and 15.30 p.m.", 
+                            "id": "qCeB9c", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.123375, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 11.579796, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "089 / 48 00 5-871", 
+                            "postalCode": "81541", 
+                            "region": "M\u00fcnchen", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Falkenstra\u00dfe 11", 
+                            "updateDate": "2012-08-02 17:13:11", 
+                            "website": "http://www.paulaner.com/", 
+                            "yearOpened": "1634"
+                        }
+                    ], 
+                    "mailingListUrl": "http://www.paulaner.com/dynamic/contactForm/com", 
+                    "name": "Paulaner", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-06 11:59:44", 
+                    "website": "http://www.paulaner.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:19", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "TPTX6g", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/TPTX6g/upload_73VYQF-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/TPTX6g/upload_73VYQF-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/TPTX6g/upload_73VYQF-medium.png"
+            }, 
+            "name": "Hacker-Pschorr Dunkel Weisse", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2014-04-28 11:07:24"
+        }, 
+        {
+            "abv": "5.3", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:00", 
+                    "description": "The brewery was founded on 4 February 1803 by John Haas. His father, Johann Eberhard Haas chatted in Krombach an inn. As for a Regulation of 25 July 1618 serving of beer was only allowed if the restaurant also had its own brewery and a malt kiln, John Haas set up a brewery in the family business. \r\n\r\nThe water for the brewery (\"Hasbrauerei\") they picked first in barrels from a spring at the foot of the Grumbergs in the west of the village by bullock carts to brewery. 1854 had a brewery owner Haas church annual 17 Gulden (Florin) pay rent that the water pipeline was conducted on church land to the village.", 
+                    "established": "1803", 
+                    "id": "AP2EQU", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/AP2EQU/upload_zrUQP7-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/AP2EQU/upload_zrUQP7-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/AP2EQU/upload_zrUQP7-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:42:00", 
+                            "id": "yhMoEc", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.99106, 
+                            "locality": "Kreuztal-Krombach,", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 7.95535, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(2732) 880 380", 
+                            "postalCode": "57223", 
+                            "region": "North Rhine-Westphalia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Hagener Stra\u00dfe 261", 
+                            "updateDate": "2012-03-21 19:08:12", 
+                            "website": "http://www.krombacher.de/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:45:53", 
+                            "id": "UfxKKB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 51.503106, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 7.497394, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "region": "Nordrhein-Westfalen", 
+                            "status": "deleted", 
+                            "statusDisplay": "Deleted", 
+                            "updateDate": "2012-08-16 15:40:39"
+                        }
+                    ], 
+                    "name": "Krombacher Gruppe", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-05 12:02:36", 
+                    "website": "http://www.krombacher.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 12:14:27", 
+            "description": "Our perfect wheat beer that stands above all: the taste. Impressive full-bodied, fruity and tangy.These impressive taste, we have developed in close collaboration with the real beer experts: you.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "eJ1xBq", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/eJ1xBq/upload_YPUsJa-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/eJ1xBq/upload_YPUsJa-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/eJ1xBq/upload_YPUsJa-medium.png"
+            }, 
+            "name": "Krombacher Weizen", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2014-04-19 22:08:15"
+        }, 
+        {
+            "abv": "5.3", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:00", 
+                    "description": "The brewery was founded on 4 February 1803 by John Haas. His father, Johann Eberhard Haas chatted in Krombach an inn. As for a Regulation of 25 July 1618 serving of beer was only allowed if the restaurant also had its own brewery and a malt kiln, John Haas set up a brewery in the family business. \r\n\r\nThe water for the brewery (\"Hasbrauerei\") they picked first in barrels from a spring at the foot of the Grumbergs in the west of the village by bullock carts to brewery. 1854 had a brewery owner Haas church annual 17 Gulden (Florin) pay rent that the water pipeline was conducted on church land to the village.", 
+                    "established": "1803", 
+                    "id": "AP2EQU", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/AP2EQU/upload_zrUQP7-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/AP2EQU/upload_zrUQP7-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/AP2EQU/upload_zrUQP7-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:42:00", 
+                            "id": "yhMoEc", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.99106, 
+                            "locality": "Kreuztal-Krombach,", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 7.95535, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(2732) 880 380", 
+                            "postalCode": "57223", 
+                            "region": "North Rhine-Westphalia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Hagener Stra\u00dfe 261", 
+                            "updateDate": "2012-03-21 19:08:12", 
+                            "website": "http://www.krombacher.de/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:45:53", 
+                            "id": "UfxKKB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 51.503106, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 7.497394, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "region": "Nordrhein-Westfalen", 
+                            "status": "deleted", 
+                            "statusDisplay": "Deleted", 
+                            "updateDate": "2012-08-16 15:40:39"
+                        }
+                    ], 
+                    "name": "Krombacher Gruppe", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-05 12:02:36", 
+                    "website": "http://www.krombacher.de/"
+                }
+            ], 
+            "createDate": "2014-04-19 19:28:18", 
+            "description": "Bottle. Creamy off-white excellent fully lasting head. Dark amber colour. Moderate malty and hoppy and yeasty aroma. Moderate bitter flavor. Average moderate bitter finish. Caramel and esters present. Oily palate.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "x58o1C", 
+            "isOrganic": "N", 
+            "name": "Krombacher Weizen Dunkel", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2014-04-19 22:31:10"
+        }, 
+        {
+            "abv": "4.2", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:12", 
+                    "description": "Westbrook Brewing is a new craft brewery in Mt. Pleasant, SC. Our mission is to make the most interesting, drinkable, and generally awesome beer possible. We love experimenting with different ingredients and brewing techniques, and we hope you\u2019ll have as much fun drinking our beer as we do making it.", 
+                    "established": "2010", 
+                    "id": "HPfwPW", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/HPfwPW/upload_qo8ArN-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/HPfwPW/upload_qo8ArN-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/HPfwPW/upload_qo8ArN-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:12", 
+                            "hoursOfOperation": "Thursdays 4-7\r\nFridays 4-7\r\nSaturdays 12-4", 
+                            "id": "rgj6Fa", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 32.846477, 
+                            "locality": "Mt. Pleasant", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.877235, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "843-708-2964", 
+                            "postalCode": "29464", 
+                            "region": "South Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "510 Ridge Road", 
+                            "updateDate": "2012-04-09 19:40:32", 
+                            "website": "http://westbrookbrewing.com/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Westbrook Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-10 13:08:38", 
+                    "website": "http://westbrookbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-04-09 19:24:20", 
+            "description": "This is our interpretation of the traditional German Lichtenhainer Weisse style \u2013 a pale, sour, and smokey wheat ale. Beechwood smoked malt contributes a subtle bacon/ham aroma, followed by substantial lactic tartness backed up by doughy, grainy wheat. Prost!", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 3, 
+                "name": "Mug"
+            }, 
+            "glasswareId": 3, 
+            "ibu": "4", 
+            "id": "IFBjP8", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/IFBjP8/upload_VkpiqF-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/IFBjP8/upload_VkpiqF-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/IFBjP8/upload_VkpiqF-medium.png"
+            }, 
+            "name": "Lichtenhainer", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2012-04-09 19:24:44"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2013-06-26 01:24:33", 
+                    "description": "Frey's Brewing Company is a small, Farmhouse Brewery in Frederick County, Maryland. Frederick County is home to several wineries and craft breweries. A small farmhouse brewery such as ours fits in the area nicely.\r\n\r\nWe received our Maryland Beer Manufacturer's Class 5 license on February 1st, 2013. We are allowed to sell beer for off-premise consumption directly to customers that have taken a tour of the brewery - but the amount is limited to 288 ounces. We are currently not allowed to do tastings at our facility, nor allow on-premise consumption of alcohol (unless it is part of a scheduled event). As of July 1st, 2013, we can refill growlers - so bring in your clean growler and we'll fill it up!", 
+                    "established": "2012", 
+                    "id": "imTpCp", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/imTpCp/upload_dgqPn7-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/imTpCp/upload_dgqPn7-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/imTpCp/upload_dgqPn7-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-26 12:17:14", 
+                            "id": "DBGYX8", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.468591, 
+                            "locality": "Mount Airy", 
+                            "locationType": "nano", 
+                            "locationTypeDisplay": "Nano Brewery", 
+                            "longitude": -77.202837, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "21771", 
+                            "region": "Maryland", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "8601 Mapleville Road", 
+                            "updateDate": "2013-06-26 12:17:14", 
+                            "website": "http://freysbrewing.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Frey's Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-04 13:09:55", 
+                    "website": "http://freysbrewing.com"
+                }
+            ], 
+            "createDate": "2013-06-26 18:03:15", 
+            "id": "f3IfGs", 
+            "isOrganic": "N", 
+            "name": "Luftwaffe Weiss", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2013-06-26 18:07:30"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2014-04-09 22:14:11", 
+                    "description": "Moscow Brewing Company entered the Russian beverage market with products of own production in September 2008. The company consists of the most modern brewery in Russia, as well as its own distribution and logistics centers located three kilometers from the Moscow Ring Road (in Mytischi) in an ecologically clean area. Partners of the project and Sberbank of Russia Investment Fund Detroit Investments, total investment amounted to over $ 300 million.", 
+                    "established": "2008", 
+                    "id": "u7xp1I", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Russian Federation", 
+                                "isoCode": "RU", 
+                                "isoThree": "RUS", 
+                                "name": "RUSSIAN FEDERATION", 
+                                "numberCode": 643
+                            }, 
+                            "countryIsoCode": "RU", 
+                            "createDate": "2014-04-14 08:44:54", 
+                            "id": "qTom9U", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 55.9300547, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 37.7225856, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+7 (495) 788 54 33", 
+                            "postalCode": "141006", 
+                            "region": "Moscow Region", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Mytishchi Volkovskoye Shosse, 12", 
+                            "updateDate": "2014-04-14 08:44:54", 
+                            "website": "http://www.mosbrew.ru/"
+                        }
+                    ], 
+                    "name": "Moscow Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-14 08:43:12", 
+                    "website": "http://www.mosbrew.ru/"
+                }
+            ], 
+            "createDate": "2014-04-09 22:15:26", 
+            "id": "fgege9", 
+            "isOrganic": "N", 
+            "name": "Oettinger Weiss", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2014-04-14 08:48:09"
+        }, 
+        {
+            "abv": "5.8", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:05", 
+                    "description": "The name of the Paulaner brewery refers to the order of friars that resided in Neuhauser Stra\u00dfe in Munich who were part of the order of Saint Francis of Paola. The monks had brewed beer for their own use since 1634. The beer that was permitted to be sold on holidays was a Bock style which gained local fame. After the abolition of the Neudeck Cloister in 1799, the building was converted into a penitentiary. Franz Xaver Zacherl, the brewer, purchased the former cloister brewery and continued the Starkbier tradition with the product Salvator, which is latin for Saviour. In 1861 the Salvatorkeller (Salvator cellar) was opened upon Nockherberg. In 1928 the brewery merged with the Gebr\u00fcder Thomas brewery creating Paulaner Salvator Thomas Br\u00e4u. 1994 saw the acquisition into the Kulmbacher brewery group with the affiliated producers Plauen and Chemnitz. A daughter company is the Auer Br\u00e4u AG Rosenheim. Paulaner belongs to the BHI (Brau Holding International AG), a joint venture between Sch\u00f6rghuber Ventures (50.1%) and with Holland's Heineken N.V. (49.9%).", 
+                    "established": "1634", 
+                    "id": "jCUFvI", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/jCUFvI/upload_Duz4H9-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/jCUFvI/upload_Duz4H9-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/jCUFvI/upload_Duz4H9-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:42:05", 
+                            "hoursOfOperation": "Tours: Monday to Friday, 12.30 p.m. and 15.30 p.m.", 
+                            "id": "qCeB9c", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.123375, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 11.579796, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "089 / 48 00 5-871", 
+                            "postalCode": "81541", 
+                            "region": "M\u00fcnchen", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Falkenstra\u00dfe 11", 
+                            "updateDate": "2012-08-02 17:13:11", 
+                            "website": "http://www.paulaner.com/", 
+                            "yearOpened": "1634"
+                        }
+                    ], 
+                    "mailingListUrl": "http://www.paulaner.com/dynamic/contactForm/com", 
+                    "name": "Paulaner", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-06 11:59:44", 
+                    "website": "http://www.paulaner.com/"
+                }
+            ], 
+            "createDate": "2014-04-16 16:36:05", 
+            "description": "The name of the beer Paulaner originates from the monks of Saint Francis of Paola, who resided in Neuhauser Stra\u00dfe, in Monaco. Red beer special features a nice contrast between the sweet caramel malt and hop bitterness, they are perceived toasty, spicy and torbate.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "BPGQmJ", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/BPGQmJ/upload_OKmhzd-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/BPGQmJ/upload_OKmhzd-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/BPGQmJ/upload_OKmhzd-medium.png"
+            }, 
+            "name": "Paulaner Munchmarzen", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2014-04-16 16:41:22"
+        }, 
+        {
+            "abv": "5.2", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:05", 
+                    "description": "The name of the Paulaner brewery refers to the order of friars that resided in Neuhauser Stra\u00dfe in Munich who were part of the order of Saint Francis of Paola. The monks had brewed beer for their own use since 1634. The beer that was permitted to be sold on holidays was a Bock style which gained local fame. After the abolition of the Neudeck Cloister in 1799, the building was converted into a penitentiary. Franz Xaver Zacherl, the brewer, purchased the former cloister brewery and continued the Starkbier tradition with the product Salvator, which is latin for Saviour. In 1861 the Salvatorkeller (Salvator cellar) was opened upon Nockherberg. In 1928 the brewery merged with the Gebr\u00fcder Thomas brewery creating Paulaner Salvator Thomas Br\u00e4u. 1994 saw the acquisition into the Kulmbacher brewery group with the affiliated producers Plauen and Chemnitz. A daughter company is the Auer Br\u00e4u AG Rosenheim. Paulaner belongs to the BHI (Brau Holding International AG), a joint venture between Sch\u00f6rghuber Ventures (50.1%) and with Holland's Heineken N.V. (49.9%).", 
+                    "established": "1634", 
+                    "id": "jCUFvI", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/jCUFvI/upload_Duz4H9-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/jCUFvI/upload_Duz4H9-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/jCUFvI/upload_Duz4H9-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:42:05", 
+                            "hoursOfOperation": "Tours: Monday to Friday, 12.30 p.m. and 15.30 p.m.", 
+                            "id": "qCeB9c", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.123375, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 11.579796, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "089 / 48 00 5-871", 
+                            "postalCode": "81541", 
+                            "region": "M\u00fcnchen", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Falkenstra\u00dfe 11", 
+                            "updateDate": "2012-08-02 17:13:11", 
+                            "website": "http://www.paulaner.com/", 
+                            "yearOpened": "1634"
+                        }
+                    ], 
+                    "mailingListUrl": "http://www.paulaner.com/dynamic/contactForm/com", 
+                    "name": "Paulaner", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-06 11:59:44", 
+                    "website": "http://www.paulaner.com/"
+                }
+            ], 
+            "createDate": "2014-03-20 11:58:25", 
+            "description": "Paulaner Weissbier crystal clear - a typical refreshing tangy flavor. Bright, crystal clear, sparkling fine bubbles with the whole wheat flavor.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "MXd5T1", 
+            "isOrganic": "Y", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/MXd5T1/upload_ZcrVx8-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/MXd5T1/upload_ZcrVx8-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/MXd5T1/upload_ZcrVx8-medium.png"
+            }, 
+            "name": "Paulaner Weissbier Kristalklar", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2014-03-20 12:05:25"
+        }, 
+        {
+            "abv": "8", 
+            "available": {
+                "description": "Available during the winter months.", 
+                "id": 8, 
+                "name": "Winter"
+            }, 
+            "availableId": 8, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:00", 
+                    "description": "Live Oak Brewing Company is truly a home-grown Austin enterprise. Two of Austin's own homebrews, Chip McElroy and Brian Peters, literally hand-built the brewery and were the two main brewers, keg washers, delivery persons, and proselytizers. Live Oak has grown since then, but we are still just as passionate about providing delicious old-world style beers that are rarely commercially available. Our special beers are brewed in limited quantities in a small east Austin brewery and are available in fine pubs and restaurants in Austin, Dallas, Houston, Alpine, Marathon, San Marcos and San Antonio.", 
+                    "established": "1997", 
+                    "id": "ZX0hI5", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ZX0hI5/upload_fDpcsV-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ZX0hI5/upload_fDpcsV-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ZX0hI5/upload_fDpcsV-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:00", 
+                            "id": "AButIj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 30.254665, 
+                            "locality": "Austin", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -97.70551, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-512-385-2299", 
+                            "postalCode": "78702", 
+                            "region": "Texas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3301-B East 5th Street", 
+                            "updateDate": "2012-06-26 17:10:03", 
+                            "website": "http://www.liveoakbrewing.com/", 
+                            "yearOpened": "1997"
+                        }
+                    ], 
+                    "name": "Live Oak Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-21 16:33:45", 
+                    "website": "http://www.liveoakbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-06-26 17:12:57", 
+            "description": "Our new winter seasonal, Primus (pronounced, \"pre moose\"), is a dark, rich German-style Weizen beer (beer made with wheat malt) fermented with a very particular strain of brewers' yeast that gives this beer it's unique spicy and fruity character. The unfiltered beer has the characteristic clove and banana flavors familiar to HefeWeizen drinkers but with a darker and richer roasty malt character that is typical of some German-style Bock beers. The alcohol strength will be around 8%.", 
+            "id": "V9HgwO", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/V9HgwO/upload_EYCJ1x-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/V9HgwO/upload_EYCJ1x-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/V9HgwO/upload_EYCJ1x-medium.png"
+            }, 
+            "name": "Primus", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2012-12-21 16:34:46"
+        }, 
+        {
+            "abv": "6", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:07", 
+                    "description": "Our bar carries 9 of our hand-crafted beers on draught and also one cask conditioned beer on a traditional British hand pump.\r\n\r\nOur Scottish brewer brews over 30 different beer styles throughout the year, ranging from American style Wheat beers to Belgian Dubbels and Tripels and of course Scottish Ales.\r\n\r\nUnlike other microbreweries - Our beers do not compromise on flavor!", 
+                    "established": "1998", 
+                    "id": "qmQjPU", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/qmQjPU/upload_0KrWWk-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/qmQjPU/upload_0KrWWk-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/qmQjPU/upload_0KrWWk-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:07", 
+                            "hoursOfOperation": "Tuesday - Thursday: 3:00 p.m. - 10:00 p.m.\r\nFriday: 3:00 p.m. - 12:00 a.m.\r\nSaturday: 2:00 p.m. - 12:00 a.m", 
+                            "id": "HxmssD", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.6858616, 
+                            "locality": "Peoria", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -89.5940051, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "309-674-7267", 
+                            "postalCode": "61601", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "619A Water St", 
+                            "updateDate": "2012-04-13 18:05:11", 
+                            "website": "http://www.rhodells.com/", 
+                            "yearOpened": "1998"
+                        }
+                    ], 
+                    "name": "Rhodell Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-13 18:13:14", 
+                    "website": "http://www.rhodells.com/"
+                }
+            ], 
+            "createDate": "2012-04-13 18:10:29", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "vUsWBq", 
+            "isOrganic": "N", 
+            "name": "River City Weizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2012-04-13 18:10:29"
+        }, 
+        {
+            "abv": "4.9", 
+            "breweries": [
+                {
+                    "createDate": "2012-10-25 12:10:16", 
+                    "description": "Thank you for your interest in Fifty West Brewing Company. Here is a little rundown about what Fifty West is all about:\r\n\r\nAll the beers brewed at Fifty West Brewing Company have been hand made in small batches with a focus on craftsmanship, tradition, innovation, and patience.\r\n\r\nThere are several reasons why we selected the name \u2018Fifty West\u2019; the most obvious being the fact that our brewery is located on Route 50, which extends from Coast to Coast- it spans more than 3,000 miles starting in Maryland and stretching all the way to California. \r\n\r\nThe brewery is located in a building that has a vast and varied transient history (http://www.cincinnati.com/dining/heritage/history.html); from the settlers heading west through the Ohio River valley, to the days of Prohibition when our building was a favorite of George Remus and the bootleggers running whiskey from Cincinnati to Chicago, to where we are today\u2014amidst a renaissance of the craft beer movement.\r\n\r\nTo us, it\u2019s not about the destination, but instead making sure we are enjoying the journey, appreciating the moment, and brewing beers that are enjoyed by anyone who is willing to let us become a part of their journey.", 
+                    "established": "2012", 
+                    "id": "832aZM", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/832aZM/upload_kfBiJc-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/832aZM/upload_kfBiJc-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/832aZM/upload_kfBiJc-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-10-25 12:10:46", 
+                            "id": "qa1QZU", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.138724, 
+                            "locality": "Cincinnati", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -84.353144, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(440) 477-0163", 
+                            "postalCode": "45227", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "7668 Wooster Pike", 
+                            "updateDate": "2012-10-25 12:10:46", 
+                            "website": "http://www.fiftywestbrew.com/"
+                        }
+                    ], 
+                    "name": "Fifty West Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-11-11 15:37:02", 
+                    "website": "http://www.fiftywestbrew.com/"
+                }
+            ], 
+            "createDate": "2013-02-09 16:07:05", 
+            "description": "This German Style Wheat Beer, is brewed with a Yeast that produces fruity estery flavors and aromas of Banana and Clove.  The Malt Comprised of Half Barley Half Wheat entices the pallet with a bready creamy like flavor.  The German Hops and High Carbonation levels produce a crisp and refreshing finish to this Wheat Ale for which John Robinson himself would go Bananas!", 
+            "ibu": "4", 
+            "id": "v1358J", 
+            "isOrganic": "N", 
+            "name": "Robinson's Circus", 
+            "srm": {
+                "hex": "CF6900", 
+                "id": 12, 
+                "name": "12"
+            }, 
+            "srmId": 12, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2013-02-09 19:18:51"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Available during the summer months.", 
+                "id": 6, 
+                "name": "Summer"
+            }, 
+            "availableId": 6, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:05", 
+                    "description": "PPBC is a community centric Brewery serving northern El Paso County and Colorado Springs. \"There are 5 ingredients to great beer: Malt, Hops, Water, Yeast and Friends!\"", 
+                    "established": "2011", 
+                    "id": "FUOlYc", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/FUOlYc/upload_stPXzu-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/FUOlYc/upload_stPXzu-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/FUOlYc/upload_stPXzu-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:05", 
+                            "hoursOfOperation": "Mon -Thu: 11:00 am - 9:00 pm\r\nFri - Sat: 11:00 am - 11:00 pm\r\nSun: 12:00 pm - 9:00 pm", 
+                            "id": "cNm41Y", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.093785, 
+                            "locality": "Monument", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -104.860711, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "719-208-4098", 
+                            "postalCode": "80132", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1756 Lake Woodmoor Dr.", 
+                            "updateDate": "2013-08-10 12:52:51", 
+                            "website": "http://www.pikespeakbrewing.com/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Pikes Peak Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-10 12:52:29", 
+                    "website": "http://www.pikespeakbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:06", 
+            "description": "We do things our own way in the Rockies. Our beer is no different. Take a nice wheat beer and pour in the hops and you get a distinctive, crisp and bold beer that is sure to impress. This is not your typical wheat beer, its profile is as unique and interesting as well... the Rockies.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "rTMDuA", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/rTMDuA/upload_WCYaPq-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/rTMDuA/upload_WCYaPq-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/rTMDuA/upload_WCYaPq-medium.png"
+            }, 
+            "name": "Rocky Wheat", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2013-08-10 12:56:42"
+        }, 
+        {
+            "abv": "5.8", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-28 16:51:35", 
+                    "description": "The Ayinger Brewery (pronounced \"eye-ing-gr\"; German: Brauerei Aying) is a medium-sized German brewery located in Aying, Bavaria, about 25 km from Munich. Approximately 10% of Ayinger beers are exported, mainly to Italy, the United States, and the rest of Europe. Ayinger beers have been frequent award winners in international beer competitions.\r\n\r\nFor some years, a range of beer was brewed under the Ayingerbrau name by Samuel Smith's Brewery in Tadcaster, United Kingdom. Although the Ayinger logo was used, the recipes and range were different from those of the Ayinger Brewery. The arrangement ended in spring 2006, at which point Samuel Smith's rebranded the beers. Distribution of the Ayinger range of beer followed that summer. Because the Oktoberfest in Munich does not allow breweries outside its city limits to participate, Ayinger Brewery organizes many smaller festivals in the countryside around Munich.", 
+                    "id": "QKdFk2", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/QKdFk2/upload_nCGsoa-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/QKdFk2/upload_nCGsoa-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/QKdFk2/upload_nCGsoa-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "name": "Ayinger Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-12-18 12:58:20", 
+                    "website": "http://en.ayinger-bier.de/"
+                }
+            ], 
+            "createDate": "2012-11-05 12:04:42", 
+            "description": "\u201cThe union of wheaty freshness and dark malt often produces a fullness of taste and complexity\u201d, explains the world-famous English beer commentator Michael Jackson. \r\nThis also applies to the Ayinger Ur-Weisse, which is a strong amber-colored, yeast cloudy wheat beer. The beer is strong with the first taste and malty in aroma. The top-fermented, yeasty taste sensation is unmistakable. This beer is rich in sparkle and has just a touch of a special bitter quality. The fruity, malty mild aroma will have you won you over immediately!\r\n\r\nAvailable in 0.5 NRW bottle and 30 liter keg.", 
+            "id": "2PXpHv", 
+            "isOrganic": "N", 
+            "name": "Ur-Weisse", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2012-11-05 12:04:42"
+        }, 
+        {
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:50", 
+                    "description": "Brewing since 1998, Central Waters Brewing Company is built on the solid reputation of producing the finest quality beer in Central Wisconsin: Ouisconsing Red Ale, Happy Heron Pale Ale, Mudpuppy Porter, and many more.\r\n\r\nCurrently, Central Waters Brewing Company services over 200 retail locations in Central Wisconsin, and has expanded its product line to include 18 beer styles. Moving from Junction City to a new facility in Amherst, Wisconsin in January of 2007, Central Waters can better support the growing demand. CWBC continues to build on the solid reputation of producing the finest quality beers in Central Wisconsin.", 
+                    "established": "1998", 
+                    "id": "FsjaTu", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/FsjaTu/upload_IgRZ7G-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/FsjaTu/upload_IgRZ7G-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/FsjaTu/upload_IgRZ7G-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:50", 
+                            "hoursOfOperation": "Fri - Sat:\t3:00 pm - 10:00 pm", 
+                            "id": "z2MPZY", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.4418999, 
+                            "locality": "Amherst", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -89.2797, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "715-824-2739", 
+                            "postalCode": "54406", 
+                            "region": "Wisconsin", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "351 Allen Street", 
+                            "updateDate": "2012-03-25 19:33:41", 
+                            "website": "http://www.centralwaters.com/"
+                        }
+                    ], 
+                    "name": "Central Waters Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-11 12:18:23", 
+                    "website": "http://www.centralwaters.com/"
+                }
+            ], 
+            "createDate": "2012-03-25 19:53:41", 
+            "description": "This unfiltered German-style wheat beer is brewed for summer enjoyment with a Bavarian yeast to give it the refreshing spicy overtones that make Weizens so unique. Whitewater Weizen is as exciting and exhilarating as a run through the rapids.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "n1pUu1", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/n1pUu1/upload_orOpap-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/n1pUu1/upload_orOpap-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/n1pUu1/upload_orOpap-medium.png"
+            }, 
+            "name": "Whitewater Weizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2012-03-25 19:53:42"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2014-04-09 22:07:56", 
+                    "id": "fUWCiQ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/fUWCiQ/upload_P9jcDi-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/fUWCiQ/upload_P9jcDi-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/fUWCiQ/upload_P9jcDi-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Russian Federation", 
+                                "isoCode": "RU", 
+                                "isoThree": "RUS", 
+                                "name": "RUSSIAN FEDERATION", 
+                                "numberCode": 643
+                            }, 
+                            "countryIsoCode": "RU", 
+                            "createDate": "2014-04-14 08:46:50", 
+                            "id": "SnXaIv", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "locality": "Suzdal ray.", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+7 (4922) 77-77-61", 
+                            "postalCode": "601279", 
+                            "region": "Vladimir obl.", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Chirikovo Chirikovo", 
+                            "updateDate": "2014-04-14 08:46:50", 
+                            "website": "http://suzdalbeer.ru/"
+                        }
+                    ], 
+                    "name": "Suzdal brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-14 08:45:42", 
+                    "website": "http://suzdalbeer.ru/"
+                }
+            ], 
+            "createDate": "2014-04-09 22:09:00", 
+            "id": "a62dsy", 
+            "isOrganic": "N", 
+            "name": "\u042e\u0437\u0431\u0435\u0440\u0433 Weissbier", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "3.5", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The German word leicht means light, and as such these beers are light versions of Hefeweizen. Leicht Weissbier is top fermented and cloudy like Hefeweizen. The phenolic and estery aromas and flavors typical of Weissbiers are more subdued in Leichtes Weizen. Hop flavor and aroma are normally absent. The overall flavor profile is less complex than Hefeweizen due to decreased alcohol content. There is less yeasty flavor present. Leichtes Weissbier has diminished mouth feel relative to Hefeweizen, and is a low-bodied beer. No diacetyl should be perceived. The beer may have a broad range of color from pale golden to pale amber.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "20", 
+                "ibuMin": "10", 
+                "id": 50, 
+                "name": "German-Style Leichtes Weizen / Weissbier", 
+                "ogMin": "1.028", 
+                "srmMax": "15", 
+                "srmMin": "4"
+            }, 
+            "styleId": 50, 
+            "updateDate": "2014-04-14 08:48:11"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 20
+}

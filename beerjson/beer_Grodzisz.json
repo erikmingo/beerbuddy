@@ -1,0 +1,142 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "4.4", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:47", 
+                    "description": "Today, we're a team of about 750 people, and we all share a common passion for bringing great Samuel Adams beers to beer lovers everywhere. We've worked hard and are incredibly proud of the many successes we've enjoyed over the years. The Boston Beer Company has been cited as one of the best companies to work for by Boston Magazine, one of the Best Entry-Level Jobs by The Princeton Review, and our beers have won more awards than any other in history. Jim has been named an \"Entrepreneur of the Year\" by Inc. Magazine. Our brewers keep amazing us with innovative new brews, including Samuel Adams Utopias and our Samuel Adams Barrel Room Collection.\r\n\r\nJim has believed from the beginning that the more you know and understand about beer, the more you'll appreciate a beer like Samuel Adams Boston Lager. To begin that mission, all new employees go through intensive training on everything from ingredients, brewing, and beer styles, to taking care of the beer once it leaves the brewery. We're all beer lovers and protectors of the beer so we're trained how to identify off flavors and how to troubleshoot the causes. The passion for beer continues with an annual homebrew competition that we all take part in.\r\n\r\nOne of our wholesalers once asked Jim why he invested so much in training his people, when ultimately they might leave. Jim smiled and replied without hesitation: \"What if I didn't train them, and they stayed?\"\r\n\r\nEach year, usually in January, everyone gathers together. One of the highlights of the meeting is the beer trivia contest. With a culture so steeped in beer education and knowledge, winning is a pretty big deal. Recently, one of the hotel bartenders who was watching as the various teams arrived in costume with music and much enthusiasm and fanfare, said, \"I've always known Samuel Adams made the best beer in America, but now I see this is the greatest company in America.\" When you look around you see that The Boston Beer Company is a team of enthusiastic people who are passionate about beer and who really love coming to work every day to provide American drinkers with the best beer possible.\r\n\r\nThe Boston Beer Company, Inc. is a publicly-traded company listed on the New York Stock Exchange under the symbol, SAM.", 
+                    "established": "1984", 
+                    "id": "1wSztN", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/1wSztN/upload_2Eei4D-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/1wSztN/upload_2Eei4D-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/1wSztN/upload_2Eei4D-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:47", 
+                            "id": "DF5YsC", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.314449, 
+                            "locality": "Boston", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -71.103365, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-800-372-1131", 
+                            "postalCode": "2130", 
+                            "region": "Massachusetts", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "30 Germania Street", 
+                            "updateDate": "2013-02-26 01:29:22", 
+                            "website": "http://www.samueladams.com/", 
+                            "yearOpened": "1984"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-08-12 13:10:57", 
+                            "id": "MLUbXI", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 39.1144986, 
+                            "locality": "Cincinnati", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -84.5222061, 
+                            "name": "Cincinnati", 
+                            "openToPublic": "N", 
+                            "phone": "513-412-3200", 
+                            "postalCode": "45214", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1625 Central Parkway", 
+                            "updateDate": "2013-08-12 13:19:31", 
+                            "website": "http://www.samueladams.com/"
+                        }
+                    ], 
+                    "name": "Boston Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 12:45:10", 
+                    "website": "http://www.samueladams.com/"
+                }
+            ], 
+            "createDate": "2013-12-16 17:35:40", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "5rzbbU", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/5rzbbU/upload_cbiLim-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/5rzbbU/upload_cbiLim-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/5rzbbU/upload_cbiLim-medium.png"
+            }, 
+            "name": "Gr\u00e4tzer - Longshot", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "2.9", 
+                "abvMin": "2.1", 
+                "category": {
+                    "createDate": "2013-08-10 12:44:20", 
+                    "id": 13, 
+                    "name": "Other Origin"
+                }, 
+                "categoryId": 13, 
+                "createDate": "2013-08-10 12:45:30", 
+                "description": "Grodzisz (also Grodziskie, and often referred to as Gr\u00e4tzer since WWII) is a Polish style of straw to golden colored ale. Chill haze is allowable at cold temperatures. The distinctive character comes from 100% oak wood smoked wheat malt. The overall balance is a sessionably medium to medium-high assertively oak- smoky malt emphasized beer. Aroma is dominated by oak smoke notes. They have a medium low to medium perceived clean hop bitterness. European noble hop flavor notes are very low to low, and low ester may also be present. Body is low to medium low. A K\u00f6lsch-like ale fermentation and aging process lends a crisp overall flavor impression and low degree of ester fruitiness. Sourness, diacetyl, and sweet corn-like DMS (dimethylsulfide) should not be perceived. Historic versions were most often bottle conditioned to relatively high carbonation levels.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.006", 
+                "ibuMax": "25", 
+                "ibuMin": "15", 
+                "id": 160, 
+                "name": "Grodzisz", 
+                "ogMax": "1.036", 
+                "ogMin": "1.028", 
+                "srmMax": "6", 
+                "srmMin": "3"
+            }, 
+            "styleId": 160, 
+            "updateDate": "2013-12-16 17:51:07"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 1
+}

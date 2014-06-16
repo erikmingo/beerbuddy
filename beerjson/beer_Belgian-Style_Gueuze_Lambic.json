@@ -1,0 +1,545 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "7", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:10", 
+                    "description": "Founded in 2006, Port Brewing Company produces a line of award-winning American ales and the groundbreaking Lost Abbey family of Belgian-inspired beers. Craft brewed under the direction of co-founder and World Champion brewer Tomme Arthur, five beers are issued under the Lost Abbey label year-round: Avant Garde, Lost and Found, Red Barn, Devotion and Judgment Day. Additionally, a number of seasonal and specialty releases are offered at various times throughout the year. As many of these are blended and aged for up to 18 months in French Oak, Brandy and Bourbon barrels, Lost Abbey beers are universally recognized for their complexity, unique flavors, and bold, boundary-pushing styles.\r\n\r\nSince opening its doors, Port Brewing and The Lost Abbey beers have won more nearly 100 medals in regional, national and international competitions. Rate Beer ranks the brewery number three in the world, and six of its beers are among the 100 best beers.", 
+                    "established": "2006", 
+                    "id": "9x7wNn", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/9x7wNn/upload_iFoVyB-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/9x7wNn/upload_iFoVyB-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/9x7wNn/upload_iFoVyB-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:10", 
+                            "extendedAddress": "Suite 104", 
+                            "id": "cvt0UF", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 33.141417, 
+                            "locality": "San Marcos", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -117.150076, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "800-918-6816", 
+                            "postalCode": "92069", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "155 Mata Way", 
+                            "updateDate": "2012-08-12 10:59:22", 
+                            "website": "http://www.lostabbey.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "The Lost Abbey", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-16 21:21:53", 
+                    "website": "http://www.lostabbey.com/"
+                }
+            ], 
+            "createDate": "2014-05-03 15:00:38", 
+            "description": "In Belgian brewing there are fantastic wild ales brewed with naturally occurring yeast. These beers develop over time and are ready on their own terms. Duck Duck Gooze is our homage to these effervescent and wonderfully complex sparkling beers.  A blend of young and old barrel aged beers, this has been one of our most sought after beers year after year since it\u2019s original release in 2009.  Alas, it is released in very small quantities only once every three years, so it\u2019s extremely difficult to come by beyond the day we release it. It does, however, turn up on our Tasting Room\u2019s Vintage List from time to time, so don\u2019t despair.", 
+            "foodPairings": "Stinky cheeses, Spring mix salads", 
+            "id": "rbvEiU", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/rbvEiU/upload_3w4EXy-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/rbvEiU/upload_3w4EXy-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/rbvEiU/upload_3w4EXy-medium.png"
+            }, 
+            "name": "Duck Duck Gooze", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.6", 
+                "abvMin": "6.8", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Old lambic is blended with newly fermenting young lambic to create this special style of lambic. Gueuze is always referrmented in the bottle. These unflavored blended and secondary fermented lambic beers may be very dry or mildly sweet and are characterized by intense fruity-estery, sour, and acidic aromas and flavors. These pale beers are brewed with unmalted wheat, malted barley, and stale, aged hops. Sweet malt characters are not perceived. They are very low in hop bitterness. Diacetyl should be absent. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Cloudiness is acceptable. These beers are quite dry and light bodied. Vanillin and other wood-derived flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional gueuze lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Some versions often have a degree of sweetness, contributed by sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 67, 
+                "name": "Belgian-Style Gueuze Lambic", 
+                "ogMin": "1.044", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 67, 
+            "updateDate": "2014-05-04 12:38:52"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:56", 
+                    "id": "Zw3YV8", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Zw3YV8/upload_Q6ngxe-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Zw3YV8/upload_Q6ngxe-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Zw3YV8/upload_Q6ngxe-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Belgium", 
+                                "isoCode": "BE", 
+                                "isoThree": "BEL", 
+                                "name": "BELGIUM", 
+                                "numberCode": 56
+                            }, 
+                            "countryIsoCode": "BE", 
+                            "createDate": "2012-01-03 02:41:56", 
+                            "id": "X89cbJ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.66437, 
+                            "locality": "Rebecq-Rognon", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 4.13171, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Chauss\u00e9e Maieur Habils 110", 
+                            "updateDate": "2012-03-21 19:08:09", 
+                            "website": "http://www.gueuzerietilquin.be/"
+                        }
+                    ], 
+                    "name": "Gueuzerie Tilquin", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:15", 
+                    "website": "http://www.gueuzerietilquin.be/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:19", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "eymuKf", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/eymuKf/upload_zJ3T5h-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/eymuKf/upload_zJ3T5h-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/eymuKf/upload_zJ3T5h-medium.png"
+            }, 
+            "name": "Gueuzerie Tilquin", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.6", 
+                "abvMin": "6.8", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Old lambic is blended with newly fermenting young lambic to create this special style of lambic. Gueuze is always referrmented in the bottle. These unflavored blended and secondary fermented lambic beers may be very dry or mildly sweet and are characterized by intense fruity-estery, sour, and acidic aromas and flavors. These pale beers are brewed with unmalted wheat, malted barley, and stale, aged hops. Sweet malt characters are not perceived. They are very low in hop bitterness. Diacetyl should be absent. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Cloudiness is acceptable. These beers are quite dry and light bodied. Vanillin and other wood-derived flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional gueuze lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Some versions often have a degree of sweetness, contributed by sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 67, 
+                "name": "Belgian-Style Gueuze Lambic", 
+                "ogMin": "1.044", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 67, 
+            "updateDate": "2012-03-22 13:05:25"
+        }, 
+        {
+            "abv": "7", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:49", 
+                    "id": "dFgmmi", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Belgium", 
+                                "isoCode": "BE", 
+                                "isoThree": "BEL", 
+                                "name": "BELGIUM", 
+                                "numberCode": 56
+                            }, 
+                            "countryIsoCode": "BE", 
+                            "createDate": "2012-01-03 02:41:49", 
+                            "id": "o33q8U", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.712415, 
+                            "locality": "1502 Lembeek", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 4.2201751, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "32-2-356-66-44", 
+                            "region": "Vlaams Brabant", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Fonteinstraat 65", 
+                            "updateDate": "2012-03-21 19:08:04", 
+                            "website": "http://www.boon.be/"
+                        }
+                    ], 
+                    "name": "Brouwerij Boon", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-06-01 15:24:28", 
+                    "website": "http://www.boon.be/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:53", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "uhGaWS", 
+            "isOrganic": "N", 
+            "name": "Oude Geuze Boon", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.6", 
+                "abvMin": "6.8", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Old lambic is blended with newly fermenting young lambic to create this special style of lambic. Gueuze is always referrmented in the bottle. These unflavored blended and secondary fermented lambic beers may be very dry or mildly sweet and are characterized by intense fruity-estery, sour, and acidic aromas and flavors. These pale beers are brewed with unmalted wheat, malted barley, and stale, aged hops. Sweet malt characters are not perceived. They are very low in hop bitterness. Diacetyl should be absent. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Cloudiness is acceptable. These beers are quite dry and light bodied. Vanillin and other wood-derived flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional gueuze lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Some versions often have a degree of sweetness, contributed by sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 67, 
+                "name": "Belgian-Style Gueuze Lambic", 
+                "ogMin": "1.044", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 67, 
+            "updateDate": "2012-06-01 15:24:48"
+        }, 
+        {
+            "abv": "5.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:10", 
+                    "description": "Timmermans brews only traditional Lambic; the basic beer that, from spontaneous fermentation, is used throughout the entire range. Brewing Lambic, without adding yeast, is a complex and subtle art requiring recipes and patience passed on by the family. Lambics survive thanks to a handful of Brussels breweries and the presence of two micro-organisms that exist only in the Senne Valley: Brettanomyces Bruxellensis and Brettanomyces Lambicus. By adding fruit and spices, the magic of traditionallymade beers unravels: Strawberry, Kriek, P\u00c3?\u00c2\u00aache, Framboise, Forest Fruit, but also Oude Gueuze, Kriek Retro, Gueuze, Faro or Lambicus Blanche. A unique site: open daily (including weekends), booking required. Possibilities for your meetings and banquets.", 
+                    "id": "Qiy4fK", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Belgium", 
+                                "isoCode": "BE", 
+                                "isoThree": "BEL", 
+                                "name": "BELGIUM", 
+                                "numberCode": 56
+                            }, 
+                            "countryIsoCode": "BE", 
+                            "createDate": "2012-01-03 02:42:10", 
+                            "id": "99kGFS", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.8400889, 
+                            "locality": "Itterbeek", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 4.2469706, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "3225690357", 
+                            "postalCode": "1701", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Kerkstraat 11", 
+                            "updateDate": "2012-03-21 19:08:18", 
+                            "website": "http://www.anthonymartin.be/"
+                        }
+                    ], 
+                    "name": "Timmermans", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:09", 
+                    "website": "http://www.anthonymartin.be/"
+                }
+            ], 
+            "createDate": "2014-05-20 17:57:02", 
+            "description": "Oude Gueuze is an appellation controlee : its label is protected. It is also known as the champagne of beers, especially as it is only available as a limited edition. Timmermans Oude Gueuze\u2019s special flavour derives from its time-honoured method of preparation. It is a blend of old lambic, which has been aged for three years in wooden barrels, and young lambic which ensures spontaneous fermentation in the bottle. The different lambics are carefully selected by the brewer to obtain a perfect flavour. After it has been produced, Timmermans Oude Gueuze, which is refermented for four months in the bottle, continues to improve for 20 years.", 
+            "id": "cacaF2", 
+            "isOrganic": "N", 
+            "name": "Oude Gueuze", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.6", 
+                "abvMin": "6.8", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Old lambic is blended with newly fermenting young lambic to create this special style of lambic. Gueuze is always referrmented in the bottle. These unflavored blended and secondary fermented lambic beers may be very dry or mildly sweet and are characterized by intense fruity-estery, sour, and acidic aromas and flavors. These pale beers are brewed with unmalted wheat, malted barley, and stale, aged hops. Sweet malt characters are not perceived. They are very low in hop bitterness. Diacetyl should be absent. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Cloudiness is acceptable. These beers are quite dry and light bodied. Vanillin and other wood-derived flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional gueuze lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Some versions often have a degree of sweetness, contributed by sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 67, 
+                "name": "Belgian-Style Gueuze Lambic", 
+                "ogMin": "1.044", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 67, 
+            "updateDate": "2014-05-21 10:57:26"
+        }, 
+        {
+            "abv": "5.9", 
+            "available": {
+                "description": "Available during the winter months.", 
+                "id": 8, 
+                "name": "Winter"
+            }, 
+            "availableId": 8, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:10", 
+                    "description": "A boutique craft brewery located in Orange County, California specializing in experimental and barrel aged beer. Our name is a fusion of 'brewery' with our family name, Rue.\r\n\r\nOur calling is to create beers with character and depth using the simplest and purest of means. We do not filter or pasteurize our beers. Most of our bottled beers gain carbonation through bottle conditioning, allowing carbonation to naturally occur through a secondary bottle fermentation. We strive to use unconventional ingredients, and we will proudly state what we put in our beers.", 
+                    "established": "2008", 
+                    "id": "4MVtcc", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/4MVtcc/upload_yytZOo-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/4MVtcc/upload_yytZOo-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/4MVtcc/upload_yytZOo-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:10", 
+                            "hoursOfOperation": "Friday & Saturday: 4pm - 10pm\r\nSunday: 12pm - 6pm", 
+                            "id": "st9day", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 33.8613833, 
+                            "locality": "Placentia", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -117.8800107, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "714-996-6258", 
+                            "postalCode": "92870", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "715 Dunn Way", 
+                            "updateDate": "2012-05-14 12:22:08", 
+                            "website": "http://www.thebruery.com/"
+                        }
+                    ], 
+                    "name": "The Bruery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-08 16:34:09", 
+                    "website": "http://www.thebruery.com/"
+                }
+            ], 
+            "createDate": "2014-04-01 17:38:03", 
+            "description": "The Bruery's take on a gueuze-style ale, this intensely tart and funky beer combines three different vintages of our barrel aged sour blonde ale.", 
+            "id": "x9fqe1", 
+            "isOrganic": "N", 
+            "name": "Rueuze", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.6", 
+                "abvMin": "6.8", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Old lambic is blended with newly fermenting young lambic to create this special style of lambic. Gueuze is always referrmented in the bottle. These unflavored blended and secondary fermented lambic beers may be very dry or mildly sweet and are characterized by intense fruity-estery, sour, and acidic aromas and flavors. These pale beers are brewed with unmalted wheat, malted barley, and stale, aged hops. Sweet malt characters are not perceived. They are very low in hop bitterness. Diacetyl should be absent. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Cloudiness is acceptable. These beers are quite dry and light bodied. Vanillin and other wood-derived flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional gueuze lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Some versions often have a degree of sweetness, contributed by sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 67, 
+                "name": "Belgian-Style Gueuze Lambic", 
+                "ogMin": "1.044", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 67, 
+            "updateDate": "2014-04-28 11:09:16"
+        }, 
+        {
+            "abv": "6.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:54", 
+                    "description": "Evil Twin Brewing - a Beer Production Company.", 
+                    "id": "MZZWAT", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/MZZWAT/upload_jT3CwR-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/MZZWAT/upload_jT3CwR-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/MZZWAT/upload_jT3CwR-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Denmark", 
+                                "isoCode": "DK", 
+                                "isoThree": "DNK", 
+                                "name": "DENMARK", 
+                                "numberCode": 208
+                            }, 
+                            "countryIsoCode": "DK", 
+                            "createDate": "2012-01-03 02:41:54", 
+                            "id": "7C5RJc", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 55.661665, 
+                            "locality": "Valby", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 12.495865, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "2500", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Ole Borchs Vej 31", 
+                            "updateDate": "2012-03-21 19:08:08"
+                        }
+                    ], 
+                    "name": "Evil Twin Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-16 12:37:15", 
+                    "website": "http://www.eviltwin.dk/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:32", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "ykSUbJ", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ykSUbJ/upload_ja6jXI-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ykSUbJ/upload_ja6jXI-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ykSUbJ/upload_ja6jXI-medium.png"
+            }, 
+            "name": "Without You I'm Nothing", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.6", 
+                "abvMin": "6.8", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Old lambic is blended with newly fermenting young lambic to create this special style of lambic. Gueuze is always referrmented in the bottle. These unflavored blended and secondary fermented lambic beers may be very dry or mildly sweet and are characterized by intense fruity-estery, sour, and acidic aromas and flavors. These pale beers are brewed with unmalted wheat, malted barley, and stale, aged hops. Sweet malt characters are not perceived. They are very low in hop bitterness. Diacetyl should be absent. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Cloudiness is acceptable. These beers are quite dry and light bodied. Vanillin and other wood-derived flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional gueuze lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Some versions often have a degree of sweetness, contributed by sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 67, 
+                "name": "Belgian-Style Gueuze Lambic", 
+                "ogMin": "1.044", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 67, 
+            "updateDate": "2012-08-23 01:04:06"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 6
+}

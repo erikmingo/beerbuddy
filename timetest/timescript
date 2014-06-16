@@ -1,0 +1,14 @@
+# removes the crawl dir
+# starts the crawl 
+# creates a file with the name fetchvalue2_quevalue2_modevalue_runvalue.txt contents of the file are the time
+
+
+#repeat that script by hand 3 times
+
+#python script that takes 3 files, and calculates the average (runvalue1 + runvalue2 + runvalue3) / 3
+
+# also deletes the old nutch-site.conf
+#script that takes 3 parameters, writes a nutch-config file with the 3 parameters
+# IF we can make our own config, that extends, site and nutch
+
+

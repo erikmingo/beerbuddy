@@ -1,0 +1,740 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "7.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:46", 
+                    "id": "1MCesn", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Italy", 
+                                "isoCode": "IT", 
+                                "isoThree": "ITA", 
+                                "name": "ITALY", 
+                                "numberCode": 380
+                            }, 
+                            "countryIsoCode": "IT", 
+                            "createDate": "2012-01-03 02:41:46", 
+                            "id": "YTeFCL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.187873, 
+                            "locality": "Borgorose", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 13.238747, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(338) 4265121", 
+                            "postalCode": "02021", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Via Colle Rosso", 
+                            "updateDate": "2012-03-21 19:08:02", 
+                            "website": "http://www.birradelborgo.it/"
+                        }
+                    ], 
+                    "name": "Birra del Borgo", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:19", 
+                    "website": "http://www.birradelborgo.it/"
+                }
+            ], 
+            "createDate": "2013-01-09 17:44:19", 
+            "description": "After the Equilibrista, our beer inspired by the Champagne world, here it is a new experiment on the \u201cwine meets beer\u201d theme. This time, though, we tipped the scales in favour of beer, adding to the Duchessa wort only a 25% of wine must: in this case we used Malvasia (coming from our friends of Tenuta di Bibbiano, as usual), a white, aromatic grape variety which gives the beer a gentle and nice sharpness and an inusual, fruity nose. The beer is bottle-fermentd using Champagne-yeasts, and it has a quite intense \u201cperlage\u201d (bubbles) that makes it perfect as an aperitif or even for the whole meal. The \u201cchaotic\u201d label was designed byValentina De Luca, an Art student at the Istituto d'Istruzione Superiore Antonio Cederna of Velletri (Rome), who won our contest \u201cEtichette Bizzarre\u201d.", 
+            "id": "t977rl", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/t977rl/upload_Nz27bc-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/t977rl/upload_Nz27bc-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/t977rl/upload_Nz27bc-medium.png"
+            }, 
+            "name": "Caos", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "An experimental beer is any beer (lager, ale or other) that is primarily grain-based and employs unusual techniques and/or ingredients. A minimum 51% of the fermentable carbohydrates must be derived from malted grains. The overall uniqueness of the process, ingredients used and creativity should be considered. Beers such as garden (vegetable), fruit, chocolate, coffee, spice, specialty or other beers that match existing categories should not be entered into this category. Beers not easily matched to existing style categories in a competition would often be entered into this category. Beers that are a combination of other categories (spice, smoke, specialty, porter, etc.) could also be entered into this category. A statement by the brewer explaining the experimental or other nature of the beer is essential in order for fair assessment in competitions. Generally, a 25-word statement would suffice in explaining the experimental nature of the beer.", 
+                "id": 130, 
+                "name": "Experimental Beer (Lager or Ale)"
+            }, 
+            "styleId": 130, 
+            "updateDate": "2013-05-03 12:00:21"
+        }, 
+        {
+            "abv": "5.9", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:47", 
+                    "description": "The Fischer brewery was founded in 1821 in Strasbourg, in the Alsace region in France, and moved to Schiltigheim in 1854, apparently because of the good quality of water there. In 1922, they took over the neighbouring Adelshoffen brewery and became Groupe P\u00eacheur (the French translation of the German Fischer). Groupe P\u00eacheur was in turn taken over by Heineken in 1996.\r\n\r\nIn 2008 Heineken announced that it would close the brewery by the end of 2009 and transfer its production to the l'Esp\u00e9rance (en: hope) brewery, also in Schiltigheim.", 
+                    "established": "1821", 
+                    "id": "ZZs87j", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ZZs87j/upload_rMUIzJ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ZZs87j/upload_rMUIzJ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ZZs87j/upload_rMUIzJ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "France", 
+                                "isoCode": "FR", 
+                                "isoThree": "FRA", 
+                                "name": "FRANCE", 
+                                "numberCode": 250
+                            }, 
+                            "countryIsoCode": "FR", 
+                            "createDate": "2012-01-03 02:41:47", 
+                            "id": "jSwodP", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.6114971, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 7.7510832, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+33 (0)3 88 33 82 00", 
+                            "postalCode": "67300", 
+                            "region": "Schiltigheim", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "7, route de Bischwiller", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://www.brasseriefischer.com/", 
+                            "yearOpened": "1821"
+                        }
+                    ], 
+                    "name": "Brasserie Fischer", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:10", 
+                    "website": "http://www.brasseriefischer.com/"
+                }
+            ], 
+            "createDate": "2013-05-28 03:40:26", 
+            "description": "A pale lager flavoured with tequila, Desperados was first brewed in 1995 in Spain but is now produced in France. The listed ingredients are water, malted barley, glucose syrup, corn, sugar, aromatic compounds (75% Tequila) citric acid, and hop extract. It also comes as Desperados Mas, with a lower 3% ABV.", 
+            "id": "m9fEvC", 
+            "isOrganic": "N", 
+            "name": "Desesperados", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "An experimental beer is any beer (lager, ale or other) that is primarily grain-based and employs unusual techniques and/or ingredients. A minimum 51% of the fermentable carbohydrates must be derived from malted grains. The overall uniqueness of the process, ingredients used and creativity should be considered. Beers such as garden (vegetable), fruit, chocolate, coffee, spice, specialty or other beers that match existing categories should not be entered into this category. Beers not easily matched to existing style categories in a competition would often be entered into this category. Beers that are a combination of other categories (spice, smoke, specialty, porter, etc.) could also be entered into this category. A statement by the brewer explaining the experimental or other nature of the beer is essential in order for fair assessment in competitions. Generally, a 25-word statement would suffice in explaining the experimental nature of the beer.", 
+                "id": 130, 
+                "name": "Experimental Beer (Lager or Ale)"
+            }, 
+            "styleId": 130, 
+            "updateDate": "2013-05-28 12:37:19"
+        }, 
+        {
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:45", 
+                    "description": "Bell's Brewery, Inc. began in 1985 with a quest for better beer and a 15 gallon soup kettle. Since then, we've grown into a regional craft brewery that employs more than 200 people over an 18 state area, in addition to Puerto Rico and Washington DC. The dedication to brewing flavorful, unfiltered, quality craft beers that started in 1985 is still with us today. We currently brew over 20 beers for distribution as well as many other small batch beers that are served at our pub in Kalamazoo, the Eccentric Cafe. Our ongoing goal is to brew thoughtfully, creatively and artistically. We strive to bring an authentic and pleasant experience to all of our customers through our unique ales and beers.", 
+                    "established": "1985", 
+                    "id": "noGtDY", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/noGtDY/upload_t0bnSw-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/noGtDY/upload_t0bnSw-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/noGtDY/upload_t0bnSw-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:45", 
+                            "id": "NnffJ2", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.2843486, 
+                            "locality": "Galesburg", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -85.4538497, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "269-382-2338", 
+                            "postalCode": "49053", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "8938 Krum Ave.", 
+                            "updateDate": "2014-05-30 10:19:24", 
+                            "website": "http://www.bellsbeer.com/", 
+                            "yearOpened": "1985"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-09-26 11:44:59", 
+                            "hoursOfOperation": "Mon.-Wed.: 11 a.m.-12 a.m.\r\nThu.-Sat.: 11 a.m.-2 a.m.\r\nSun.: Noon-12 a.m.", 
+                            "id": "uCUre7", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 42.294894, 
+                            "locality": "Kalamazoo", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -85.5787942, 
+                            "name": "Eccentric Caf\u00e9", 
+                            "openToPublic": "Y", 
+                            "postalCode": "49007", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "355 E Kalamazoo Ave", 
+                            "updateDate": "2013-09-26 11:44:59", 
+                            "website": "http://bellsbeer.com/eccentric-cafe/"
+                        }
+                    ], 
+                    "name": "Bell's Brewery, Inc.", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-14 19:18:55", 
+                    "website": "http://www.bellsbeer.com/"
+                }
+            ], 
+            "createDate": "2013-11-04 19:02:21", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "G4OHev", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/G4OHev/upload_PmNRdY-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/G4OHev/upload_PmNRdY-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/G4OHev/upload_PmNRdY-medium.png"
+            }, 
+            "name": "Experimental Hope Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "An experimental beer is any beer (lager, ale or other) that is primarily grain-based and employs unusual techniques and/or ingredients. A minimum 51% of the fermentable carbohydrates must be derived from malted grains. The overall uniqueness of the process, ingredients used and creativity should be considered. Beers such as garden (vegetable), fruit, chocolate, coffee, spice, specialty or other beers that match existing categories should not be entered into this category. Beers not easily matched to existing style categories in a competition would often be entered into this category. Beers that are a combination of other categories (spice, smoke, specialty, porter, etc.) could also be entered into this category. A statement by the brewer explaining the experimental or other nature of the beer is essential in order for fair assessment in competitions. Generally, a 25-word statement would suffice in explaining the experimental nature of the beer.", 
+                "id": 130, 
+                "name": "Experimental Beer (Lager or Ale)"
+            }, 
+            "styleId": 130, 
+            "updateDate": "2013-11-04 19:02:36"
+        }, 
+        {
+            "abv": "14.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "Clarity In Thinking. Excellence In Drinking. We are Minnetonka's ONLY microbrewery.", 
+                    "established": "2011", 
+                    "id": "0cACKo", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/0cACKo/upload_s5bHsF-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/0cACKo/upload_s5bHsF-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/0cACKo/upload_s5bHsF-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "hoursOfOperation": "Thu - Fri: 5:00 pm - 8:00 pm\r\nSat: 12:00 pm - 5:00 pm", 
+                            "id": "1xeovq", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.895218, 
+                            "locality": "Minnetonka", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -93.449725, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "612-810-9324", 
+                            "postalCode": "55345", 
+                            "region": "Minnesota", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6020 Culligan Way", 
+                            "updateDate": "2014-01-20 17:13:40", 
+                            "website": "http://lucidbrewing.wordpress.com/", 
+                            "yearOpened": "2009"
+                        }
+                    ], 
+                    "name": "Lucid Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 13:05:04", 
+                    "website": "http://www.lucidbrewing.com/"
+                }
+            ], 
+            "createDate": "2014-03-12 01:46:04", 
+            "description": "Blend of 2012 (strong Belgian and pinot noir) and 2013 (strong Belgian and Frontenac gris) versions of Halucidation.\r\n\r\nWhat is HALUCIDATION?\r\nWe approach our craft with open minds in an attempt to surround ourselves with auras of flavor.  We do this with the intent of adventure, embracing what comes out on the other side for its own properties.  A class unto itself, beyond ingredients, a journey: the experimental.   If you\u2019re willing, we\u2019d like to share our exploration of the grape with you now.\r\nHALUCIDATION is a collaboration with Parley Lakes Winery and is a unique beer/wine hybrid.  We selected Minnesota native Frotenac Gris grapes for their apricot, and tropical fruit character to balance with the peppery esters of the a high alcohol Belgian-style ale.", 
+            "ibu": "12", 
+            "id": "bN0DrB", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/bN0DrB/upload_GHnAK6-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/bN0DrB/upload_GHnAK6-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/bN0DrB/upload_GHnAK6-medium.png"
+            }, 
+            "name": "Halucidation Solera", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "An experimental beer is any beer (lager, ale or other) that is primarily grain-based and employs unusual techniques and/or ingredients. A minimum 51% of the fermentable carbohydrates must be derived from malted grains. The overall uniqueness of the process, ingredients used and creativity should be considered. Beers such as garden (vegetable), fruit, chocolate, coffee, spice, specialty or other beers that match existing categories should not be entered into this category. Beers not easily matched to existing style categories in a competition would often be entered into this category. Beers that are a combination of other categories (spice, smoke, specialty, porter, etc.) could also be entered into this category. A statement by the brewer explaining the experimental or other nature of the beer is essential in order for fair assessment in competitions. Generally, a 25-word statement would suffice in explaining the experimental nature of the beer.", 
+                "id": 130, 
+                "name": "Experimental Beer (Lager or Ale)"
+            }, 
+            "styleId": 130, 
+            "updateDate": "2014-04-28 11:04:46"
+        }, 
+        {
+            "abv": "6.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "The Wooden Legs Brewing Company name is tongue in cheek homage to Judge Wilmot Wood Brookings. Judge Brookings is a significant figure in history of South Dakota. The county and city were named after him although he only visited the city twice.\r\n\r\nIn February 1858, Brookings rode a horse from Sioux Falls to the Yankton area during a blizzard. His horse slipped and fell into Split Rock Creek in the freezing weather. Brookings made it safely to Yankton, but his wet legs had suffered such severe frostbite they both needed to be amputated. He spent the rest of his life using a pair of squeaky, wooden legs.", 
+                    "id": "06ughl", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "id": "NuaM0n", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.31022, 
+                            "locality": "Brookings", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -96.779609, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "605-549-5624", 
+                            "postalCode": "57006", 
+                            "region": "South Dakota", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3011 5th St", 
+                            "updateDate": "2012-04-13 14:33:12", 
+                            "website": "http://www.woodenlegsbrewing.com/"
+                        }
+                    ], 
+                    "name": "Wooden Legs Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-13 14:48:36", 
+                    "website": "http://www.woodenlegsbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-04-13 14:36:35", 
+            "description": "Our Hot Smoke Lager came from one too many chili tacos on a late night when our brew master was visiting the American South West.\r\n\r\nWe start classic pale ale malt but couldn't resist tossing in Munich, Crystal and a touch of toasted malt.  Inspired by the European grain bill, we added a healthy share of Hallertau hops to the party. \r\n\r\nWhen it comes to lager, the Germans seem to have it right so we ferment this brew with the finest  strain of European yeast.\r\n\r\nThis is where things get twisted, instead of  pumping this into the brite beer tanks and calling it a day, we age the beer on a bed of roasted Habaneros. \r\n\r\nYou will be pleasently supprised with how smooth and likable this beer is, up until the habaneros run into the room and smack you in the mouth with a load of capsaicin.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "35.5", 
+            "id": "t3A0fQ", 
+            "ingredients": {
+                "hops": [
+                    {
+                        "alphaAcidMin": 3.5, 
+                        "betaAcidMax": 5.5, 
+                        "betaAcidMin": 3.5, 
+                        "caryophylleneMax": 12, 
+                        "caryophylleneMin": 10, 
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "cohumuloneMax": 24, 
+                        "cohumuloneMin": 18, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United States", 
+                            "isoCode": "US", 
+                            "isoThree": "USA", 
+                            "name": "UNITED STATES", 
+                            "numberCode": 840
+                        }, 
+                        "countryOfOrigin": "US", 
+                        "createDate": "2013-06-24 16:07:31", 
+                        "description": "Small quantities of the true Hallertauer Mittelfr?her cultivar are grown in the United States. However, just as with other Hallertauer hop varieties, it can be difficult to know what exactly you are getting; Hallertauer Gold, Mount Hood, and Liberty, among others, are sometimes sold as \"U.S. Hallertauer\". Even the true Hallertauer Mittelfr?her is not considered to have a true noble hop quality when grown in the United States.", 
+                        "farneseneMax": 0.1, 
+                        "humuleneMax": 38, 
+                        "humuleneMin": 30, 
+                        "id": 57, 
+                        "myrceneMax": 44, 
+                        "myrceneMin": 35, 
+                        "name": "Hallertauer (American)", 
+                        "updateDate": "2013-06-24 16:10:37"
+                    }
+                ], 
+                "malt": [
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "createDate": "2013-06-24 16:07:45", 
+                        "id": 378, 
+                        "name": "Caramel/Crystal Malt"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "characteristics": [
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a malty flavor upon the beer.", 
+                                "id": 10, 
+                                "name": "Malty"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a sweet flavor upon the beer.", 
+                                "id": 14, 
+                                "name": "Sweet"
+                            }
+                        ], 
+                        "coarseFineDifference": 1.3, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "Germany", 
+                            "isoCode": "DE", 
+                            "isoThree": "DEU", 
+                            "name": "GERMANY", 
+                            "numberCode": 276
+                        }, 
+                        "countryOfOrigin": "DE", 
+                        "createDate": "2013-06-24 16:07:52", 
+                        "description": "Munich Malt has a malty sweet flavor characteristic and adds a reddish amber color to the beer. It has enough diastatic power to convert itself, but needs help from another malt, such as 2-row malt, to convert other grains.", 
+                        "diastaticPower": 72, 
+                        "dryYield": 80, 
+                        "id": 650, 
+                        "maxInBatch": 80, 
+                        "moistureContent": 5, 
+                        "name": "Munich Malt", 
+                        "potential": 1.037, 
+                        "protein": 11.5, 
+                        "requiresMashing": "Y", 
+                        "srm": {
+                            "hex": "E58500", 
+                            "id": 9, 
+                            "name": "9"
+                        }, 
+                        "srmId": 9, 
+                        "srmPrecise": 9, 
+                        "updateDate": "2013-06-24 16:10:14"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "characteristics": [
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts an aromatic quality upon the beer.", 
+                                "id": 1, 
+                                "name": "Aromatic"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Increases the body of the beer.", 
+                                "id": 3, 
+                                "name": "Body"
+                            }
+                        ], 
+                        "coarseFineDifference": 1.5, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United States", 
+                            "isoCode": "US", 
+                            "isoThree": "USA", 
+                            "name": "UNITED STATES", 
+                            "numberCode": 840
+                        }, 
+                        "countryOfOrigin": "US", 
+                        "createDate": "2013-06-24 16:07:55", 
+                        "description": "A malt that adds reddish orange color and body without adding sweetness.", 
+                        "diastaticPower": 75, 
+                        "dryYield": 63, 
+                        "id": 802, 
+                        "maxInBatch": 15, 
+                        "moistureContent": 4, 
+                        "name": "Toasted Malt", 
+                        "potential": 1.029, 
+                        "protein": 10.3, 
+                        "requiresMashing": "Y", 
+                        "srm": {
+                            "hex": "FBB123", 
+                            "id": 5, 
+                            "name": "5"
+                        }, 
+                        "srmId": 5, 
+                        "srmPrecise": 4.7, 
+                        "updateDate": "2013-06-24 16:10:14"
+                    }
+                ]
+            }, 
+            "isOrganic": "N", 
+            "name": "Hot Smoke Lager", 
+            "originalGravity": "1.058", 
+            "srm": {
+                "hex": "C35900", 
+                "id": 14, 
+                "name": "14"
+            }, 
+            "srmId": 14, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "An experimental beer is any beer (lager, ale or other) that is primarily grain-based and employs unusual techniques and/or ingredients. A minimum 51% of the fermentable carbohydrates must be derived from malted grains. The overall uniqueness of the process, ingredients used and creativity should be considered. Beers such as garden (vegetable), fruit, chocolate, coffee, spice, specialty or other beers that match existing categories should not be entered into this category. Beers not easily matched to existing style categories in a competition would often be entered into this category. Beers that are a combination of other categories (spice, smoke, specialty, porter, etc.) could also be entered into this category. A statement by the brewer explaining the experimental or other nature of the beer is essential in order for fair assessment in competitions. Generally, a 25-word statement would suffice in explaining the experimental nature of the beer.", 
+                "id": 130, 
+                "name": "Experimental Beer (Lager or Ale)"
+            }, 
+            "styleId": 130, 
+            "updateDate": "2012-04-13 14:38:48"
+        }, 
+        {
+            "abv": "9.5", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:56", 
+                    "description": "Grimm Brothers Brewhouse is a craft brewery in Loveland, Colorado! They feature German style beers and other unique flavors. Grimm Brothers Brewhouse is devoted to the art and science of beer and brewing. A passion for brewing and sharing of exciting flavors of beer are at the heart of this brewery\u2019s values. Grimm Brothers Brewhouse was founded by avid home brewers and beer enthusiasts who love producing quality, flavorful beers.", 
+                    "established": "2010", 
+                    "id": "Vu3TSk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Vu3TSk/upload_4lcb5z-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Vu3TSk/upload_4lcb5z-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Vu3TSk/upload_4lcb5z-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:56", 
+                            "hoursOfOperation": "Monday - Thursday: 1:00 PM to 8:00 PM\r\nFriday: 12:00 PM to 9:00 PM\r\nSaturday: 12:00 PM to 9:00 PM\r\nSunday: 1:00 PM to 5:00 PM", 
+                            "id": "7JTum5", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.3967058, 
+                            "locality": "Loveland", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -105.0469349, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "970-624-6045", 
+                            "postalCode": "80537", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "623 North Denver Avenue", 
+                            "updateDate": "2013-08-13 19:15:08", 
+                            "website": "http://www.grimmbrosbrewhouse.com/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Grimm Brothers Brewhouse", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-13 19:14:44", 
+                    "website": "http://www.grimmbrosbrewhouse.com/"
+                }
+            ], 
+            "createDate": "2013-08-13 18:53:08", 
+            "description": "Imperial Kottb\u00fcsser Style Ale\r\nOnce upon a time German beer was only deemed pure if it contained the four orthodox ingredients of brewing: water, barley, hops, and yeast. During this time, an ale known as K\u00f6ttbusser was outlawed because it contained oats, honey, and molasses. Over the centuries since its prohibition, K\u00f6ttbusser became a lost brewing style. At Grimm Brothers, we\u2019ve created an imperial version of this beer and named it Magic Mirror.   Magic Mirror is the antithesis ale to Snow Drop, brewed with more grains, honey and molasses and aged in oak, this beer is a malty big light colored ale.  It has just enough hops to balance the sweetness but leave a refreshing oak flavor on your tongue.", 
+            "id": "OwxwuV", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/OwxwuV/upload_yFSgc6-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/OwxwuV/upload_yFSgc6-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/OwxwuV/upload_yFSgc6-medium.png"
+            }, 
+            "name": "Magic Mirror", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "An experimental beer is any beer (lager, ale or other) that is primarily grain-based and employs unusual techniques and/or ingredients. A minimum 51% of the fermentable carbohydrates must be derived from malted grains. The overall uniqueness of the process, ingredients used and creativity should be considered. Beers such as garden (vegetable), fruit, chocolate, coffee, spice, specialty or other beers that match existing categories should not be entered into this category. Beers not easily matched to existing style categories in a competition would often be entered into this category. Beers that are a combination of other categories (spice, smoke, specialty, porter, etc.) could also be entered into this category. A statement by the brewer explaining the experimental or other nature of the beer is essential in order for fair assessment in competitions. Generally, a 25-word statement would suffice in explaining the experimental nature of the beer.", 
+                "id": 130, 
+                "name": "Experimental Beer (Lager or Ale)"
+            }, 
+            "styleId": 130, 
+            "updateDate": "2013-08-14 09:11:43"
+        }, 
+        {
+            "abv": "6.8", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:53", 
+                    "id": "mPupms", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "New Zealand", 
+                                "isoCode": "NZ", 
+                                "isoThree": "NZL", 
+                                "name": "NEW ZEALAND", 
+                                "numberCode": 554
+                            }, 
+                            "countryIsoCode": "NZ", 
+                            "createDate": "2012-01-03 02:41:53", 
+                            "id": "HYk1fA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -45.8791534, 
+                            "locality": "Dunedin", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 170.3551016, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "64-(03)-477-1812", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "14 Wickliffe Street", 
+                            "updateDate": "2012-03-21 19:08:08"
+                        }
+                    ], 
+                    "name": "Emerson Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:06"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:20", 
+            "id": "CalxzV", 
+            "isOrganic": "N", 
+            "name": "Taieri George", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "An experimental beer is any beer (lager, ale or other) that is primarily grain-based and employs unusual techniques and/or ingredients. A minimum 51% of the fermentable carbohydrates must be derived from malted grains. The overall uniqueness of the process, ingredients used and creativity should be considered. Beers such as garden (vegetable), fruit, chocolate, coffee, spice, specialty or other beers that match existing categories should not be entered into this category. Beers not easily matched to existing style categories in a competition would often be entered into this category. Beers that are a combination of other categories (spice, smoke, specialty, porter, etc.) could also be entered into this category. A statement by the brewer explaining the experimental or other nature of the beer is essential in order for fair assessment in competitions. Generally, a 25-word statement would suffice in explaining the experimental nature of the beer.", 
+                "id": 130, 
+                "name": "Experimental Beer (Lager or Ale)"
+            }, 
+            "styleId": 130, 
+            "updateDate": "2013-05-19 19:13:57"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 7
+}

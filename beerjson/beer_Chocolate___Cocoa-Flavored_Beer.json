@@ -1,0 +1,1258 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "11.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:05", 
+                    "description": "Perennial Artisan Ales - Coming soon!", 
+                    "established": "2011", 
+                    "id": "aORdIX", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/aORdIX/upload_A2c21W-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/aORdIX/upload_A2c21W-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/aORdIX/upload_A2c21W-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:05", 
+                            "extendedAddress": "Ste. 101", 
+                            "id": "xvejtS", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.5457449, 
+                            "locality": "Saint Louis", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -90.265711, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "63111", 
+                            "region": "Missouri", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "8125 Michigan Ave.", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://www.perennialbeer.com", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Perennial Artisan Ales", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 13:05:55", 
+                    "website": "http://www.perennialbeer.com"
+                }
+            ], 
+            "createDate": "2014-05-01 21:44:29", 
+            "description": "Imperial Mint Chocolate Stout aged in Rye barrels for 14 months.", 
+            "id": "B1PObj", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/B1PObj/upload_gZEtYa-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/B1PObj/upload_gZEtYa-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/B1PObj/upload_gZEtYa-medium.png"
+            }, 
+            "name": "Barrel-Aged 17", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Chocolate beers use \"dark\" chocolate or cocoa in any of its forms other than or in addition to hops to create a distinct (ranging from subtle to intense) character. Under hopping allows chocolate to contribute to the flavor profile while not becoming excessively bitter. White Chocolate should not be entered into this category. If this beer is a classic style with chocolate or cocoa, the brewer should specify the classic style.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "15", 
+                "id": 122, 
+                "name": "Chocolate / Cocoa-Flavored Beer", 
+                "ogMin": "1.03", 
+                "srmMax": "50", 
+                "srmMin": "15"
+            }, 
+            "styleId": 122, 
+            "updateDate": "2014-05-02 12:36:49"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:09", 
+                    "description": "While you're enjoying the full-bodied flavor of the beer, remember that it was more than 10 years in the making. We think it was worth it. We hope you agree.\r\n \r\nSurly: The anger fueled by the inability to find good beer.\r\n\r\n\"We brewed beer for people who didn't know they wanted to drink it until they had it.\" - Omar Ansari", 
+                    "established": "2006", 
+                    "id": "cPRfoj", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/cPRfoj/upload_h0oqUF-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/cPRfoj/upload_h0oqUF-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/cPRfoj/upload_h0oqUF-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:09", 
+                            "id": "2REili", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 45.04285, 
+                            "locality": "Brooklyn Center", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -93.324557, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "763-535-3330", 
+                            "postalCode": "55429", 
+                            "region": "Minnesota", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4811 Dusharme Drive", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.surlybrewing.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "Surly Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 13:01:28", 
+                    "website": "http://www.surlybrewing.com/"
+                }
+            ], 
+            "createDate": "2013-11-13 01:25:20", 
+            "id": "XSsP1y", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/XSsP1y/upload_qrwfpj-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/XSsP1y/upload_qrwfpj-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/XSsP1y/upload_qrwfpj-medium.png"
+            }, 
+            "name": "Cacao Bender", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Chocolate beers use \"dark\" chocolate or cocoa in any of its forms other than or in addition to hops to create a distinct (ranging from subtle to intense) character. Under hopping allows chocolate to contribute to the flavor profile while not becoming excessively bitter. White Chocolate should not be entered into this category. If this beer is a classic style with chocolate or cocoa, the brewer should specify the classic style.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "15", 
+                "id": 122, 
+                "name": "Chocolate / Cocoa-Flavored Beer", 
+                "ogMin": "1.03", 
+                "srmMax": "50", 
+                "srmMin": "15"
+            }, 
+            "styleId": 122, 
+            "updateDate": "2013-11-13 01:26:14"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:04", 
+                    "description": "At the O'Fallon Brewery we are passionate about making beer and we work hard to brew beers that look good, smell good and taste good! Ours is a small manufacturing brewery located in St. Charles County, just north and west of St. Louis, Missouri. Founded in January, 2000 by Fran and Tony Caradonna, the O'Fallon Brewery currently employs eight full-time. In 2009 we brewed around 4,100 barrels of beer...equivalent to about 57,000 cases.", 
+                    "established": "2000", 
+                    "id": "3vnQcO", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/3vnQcO/upload_VKlyUe-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/3vnQcO/upload_VKlyUe-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/3vnQcO/upload_VKlyUe-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:04", 
+                            "id": "y7aFyk", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.806087, 
+                            "locality": "O'Fallon", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -90.753188, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "636-474-2337", 
+                            "postalCode": "63366", 
+                            "region": "Missouri", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "26 West Industrial Drive", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.ofallonbrewery.com/", 
+                            "yearOpened": "2000"
+                        }
+                    ], 
+                    "name": "O'Fallon Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-06 17:20:08", 
+                    "website": "http://www.ofallonbrewery.com/"
+                }
+            ], 
+            "createDate": "2013-11-17 01:26:49", 
+            "id": "FzrF26", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/FzrF26/upload_GNWTZB-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/FzrF26/upload_GNWTZB-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/FzrF26/upload_GNWTZB-medium.png"
+            }, 
+            "name": "Cherry Chocolate", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Chocolate beers use \"dark\" chocolate or cocoa in any of its forms other than or in addition to hops to create a distinct (ranging from subtle to intense) character. Under hopping allows chocolate to contribute to the flavor profile while not becoming excessively bitter. White Chocolate should not be entered into this category. If this beer is a classic style with chocolate or cocoa, the brewer should specify the classic style.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "15", 
+                "id": 122, 
+                "name": "Chocolate / Cocoa-Flavored Beer", 
+                "ogMin": "1.03", 
+                "srmMax": "50", 
+                "srmMin": "15"
+            }, 
+            "styleId": 122, 
+            "updateDate": "2013-11-17 01:27:45"
+        }, 
+        {
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:04", 
+                    "description": "The Kraus family came to Sedona in 1993 with all their worldly goods and a dream, to brew great fresh beer the way Fred learned at the Gasthausbrauerei Hufeisen, or Horseshoe Brewery, in the picturesque village of Pottenstein, Germany. The dream became reality when they opened the doors of Oak Creek Brewing Co. in west Sedona.\r\n\r\nSince February 1995 Sedona's only Microbrewery has been known to locals and tourists alike as the place to enjoy delicious handcrafted brews in a relaxed, unique setting.", 
+                    "established": "1993", 
+                    "id": "E9NviI", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/E9NviI/upload_JYR2WG-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/E9NviI/upload_JYR2WG-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/E9NviI/upload_JYR2WG-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:04", 
+                            "id": "Wz5XLf", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 34.8663909, 
+                            "locality": "Sedona", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -111.7962527, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "928-203-9441", 
+                            "postalCode": "86336", 
+                            "region": "Arizona", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2050 Yavapai Dr.", 
+                            "updateDate": "2012-03-21 20:05:28", 
+                            "website": "http://oakcreekbrew.com/", 
+                            "yearOpened": "1993"
+                        }
+                    ], 
+                    "name": "Oak Creek Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-24 23:56:41", 
+                    "website": "http://oakcreekbrew.com/"
+                }
+            ], 
+            "createDate": "2013-08-12 21:47:08", 
+            "description": "Our brown porter aged on raw Ecuadorian cocoa nibs and cherry puree... a winter holiday favorite.", 
+            "id": "VY50vm", 
+            "isOrganic": "N", 
+            "name": "Chocaolate Cherry Porter", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Chocolate beers use \"dark\" chocolate or cocoa in any of its forms other than or in addition to hops to create a distinct (ranging from subtle to intense) character. Under hopping allows chocolate to contribute to the flavor profile while not becoming excessively bitter. White Chocolate should not be entered into this category. If this beer is a classic style with chocolate or cocoa, the brewer should specify the classic style.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "15", 
+                "id": 122, 
+                "name": "Chocolate / Cocoa-Flavored Beer", 
+                "ogMin": "1.03", 
+                "srmMax": "50", 
+                "srmMin": "15"
+            }, 
+            "styleId": 122, 
+            "updateDate": "2013-08-12 23:25:01"
+        }, 
+        {
+            "abv": "6.66", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:51", 
+                    "description": "Just a quick drive to the north side of town, you'll find yourself at Havasu's hippest new brewhouse and pub. Here we focus on creating one-of-a-kind handcrafted beers. Revelers will appreciate sipping a smooth, flavorful craft brew while enjoying our rustic cuisine. Our casual atmosphere, outdoor dining, large bar and views of Lake Havasu are sure to become your favorite place to come and unwind.", 
+                    "established": "2011", 
+                    "id": "WGEtq9", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/WGEtq9/upload_AdJhrv-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/WGEtq9/upload_AdJhrv-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/WGEtq9/upload_AdJhrv-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:51", 
+                            "hoursOfOperation": "Hours: Monday-Thursday 11am-10pm, Friday & Saturday 11am-11pm", 
+                            "id": "rcfqNT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 34.5076354, 
+                            "locality": "Lake Havasu City", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -114.3457148, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "928-854-2739", 
+                            "postalCode": "86403", 
+                            "region": "Arizona", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1940 College Drive", 
+                            "updateDate": "2012-03-21 20:05:31", 
+                            "website": "http://www.collegestreetbrewhouseandpub.com/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "College Street Brewhouse & Pub", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-08 17:51:06", 
+                    "website": "http://www.collegestreetbrewhouseandpub.com/"
+                }
+            ], 
+            "createDate": "2013-10-08 20:29:56", 
+            "description": "We take our Sweet Devil Stout and make it a bit more devious by adding copious amounts of chocolate to overload your taste buds with chocolaty delight.  This devil only comes around once a year though, so order one while it's in season.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "19", 
+            "id": "kr239o", 
+            "isOrganic": "N", 
+            "name": "Chocolate Devil Stout", 
+            "originalGravity": "16.2", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "srm": {
+                "hex": "000000", 
+                "id": 41, 
+                "name": "Over 40"
+            }, 
+            "srmId": 41, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Chocolate beers use \"dark\" chocolate or cocoa in any of its forms other than or in addition to hops to create a distinct (ranging from subtle to intense) character. Under hopping allows chocolate to contribute to the flavor profile while not becoming excessively bitter. White Chocolate should not be entered into this category. If this beer is a classic style with chocolate or cocoa, the brewer should specify the classic style.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "15", 
+                "id": 122, 
+                "name": "Chocolate / Cocoa-Flavored Beer", 
+                "ogMin": "1.03", 
+                "srmMax": "50", 
+                "srmMin": "15"
+            }, 
+            "styleId": 122, 
+            "updateDate": "2013-10-09 11:55:02"
+        }, 
+        {
+            "abv": "7.5", 
+            "available": {
+                "description": "Available during the spring months.", 
+                "id": 5, 
+                "name": "Spring"
+            }, 
+            "availableId": 5, 
+            "breweries": [
+                {
+                    "createDate": "2013-06-26 15:07:20", 
+                    "description": "We are a local brewery that uses Montana grown Barley in all of our products.", 
+                    "established": "2011", 
+                    "id": "C3N3oZ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/C3N3oZ/upload_j6Gu0z-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/C3N3oZ/upload_j6Gu0z-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/C3N3oZ/upload_j6Gu0z-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-26 17:56:50", 
+                            "hoursOfOperation": "12pm - 8pm", 
+                            "id": "RoiAq0", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.4940686, 
+                            "locality": "Great Falls", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -111.2756678, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "406-315-1340", 
+                            "postalCode": "59401", 
+                            "region": "Montana", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1826 10th Avenue South", 
+                            "updateDate": "2013-06-26 17:56:50", 
+                            "website": "http://www.bowserbrew.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Bowser Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-11 02:40:29", 
+                    "website": "http://www.bowserbrew.com/"
+                }
+            ], 
+            "createDate": "2013-08-11 01:07:51", 
+            "description": "Candy Masterpiece ( a local candy shop ) made us a special milk chocolate syrup to add to the fermentation of this brew.  Also added to this beer is coco nips from New Guinea.  This is a nice dark chocolate beer with a smooth finish.", 
+            "ibu": "32", 
+            "id": "RmXUbV", 
+            "isOrganic": "N", 
+            "name": "Chocolate Stout", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Chocolate beers use \"dark\" chocolate or cocoa in any of its forms other than or in addition to hops to create a distinct (ranging from subtle to intense) character. Under hopping allows chocolate to contribute to the flavor profile while not becoming excessively bitter. White Chocolate should not be entered into this category. If this beer is a classic style with chocolate or cocoa, the brewer should specify the classic style.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "15", 
+                "id": 122, 
+                "name": "Chocolate / Cocoa-Flavored Beer", 
+                "ogMin": "1.03", 
+                "srmMax": "50", 
+                "srmMin": "15"
+            }, 
+            "styleId": 122, 
+            "updateDate": "2013-08-11 01:09:26"
+        }, 
+        {
+            "abv": "5.8", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:09", 
+                    "description": "Terrapin Beer Company was born when two brewers met while working together at a microbrewery in Atlanta. Looking around at what other breweries in the SE were doing, Spike and John felt they could make a contribution. Realizing that anyone could make just another pale ale, brown ale or stout, Spike and John set their sights on crafting beers unlike any that were currently available in the SE.\r\n\r\nTerrapin introduced its first beer, the Rye Pale Ale in April of 2002. Six months later while only available on draft in Athens, Terrapin\u2019s sole offering won the American Pale Ale Gold Medal at the 2002 Great American Beer Festival.  Only six months old, Terrapin had arrived in style!", 
+                    "established": "2002", 
+                    "id": "DPLTAJ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/DPLTAJ/upload_aTRjYm-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/DPLTAJ/upload_aTRjYm-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/DPLTAJ/upload_aTRjYm-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:09", 
+                            "id": "lA94r8", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 33.9804178, 
+                            "locality": "Athens", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.3956826, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "888-557-2337", 
+                            "postalCode": "30606", 
+                            "region": "Georgia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "265 Newton Bridge Road", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.terrapinbeer.com/", 
+                            "yearOpened": "2002"
+                        }
+                    ], 
+                    "name": "Terrapin Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-23 11:31:46", 
+                    "website": "http://www.terrapinbeer.com/"
+                }
+            ], 
+            "createDate": "2013-07-21 18:20:46", 
+            "description": "Side Project #4 \u201cDos Cocoas\u201d Chocolate Porter is a little experiment with a traditional porter and two types of cocoa. I used cocoa powder in the whirlpool and then aged the beer for one month on a bed of cocoa nibs.\r\n\r\nWhat you will get from this beer is fine chocolate aroma, a unique chocolate bitterness and a tantalizing balanced chocolate flavor from both the cocoa powder and nibs.\r\n\r\nThe original, 2008 version, was a collaboration project with Cocoa Atlanta, who supplied us with the cocoa for this experiment. The revived 2013 version uses cocoa shells and nibs from Olive and Sinclair Chocolate Company.", 
+            "id": "8dVtQN", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/8dVtQN/upload_kOkWWf-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/8dVtQN/upload_kOkWWf-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/8dVtQN/upload_kOkWWf-medium.png"
+            }, 
+            "name": "Dos Cocoas", 
+            "originalGravity": "14.6", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Chocolate beers use \"dark\" chocolate or cocoa in any of its forms other than or in addition to hops to create a distinct (ranging from subtle to intense) character. Under hopping allows chocolate to contribute to the flavor profile while not becoming excessively bitter. White Chocolate should not be entered into this category. If this beer is a classic style with chocolate or cocoa, the brewer should specify the classic style.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "15", 
+                "id": 122, 
+                "name": "Chocolate / Cocoa-Flavored Beer", 
+                "ogMin": "1.03", 
+                "srmMax": "50", 
+                "srmMin": "15"
+            }, 
+            "styleId": 122, 
+            "updateDate": "2013-07-28 13:41:51"
+        }, 
+        {
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:00", 
+                    "description": "The Lake of Bays Brewing Company is Northern Ontario's newest craft brewery. We busted our butts for more than a year getting ready to launch, and now our retail store and brewery in Baysville is open for business (woohoo!). Try our beer and see what Pure Northern Taste is all about. Cheers!", 
+                    "established": "2009", 
+                    "id": "oGBBGF", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/oGBBGF/upload_x3pIAj-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/oGBBGF/upload_x3pIAj-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/oGBBGF/upload_x3pIAj-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2012-01-03 02:42:00", 
+                            "id": "HbbSUo", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 45.1500187, 
+                            "locality": "Baysville", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.1139153, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "705-767-2313", 
+                            "postalCode": "P0B 1A0", 
+                            "region": "Ontario", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2681 Muskoka Road 117", 
+                            "updateDate": "2012-03-21 19:08:12", 
+                            "website": "http://www.lakeofbaysbrewing.ca/"
+                        }
+                    ], 
+                    "name": "Lake of Bays Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-09-15 18:47:53", 
+                    "website": "http://www.lakeofbaysbrewing.ca/"
+                }
+            ], 
+            "createDate": "2012-08-23 13:36:40", 
+            "description": "A brewer, a coffee roaster and a craft beer snob walk into a bar in Muskoka. The result: a rich winter beer, full of coffee, chocolate and roasted barley. Perfect with a hearty meal on a cold winter's night. Cheers!", 
+            "id": "14WzRb", 
+            "isOrganic": "N", 
+            "name": "Mocha Porter", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Chocolate beers use \"dark\" chocolate or cocoa in any of its forms other than or in addition to hops to create a distinct (ranging from subtle to intense) character. Under hopping allows chocolate to contribute to the flavor profile while not becoming excessively bitter. White Chocolate should not be entered into this category. If this beer is a classic style with chocolate or cocoa, the brewer should specify the classic style.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "15", 
+                "id": 122, 
+                "name": "Chocolate / Cocoa-Flavored Beer", 
+                "ogMin": "1.03", 
+                "srmMax": "50", 
+                "srmMin": "15"
+            }, 
+            "styleId": 122, 
+            "updateDate": "2012-08-23 13:48:17"
+        }, 
+        {
+            "abv": "9.5", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:51", 
+                    "description": "Heavy Seas Beer is brewed by Clipper City Brewing Company, in Baltimore, Maryland. The brewery was established by Hugh Sisson in 1995. Previously, Sisson operated Maryland's first brewpub, Sisson's. The brewery is named for the famed Clipper ship - first developed and built in the home port of Baltimore. While the name of the company remains Clipper City Brewing Company, all of its beer falls under the Heavy Seas brand. Heavy Seas is located at 4615 Hollins Ferry Road, Suite B, in the Halethorpe section of Baltimore. Heavy Seas currently offers a variety of beer styles in approx. 18 states within the United States.\r\n\r\nHeavy Seas mission is to bring back the local brewery, and to do it in such a way that we are more than just a fringe player, but a positive part of our area. To accomplish this mission we have created a broad portfolio of products with enough diversity that we have at least one beer that can appeal to everyone. Whether your preference is for a classic American style lager beer, or a big, challenging Hop Cubed Ale, we have a something that will suit your taste. We believe in bringing beer drinkers the quality and flavor of a handcrafted beer while supporting the local communities we serve.", 
+                    "established": "1995", 
+                    "id": "wTFQaf", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/wTFQaf/upload_mfJMWB-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/wTFQaf/upload_mfJMWB-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/wTFQaf/upload_mfJMWB-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:51", 
+                            "id": "yX6twV", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.230827, 
+                            "locality": "Baltimore", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -76.6751309, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "410-247-7822", 
+                            "postalCode": "21227", 
+                            "region": "Maryland", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4615-B Hollins Ferry Road", 
+                            "updateDate": "2012-05-24 02:07:39", 
+                            "website": "http://www.hsbeer.com/", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-05-23 22:13:06", 
+                            "hoursOfOperation": "Open noon Monday-Sunday", 
+                            "id": "vh3ZUn", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 39.286352, 
+                            "locality": "Baltimore", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -76.599143, 
+                            "name": "Heavy Seas Alehouse", 
+                            "openToPublic": "Y", 
+                            "phone": "410-522-0850", 
+                            "postalCode": "21231", 
+                            "region": "Maryland", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1300 Bank Street", 
+                            "updateDate": "2012-08-22 15:35:11", 
+                            "website": "http://heavyseasalehouse.com/"
+                        }
+                    ], 
+                    "name": "Heavy Seas Beer", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 12:54:55", 
+                    "website": "http://www.hsbeer.com/"
+                }
+            ], 
+            "createDate": "2012-12-07 11:29:43", 
+            "description": "This year\u2019s Siren Noire Imperial Chocolate Stout has been revamped. We\u2019ve aged it for three weeks in bourbon barrels, which gives the beer darker notes of raisin and fig. We\u2019ve also tripled the amount of chocolate nibs and added vanilla bean. A mix of dark malts gives Siren Noire a well-rounded body that is decidedly chocolatey\u2014but without being extraordinarily sweet. Mt. Hood hops contribute a fruity hop profile, with notes of black currant.", 
+            "foodPairings": "Fresh berries and whipped cream, ice cream sandwiches", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 6, 
+                "name": "Snifter"
+            }, 
+            "glasswareId": 6, 
+            "ibu": "18.5", 
+            "id": "JQAuUO", 
+            "ingredients": {
+                "hops": [
+                    {
+                        "alphaAcidMin": 3, 
+                        "betaAcidMax": 7.5, 
+                        "betaAcidMin": 4, 
+                        "caryophylleneMax": 15, 
+                        "caryophylleneMin": 7, 
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "cohumuloneMax": 27, 
+                        "cohumuloneMin": 22, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United States", 
+                            "isoCode": "US", 
+                            "isoThree": "USA", 
+                            "name": "UNITED STATES", 
+                            "numberCode": 840
+                        }, 
+                        "countryOfOrigin": "US", 
+                        "createDate": "2013-06-24 16:07:33", 
+                        "description": "A triploid released in 1983 as part of a program attempting to develop an American substitute for Hallertauer Mittelfr?h, Mount Hood was a cross between a tetraploid Hallertauer and an unnamed aroma variety derived from Early Green. Sister hops from the same program include Liberty, Crystal, and Ultra. Mount Hood has a mild and clean aroma and flavour, excellent for finishing European lagers.", 
+                        "farneseneMax": 1, 
+                        "humuleneMax": 35, 
+                        "humuleneMin": 15, 
+                        "id": 84, 
+                        "myrceneMax": 65, 
+                        "myrceneMin": 30, 
+                        "name": "Mount Hood", 
+                        "updateDate": "2013-06-24 16:10:37"
+                    }
+                ], 
+                "malt": [
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "characteristics": [
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a burnt tasting quality upon the beer.", 
+                                "id": 4, 
+                                "name": "Burnt"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a coffee flavor upon the beer.", 
+                                "id": 7, 
+                                "name": "Coffee"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a grainty taste upon the beer.", 
+                                "id": 8, 
+                                "name": "Grainy"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a nutty flavor upon the beer.", 
+                                "id": 11, 
+                                "name": "Nutty"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a roasted flavor upon the beer.", 
+                                "id": 12, 
+                                "name": "Roasted"
+                            }
+                        ], 
+                        "coarseFineDifference": 1.5, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United States", 
+                            "isoCode": "US", 
+                            "isoThree": "USA", 
+                            "name": "UNITED STATES", 
+                            "numberCode": 840
+                        }, 
+                        "countryOfOrigin": "US", 
+                        "createDate": "2013-06-24 16:07:54", 
+                        "description": "Unmalted and roasted at high temperature to create a burnt, grainy, coffee-like flavor. Imparts a red to deep brown color to beer, and very strong roasted flavor. Use 2-4% in Brown ales to add a nutty flavor, or 3-10% in Porters and Stouts for coffee flavor.", 
+                        "dryYield": 55, 
+                        "id": 753, 
+                        "maxInBatch": 10, 
+                        "moistureContent": 5, 
+                        "name": "Barley - Roasted", 
+                        "potential": 1.025, 
+                        "protein": 13.2, 
+                        "requiresMashing": "N", 
+                        "srm": {
+                            "hex": "000000", 
+                            "id": 41, 
+                            "name": "Over 40"
+                        }, 
+                        "srmId": 41, 
+                        "srmPrecise": 300, 
+                        "updateDate": "2013-06-24 16:10:14"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "createDate": "2013-06-24 16:07:45", 
+                        "id": 378, 
+                        "name": "Caramel/Crystal Malt"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "characteristics": [
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a chocolate quality upon the beer.", 
+                                "id": 6, 
+                                "name": "Chocolate"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a coffee flavor upon the beer.", 
+                                "id": 7, 
+                                "name": "Coffee"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a nutty flavor upon the beer.", 
+                                "id": 11, 
+                                "name": "Nutty"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a toasted flavor upon the beer.", 
+                                "id": 15, 
+                                "name": "Toasted"
+                            }
+                        ], 
+                        "coarseFineDifference": 1.5, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United States", 
+                            "isoCode": "US", 
+                            "isoThree": "USA", 
+                            "name": "UNITED STATES", 
+                            "numberCode": 840
+                        }, 
+                        "countryOfOrigin": "US", 
+                        "createDate": "2013-06-24 16:07:47", 
+                        "description": "A dark malt that gives a rich red or brown color and a nutty flavor, used in brown ales, porters, and some stouts.", 
+                        "dryYield": 60, 
+                        "id": 429, 
+                        "maxInBatch": 10, 
+                        "moistureContent": 4, 
+                        "name": "Chocolate Malt", 
+                        "potential": 1.028, 
+                        "protein": 13.2, 
+                        "requiresMashing": "N", 
+                        "srm": {
+                            "hex": "000000", 
+                            "id": 41, 
+                            "name": "Over 40"
+                        }, 
+                        "srmId": 41, 
+                        "srmPrecise": 350, 
+                        "updateDate": "2013-06-24 16:10:14"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "createDate": "2013-06-24 16:07:58", 
+                        "id": 1950, 
+                        "name": "Two-Row Barley Malt"
+                    }
+                ]
+            }, 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/JQAuUO/upload_AHIlRG-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/JQAuUO/upload_AHIlRG-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/JQAuUO/upload_AHIlRG-medium.png"
+            }, 
+            "name": "Siren Noire", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Chocolate beers use \"dark\" chocolate or cocoa in any of its forms other than or in addition to hops to create a distinct (ranging from subtle to intense) character. Under hopping allows chocolate to contribute to the flavor profile while not becoming excessively bitter. White Chocolate should not be entered into this category. If this beer is a classic style with chocolate or cocoa, the brewer should specify the classic style.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "15", 
+                "id": 122, 
+                "name": "Chocolate / Cocoa-Flavored Beer", 
+                "ogMin": "1.03", 
+                "srmMax": "50", 
+                "srmMin": "15"
+            }, 
+            "styleId": 122, 
+            "updateDate": "2013-08-21 23:55:21"
+        }, 
+        {
+            "abv": "6", 
+            "breweries": [
+                {
+                    "createDate": "2012-11-05 22:39:47", 
+                    "description": "Holgate Brewhouse is an independent craft brewery run by a small team passionate about hand-crafting fresh, full flavoured beers.\r\n\r\nLocated 45 minutes from Melbourne in the picturesque village of Woodend, visit the brewery inside our iconic, restored 19th century hotel with restaurant, accommodation and eight Holgate beers on tap. Check our stockists page for the Holgate retail outlet or Holgate tap nearest you!", 
+                    "established": "1999", 
+                    "id": "odYQg7", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/odYQg7/upload_BHF1V2-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/odYQg7/upload_BHF1V2-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/odYQg7/upload_BHF1V2-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2012-11-06 11:41:52", 
+                            "hoursOfOperation": "12:00noon till late 7 days\r\n\r\nLunch & Dinner 7 days with all-day meals Sat., Sun. & Public Holidays", 
+                            "id": "XAXGgF", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -37.355564, 
+                            "locality": "Woodend", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 144.528305, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+61 3 5427 2510", 
+                            "postalCode": "3442", 
+                            "region": "Victoria", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "79 High Street", 
+                            "updateDate": "2012-11-06 11:41:52", 
+                            "website": "http://www.holgatebrewhouse.com/"
+                        }
+                    ], 
+                    "name": "Holgate Brewhouse", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-19 00:53:43", 
+                    "website": "http://www.holgatebrewhouse.com/"
+                }
+            ], 
+            "createDate": "2012-11-07 18:10:41", 
+            "description": "A very tempting extreme twist on the classic robust porter, brewed with over 300 kg of malt and infused with a dash of rich Dutch cocoa and whole vanilla beans. Luscious chocolate, coffee, and caramel flavors are balanced by a hint of vanilla and a body of 6% alcohol. A perfect winter warmer or a complement to meat pies and chocolate-based desserts. A definite \"unisex\" beer with great appeal for both guys and gals.", 
+            "ibu": "35", 
+            "id": "OGkUha", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/OGkUha/upload_5Ts5UK-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/OGkUha/upload_5Ts5UK-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/OGkUha/upload_5Ts5UK-medium.png"
+            }, 
+            "name": "Temptress", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Chocolate beers use \"dark\" chocolate or cocoa in any of its forms other than or in addition to hops to create a distinct (ranging from subtle to intense) character. Under hopping allows chocolate to contribute to the flavor profile while not becoming excessively bitter. White Chocolate should not be entered into this category. If this beer is a classic style with chocolate or cocoa, the brewer should specify the classic style.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "15", 
+                "id": 122, 
+                "name": "Chocolate / Cocoa-Flavored Beer", 
+                "ogMin": "1.03", 
+                "srmMax": "50", 
+                "srmMin": "15"
+            }, 
+            "styleId": 122, 
+            "updateDate": "2012-11-07 22:19:14"
+        }, 
+        {
+            "abv": "6.1", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:09", 
+                    "description": "Terrapin Beer Company was born when two brewers met while working together at a microbrewery in Atlanta. Looking around at what other breweries in the SE were doing, Spike and John felt they could make a contribution. Realizing that anyone could make just another pale ale, brown ale or stout, Spike and John set their sights on crafting beers unlike any that were currently available in the SE.\r\n\r\nTerrapin introduced its first beer, the Rye Pale Ale in April of 2002. Six months later while only available on draft in Athens, Terrapin\u2019s sole offering won the American Pale Ale Gold Medal at the 2002 Great American Beer Festival.  Only six months old, Terrapin had arrived in style!", 
+                    "established": "2002", 
+                    "id": "DPLTAJ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/DPLTAJ/upload_aTRjYm-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/DPLTAJ/upload_aTRjYm-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/DPLTAJ/upload_aTRjYm-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:09", 
+                            "id": "lA94r8", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 33.9804178, 
+                            "locality": "Athens", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.3956826, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "888-557-2337", 
+                            "postalCode": "30606", 
+                            "region": "Georgia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "265 Newton Bridge Road", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.terrapinbeer.com/", 
+                            "yearOpened": "2002"
+                        }
+                    ], 
+                    "name": "Terrapin Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-23 11:31:46", 
+                    "website": "http://www.terrapinbeer.com/"
+                }
+            ], 
+            "createDate": "2013-11-12 02:37:35", 
+            "id": "CQFEn7", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/CQFEn7/upload_YRsh76-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/CQFEn7/upload_YRsh76-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/CQFEn7/upload_YRsh76-medium.png"
+            }, 
+            "name": "White Chocolate Moo-Hoo", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Chocolate beers use \"dark\" chocolate or cocoa in any of its forms other than or in addition to hops to create a distinct (ranging from subtle to intense) character. Under hopping allows chocolate to contribute to the flavor profile while not becoming excessively bitter. White Chocolate should not be entered into this category. If this beer is a classic style with chocolate or cocoa, the brewer should specify the classic style.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.006", 
+                "ibuMax": "40", 
+                "ibuMin": "15", 
+                "id": 122, 
+                "name": "Chocolate / Cocoa-Flavored Beer", 
+                "ogMin": "1.03", 
+                "srmMax": "50", 
+                "srmMin": "15"
+            }, 
+            "styleId": 122, 
+            "updateDate": "2013-11-12 05:07:56"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 11
+}

@@ -1,0 +1,936 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "5.9", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-07-25 20:29:07", 
+                    "description": "Taste the Awesome! Craft Brewery, Tap Room & Champagne Lounge owned and operated by Master Brewer Van Havig & Brewmaster Ben Love.", 
+                    "established": "2012", 
+                    "id": "8C6fp0", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/8C6fp0/upload_ixZhfX-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/8C6fp0/upload_ixZhfX-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/8C6fp0/upload_ixZhfX-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-07-25 20:30:06", 
+                            "hoursOfOperation": "Mon - Fri:\t3:00 pm\t-\t9:00 pm\r\nSat:\t12:00 pm\t-\t9:00 pm\r\nSun:\t12:00 pm\t-\t8:00 pm", 
+                            "id": "UrsqPT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 45.485058, 
+                            "locality": "Portland", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.6394966, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "503-208-3416", 
+                            "postalCode": "97202", 
+                            "region": "Oregon", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5224 SE 26th Ave", 
+                            "updateDate": "2013-08-09 16:59:18", 
+                            "website": "http://www.giganticbrewing.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Gigantic Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 16:24:23", 
+                    "website": "http://www.giganticbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-08-13 17:09:33", 
+            "description": "Sure, the old breed made pale ales, but with today's high fidelity hops, we are able to bring you flavors that have more tweet from the tweeters and more woof from the woofers. So sit back, turn on the Hi Fi, and see where it takes you.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 8, 
+                "name": "Tulip"
+            }, 
+            "glasswareId": 8, 
+            "id": "XBE1HO", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/XBE1HO/upload_CbYWXj-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/XBE1HO/upload_CbYWXj-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/XBE1HO/upload_CbYWXj-medium.png"
+            }, 
+            "name": "High Fidelity", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International-style pale ales range from deep golden to copper in color. The style is characterized by wide range of hop characters unlike fruity, floral and citrus-like American-variety hop character and unlike earthy, herbal English-variety hop character. Moderate to high hop bitterness, flavor, and aroma is evident. International pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.014", 
+                "fgMin": "1.008", 
+                "ibuMax": "42", 
+                "ibuMin": "30", 
+                "id": 73, 
+                "name": "International-Style Pale Ale", 
+                "ogMin": "1.044", 
+                "srmMax": "14", 
+                "srmMin": "6"
+            }, 
+            "styleId": 73, 
+            "updateDate": "2013-08-14 09:08:58"
+        }, 
+        {
+            "abv": "4.9", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:59", 
+                    "description": "Kinetic Brewing Company is the premier microbrewery in Lancaster, CA, located just 50 miles north of Los Angeles in the heart of the historic and newly gentrified downtown, The BLVD.\r\nFeaturing international pub cuisine and fine American craft beer from Southern California and beyond.", 
+                    "established": "2011", 
+                    "id": "FB4m0r", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/FB4m0r/upload_2T0LqL-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/FB4m0r/upload_2T0LqL-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/FB4m0r/upload_2T0LqL-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:59", 
+                            "hoursOfOperation": "Monday 4PM - 10PM\r\nTuesday 4PM - 10PM\r\nWednesday 4PM - 10PM\r\nThursday 12PM - 11PM\r\nFriday 12PM - 12AM\r\nSaturday 12PM - 12AM\r\nSunday 12PM - 9PM", 
+                            "id": "R9gXfY", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 34.6978123, 
+                            "locality": "Lancaster", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -118.1433177, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "661-942-BEER", 
+                            "postalCode": "93534", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "735 W. Lancaster Blvd.", 
+                            "updateDate": "2013-08-14 20:12:00", 
+                            "website": "http://www.kineticbrewing.com/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Kinetic Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-14 19:47:55", 
+                    "website": "http://www.kineticbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-07-27 06:38:39", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "45", 
+            "id": "CP3Pke", 
+            "isOrganic": "N", 
+            "name": "Ignition", 
+            "srm": {
+                "hex": "F8A600", 
+                "id": 6, 
+                "name": "6"
+            }, 
+            "srmId": 6, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International-style pale ales range from deep golden to copper in color. The style is characterized by wide range of hop characters unlike fruity, floral and citrus-like American-variety hop character and unlike earthy, herbal English-variety hop character. Moderate to high hop bitterness, flavor, and aroma is evident. International pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.014", 
+                "fgMin": "1.008", 
+                "ibuMax": "42", 
+                "ibuMin": "30", 
+                "id": 73, 
+                "name": "International-Style Pale Ale", 
+                "ogMin": "1.044", 
+                "srmMax": "14", 
+                "srmMin": "6"
+            }, 
+            "styleId": 73, 
+            "updateDate": "2013-08-10 12:56:31"
+        }, 
+        {
+            "abv": "4.6", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:05", 
+                    "id": "vhXMFV", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Finland", 
+                                "isoCode": "FI", 
+                                "isoThree": "FIN", 
+                                "name": "FINLAND", 
+                                "numberCode": 246
+                            }, 
+                            "countryIsoCode": "FI", 
+                            "createDate": "2012-01-03 02:42:05", 
+                            "id": "9c8L2r", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 60.3815304, 
+                            "locality": "Kerava", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 25.1102488, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "358-(09)-294-991", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Sinebrychoffinaukio 1", 
+                            "updateDate": "2012-03-21 19:08:15"
+                        }
+                    ], 
+                    "name": "Oy Sinebrychoff AB", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:08"
+                }
+            ], 
+            "createDate": "2013-05-16 00:00:23", 
+            "description": "Euro Pale Lager", 
+            "id": "TRM6kI", 
+            "isOrganic": "N", 
+            "name": "Karhu III", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International-style pale ales range from deep golden to copper in color. The style is characterized by wide range of hop characters unlike fruity, floral and citrus-like American-variety hop character and unlike earthy, herbal English-variety hop character. Moderate to high hop bitterness, flavor, and aroma is evident. International pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.014", 
+                "fgMin": "1.008", 
+                "ibuMax": "42", 
+                "ibuMin": "30", 
+                "id": 73, 
+                "name": "International-Style Pale Ale", 
+                "ogMin": "1.044", 
+                "srmMax": "14", 
+                "srmMin": "6"
+            }, 
+            "styleId": 73, 
+            "updateDate": "2013-05-24 12:11:48"
+        }, 
+        {
+            "abv": "5.2", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:46", 
+                    "description": "Just outside Merano, on the way to the Val Venosta, a complex of buildings perfectly in keeping with their surroundings catches the eye. They are decorated in a graceful, highly tasteful manner and almost blend in with the flourishing local vegetation. Anyone who is curious enough to ask the name of this \u201cvillage\u201d \u2013 because that is what it looks like at first sight \u2013 will simply receive the answer \u201cThat\u2019s FORST\u201d. It is not called the \u201cbeer factory\u201d or the \u201cbrewery\u201d, but \u201cFORST\u201d. The name is inherently linked with the local area. It stands for tradition and love for nature, but also striving to ensure that the quality of its products remains consistently high. Traditional and modern values go hand in hand, making positive contributions to each other: this is the guiding concept of FORST.", 
+                    "established": "1857", 
+                    "id": "s53vAs", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/s53vAs/upload_T81xIw-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/s53vAs/upload_T81xIw-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/s53vAs/upload_T81xIw-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Italy", 
+                                "isoCode": "IT", 
+                                "isoThree": "ITA", 
+                                "name": "ITALY", 
+                                "numberCode": 380
+                            }, 
+                            "countryIsoCode": "IT", 
+                            "createDate": "2012-01-03 02:41:46", 
+                            "id": "AnN3Lm", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 46.6804881, 
+                            "locality": "Lagundo / Algund", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 11.1332369, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "39-0473-260111", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Via Val Venosta, 8", 
+                            "updateDate": "2014-04-10 10:19:09", 
+                            "website": "http://www.forst.it/"
+                        }
+                    ], 
+                    "name": "Birra Forst", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-10 10:18:32", 
+                    "website": "http://www.forst.it/"
+                }
+            ], 
+            "createDate": "2014-04-09 22:03:27", 
+            "description": "A special beer with a full flavour featuring malty notes, a golden yellow colour and understated, subtle hoppiness. There is a slight grassy fragrance to the aftertaste, which comes together with the sweet sensation left on the lips to make another sip irresistible. It is made with an age-old recipe and will fully satisfy all genuine beer connoisseurs.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 2, 
+                "name": "Goblet"
+            }, 
+            "glasswareId": 2, 
+            "id": "6p9PHE", 
+            "isOrganic": "N", 
+            "name": "Kronen", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International-style pale ales range from deep golden to copper in color. The style is characterized by wide range of hop characters unlike fruity, floral and citrus-like American-variety hop character and unlike earthy, herbal English-variety hop character. Moderate to high hop bitterness, flavor, and aroma is evident. International pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.014", 
+                "fgMin": "1.008", 
+                "ibuMax": "42", 
+                "ibuMin": "30", 
+                "id": 73, 
+                "name": "International-Style Pale Ale", 
+                "ogMin": "1.044", 
+                "srmMax": "14", 
+                "srmMin": "6"
+            }, 
+            "styleId": 73, 
+            "updateDate": "2014-04-10 10:22:26"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:45", 
+                    "description": "Bayou Teche Brewing was founded on this simple dream \u2013 to craft beers that compliment the cuisine and lifestyle of Cajuns and Creoles.", 
+                    "established": "2009", 
+                    "id": "CZ6MCK", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/CZ6MCK/upload_8qSOGH-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/CZ6MCK/upload_8qSOGH-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/CZ6MCK/upload_8qSOGH-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:45", 
+                            "id": "vqbRV9", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 30.3691322, 
+                            "locality": "Arnaudville", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -91.9883172, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(337) 303-8000", 
+                            "postalCode": "70512", 
+                            "region": "Louisiana", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1002 Noth Lane", 
+                            "updateDate": "2013-08-06 21:52:45", 
+                            "website": "http://bayoutechebrewing.blogspot.com/"
+                        }
+                    ], 
+                    "name": "Bayou Teche Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-13 11:05:28", 
+                    "website": "http://bayoutechebrewing.com/"
+                }
+            ], 
+            "createDate": "2013-08-13 03:42:55", 
+            "description": "Using Belgian malts and American hops and yeast, LA-31 Bi\u00e8re P\u00e2le is a distinct new style of beer.  Traditionally brewed, we classify it as a Bi\u00e8re P\u00e2le, or Louisiana Pale Ale.  It is bronze colored with a biscuity malt center, herbal hop flavors and a gentle, mellow bitterness.  This beer is crafted to enhance the unique cuisine and lifestyle of South Louisiana.\r\n\r\n\u00c0 votre sant\u00e9.", 
+            "id": "wBKDvo", 
+            "isOrganic": "N", 
+            "name": "LA 31 Biere Pale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International-style pale ales range from deep golden to copper in color. The style is characterized by wide range of hop characters unlike fruity, floral and citrus-like American-variety hop character and unlike earthy, herbal English-variety hop character. Moderate to high hop bitterness, flavor, and aroma is evident. International pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.014", 
+                "fgMin": "1.008", 
+                "ibuMax": "42", 
+                "ibuMin": "30", 
+                "id": 73, 
+                "name": "International-Style Pale Ale", 
+                "ogMin": "1.044", 
+                "srmMax": "14", 
+                "srmMin": "6"
+            }, 
+            "styleId": 73, 
+            "updateDate": "2013-08-13 11:16:46"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:56", 
+                    "description": "Half Acre Beer Co. is a brewing company in the Northcenter neighborhood of Chicago, IL. We built a brewery in the middle of the city where we brew small batch beers, and have a store & tasting area where we sample our beers and sell them to go in all package styles. \r\n\r\nWe make different beers throughout the year, some we brew all the time and some are only around for a very short period. Our focus is to expand our abilities and enjoy our work.", 
+                    "established": "2006", 
+                    "id": "lZfiot", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/lZfiot/upload_A0HxP0-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/lZfiot/upload_A0HxP0-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/lZfiot/upload_A0HxP0-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:56", 
+                            "hoursOfOperation": "Tue - Fri:\t12:00 pm - 8:00 pm\r\nSat:\t11:00 am - 7:00 pm\r\nSun:\t12:00 pm - 5:00 pm", 
+                            "id": "Kd6WH6", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.9592701, 
+                            "locality": "Chicago", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -87.6823099, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "773-248-4038", 
+                            "postalCode": "60618", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4257 N. Lincoln Ave", 
+                            "updateDate": "2012-04-16 12:41:38", 
+                            "website": "http://www.halfacrebeer.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "Half Acre Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 14:22:06", 
+                    "website": "http://www.halfacrebeer.com/"
+                }
+            ], 
+            "createDate": "2012-04-16 13:04:56", 
+            "description": "Mr. Ouroboros is the follow up wet hop beer to Sticky Fat. Both are brewed with freshly picked, whole cone hops straight from the harvest. Both are hop forward, juicy potions demonstrating the perfume quality you can extract from the cones. And, both are odes to the lore of the fields. We were joined by friend and fellow brewer Jonathan Cutler of Piece Brewpub to bring this beer to you. We utilized a kolsch yeast strain and bags & bags of whole cone Citra to land on a beer all its own.", 
+            "id": "Zl4KEe", 
+            "isOrganic": "N", 
+            "name": "Mr. Ouroboros", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International-style pale ales range from deep golden to copper in color. The style is characterized by wide range of hop characters unlike fruity, floral and citrus-like American-variety hop character and unlike earthy, herbal English-variety hop character. Moderate to high hop bitterness, flavor, and aroma is evident. International pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.014", 
+                "fgMin": "1.008", 
+                "ibuMax": "42", 
+                "ibuMin": "30", 
+                "id": 73, 
+                "name": "International-Style Pale Ale", 
+                "ogMin": "1.044", 
+                "srmMax": "14", 
+                "srmMin": "6"
+            }, 
+            "styleId": 73, 
+            "updateDate": "2012-04-16 13:04:56"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "description": "Sixpoint Craft Ales was founded in 2004 by Shane Welch, a former homebrewer that originally grew up in Milwaukee. The microbrewery is located in a 7,000-square-foot (650 m2) factory in in Red Hook, Brooklyn that formerly manufactured filing cabinets. Sixpoint began business by only distributing kegs to local bars and restaurants; instead of bottling its beer, filling growlers at bars were the only way for customers to drink the beer at their homes. \r\n\r\nIn 2011 Sixpoint launched initial canned  offerings of 16 oz, year-round styles Sweet Action, Bengali Tiger, Righteous Ale and The Crisp.  Further releases have included the 12 oz Resin and 3Beans, as well as 16oz seasonal offerings such as Apollo and Autumnation.", 
+                    "established": "2004", 
+                    "id": "7VPQrN", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/7VPQrN/upload_X4w8Lq-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/7VPQrN/upload_X4w8Lq-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/7VPQrN/upload_X4w8Lq-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "id": "QJRQhZ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.6739317, 
+                            "locality": "Brooklyn", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -74.0119473, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "917-696-0438", 
+                            "postalCode": "11231", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "40 Van Dyke St", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.sixpointcraftales.com/", 
+                            "yearOpened": "2005"
+                        }
+                    ], 
+                    "mailingListUrl": "http://sixpoint.com/connect", 
+                    "name": "Sixpoint Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 16:33:25", 
+                    "website": "http://www.sixpoint.com/"
+                }
+            ], 
+            "createDate": "2013-11-15 00:31:16", 
+            "id": "yuh7Co", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/yuh7Co/upload_RKmmfN-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/yuh7Co/upload_RKmmfN-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/yuh7Co/upload_RKmmfN-medium.png"
+            }, 
+            "name": "Quality Italian Style Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International-style pale ales range from deep golden to copper in color. The style is characterized by wide range of hop characters unlike fruity, floral and citrus-like American-variety hop character and unlike earthy, herbal English-variety hop character. Moderate to high hop bitterness, flavor, and aroma is evident. International pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.014", 
+                "fgMin": "1.008", 
+                "ibuMax": "42", 
+                "ibuMin": "30", 
+                "id": 73, 
+                "name": "International-Style Pale Ale", 
+                "ogMin": "1.044", 
+                "srmMax": "14", 
+                "srmMin": "6"
+            }, 
+            "styleId": 73, 
+            "updateDate": "2013-11-15 00:31:29"
+        }, 
+        {
+            "abv": "5.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "createDate": "2014-05-10 11:37:06", 
+            "description": "Handcrafted beer from heart of Estonia. This rich in flavour beer is a true gem for beer lovers. In order to truly appreciate the essence of this beer follow instructions:\r\n - Be gentle with beer, don't shake and alway keep it up\r\n - Always drink from the glass, not from the bottle\r\n - When pouring into the glass make sure there remains 1-2cm layer of foam on top\r\n - The best temperature for beer is 6-8C\r\n - Because the beer is alive there might remain some sediment, don't pour it into glass", 
+            "foodPairings": "Due to its rich flavour it's best to enjoy it on its own.", 
+            "id": "jgz9tM", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/jgz9tM/upload_aiaZQn-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/jgz9tM/upload_aiaZQn-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/jgz9tM/upload_aiaZQn-medium.png"
+            }, 
+            "name": "Vormsi Light Ale", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International-style pale ales range from deep golden to copper in color. The style is characterized by wide range of hop characters unlike fruity, floral and citrus-like American-variety hop character and unlike earthy, herbal English-variety hop character. Moderate to high hop bitterness, flavor, and aroma is evident. International pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.014", 
+                "fgMin": "1.008", 
+                "ibuMax": "42", 
+                "ibuMin": "30", 
+                "id": 73, 
+                "name": "International-Style Pale Ale", 
+                "ogMin": "1.044", 
+                "srmMax": "14", 
+                "srmMin": "6"
+            }, 
+            "styleId": 73, 
+            "updateDate": "2014-05-11 09:00:56"
+        }, 
+        {
+            "abv": "5.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "createDate": "2014-05-10 11:37:37", 
+            "description": "Handcrafted beer from heart of Estonia. This rich in flavour beer is a true gem for beer lovers. In order to truly appreciate the essence of this beer follow instructions:\r\n - Be gentle with beer, don't shake and alway keep it up\r\n - Always drink from the glass, not from the bottle\r\n - When pouring into the glass make sure there remains 1-2cm layer of foam on top\r\n - The best temperature for beer is 6-8C\r\n - Because the beer is alive there might remain some sediment, don't pour it into glass", 
+            "foodPairings": "Due to its rich flavour it's best to enjoy it on its own.", 
+            "id": "M0hy2n", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/M0hy2n/upload_dEIw4m-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/M0hy2n/upload_dEIw4m-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/M0hy2n/upload_dEIw4m-medium.png"
+            }, 
+            "name": "Vormsi Light Ale", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International-style pale ales range from deep golden to copper in color. The style is characterized by wide range of hop characters unlike fruity, floral and citrus-like American-variety hop character and unlike earthy, herbal English-variety hop character. Moderate to high hop bitterness, flavor, and aroma is evident. International pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.014", 
+                "fgMin": "1.008", 
+                "ibuMax": "42", 
+                "ibuMin": "30", 
+                "id": 73, 
+                "name": "International-Style Pale Ale", 
+                "ogMin": "1.044", 
+                "srmMax": "14", 
+                "srmMin": "6"
+            }, 
+            "styleId": 73, 
+            "updateDate": "2014-05-11 09:01:04"
+        }, 
+        {
+            "abv": "5.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2014-03-29 19:49:45", 
+                    "established": "2012", 
+                    "id": "2MDtOB", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/2MDtOB/upload_jAMnoJ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/2MDtOB/upload_jAMnoJ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/2MDtOB/upload_jAMnoJ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Estonia", 
+                                "isoCode": "EE", 
+                                "isoThree": "EST", 
+                                "name": "ESTONIA", 
+                                "numberCode": 233
+                            }, 
+                            "countryIsoCode": "EE", 
+                            "createDate": "2014-04-01 14:15:32", 
+                            "id": "MOM2Mw", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 59.0187999, 
+                            "locality": "L\u00e4\u00e4nemaa", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 23.3391999, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+372 504 1380", 
+                            "postalCode": "91308", 
+                            "region": "Norrby", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Vormsi vald", 
+                            "updateDate": "2014-04-01 14:15:32", 
+                            "website": "http://vormsibeer.ee/"
+                        }
+                    ], 
+                    "name": "Vormsi \u00d5lu", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-01 14:14:39", 
+                    "website": "http://vormsibeer.ee/"
+                }
+            ], 
+            "createDate": "2014-05-10 11:39:00", 
+            "description": "Handcrafted beer from heart of Estonia. This rich in flavour beer is a true gem for beer lovers. In order to truly appreciate the essence of this beer follow instructions:\r\n - Be gentle with beer, don't shake and alway keep it up\r\n - Always drink from the glass, not from the bottle\r\n - When pouring into the glass make sure there remains 1-2cm layer of foam on top\r\n - The best temperature for beer is 6-8C\r\n - Because the beer is alive there might remain some sediment, don't pour it into glass", 
+            "foodPairings": "Due to its rich flavour it's best to enjoy it on its own.", 
+            "id": "yKQmCE", 
+            "isOrganic": "N", 
+            "name": "Vormsi Light Ale", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International-style pale ales range from deep golden to copper in color. The style is characterized by wide range of hop characters unlike fruity, floral and citrus-like American-variety hop character and unlike earthy, herbal English-variety hop character. Moderate to high hop bitterness, flavor, and aroma is evident. International pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.014", 
+                "fgMin": "1.008", 
+                "ibuMax": "42", 
+                "ibuMin": "30", 
+                "id": 73, 
+                "name": "International-Style Pale Ale", 
+                "ogMin": "1.044", 
+                "srmMax": "14", 
+                "srmMin": "6"
+            }, 
+            "styleId": 73, 
+            "updateDate": "2014-05-22 19:40:19"
+        }, 
+        {
+            "abv": "4.8", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:53", 
+                    "id": "tKLtLu", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Russian Federation", 
+                                "isoCode": "RU", 
+                                "isoThree": "RUS", 
+                                "name": "RUSSIAN FEDERATION", 
+                                "numberCode": 643
+                            }, 
+                            "countryIsoCode": "RU", 
+                            "createDate": "2012-01-03 02:41:53", 
+                            "id": "t3tKdn", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 55.756435, 
+                            "locality": "Moskva", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 37.70467, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "7-(095)-797-98-00", 
+                            "region": "Moskva", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "ul. Podolskikh Kursantov, 15 B", 
+                            "updateDate": "2012-03-21 19:08:08"
+                        }
+                    ], 
+                    "name": "Efes Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-09 12:17:49"
+                }
+            ], 
+            "createDate": "2012-11-03 16:33:58", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "Ne6Vc4", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Ne6Vc4/upload_jztCmW-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Ne6Vc4/upload_jztCmW-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Ne6Vc4/upload_jztCmW-medium.png"
+            }, 
+            "name": "White Bear", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 6, 
+                    "name": "International Ale Styles"
+                }, 
+                "categoryId": 6, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International-style pale ales range from deep golden to copper in color. The style is characterized by wide range of hop characters unlike fruity, floral and citrus-like American-variety hop character and unlike earthy, herbal English-variety hop character. Moderate to high hop bitterness, flavor, and aroma is evident. International pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruity-ester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.", 
+                "fgMax": "1.014", 
+                "fgMin": "1.008", 
+                "ibuMax": "42", 
+                "ibuMin": "30", 
+                "id": 73, 
+                "name": "International-Style Pale Ale", 
+                "ogMin": "1.044", 
+                "srmMax": "14", 
+                "srmMin": "6"
+            }, 
+            "styleId": 73, 
+            "updateDate": "2012-11-03 16:34:06"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 11
+}

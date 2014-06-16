@@ -1,0 +1,1674 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "5.2", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "Mad Fox Brewing Company offers a dining experience unique to the Washington, DC, area: upscale casual dining in an English-style gastro brewpub with an emphasis on high-quality food to complement our house-brewed beers.\r\n\r\nMad Fox features a chef-driven, seasonal menu and frequent specials including pizza, panini, salads and vegetarian friendly foods; fresh, locally grown seasonal produce, cheeses and other ingredients; locally raised lamb, bison, beef, chicken and game; and house-cured meats.\r\n\r\nMad Fox has a 63-foot long bar showcasing our seven to ten standard, house-brewed beers on tap as well as a rotating selection of seasonal brews in German, English, Belgian and American styles. Also, don\u2019t miss our cask conditioned proper Real Ales served through water jacketed Angram beer engines, ensuring that every pint is served at properly conditioned cellar temperatures.", 
+                    "established": "2010", 
+                    "id": "vkOn59", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/vkOn59/upload_7oXAUh-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/vkOn59/upload_7oXAUh-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/vkOn59/upload_7oXAUh-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "extendedAddress": "Suite I", 
+                            "hoursOfOperation": "11am - 11pm, Monday - Wednesday\r\n11am - Midnight, Thursday - Saturday\r\n10am - 11pm, Sunday, Brunch 10am-3pm", 
+                            "id": "OK6zyY", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.8862833, 
+                            "locality": "Falls Church", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -77.177117, 
+                            "name": "Brewery & Restaurant", 
+                            "openToPublic": "Y", 
+                            "phone": "703-942-6840", 
+                            "postalCode": "22046", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "444 West Broad Street", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://madfoxbrewing.com/", 
+                            "yearOpened": "2010"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-03-05 17:44:47", 
+                            "extendedAddress": "Suite 350", 
+                            "id": "Hw7H52", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.911825, 
+                            "locality": "Vienna", 
+                            "locationType": "office", 
+                            "locationTypeDisplay": "Office", 
+                            "longitude": -77.222019, 
+                            "name": "Main Office", 
+                            "openToPublic": "N", 
+                            "phone": "703-942-6840", 
+                            "postalCode": "22182", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1934 Old Gallows Road", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://madfoxbrewing.com/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Mad Fox Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-23 17:11:04", 
+                    "website": "http://madfoxbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:42:38", 
+            "description": "This malt?balanced beer starts on a caramel note in deep copper hues. The malt is balanced with subtle hopping. The name comes from 19th century Scotland categorization with 80 Shilling being a premium priced beer with greater malt.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "B2OFnl", 
+            "isOrganic": "N", 
+            "name": "80 Shilling", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).", 
+                "fgMax": "1.018", 
+                "fgMin": "1.01", 
+                "ibuMax": "25", 
+                "ibuMin": "15", 
+                "id": 9, 
+                "name": "Scottish-Style Export Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "19", 
+                "srmMin": "10"
+            }, 
+            "styleId": 9, 
+            "updateDate": "2012-03-22 13:05:19"
+        }, 
+        {
+            "abv": "5.7", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:45", 
+                    "description": "Barley Island\u2019s national award winning handcrafted ales produced on-premise with only the finest malts and hops. Being independently owned and operated has its advantages. We can quickly implement new food trends or even beer flavors to suit our local clientele.", 
+                    "id": "aUeHiX", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/aUeHiX/upload_EWnRin-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/aUeHiX/upload_EWnRin-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/aUeHiX/upload_EWnRin-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:45", 
+                            "hoursOfOperation": "Monday - Thursday: 11 am - 12 am\r\nSunday: 12 pm - 12 am\r\nFriday - Saturday: 11 am - 1 am", 
+                            "id": "0cdz5W", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.0455098, 
+                            "locality": "Noblesville", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -86.0154045, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "317-770-5280", 
+                            "postalCode": "46060", 
+                            "region": "Indiana", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "639 Conner Street", 
+                            "updateDate": "2013-12-19 11:54:54", 
+                            "website": "http://www.barleyisland.com/"
+                        }
+                    ], 
+                    "mailingListUrl": "http://builder.campaigner.com/app/campaigner/services/optinlist/processoptinrequest.jsp?oilb=86220268", 
+                    "name": "Barley Island Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-22 17:27:38", 
+                    "website": "http://www.barleyisland.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:42:38", 
+            "description": "A medium malty sweet flavor with slight kettle caramelization. Dark copper color. Moderate hop bitterness but the balance is towards the malt. Shilling categories in Scotland were based on the price charged per hogshead (54 Imperial gallons) during the 19th century.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "16", 
+            "id": "IKgLXN", 
+            "ingredients": {
+                "hops": [
+                    {
+                        "alphaAcidMin": 4, 
+                        "betaAcidMax": 4, 
+                        "betaAcidMin": 3, 
+                        "caryophylleneMax": 7, 
+                        "caryophylleneMin": 6, 
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "cohumuloneMax": 25, 
+                        "cohumuloneMin": 20, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United States", 
+                            "isoCode": "US", 
+                            "isoThree": "USA", 
+                            "name": "UNITED STATES", 
+                            "numberCode": 840
+                        }, 
+                        "countryOfOrigin": "US", 
+                        "createDate": "2013-06-24 16:07:38", 
+                        "description": "American hops sold as Tettnanger hops often claim to be the same cultivar as the famous German aroma hop Tettnang Tettnanger. However, in recent years, it has been discovered that these hops are genetically distinct from the German landrace and in fact are most likely Fuggle or a closely related hop. The most likely explanation is that American hop growers imported the so-called Swiss Tettnanger hops, which may also have been Fuggle hops misrepresented as Tettnanger for marketing purposes. In recent years, a few growers have tried growing true Tettnanger hops in the United States, but because of the confusion of names, these are almost impossible to find or identify.", 
+                        "farneseneMax": 8, 
+                        "farneseneMin": 5, 
+                        "humuleneMax": 23, 
+                        "humuleneMin": 18, 
+                        "id": 143, 
+                        "myrceneMax": 45, 
+                        "myrceneMin": 36, 
+                        "name": "Tettnanger (American)", 
+                        "updateDate": "2013-06-24 16:10:38"
+                    }
+                ], 
+                "malt": [
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "characteristics": [
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts an aromatic quality upon the beer.", 
+                                "id": 1, 
+                                "name": "Aromatic"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a malty flavor upon the beer.", 
+                                "id": 10, 
+                                "name": "Malty"
+                            }
+                        ], 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "Belgium", 
+                            "isoCode": "BE", 
+                            "isoThree": "BEL", 
+                            "name": "BELGIUM", 
+                            "numberCode": 56
+                        }, 
+                        "countryOfOrigin": "BE", 
+                        "createDate": "2013-06-24 16:07:41", 
+                        "description": "Aromatic malt is a kilned barley malt used to give beer a strong, aggressive malt aroma and rich color.", 
+                        "dryYield": 77.9, 
+                        "id": 209, 
+                        "maxInBatch": 100, 
+                        "name": "Aromatic Malt", 
+                        "potential": 1.036, 
+                        "requiresMashing": "Y", 
+                        "srm": {
+                            "hex": "771900", 
+                            "id": 26, 
+                            "name": "26"
+                        }, 
+                        "srmId": 26, 
+                        "srmPrecise": 26, 
+                        "updateDate": "2013-06-24 16:10:14"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "createDate": "2013-06-24 16:07:45", 
+                        "id": 378, 
+                        "name": "Caramel/Crystal Malt"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "characteristics": [
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Increases the body of the beer.", 
+                                "id": 3, 
+                                "name": "Body"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a caramel quality upon the beer.", 
+                                "id": 5, 
+                                "name": "Caramel"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Helps the head retention of the beer.", 
+                                "id": 9, 
+                                "name": "Head"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a sweet flavor upon the beer.", 
+                                "id": 14, 
+                                "name": "Sweet"
+                            }
+                        ], 
+                        "createDate": "2013-06-24 16:07:45", 
+                        "id": 386, 
+                        "name": "Caramel/Crystal Malt 60L"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "characteristics": [
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a malty flavor upon the beer.", 
+                                "id": 10, 
+                                "name": "Malty"
+                            }
+                        ], 
+                        "createDate": "2013-06-24 16:07:42", 
+                        "id": 234, 
+                        "name": "Pale Malt"
+                    }
+                ]
+            }, 
+            "isOrganic": "N", 
+            "name": "80 Shilling Scotch Ale", 
+            "srm": {
+                "hex": "CF6900", 
+                "id": 12, 
+                "name": "12"
+            }, 
+            "srmId": 12, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).", 
+                "fgMax": "1.018", 
+                "fgMin": "1.01", 
+                "ibuMax": "25", 
+                "ibuMin": "15", 
+                "id": 9, 
+                "name": "Scottish-Style Export Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "19", 
+                "srmMin": "10"
+            }, 
+            "styleId": 9, 
+            "updateDate": "2012-04-16 22:49:04"
+        }, 
+        {
+            "abv": "5.3", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:04", 
+                    "description": "We love beer. We talk about beer. We dream about beer. And we make incredible beer. We don't mess around with serving food, making music or cutting up limes to mask our beer's flavor. Our dreams lead us to create imaginative, big, bold and beautiful beers. Every ounce of our passion is poured directly into the next bottle you open. Our mission is simple; to make consistently great beer.\r\n\r\nHandcrafted classics and small batch experimental beers that include Pale Ales, Stouts, Pilsners and Porters. Come visit us in our tap room for a taste of how we keep the craft in craft beer.", 
+                    "established": "1989", 
+                    "id": "rQkKIB", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/rQkKIB/upload_DXbWkA-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/rQkKIB/upload_DXbWkA-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/rQkKIB/upload_DXbWkA-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:04", 
+                            "hoursOfOperation": "Tap Room: \r\nMonday - Thursday 11am - 6pm \r\nFriday - Saturday: 11am - 7pm\r\n\r\nBrewery Tours:\r\nMonday - Saturday: 1:00, 2:00, & 3:00pm", 
+                            "id": "Q4eTmd", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.5887805, 
+                            "locality": "Fort Collins", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -105.0624591, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-888-887-2797", 
+                            "postalCode": "80524", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "800 East Lincoln Avenue", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://odellbrewing.com/", 
+                            "yearOpened": "1989"
+                        }
+                    ], 
+                    "name": "Odell Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-03 17:37:00", 
+                    "website": "http://odellbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:42:38", 
+            "description": "We introduced 90 Shilling, our flagship beer, at our opening party in 1989. For a while, we\u2019d been wondering what would happen if we lightened up the traditional Scottish ale? The result is an irresistibly smooth and delicious medium-bodied amber ale. The name 90 Shilling comes from the Scottish method of taxing beer. Only the highest quality beers were taxed 90 Shillings. A shilling was a British coin used from 1549 to 1982. We think you\u2019ll find this original ale brilliantly refreshing, and worth every shilling.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "ibu": "27", 
+            "id": "YAKFea", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/YAKFea/upload_1CxY2l-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/YAKFea/upload_1CxY2l-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/YAKFea/upload_1CxY2l-medium.png"
+            }, 
+            "name": "90 Shilling", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).", 
+                "fgMax": "1.018", 
+                "fgMin": "1.01", 
+                "ibuMax": "25", 
+                "ibuMin": "15", 
+                "id": 9, 
+                "name": "Scottish-Style Export Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "19", 
+                "srmMin": "10"
+            }, 
+            "styleId": 9, 
+            "updateDate": "2012-03-22 13:04:31"
+        }, 
+        {
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:47", 
+                    "description": "Boscos is a warm, inviting, first-class restaurant with locations in Memphis, Nashville, and Franklin, TN; and in Little Rock, AR. Boscos believes in using only the freshest products and ingredients in our menu and in our hand-crafted beers.\r\n\r\nEach restaurant's menu includes a variety of appetizers, salads, entrees or gourmet pizzas, baked in our brick oven. Signature items include fresh salmon baked on a cedar plank in Boscos brick oven, delicious double-cut pork chop, and a prime cut of steak cooked to perfection.\r\n\r\nBoscos has been brewing award-winning handcrafted beers for over sixteen years. That experience is evident in both the quality and variety of beers we offer, including the light-bodied, golden Famous Flaming Stone, the amber, crisp Bombay IPA, and our robust, full-bodied stouts and porters. Boscos has a beer to match everyone's tastes and to compliment every delicious dish.", 
+                    "id": "nJ1NaV", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/nJ1NaV/upload_SgsMvp-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/nJ1NaV/upload_SgsMvp-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/nJ1NaV/upload_SgsMvp-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:47", 
+                            "id": "ybdwZK", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.124958, 
+                            "locality": "Memphis", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -90.059515, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "901-278-0087", 
+                            "postalCode": "38106", 
+                            "region": "Tennessee", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "827 Soutg Main Street", 
+                            "updateDate": "2012-03-21 19:08:03", 
+                            "website": "http://www.boscosbeer.com/"
+                        }
+                    ], 
+                    "name": "Boscos Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-23 01:10:38", 
+                    "website": "http://www.boscosbeer.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:42:53", 
+            "description": "A typical method of beer taxation in Scotland would involve higher tax rates on stronger or higher quality, beers. \"50 Shilling Ale\" would be your typical run of the mill Scottish style ale. \"60 Shilling Ale\" a little better, etc. \"Boscos 90 Shilling Ale\" would be, of course, off the charts.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "35", 
+            "id": "QzesuU", 
+            "isOrganic": "N", 
+            "name": "Boscos 90 Shilling Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).", 
+                "fgMax": "1.018", 
+                "fgMin": "1.01", 
+                "ibuMax": "25", 
+                "ibuMin": "15", 
+                "id": 9, 
+                "name": "Scottish-Style Export Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "19", 
+                "srmMin": "10"
+            }, 
+            "styleId": 9, 
+            "updateDate": "2012-03-22 13:05:19"
+        }, 
+        {
+            "abv": "8", 
+            "breweries": [
+                {
+                    "createDate": "2013-07-14 00:48:51", 
+                    "description": "Spinnaker Bay Brewing is a woman founded, built, owned and run brewery.", 
+                    "established": "2012", 
+                    "id": "X60E3Q", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/X60E3Q/upload_F6zHcc-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/X60E3Q/upload_F6zHcc-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/X60E3Q/upload_F6zHcc-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-14 00:50:07", 
+                            "hoursOfOperation": "Wed - Fri: 5:00pm - 9:30pm\r\nSat: 3:00pm - 7:00pm", 
+                            "id": "RJSfCx", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.5506562, 
+                            "locality": "Seattle", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.2773598, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(206) 725-2337", 
+                            "postalCode": "98118", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5718 Rainier Ave. S", 
+                            "updateDate": "2013-07-14 00:50:07", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Spinnaker Bay Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-07-14 00:52:38", 
+                    "website": "http://spinnakerbaybrewing.com/"
+                }
+            ], 
+            "createDate": "2013-07-14 00:53:06", 
+            "id": "vJtHvM", 
+            "isOrganic": "N", 
+            "name": "Even Keel", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).", 
+                "fgMax": "1.018", 
+                "fgMin": "1.01", 
+                "ibuMax": "25", 
+                "ibuMin": "15", 
+                "id": 9, 
+                "name": "Scottish-Style Export Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "19", 
+                "srmMin": "10"
+            }, 
+            "styleId": 9, 
+            "updateDate": "2013-07-14 00:53:07"
+        }, 
+        {
+            "abv": "8", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:52", 
+                    "description": "Cutters Brewing Company is a start-up, small scale nanobrewery operated by Emma Inman, Chris Inman, Monte Speicher, & Amanda Speicher.", 
+                    "id": "ZP8R4u", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ZP8R4u/upload_s0CrZN-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ZP8R4u/upload_s0CrZN-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ZP8R4u/upload_s0CrZN-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:52", 
+                            "id": "XhwArB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.1484309, 
+                            "locality": "Bloomington", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -86.5825804, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "812-335-2337", 
+                            "postalCode": "47403", 
+                            "region": "Indiana", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1927 S.Curry Pike", 
+                            "updateDate": "2012-03-21 19:08:07", 
+                            "website": "http://cuttersbrewing.com/"
+                        }
+                    ], 
+                    "name": "Cutters Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-17 19:10:40", 
+                    "website": "http://cuttersbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-10-11 00:53:34", 
+            "description": "The life of an old-time cutter? Well, it wasn\u2019t always long but it could be just long enough to benefit generations. Floyd McCoy is a fine example. He cut around central Indiana until injured by a limestone slab in 1959. And while he finally succumbed to his wounds, it wasn\u2019t before starting a fine legacy of his own, by grandfathering one of the founders of Cutters Brewing Co. Our salute is a Scotch Ale worthy of his name. Floyd\u2019s Folly pours a nice amber color with a light tan head and boasts of full-roasted malt and caramel flavors. One taste and you\u2019ll be thanking old Floyd, too.", 
+            "id": "UtlQ35", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/UtlQ35/upload_xcrkPt-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/UtlQ35/upload_xcrkPt-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/UtlQ35/upload_xcrkPt-medium.png"
+            }, 
+            "name": "Floyd's Folly", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).", 
+                "fgMax": "1.018", 
+                "fgMin": "1.01", 
+                "ibuMax": "25", 
+                "ibuMin": "15", 
+                "id": 9, 
+                "name": "Scottish-Style Export Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "19", 
+                "srmMin": "10"
+            }, 
+            "styleId": 9, 
+            "updateDate": "2013-10-11 12:15:29"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "Launched in late 2010 in downtown Huntsville, Yellowhammer Brewing seeks to bring Belgian and German tradition to Alabama. That means Euopean styles, but with a slight Southern interpretation.\r\nThanks to Free the Hops and the change in Alabama's formerly restrictive beer laws, creativity in brewing has come to Alabama.\r\n\r\nAt Yellowhammer, head brewer Keith Yager draws inspiration from both Belgian and German brewing traditions. An accomplished home brewer since 1995, Yager has designed numerous seasonal and specialty batches, from the Dark Hammer Belgian Quad to the UberAlt sticke ale. Other recurring ales are more experimental, blending styles, as with Tobacco Road, an imperial amber designed to complement a good cigar, or the occasional Lonesome Hop series, which spotlights the character of an individual hop. Yellowhammer is Yager's first commercial undertaking.\r\n\r\nYellowhammer Brewing opened on Oct. 16, 2010 with the best-selling Belgian white ale and the IPA. Other staples sold throughout the year include a German style altbier and the Miracle Worker, a potent Belgian tripel.", 
+                    "established": "2010", 
+                    "id": "BI8mE7", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/BI8mE7/upload_h0FCyk-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/BI8mE7/upload_h0FCyk-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/BI8mE7/upload_h0FCyk-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "id": "4V6C7Y", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 34.722525, 
+                            "locality": "West Huntsville", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -86.603703, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "256-975-5950", 
+                            "postalCode": "35805", 
+                            "region": "Alabama", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2406 Clinton Avenue", 
+                            "updateDate": "2012-03-21 20:05:31", 
+                            "website": "http://www.yellowhammerbrewery.com/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Yellowhammer Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-22 13:21:58", 
+                    "website": "http://www.yellowhammerbrewery.com/"
+                }
+            ], 
+            "createDate": "2013-11-25 13:56:40", 
+            "id": "QTuIq7", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/QTuIq7/upload_8Osuxt-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/QTuIq7/upload_8Osuxt-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/QTuIq7/upload_8Osuxt-medium.png"
+            }, 
+            "name": "Forranach 60", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).", 
+                "fgMax": "1.018", 
+                "fgMin": "1.01", 
+                "ibuMax": "25", 
+                "ibuMin": "15", 
+                "id": 9, 
+                "name": "Scottish-Style Export Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "19", 
+                "srmMin": "10"
+            }, 
+            "styleId": 9, 
+            "updateDate": "2013-11-26 10:04:08"
+        }, 
+        {
+            "abv": "7.1", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-03 00:34:11", 
+                    "description": "Innis & Gunn is a specialist independent brewing company based in Edinburgh, Scotland. Established in 2003, its beer has gone on to be the most popular British bottled beer sold in Canada, and second most popular in Sweden. It was part of the nominated drinks list for the G8 Summit 2005 at Gleneagles Hotel.\r\n\r\nThe business is, since 2008, family owned following a management buy-out from its original part-owners, William Grant and Sons.\r\n\r\nTheir Innis & Gunn Original beer is brewed in Dunbar, East Lothian before being matured in American white oak Bourbon barrels for 30 days and is then a further 47 days in a marrying tun, and so it is matured for 77 days in total. It is 6.6% alcohol by volume. At first only available as a bottled beer it is now marketed both in bottles and as draught.\r\n\r\nAccording to Innis and Gunn's website, the process was discovered in an ironic accident: the intent was to create a scotch whisky with ale flavours. To do this, a special beer was created which would then be stored in the whisky barrels. After the beer had conditioned the barrels, it was to be discarded and replaced with the whisky. The brewers noted that the process had an agreeable effect on the beer, and thus aging the beer became an end in itself.\r\n\r\nA \"blonde\" version of Innis & Gunn is also widely available, and a limited edition matured in rum barrels was produced.", 
+                    "established": "2003", 
+                    "id": "jC0TAa", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/jC0TAa/upload_attxYK-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/jC0TAa/upload_attxYK-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/jC0TAa/upload_attxYK-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-08-03 12:39:07", 
+                            "id": "0HAazs", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 55.951976, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -3.211095, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "N", 
+                            "phone": "+44 (0) 131 337 4420", 
+                            "postalCode": "EH3 7TH", 
+                            "region": "Edinburgh", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6 Randolph Crescent", 
+                            "updateDate": "2012-08-03 12:40:43", 
+                            "website": "http://www.innisandgunn.com/"
+                        }
+                    ], 
+                    "name": "Innis & Gunn", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-03 12:40:12", 
+                    "website": "http://www.innisandgunn.com/"
+                }
+            ], 
+            "createDate": "2012-10-10 12:32:25", 
+            "description": "Aged for 71 days in oak.", 
+            "id": "eZ0j9F", 
+            "isOrganic": "N", 
+            "name": "Highland Cask", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).", 
+                "fgMax": "1.018", 
+                "fgMin": "1.01", 
+                "ibuMax": "25", 
+                "ibuMin": "15", 
+                "id": 9, 
+                "name": "Scottish-Style Export Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "19", 
+                "srmMin": "10"
+            }, 
+            "styleId": 9, 
+            "updateDate": "2012-10-10 12:32:26"
+        }, 
+        {
+            "abv": "5.4", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:02", 
+                    "description": "Step back in time to when men were men, women were brewsters, and hand-crafted fine ale filled every flagon. Your quest for great taste leads you out of the past and into Middle Ages Brewing Company where we are sworn to uphold the tradition of brewing beer in small batches. Taste the difference hand-crafting makes.", 
+                    "established": "1995", 
+                    "id": "ecNEQD", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ecNEQD/upload_YVnqwD-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ecNEQD/upload_YVnqwD-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ecNEQD/upload_YVnqwD-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:02", 
+                            "hoursOfOperation": "Mon - Fri: 11:30am - 6:00pm\r\nSat: 11:30am - 5:00pm\r\nSun: 12:00pm 5:00pm", 
+                            "id": "mJiBMs", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.050827, 
+                            "locality": "Syracuse", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -76.161711, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "888-289-4250", 
+                            "postalCode": "13204", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "120 Wilkinson Street", 
+                            "updateDate": "2013-01-04 12:28:35", 
+                            "website": "http://www.middleagesbrewing.com/", 
+                            "yearOpened": "1995"
+                        }
+                    ], 
+                    "name": "Middle Ages Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-09-25 20:36:39", 
+                    "website": "http://www.middleagesbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:23", 
+            "description": "A Scottish-style brown ale with an attractive dark cherry color; a soft, lightly chewy body and a hint of licorice in its malt character. Rich and dark yet not too strong. 1996 Best Show at the Chicago Real Ale Festival.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "D3s54f", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/D3s54f/upload_7s02Wx-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/D3s54f/upload_7s02Wx-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/D3s54f/upload_7s02Wx-medium.png"
+            }, 
+            "name": "Highlander Scotch Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).", 
+                "fgMax": "1.018", 
+                "fgMin": "1.01", 
+                "ibuMax": "25", 
+                "ibuMin": "15", 
+                "id": 9, 
+                "name": "Scottish-Style Export Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "19", 
+                "srmMin": "10"
+            }, 
+            "styleId": 9, 
+            "updateDate": "2012-03-22 13:05:02"
+        }, 
+        {
+            "abv": "7", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-03 00:34:11", 
+                    "description": "Innis & Gunn is a specialist independent brewing company based in Edinburgh, Scotland. Established in 2003, its beer has gone on to be the most popular British bottled beer sold in Canada, and second most popular in Sweden. It was part of the nominated drinks list for the G8 Summit 2005 at Gleneagles Hotel.\r\n\r\nThe business is, since 2008, family owned following a management buy-out from its original part-owners, William Grant and Sons.\r\n\r\nTheir Innis & Gunn Original beer is brewed in Dunbar, East Lothian before being matured in American white oak Bourbon barrels for 30 days and is then a further 47 days in a marrying tun, and so it is matured for 77 days in total. It is 6.6% alcohol by volume. At first only available as a bottled beer it is now marketed both in bottles and as draught.\r\n\r\nAccording to Innis and Gunn's website, the process was discovered in an ironic accident: the intent was to create a scotch whisky with ale flavours. To do this, a special beer was created which would then be stored in the whisky barrels. After the beer had conditioned the barrels, it was to be discarded and replaced with the whisky. The brewers noted that the process had an agreeable effect on the beer, and thus aging the beer became an end in itself.\r\n\r\nA \"blonde\" version of Innis & Gunn is also widely available, and a limited edition matured in rum barrels was produced.", 
+                    "established": "2003", 
+                    "id": "jC0TAa", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/jC0TAa/upload_attxYK-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/jC0TAa/upload_attxYK-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/jC0TAa/upload_attxYK-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-08-03 12:39:07", 
+                            "id": "0HAazs", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 55.951976, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -3.211095, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "N", 
+                            "phone": "+44 (0) 131 337 4420", 
+                            "postalCode": "EH3 7TH", 
+                            "region": "Edinburgh", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6 Randolph Crescent", 
+                            "updateDate": "2012-08-03 12:40:43", 
+                            "website": "http://www.innisandgunn.com/"
+                        }
+                    ], 
+                    "name": "Innis & Gunn", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-03 12:40:12", 
+                    "website": "http://www.innisandgunn.com/"
+                }
+            ], 
+            "createDate": "2012-10-10 12:32:26", 
+            "description": "Oak aged. Bottled in celebration of American independence day.", 
+            "id": "GsjXIg", 
+            "isOrganic": "N", 
+            "name": "Independence Day", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).", 
+                "fgMax": "1.018", 
+                "fgMin": "1.01", 
+                "ibuMax": "25", 
+                "ibuMin": "15", 
+                "id": 9, 
+                "name": "Scottish-Style Export Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "19", 
+                "srmMin": "10"
+            }, 
+            "styleId": 9, 
+            "updateDate": "2012-10-10 12:34:25", 
+            "year": 2012
+        }, 
+        {
+            "abv": "5.8", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:10", 
+                    "description": "Trap Rock Restaurant & Brewery opened its doors 1997 and combines seasonal craft brews with seasonal, American food. Designed by Morris Nathanson, Trap Rock Restaurant offers a working microbrewery and a comfortable European ski lodge atmosphere.", 
+                    "established": "1997", 
+                    "id": "5B5OnQ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/5B5OnQ/upload_8sush0-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/5B5OnQ/upload_8sush0-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/5B5OnQ/upload_8sush0-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:10", 
+                            "hoursOfOperation": "Monday-Thursday: 11:30AM-10PM\r\nFriday-Saturday: 11:30AM-11PM\r\nSunday: 12 Noon-9PM", 
+                            "id": "pkG6MD", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.688869, 
+                            "locality": "Berkeley Heights", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -74.434723, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "908-665-1755", 
+                            "postalCode": "7922", 
+                            "region": "New Jersey", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "279 Springfield Avenue", 
+                            "updateDate": "2012-08-19 16:01:36", 
+                            "website": "http://traprockrestaurant.net/", 
+                            "yearOpened": "1997"
+                        }
+                    ], 
+                    "name": "Trap Rock Restaurant and Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-13 01:43:07", 
+                    "website": "http://traprockrestaurant.net/"
+                }
+            ], 
+            "createDate": "2012-08-12 16:55:07", 
+            "description": "Named after a famous Rally car driver Colin McRae and also Chef Andy's Clan Name. Scottish style ale made with Peat malt and dark Crystal malt.", 
+            "id": "jzMrcJ", 
+            "isOrganic": "N", 
+            "name": "McRae's Rally Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).", 
+                "fgMax": "1.018", 
+                "fgMin": "1.01", 
+                "ibuMax": "25", 
+                "ibuMin": "15", 
+                "id": 9, 
+                "name": "Scottish-Style Export Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "19", 
+                "srmMin": "10"
+            }, 
+            "styleId": 9, 
+            "updateDate": "2012-12-24 14:29:54"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:14", 
+                    "description": "The oldest brewpub in the area, opening in 1992. Award-winning craft ales alongside hearty, satisfying pub cuisine. Ale! Ale! The Gang's All Here!", 
+                    "established": "1992", 
+                    "id": "RRoiAq", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/RRoiAq/upload_zHrOeY-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/RRoiAq/upload_zHrOeY-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/RRoiAq/upload_zHrOeY-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:14", 
+                            "id": "ixDWFe", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 39.971947, 
+                            "locality": "Columbus", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.002538, 
+                            "name": "Barley's Ale House #1", 
+                            "openToPublic": "Y", 
+                            "phone": "614-228-2537", 
+                            "postalCode": "43215", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "467 North High Street", 
+                            "updateDate": "2012-05-04 00:01:17", 
+                            "website": "http://barleysbrewing.com/", 
+                            "yearOpened": "1992"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-05-04 00:00:17", 
+                            "id": "kVpTyR", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.973942, 
+                            "locality": "Columbus", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -83.048991, 
+                            "name": "Barley's Ale House #2", 
+                            "openToPublic": "Y", 
+                            "phone": "614-485-0227", 
+                            "postalCode": "43215", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1130 Dublin Road", 
+                            "updateDate": "2012-05-04 00:00:17", 
+                            "website": "http://barleysbrewing.com/"
+                        }
+                    ], 
+                    "name": "Barley's Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 13:03:38", 
+                    "website": "http://barleysbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:06", 
+            "id": "HX4Prz", 
+            "isOrganic": "N", 
+            "name": "Robert Burns Scottish Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).", 
+                "fgMax": "1.018", 
+                "fgMin": "1.01", 
+                "ibuMax": "25", 
+                "ibuMin": "15", 
+                "id": 9, 
+                "name": "Scottish-Style Export Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "19", 
+                "srmMin": "10"
+            }, 
+            "styleId": 9, 
+            "updateDate": "2013-05-02 17:16:27"
+        }, 
+        {
+            "abv": "6", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:07", 
+                    "description": "Our bar carries 9 of our hand-crafted beers on draught and also one cask conditioned beer on a traditional British hand pump.\r\n\r\nOur Scottish brewer brews over 30 different beer styles throughout the year, ranging from American style Wheat beers to Belgian Dubbels and Tripels and of course Scottish Ales.\r\n\r\nUnlike other microbreweries - Our beers do not compromise on flavor!", 
+                    "established": "1998", 
+                    "id": "qmQjPU", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/qmQjPU/upload_0KrWWk-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/qmQjPU/upload_0KrWWk-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/qmQjPU/upload_0KrWWk-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:07", 
+                            "hoursOfOperation": "Tuesday - Thursday: 3:00 p.m. - 10:00 p.m.\r\nFriday: 3:00 p.m. - 12:00 a.m.\r\nSaturday: 2:00 p.m. - 12:00 a.m", 
+                            "id": "HxmssD", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.6858616, 
+                            "locality": "Peoria", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -89.5940051, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "309-674-7267", 
+                            "postalCode": "61601", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "619A Water St", 
+                            "updateDate": "2012-04-13 18:05:11", 
+                            "website": "http://www.rhodells.com/", 
+                            "yearOpened": "1998"
+                        }
+                    ], 
+                    "name": "Rhodell Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-13 18:13:14", 
+                    "website": "http://www.rhodells.com/"
+                }
+            ], 
+            "createDate": "2012-04-13 18:09:43", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "JB9i2P", 
+            "isOrganic": "N", 
+            "name": "Scottish Export", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).", 
+                "fgMax": "1.018", 
+                "fgMin": "1.01", 
+                "ibuMax": "25", 
+                "ibuMin": "15", 
+                "id": 9, 
+                "name": "Scottish-Style Export Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "19", 
+                "srmMin": "10"
+            }, 
+            "styleId": 9, 
+            "updateDate": "2012-04-13 18:09:43"
+        }, 
+        {
+            "abv": "4", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:46", 
+                    "description": "Formerly Blackthorn, Rinn Duin Brewing is crafting characteristically traditional, yet distincive English, Irish and Scottish Ales in the heart of the Jersey Shore.", 
+                    "established": "2012", 
+                    "id": "T90yOZ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/T90yOZ/upload_wv1OAv-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/T90yOZ/upload_wv1OAv-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/T90yOZ/upload_wv1OAv-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:46", 
+                            "id": "kTRptV", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.988752, 
+                            "locality": "Tom's River", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -74.263236, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "732-539-3025", 
+                            "postalCode": "08755", 
+                            "region": "New Jersey", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1540 Route 37 W", 
+                            "updateDate": "2014-04-13 13:19:17", 
+                            "website": "http://rinnduinbrewing.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Rinn Duin Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-22 14:50:14", 
+                    "website": "http://rinnduinbrewing.com/"
+                }
+            ], 
+            "createDate": "2014-02-09 19:30:04", 
+            "description": "This Trinity one-off was fermented with bourbon soaked oak chips.", 
+            "ibu": "18", 
+            "id": "TuSDpS", 
+            "isOrganic": "N", 
+            "name": "Trinity +2", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).", 
+                "fgMax": "1.018", 
+                "fgMin": "1.01", 
+                "ibuMax": "25", 
+                "ibuMin": "15", 
+                "id": 9, 
+                "name": "Scottish-Style Export Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "19", 
+                "srmMin": "10"
+            }, 
+            "styleId": 9, 
+            "updateDate": "2014-02-10 11:32:24"
+        }, 
+        {
+            "abv": "4", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:46", 
+                    "description": "Formerly Blackthorn, Rinn Duin Brewing is crafting characteristically traditional, yet distincive English, Irish and Scottish Ales in the heart of the Jersey Shore.", 
+                    "established": "2012", 
+                    "id": "T90yOZ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/T90yOZ/upload_wv1OAv-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/T90yOZ/upload_wv1OAv-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/T90yOZ/upload_wv1OAv-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:46", 
+                            "id": "kTRptV", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.988752, 
+                            "locality": "Tom's River", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -74.263236, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "732-539-3025", 
+                            "postalCode": "08755", 
+                            "region": "New Jersey", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1540 Route 37 W", 
+                            "updateDate": "2014-04-13 13:19:17", 
+                            "website": "http://rinnduinbrewing.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Rinn Duin Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-22 14:50:14", 
+                    "website": "http://rinnduinbrewing.com/"
+                }
+            ], 
+            "createDate": "2014-02-09 19:27:29", 
+            "description": "Subtle smokiness with a complex finish; pairs with ribs, steak, and burgers", 
+            "ibu": "18", 
+            "id": "FH0bWa", 
+            "isOrganic": "N", 
+            "name": "Trinity Smoked Scottish 70", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).", 
+                "fgMax": "1.018", 
+                "fgMin": "1.01", 
+                "ibuMax": "25", 
+                "ibuMin": "15", 
+                "id": 9, 
+                "name": "Scottish-Style Export Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "19", 
+                "srmMin": "10"
+            }, 
+            "styleId": 9, 
+            "updateDate": "2014-02-10 11:33:15"
+        }, 
+        {
+            "abv": "8.8", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:09", 
+                    "description": "Sun King Brewing Company is an Indianapolis based, brewer owned and operated Craft Brewery with a focus on continually crafting traditional seasonals and unique specialty beers.\r\n\r\nSun King can be found On Tap at over 300 Bars/Restaurants and Liquor Stores in Indianapolis, Lafayette and Muncie.\r\n\r\nIn addition to our House beers, we release at least two new seasonal or specialty offerings every month! Our Seasonal Beers complement the time of year and give our fans something new to enjoy, while our Specialty Beers give our Brewers the opportunity to try new things, push boundaries and craft whatever the hell they want!\r\n\r\nSun King Brewing Company is an brewer owned and operated brewery designed to help fill the growing demand for craft beer in the Indianapolis area. \r\n\r\nSun King is a community minded organization that exercises sustainable business practices and implements environmental friendly programs that highlight the benefits of re-use and recycling.", 
+                    "established": "2008", 
+                    "id": "mOFDzh", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/mOFDzh/upload_hR3lUW-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/mOFDzh/upload_hR3lUW-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/mOFDzh/upload_hR3lUW-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:09", 
+                            "hoursOfOperation": "Retail Hours (Carry-out Only)\r\nTuesday - Noon - 6\r\nWednesday - Noon - 6\r\nThursday - Noon - 4\r\n\r\nTasting Hours  (Carry-out and Sampling)\r\nThursday - 4 - 7\r\nFriday - 12 - 7\r\nSaturday 1 - 4", 
+                            "id": "KWtrr6", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.7688735, 
+                            "locality": "Indianapolis", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -86.1446464, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "317-602-3702", 
+                            "postalCode": "46202", 
+                            "region": "Indiana", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "135 N. College Ave", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://www.sunkingbrewing.com/", 
+                            "yearOpened": "2008"
+                        }
+                    ], 
+                    "name": "Sun King Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-02-10 13:49:59", 
+                    "website": "http://www.sunkingbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-12-16 00:44:36", 
+            "description": "Wee Muckle is a large, malt-balanced ale with huge toffee flavors and hints of port-like character.\r\n \r\nWee Muckle was the winner of the Gold Medal in the Scotch Ale category at the 2011 Great American Beer Festival", 
+            "ibu": "30", 
+            "id": "0HNYqJ", 
+            "isOrganic": "N", 
+            "name": "Wee Muckle", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "The overriding character of Scottish export ale is sweet, caramel-like, and malty. Its bitterness is perceived as low to medium. Hop flavor or aroma should not be perceived. It has medium body. Fruity-ester character may be apparent. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style export ales exhibited peat smoke character, the current marketplace offers many Scottish-style export ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style export ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).", 
+                "fgMax": "1.018", 
+                "fgMin": "1.01", 
+                "ibuMax": "25", 
+                "ibuMin": "15", 
+                "id": 9, 
+                "name": "Scottish-Style Export Ale", 
+                "ogMin": "1.04", 
+                "srmMax": "19", 
+                "srmMin": "10"
+            }, 
+            "styleId": 9, 
+            "updateDate": "2013-12-16 01:56:28"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 16
+}

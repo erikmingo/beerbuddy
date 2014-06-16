@@ -1,0 +1,642 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "4.73", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "id": "6CmF5z", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/6CmF5z/upload_ejaZyU-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/6CmF5z/upload_ejaZyU-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/6CmF5z/upload_ejaZyU-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "hoursOfOperation": "Mon - Thu: 12:00 pm - 1:00 am\r\nFri - Sat: 12:00 pm - 2:00 am\r\nSun: 12:00 pm - 12:00 am", 
+                            "id": "MBiTzt", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.890137, 
+                            "locality": "Villa Park", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -87.976631, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "630-530-2077", 
+                            "postalCode": "60181", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "54 E St Charles Rd", 
+                            "updateDate": "2013-05-09 12:04:41"
+                        }
+                    ], 
+                    "name": "Lunar Brewing Co", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 14:22:11"
+                }
+            ], 
+            "createDate": "2013-05-09 12:11:57", 
+            "description": "An ale brewed with rye malt, giving us some light, spicy notes. Hopped with Citra & Simcoe hops. Very", 
+            "id": "XA2CEv", 
+            "isOrganic": "N", 
+            "name": "All Day At Mars Lake", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "13.1", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Field beers are any beers using vegetables as an adjunct in either the mash, kettle, primary or secondary fermentation, providing obvious (ranging from subtle to intense), yet harmonious, qualities. Vegetable qualities should not be overpowered by hop character. If a vegetable has an herbal or spice quality (such as the \"heat\" of a chili pepper), it should be classified as herb/spice beer style.  Note Chili-flavored beer with notable roast or vegetal character is evident it should be entered as Field Beer.  A statement by the brewer explaining what vegetables are used is essential in order for fair assessment in competitions. If this beer is a classic style with vegetables, the brewer should also specify the classic style. Note: If no Pumpkin beer category exists in a competition, then Pumpkin beers should be entered in this category.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.006", 
+                "ibuMax": "70", 
+                "ibuMin": "5", 
+                "id": 120, 
+                "name": "Field Beer", 
+                "ogMin": "1.03", 
+                "srmMax": "50", 
+                "srmMin": "5"
+            }, 
+            "styleId": 120, 
+            "updateDate": "2013-05-09 12:11:57"
+        }, 
+        {
+            "abv": "5.8", 
+            "breweries": [
+                {
+                    "createDate": "2012-10-15 11:02:32", 
+                    "description": "Based in one of the coolest mountain towns of Colorado, Eagle, Bonfire Brewing makes beer (by \"coolest\" we mean, \"neat,\" \"nifty,\" and/or \"fantabulous,\" not cold. It's actually fairly warm for the most part). We wouldn't describe our beer as face-meltingly good, maybe just face-warmingly delicious. It certainly encourages the use of non-existent adverbs. We started making beer because we needed more friends. Now our friends need more beer. So it goes.", 
+                    "established": "2010", 
+                    "id": "ijcONB", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ijcONB/upload_sf2v3d-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ijcONB/upload_sf2v3d-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ijcONB/upload_sf2v3d-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-10-15 11:04:31", 
+                            "hoursOfOperation": "Mon - Wed: 5:30 pm - 10:00 pm\r\nThu:\t4:00 pm - 10:00 pm\r\nFri - Sat: 4:00 pm - 12:00 am\r\nSun: 3:00 pm - 8:00 pm", 
+                            "id": "Cd9c4R", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.655258, 
+                            "locality": "Eagle", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -106.827486, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(970) 306-7113", 
+                            "postalCode": "81631", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "127 Second St.", 
+                            "updateDate": "2012-10-15 11:04:31", 
+                            "website": "http://bonfirebrewing.com/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Bonfire Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-23 01:09:09", 
+                    "website": "http://bonfirebrewing.com/"
+                }
+            ], 
+            "createDate": "2012-10-15 11:29:17", 
+            "description": "Rye Pale Ale", 
+            "id": "zbdtO6", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/zbdtO6/upload_ioIEAD-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/zbdtO6/upload_ioIEAD-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/zbdtO6/upload_ioIEAD-medium.png"
+            }, 
+            "name": "Awry", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "13.1", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Field beers are any beers using vegetables as an adjunct in either the mash, kettle, primary or secondary fermentation, providing obvious (ranging from subtle to intense), yet harmonious, qualities. Vegetable qualities should not be overpowered by hop character. If a vegetable has an herbal or spice quality (such as the \"heat\" of a chili pepper), it should be classified as herb/spice beer style.  Note Chili-flavored beer with notable roast or vegetal character is evident it should be entered as Field Beer.  A statement by the brewer explaining what vegetables are used is essential in order for fair assessment in competitions. If this beer is a classic style with vegetables, the brewer should also specify the classic style. Note: If no Pumpkin beer category exists in a competition, then Pumpkin beers should be entered in this category.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.006", 
+                "ibuMax": "70", 
+                "ibuMin": "5", 
+                "id": 120, 
+                "name": "Field Beer", 
+                "ogMin": "1.03", 
+                "srmMax": "50", 
+                "srmMin": "5"
+            }, 
+            "styleId": 120, 
+            "updateDate": "2012-11-11 14:59:09"
+        }, 
+        {
+            "abv": "9.8", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:46", 
+                    "description": "Brewed in Vadnais Heights, MN, Big Wood Brewery is a licensed production brewery that produces distinctive craft brews for distribution throughout MN. Touting its edgy yet playful brand image and unforgettable name among its most distinguishing factors, Big Wood Brewery recognizes that, to stand out in Minnesota, consumers need to be torn away from normalcy. Ambiguity runs rampant among dozens of area breweries, yielding an opportunity for a bold new player to gain notoriety for its brand and its brews.", 
+                    "established": "2009", 
+                    "id": "2p5kwI", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/2p5kwI/upload_fp8k9L-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/2p5kwI/upload_fp8k9L-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/2p5kwI/upload_fp8k9L-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:46", 
+                            "id": "EFaa8I", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 45.0853875, 
+                            "locality": "White Bear Lake", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -93.006888, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "612-360-2986", 
+                            "postalCode": "55110", 
+                            "region": "Minnesota", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2222 4th St.", 
+                            "updateDate": "2013-12-09 00:07:06"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-12-06 22:34:32", 
+                            "id": "9xpyfY", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 45.0853875, 
+                            "locality": "White Bear Lake", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -93.006888, 
+                            "name": "Big Wood Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "612-360-2986", 
+                            "postalCode": "55110", 
+                            "region": "MN", 
+                            "status": "deleted", 
+                            "statusDisplay": "Deleted", 
+                            "streetAddress": "2222 4th St", 
+                            "updateDate": "2013-12-09 00:07:34"
+                        }
+                    ], 
+                    "name": "Big Wood Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-10 18:07:01", 
+                    "website": "http://bigwoodbrewery.com/"
+                }
+            ], 
+            "createDate": "2012-10-09 21:26:45", 
+            "description": "Smoked Imperial Rye Ale", 
+            "id": "Y9pBDG", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Y9pBDG/upload_oM9D7B-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Y9pBDG/upload_oM9D7B-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Y9pBDG/upload_oM9D7B-medium.png"
+            }, 
+            "name": "Forest Fire", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "13.1", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Field beers are any beers using vegetables as an adjunct in either the mash, kettle, primary or secondary fermentation, providing obvious (ranging from subtle to intense), yet harmonious, qualities. Vegetable qualities should not be overpowered by hop character. If a vegetable has an herbal or spice quality (such as the \"heat\" of a chili pepper), it should be classified as herb/spice beer style.  Note Chili-flavored beer with notable roast or vegetal character is evident it should be entered as Field Beer.  A statement by the brewer explaining what vegetables are used is essential in order for fair assessment in competitions. If this beer is a classic style with vegetables, the brewer should also specify the classic style. Note: If no Pumpkin beer category exists in a competition, then Pumpkin beers should be entered in this category.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.006", 
+                "ibuMax": "70", 
+                "ibuMin": "5", 
+                "id": 120, 
+                "name": "Field Beer", 
+                "ogMin": "1.03", 
+                "srmMax": "50", 
+                "srmMin": "5"
+            }, 
+            "styleId": 120, 
+            "updateDate": "2013-11-17 22:27:56"
+        }, 
+        {
+            "abv": "4.7", 
+            "breweries": [
+                {
+                    "createDate": "2013-08-21 12:30:03", 
+                    "id": "l2Godx", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/l2Godx/upload_WPIHfe-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/l2Godx/upload_WPIHfe-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/l2Godx/upload_WPIHfe-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-08-21 12:30:56", 
+                            "hoursOfOperation": "WEDNESDAY \u2013 SATURDAY: 11AM TO 9PM", 
+                            "id": "E7EXAP", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 34.8669969, 
+                            "locality": "Blue Ridge", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -84.3277743, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "706-632-6611", 
+                            "postalCode": "30513", 
+                            "region": "Georgia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "187 Depot Street", 
+                            "updateDate": "2013-08-21 12:30:56", 
+                            "website": "http://blueridgebrewery.com"
+                        }
+                    ], 
+                    "name": "Blue Ridge Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-15 01:23:10", 
+                    "website": "http://blueridgebrewery.com"
+                }
+            ], 
+            "createDate": "2013-08-21 12:36:31", 
+            "description": "An ecological friendly beer utilizing grain and hops locally sourced. All of the grain used in this beer was grown from small farmers in North Carolina and malted at Riverbend Malt House in Asheville, NC. The hops used in dry hopping this beer were grown by sustainable farm Echoview Farms located in Weaverville, NC. Barley, wheat and rye are all used to create a hoppy dry rye beer.", 
+            "ibu": "58", 
+            "id": "QOBRAp", 
+            "isOrganic": "N", 
+            "name": "Harvest Rye Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "13.1", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Field beers are any beers using vegetables as an adjunct in either the mash, kettle, primary or secondary fermentation, providing obvious (ranging from subtle to intense), yet harmonious, qualities. Vegetable qualities should not be overpowered by hop character. If a vegetable has an herbal or spice quality (such as the \"heat\" of a chili pepper), it should be classified as herb/spice beer style.  Note Chili-flavored beer with notable roast or vegetal character is evident it should be entered as Field Beer.  A statement by the brewer explaining what vegetables are used is essential in order for fair assessment in competitions. If this beer is a classic style with vegetables, the brewer should also specify the classic style. Note: If no Pumpkin beer category exists in a competition, then Pumpkin beers should be entered in this category.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.006", 
+                "ibuMax": "70", 
+                "ibuMin": "5", 
+                "id": 120, 
+                "name": "Field Beer", 
+                "ogMin": "1.03", 
+                "srmMax": "50", 
+                "srmMin": "5"
+            }, 
+            "styleId": 120, 
+            "updateDate": "2013-08-21 12:38:09"
+        }, 
+        {
+            "abv": "5.3", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "description": "Smuttynose was founded in 1994 by the folks who started the Northampton and Portsmouth Breweries. We brew a wide range of beers, from our year-round beers: Finestkind IPA, Old Brown Dog, Robust Porter, Star Island Single and Shoals Pale Ale; our seasonals to The Big Beer Series & our rare Smuttlabs releases; we brew something for everyone in the 24 states where we sell beer. Smuttynose is excited to begin production in it's new state-of-the-art, energy-stingy brewery in early 2014.  Please come visit for a tour or a bite in our restaurant.", 
+                    "established": "1994", 
+                    "id": "v0MKXA", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/v0MKXA/upload_AgznTt-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/v0MKXA/upload_AgznTt-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/v0MKXA/upload_AgznTt-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "id": "1JLE39", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 43.0323999, 
+                            "locality": "Portsmouth", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -70.7956193, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "603-436-4026", 
+                            "postalCode": "3801", 
+                            "region": "New Hampshire", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "225 Heritage Ave", 
+                            "updateDate": "2014-01-02 18:36:40", 
+                            "website": "http://www.smuttynose.com/", 
+                            "yearOpened": "1994"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-01-02 16:32:27", 
+                            "hoursOfOperation": "To Be Determined", 
+                            "id": "Vp2e5D", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.9456995, 
+                            "locality": "Hampton", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -70.8501917, 
+                            "name": "Smuttynose Brewing Co.", 
+                            "openToPublic": "Y", 
+                            "phone": "603-436-4026", 
+                            "postalCode": "03801", 
+                            "region": "New Hampshire", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "105 Towle Farm Road", 
+                            "updateDate": "2014-01-02 18:36:40", 
+                            "website": "http://www.smuttynose.com"
+                        }
+                    ], 
+                    "name": "Smuttynose Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 13:01:36", 
+                    "website": "http://www.smuttynose.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:14", 
+            "description": "Light, tasty & full of character, our summer wheat ale is brewed with a combination of domestic and continental wheat and barley malts, lightly hopped & fermented with a Belgian wit yeast, resulting in a delightfully tangy & refreshing flavor.\r\n\r\nThis beer is brewed for warm weather enjoyment. Bring some to your next picnic, barbeque or Frisbee game.\r\n\r\nAvailable in sixpacks and on draft from May through August.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "ibu": "36", 
+            "id": "Fc1UY8", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Fc1UY8/upload_axRjK1-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Fc1UY8/upload_axRjK1-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Fc1UY8/upload_axRjK1-medium.png"
+            }, 
+            "name": "Smuttynose Summer Weizen", 
+            "originalGravity": "12.5", 
+            "srm": {
+                "hex": "FBB123", 
+                "id": 5, 
+                "name": "5"
+            }, 
+            "srmId": 5, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "13.1", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Field beers are any beers using vegetables as an adjunct in either the mash, kettle, primary or secondary fermentation, providing obvious (ranging from subtle to intense), yet harmonious, qualities. Vegetable qualities should not be overpowered by hop character. If a vegetable has an herbal or spice quality (such as the \"heat\" of a chili pepper), it should be classified as herb/spice beer style.  Note Chili-flavored beer with notable roast or vegetal character is evident it should be entered as Field Beer.  A statement by the brewer explaining what vegetables are used is essential in order for fair assessment in competitions. If this beer is a classic style with vegetables, the brewer should also specify the classic style. Note: If no Pumpkin beer category exists in a competition, then Pumpkin beers should be entered in this category.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.006", 
+                "ibuMax": "70", 
+                "ibuMin": "5", 
+                "id": 120, 
+                "name": "Field Beer", 
+                "ogMin": "1.03", 
+                "srmMax": "50", 
+                "srmMin": "5"
+            }, 
+            "styleId": 120, 
+            "updateDate": "2014-01-02 18:25:43"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:05", 
+                    "description": "Founded in 2010, Piney River Brewing Company is a microbrewery dedicated to making distinctive craft beers that celebrate life in the Ozarks. Joleen and Brian Durham, owners, have lived and farmed in Texas County for many years, and they have enjoyed craft beer for a long time, too.\r\n\r\nToday, Joleen and Brian live up the hill from the Little Piney River that flows into the Big Piney.  They benefit from multiple fresh water springs and a waterfall on their farm, and they continually find themselves drawn to the rivers that flow around their farm and throughout the Ozarks.\r\n\r\nJoleen and Brian first made beer on the kitchen stove, fermenting it in the basement of their 100-year old farm house.  In July 2010 they partnered together to revive a 70-year old barn made from red and white oak trees harvested off the farm, and Piney River Brewing Company was born.\r\n\r\nThe barn, rechristened BARn, is home to Piney River Brewing Company.  Joleen and Brian began the craft brewery as a \u201cnanobrewery\u201d, brewing on a 10-gallon Sabco system.  In the fall of 2011, a 7-barrel brewhouse with an automatic canning line was put in place for the microbrewery.\r\n\r\nInsane?...No, we're having the time of our lives!", 
+                    "established": "2010", 
+                    "id": "H1ouEw", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/H1ouEw/upload_aPVa9e-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/H1ouEw/upload_aPVa9e-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/H1ouEw/upload_aPVa9e-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:05", 
+                            "id": "TKwUTr", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.3208964, 
+                            "locality": "Bucyrus", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -92.0165208, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "417-967-6786", 
+                            "postalCode": "65444", 
+                            "region": "Missouri", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "15194 Walnut Grove Drive", 
+                            "updateDate": "2012-03-21 20:05:29", 
+                            "website": "http://www.pineyriverbrewing.com/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Piney River Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-10-08 18:57:09", 
+                    "website": "http://www.pineyriverbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-10-08 18:44:33", 
+            "description": "A malt forward ale featuring the flavors of roasted sweet potatoes, spices and vanilla with a balanced hop profile, a subtle vanilla and spice aroma and a smooth finish.\r\n\r\n\u2022 2 row malted barley & specialty malt that provides complexity, color and body\r\n\u2022 Featuring roasted sweet potatoes, spices and vanilla beans\r\n\u2022 Cold conditioned for a smooth, crisp and clean flavor\r\n\u2022 Pure, limestone filtered Ozark spring water", 
+            "foodPairings": "Thanksgiving dinner, roast duck or lamb, butternut squash\r\nCheese: Sharp cheddar\r\nDessert: Dark chocolate truffles, caramel flan", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "24", 
+            "id": "2whCFC", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/2whCFC/upload_KVHfaM-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/2whCFC/upload_KVHfaM-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/2whCFC/upload_KVHfaM-medium.png"
+            }, 
+            "name": "Sweet Potato Ale", 
+            "servingTemperature": "cellar", 
+            "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)", 
+            "srm": {
+                "hex": "CF6900", 
+                "id": 12, 
+                "name": "12"
+            }, 
+            "srmId": 12, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "13.1", 
+                "abvMin": "2.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Field beers are any beers using vegetables as an adjunct in either the mash, kettle, primary or secondary fermentation, providing obvious (ranging from subtle to intense), yet harmonious, qualities. Vegetable qualities should not be overpowered by hop character. If a vegetable has an herbal or spice quality (such as the \"heat\" of a chili pepper), it should be classified as herb/spice beer style.  Note Chili-flavored beer with notable roast or vegetal character is evident it should be entered as Field Beer.  A statement by the brewer explaining what vegetables are used is essential in order for fair assessment in competitions. If this beer is a classic style with vegetables, the brewer should also specify the classic style. Note: If no Pumpkin beer category exists in a competition, then Pumpkin beers should be entered in this category.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.006", 
+                "ibuMax": "70", 
+                "ibuMin": "5", 
+                "id": 120, 
+                "name": "Field Beer", 
+                "ogMin": "1.03", 
+                "srmMax": "50", 
+                "srmMin": "5"
+            }, 
+            "styleId": 120, 
+            "updateDate": "2013-11-26 01:32:29"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 6
+}

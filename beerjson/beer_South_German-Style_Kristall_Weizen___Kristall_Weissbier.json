@@ -1,0 +1,2628 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "5.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:17:54", 
+                    "id": "M8NGPX", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-15 14:17:24", 
+                            "id": "GTEB1X", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.752645, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 9.26948, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "36304", 
+                            "region": "Alsfeld", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Gr\u00fcnberger Stra\u00dfe 68", 
+                            "updateDate": "2012-08-15 14:17:24"
+                        }
+                    ], 
+                    "name": "Alsfelder Brauerei AG", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-15 14:17:02", 
+                    "website": "http://www.alsfelder.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 12:08:08", 
+            "id": "tu79vA", 
+            "isOrganic": "N", 
+            "name": "Alsfelder Kristall", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-15 14:20:12"
+        }, 
+        {
+            "abv": "6.2", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2014-03-29 12:39:28", 
+                    "description": "Is a contract brewery operation at present.\r\n\r\nLeveraged off of the previous operation of Connecticut's first brewpub, The Hartford Brewery Ltd.\r\n\r\nSome of the recipes from the previous operation are showcased in our current portfolio.  Others are new recipes created by our former brewing team.\r\n\r\nOur beers are currently being brewed at Shipyard Brewery in Portland Maine, using our explicit recipe design and oversight.\r\n\r\nOur mission is to continually improve sales of our brands to facilitate the growth of additional brands and with a future in mind that may lead to a new brewery in the region to support our brand lines.", 
+                    "id": "nimH5J", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-03-29 12:40:30", 
+                            "id": "t7SnlC", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.7637111, 
+                            "locality": "Hartford", 
+                            "locationType": "office", 
+                            "locationTypeDisplay": "Office", 
+                            "longitude": -72.6850932, 
+                            "name": "Main Office", 
+                            "openToPublic": "N", 
+                            "region": "Connecticut", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2014-03-29 12:40:30", 
+                            "website": "http://hartfordbetterbeer.com/"
+                        }
+                    ], 
+                    "name": "Hartford Better Beer Co.", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-29 12:39:28", 
+                    "website": "http://hartfordbetterbeer.com/"
+                }
+            ], 
+            "createDate": "2014-03-29 12:42:36", 
+            "description": "ARCH SUNSHINE KRISTALL WEIZEN, honey-blonde with grist 40% malted wheat. Unlike cloudy light \u2018wheat beers\u2019, ARCH\r\nSUNSHINE KRISTALL WEIZEN is brewed strong & filtered, retaining a slight chill haze. ALLSEASON & ALL WEATHER beer made with 2-row barley, hopped like a Pilsner, with Czech, German hops, and made with pure soft New England water. Features naturally-occurring flavors of nutmeg, vanilla, clove, green raisin, & pear, all topped by a spicy hop nose. Our lightest color beer- our strongest by alcohol content.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "A9ySbH", 
+            "isOrganic": "N", 
+            "name": "Arch Sunshine", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2014-03-29 12:42:36"
+        }, 
+        {
+            "abv": "5.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:19:42", 
+                    "established": "1865", 
+                    "id": "7cK7Z8", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-15 16:12:07", 
+                            "id": "ahHq5a", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 49.189414, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 8.278914, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "76756", 
+                            "region": "Bellheim", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Karl-Silbernagel-Stra\u00dfe 20", 
+                            "updateDate": "2012-08-15 16:12:07"
+                        }
+                    ], 
+                    "name": "Park Bellheimer AG", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-15 16:11:46", 
+                    "website": "http://www.bellheimer.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 12:18:51", 
+            "id": "L8KkDX", 
+            "isOrganic": "N", 
+            "name": "Bellheimer Kristallweizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-15 16:13:03"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "description": "Spaten has been a leading exporter of German beer for more than a century. We played a crucial role in establishing the present superior worldwide reputation for German beer. The basis of our continuously expanding export figures was a healthy pioneering spirit that led us to set up a network of committed import partners at an early date. Today people all over the world take pleasure in drinking original Spaten beers, not only in the neighbouring states of France, Austria and Switzerland, but also in Italy, Spain, Scandinavia and the United States.", 
+                    "established": "1397", 
+                    "id": "o5vGy8", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/o5vGy8/upload_mfTiw3-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/o5vGy8/upload_mfTiw3-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/o5vGy8/upload_mfTiw3-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "id": "GlMLWp", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.14501, 
+                            "locality": "Munich", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 11.55419, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+49 (0)89 - 5200 0", 
+                            "postalCode": "80335", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Marsstr. 46+48", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.spatenusa.com/", 
+                            "yearOpened": "1397"
+                        }
+                    ], 
+                    "name": "Spaten-Franziskaner-Br\u00e4u", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-06 11:59:47", 
+                    "website": "http://www.spatenbraeu.de/"
+                }
+            ], 
+            "createDate": "2014-05-07 16:33:44", 
+            "description": "Hops from Munich; Franziskaner top fermenting yeast strain; Water from own wells 200m deep.\r\nCrystal clear, clean in taste and color. For those who desire a weissbier without yeast. \r\nAlso known as Club Weissbier and as Kristall Klar.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "UEy2Pg", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/UEy2Pg/upload_WjgnpS-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/UEy2Pg/upload_WjgnpS-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/UEy2Pg/upload_WjgnpS-medium.png"
+            }, 
+            "name": "Franziskaner Weissbier Kristallklar", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2014-05-08 11:42:44"
+        }, 
+        {
+            "abv": "5.4", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:16:37", 
+                    "established": "1865", 
+                    "id": "KBuGWA", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-13 10:56:38", 
+                            "id": "WQUo8G", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.989117, 
+                            "locality": "Freiburg", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 7.859933, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "79117", 
+                            "region": "Baden-W\u00fcrttemberg", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Schwarzwaldstrasse 43", 
+                            "updateDate": "2012-08-13 10:56:38"
+                        }
+                    ], 
+                    "name": "Brauerei Ganter", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-13 10:56:14", 
+                    "website": "http://www.ganter.com/"
+                }
+            ], 
+            "createDate": "2012-08-12 11:57:44", 
+            "id": "PDg2qH", 
+            "isOrganic": "N", 
+            "name": "Ganter Badisch Weizen Kristallklar", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-17 11:54:07"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:43", 
+                    "description": "Aass Brewery was established in 1834 and is the oldest brewery in Norway today. It is located in the city of Drammen, approximately 25 miles south of our capital, Oslo. You will spot it at the banks of the Drammen River at the very same place as it has been since 1834. The annual production of beer is aprox. 10 mill liter (85 000 barrels), and together with the production of 18 mill liters of soft drinks and mineralwater it gives employment to approximately 150 people.  You may wonder how we got our name ? It was a young fellow with the name Poul Lauritz Aass that bought the brewery in 1860. Since then it has been in the same family, and is today run by the 4th generation of Aass. (By the way - A real Norwegian viking would pronounce it Ouse)  The brewery is proud of its history. To us the quality of what we produce has always been and always will be the main issue. In 1516, Duke Wilhelm of Bavaria established a law admitting only malted barley, hops yeast, and water as ingredients in the production of beer. The law is known as the purity law and Aass Brewery is still loyal to Duke Wilhelm of Bavaria. In Norway the brewery is known for outstanding quality and large number of different beer types.", 
+                    "id": "TGtEbk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/TGtEbk/upload_fgq5cE-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/TGtEbk/upload_fgq5cE-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/TGtEbk/upload_fgq5cE-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Norway", 
+                                "isoCode": "NO", 
+                                "isoThree": "NOR", 
+                                "name": "NORWAY", 
+                                "numberCode": 578
+                            }, 
+                            "countryIsoCode": "NO", 
+                            "createDate": "2012-01-03 02:41:43", 
+                            "id": "gaVq6l", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 59.731819, 
+                            "locality": "Drammen", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 10.190885, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "47-32-26-60-00", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Ole Steensgt. 10 Postboks 1530", 
+                            "updateDate": "2012-03-21 19:08:01", 
+                            "website": "http://www.aass.no"
+                        }
+                    ], 
+                    "name": "Aass Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-16 14:42:39", 
+                    "website": "http://www.aass.no"
+                }
+            ], 
+            "createDate": "2012-12-16 14:46:51", 
+            "id": "TuDyIP", 
+            "isOrganic": "N", 
+            "name": "Gourmet Weizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-12-16 14:46:52"
+        }, 
+        {
+            "abv": "5.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:16:47", 
+                    "established": "1863", 
+                    "id": "Is5FiJ", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:46:19", 
+                            "id": "4M26ru", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 48.857571, 
+                            "locality": "Rastatt", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 8.206857, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "76437", 
+                            "region": "Baden-W\u00fcrttemberg", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Kapellenstra\u00dfe 36", 
+                            "updateDate": "2012-08-13 11:11:50"
+                        }
+                    ], 
+                    "name": "Hofbrauhaus Hatz", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-13 11:11:23", 
+                    "website": "http://www.hatz.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 11:59:36", 
+            "id": "fIL9PT", 
+            "isOrganic": "N", 
+            "name": "Hatz Weizen Kristallklar", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-18 15:28:11"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:16:46", 
+                    "id": "RuupG0", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-13 11:11:08", 
+                            "id": "NNfEaZ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 49.40781, 
+                            "locality": "Heidelberg", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 8.683357, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "69115", 
+                            "region": "Baden-W\u00fcrttemberg", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Bergheimerstra\u00dfe 89-93", 
+                            "updateDate": "2012-08-13 11:11:08"
+                        }
+                    ], 
+                    "name": "Heidelberger Brauerei", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-13 11:10:30", 
+                    "website": "http://www.heidelberger-brauerei.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 11:59:16", 
+            "description": "Carefully select raw materials, handed down brewing formulae as well as the experience from over 250 years brewing tradition give our Klaren Weizenbier &#40;clear wheat beer&#41; his inimitable character. Enjoy the tangy fresh taste of this top fermented speciality from Heidelberg.", 
+            "id": "Yt9bTU", 
+            "isOrganic": "N", 
+            "name": "Heidelberger Kristall", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-18 15:28:44"
+        }, 
+        {
+            "abv": "4.7", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:17:02", 
+                    "established": "1725", 
+                    "id": "E62i7w", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:47:09", 
+                            "id": "tU80tJ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 48.761009, 
+                            "locality": "Heubach", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 8.23147, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "73540", 
+                            "region": "Baden-W\u00fcrttemberg", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Hauptstra\u00dfe 99", 
+                            "updateDate": "2012-08-13 11:17:58"
+                        }
+                    ], 
+                    "name": "Hirschbrauerei Heubach L. Mayer", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-13 11:17:39", 
+                    "website": "http://www.heubacher.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 12:01:45", 
+            "id": "yJyH88", 
+            "isOrganic": "N", 
+            "name": "Heubacher Weizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-18 15:35:15"
+        }, 
+        {
+            "abv": "5.4", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-17 14:37:17", 
+                    "id": "0VxXuo", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-17 14:38:03", 
+                            "id": "1dr2dN", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 26.282831, 
+                            "locality": "Wurmlingen", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -98.308839, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "78573", 
+                            "region": "Baden-W\u00fcrttemberg", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Friedrichstra\u00dfe 34", 
+                            "updateDate": "2012-08-17 14:38:03"
+                        }
+                    ], 
+                    "name": "Hirsch-Brauerei Honer", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-17 14:37:17", 
+                    "website": "http://www.hirschbrauerei.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 11:57:19", 
+            "description": "Your pearly champagne character and the tangy taste of the round crystal wheat from ideal and create a wonderful liveliness.", 
+            "id": "RrK4Rz", 
+            "isOrganic": "N", 
+            "name": "Hirsch Kristall Weisse", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-18 15:36:42"
+        }, 
+        {
+            "abv": "5.4", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-17 14:37:17", 
+                    "id": "0VxXuo", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-17 14:38:03", 
+                            "id": "1dr2dN", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 26.282831, 
+                            "locality": "Wurmlingen", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -98.308839, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "78573", 
+                            "region": "Baden-W\u00fcrttemberg", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Friedrichstra\u00dfe 34", 
+                            "updateDate": "2012-08-17 14:38:03"
+                        }
+                    ], 
+                    "name": "Hirsch-Brauerei Honer", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-17 14:37:17", 
+                    "website": "http://www.hirschbrauerei.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 12:04:30", 
+            "id": "hyqbqp", 
+            "isOrganic": "N", 
+            "name": "Hirsch Kristall-Weisse", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-18 15:36:44"
+        }, 
+        {
+            "abv": "4.9", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:57", 
+                    "id": "8aRUkI", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:41:57", 
+                            "id": "2qlMjT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 49.01263, 
+                            "locality": "Karlsruhe", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 8.42692, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "49-(0)721-/-6183-0", 
+                            "region": "Baden-Wrttemberg", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Haid-und-Neu-Strae 18", 
+                            "updateDate": "2012-03-21 19:08:10"
+                        }
+                    ], 
+                    "name": "Hoepfner Privatbrauerei", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:07"
+                }
+            ], 
+            "createDate": "2012-08-12 11:59:43", 
+            "id": "Ahctzs", 
+            "isOrganic": "N", 
+            "name": "Hoepfner Edel-Weizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-18 15:42:40"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:16:37", 
+                    "established": "1877", 
+                    "id": "wVd4fb", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:47:45", 
+                            "id": "MFljs0", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 48.761009, 
+                            "locality": "Pforzheim", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 8.23147, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "D-75173", 
+                            "region": "Baden-W\u00fcrttemberg", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Jahnstra\u00dfe 10", 
+                            "updateDate": "2012-08-13 14:14:59"
+                        }
+                    ], 
+                    "name": "Brauerei Ketterer", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-13 14:15:11"
+                }
+            ], 
+            "createDate": "2012-08-12 11:57:48", 
+            "id": "y5BKDC", 
+            "isOrganic": "N", 
+            "name": "Ketterer Ur-Weisse kristall", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-18 23:46:19"
+        }, 
+        {
+            "abv": "6.2", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:54", 
+                    "description": "Flat12 Bierwerks is a production craft brewery based in downtown Indianapolis, USA. Flat12 brews beers for quality, consistency and tradition - with a twist. Our classic line-up includes the Upside Down Blonde, Half Cycle IPA, Pogue's Run Porter and Flat12 Amber Ale. Specialties and seasonals will feature herbs, spices and other experimentations, always geared toward flavor, taste and well-orchestrated subtlety. \r\n\r\nInspiration: The Flathead 12-cylinder engine - a nod to the automotive and craft brewing heritage of our neighborhood and the early 1900s era when both thrived.", 
+                    "established": "2010", 
+                    "id": "Ohy298", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Ohy298/upload_acFPeo-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Ohy298/upload_acFPeo-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Ohy298/upload_acFPeo-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:54", 
+                            "hoursOfOperation": "THURS 4 pm \u2013 7 pm\r\nFRI Noon \u2013 8 pm\r\nSAT Noon \u2013 6 pm\r\nSUN Noon \u2013 4 pm", 
+                            "id": "ZxjAIJ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.7727329, 
+                            "locality": "Indianapolis", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -86.138467, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "317-635-2337", 
+                            "postalCode": "46202", 
+                            "region": "Indiana", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "414 N. Dorman St.", 
+                            "updateDate": "2012-04-18 23:26:00", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Flat12 Bierwerks", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-07 00:17:44", 
+                    "website": "http://www.flat12.me/"
+                }
+            ], 
+            "createDate": "2014-01-07 00:29:07", 
+            "description": "A small batch specialty beer at Flat 12. Kiwi times two due to the presence of NZ hops and Kiwi juice. Pacific Gem hops from New Zealand with the exception of the dry hop which is a light dose of American Citra and NZ Pacific Gem.  Flavor notes of tart Kiwi, ripe bananas, citrus and hints of berry. Like a hefe \u2013 without the haze.", 
+            "ibu": "28.8", 
+            "id": "RDwlO6", 
+            "isOrganic": "N", 
+            "name": "Kiwi Kiwi Crystal Weiss", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2014-01-07 00:29:07"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-12-21 18:06:03", 
+                    "description": "Our tasting room is located inside the brewery complete with all the sounds, aromas, sights and sensations of a working production brewery. We have up to 11 of our beers on tap for $4/glass as well as non-alcoholic, small-batch Ginger Ale made right here in the brewery.\r\n\r\nWe have snack food such as smoked salmon and cheese from Crimson Cove Smokehouse, cookies from Mirracole Morsels and peanuts from CB's Nuts. If you have a big appetite, you are welcome to bring in food of your own or order something for delivery while you are here.\r\n\r\nChildren are welcome in our tasting room.", 
+                    "established": "2010", 
+                    "id": "72XZJG", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/72XZJG/upload_X47z5A-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/72XZJG/upload_X47z5A-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/72XZJG/upload_X47z5A-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-12-21 18:08:50", 
+                            "hoursOfOperation": "Tasting Room Hours:\r\n   Mon-Tues: 2:00-6:00pm\r\n   Wed-Fri: 2:00-9:00pm\r\n   Sat: Noon-9:00pm\r\n   Sun: Noon-7:00pm", 
+                            "id": "24ZVdb", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.739855, 
+                            "locality": "Poulsbo", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.657414, 
+                            "name": "Sound Brewing", 
+                            "openToPublic": "Y", 
+                            "phone": "(360) 930-8696", 
+                            "postalCode": "98370", 
+                            "region": "WA", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "650 NW Bovela Ln, Ste #3", 
+                            "updateDate": "2012-12-21 18:15:32"
+                        }
+                    ], 
+                    "name": "Sound Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-23 09:11:06", 
+                    "website": "http://soundbrewery.com"
+                }
+            ], 
+            "createDate": "2012-12-21 18:48:50", 
+            "id": "cFsW7l", 
+            "isOrganic": "N", 
+            "name": "Kristallweizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-12-21 18:48:50"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:17:05", 
+                    "established": "1789", 
+                    "id": "w0NZ2Y", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-13 11:18:45", 
+                            "id": "c16qtR", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 34.45429, 
+                            "locality": "Neuler", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -97.665639, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "73491", 
+                            "region": "Baden-W\u00fcrttemberg", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Hauptstra\u00dfe 16", 
+                            "updateDate": "2012-08-13 11:18:45"
+                        }
+                    ], 
+                    "name": "Brauerei Ladenburger", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-13 11:18:17", 
+                    "website": "http://www.brauerei-ladenburger.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 12:02:14", 
+            "id": "R5c06p", 
+            "isOrganic": "N", 
+            "name": "Ladenburger Kristallweizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-18 23:55:41"
+        }, 
+        {
+            "abv": "4.5", 
+            "available": {
+                "description": "Beer is not available.", 
+                "id": 3, 
+                "name": "Not Available"
+            }, 
+            "availableId": 3, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:03", 
+                    "description": "Welcome to our quaint little brewery nestled on the outskirts of New Glarus, Wisconsin. The brewery is run by an enthusiastic couple, Daniel & Deb Carey, who have successfully combined business management and brewing professionalism. Our philosophy is based on individuality, cooperation and the employment of 100% natural ingredients to produce world -class, handcrafted beers for our friends in Wisconsin. Cheers!", 
+                    "established": "1993", 
+                    "id": "YWVg1z", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/YWVg1z/upload_P1hxPm-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/YWVg1z/upload_P1hxPm-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/YWVg1z/upload_P1hxPm-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:03", 
+                            "hoursOfOperation": "Gift Shop / Tours / Tastings: Monday - Sunday 10:00 a.m. - 4:00 p.m.\r\n\r\nOffice Hours: Monday - Friday 9:00 a.m. - 5:00 p.m.", 
+                            "id": "ycplbn", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.8170693, 
+                            "locality": "New Glarus", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -89.6306133, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "608-527-5850", 
+                            "postalCode": "53574", 
+                            "region": "Wisconsin", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2400 State Highway 69", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.newglarusbrewing.com/", 
+                            "yearOpened": "1993"
+                        }
+                    ], 
+                    "name": "New Glarus Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-22 02:08:35", 
+                    "website": "http://www.newglarusbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-06-13 02:27:50", 
+            "description": "In playful pursuit of butterflies a Red Fox danced across the brewery hill. His joy so pure it bubbled through our hearts and into this beer. Laughing Fox is a sparkling Kristal Weizen brewed in the Bavarian tradition with 50% Wisconsin wheat in our open top fermenters. Tickle your nose notes of spicy clove and cinnamon abound. Dan\u2019s inspired Weizen interpretation reflects the deep bittersweet color of our Fox\u2019s red coat.\r\n\r\nExpect this beer to pour a lively effervescent glass thick with creamy foam and bursting with luscious fruity notes on your pallet. This is easy drinking beer perfect for a friendly Wisconsin evening. Relax, this is God\u2019s Country, here we have the strength to reach for the stars and change the world.", 
+            "id": "KyYcg8", 
+            "isOrganic": "N", 
+            "name": "Laughing Fox", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-06-13 11:34:12"
+        }, 
+        {
+            "abv": "5.1", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:17:23", 
+                    "established": "1971", 
+                    "id": "Q5qIp6", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-16 12:02:08", 
+                            "id": "QKdFk2", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.286399, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 8.72358, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "07428-945 160", 
+                            "postalCode": "72348", 
+                            "region": "Rosenfeld", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Balinger Strasse 7", 
+                            "updateDate": "2012-08-16 12:02:08"
+                        }
+                    ], 
+                    "name": "Brauerei G\u00fcnther-Lehner-Stiftung", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-16 12:01:29", 
+                    "website": "http://www.lehner-bier.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 12:04:55", 
+            "id": "bsz3Sb", 
+            "isOrganic": "N", 
+            "name": "Lehner Kristallweizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-19 12:51:07"
+        }, 
+        {
+            "abv": "5.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:55", 
+                    "id": "HJx4kE", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:41:55", 
+                            "id": "jJsjNl", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 51.21563, 
+                            "locality": "Dsseldorf", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 6.77605, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "region": "Nordrhein-Westfalen", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2012-03-21 19:08:09"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:46:31", 
+                            "id": "ZlJrSJ", 
+                            "inPlanning": "N", 
+                            "isClosed": "Y", 
+                            "isPrimary": "N", 
+                            "latitude": 51.231228, 
+                            "locality": "D\u00fcsseldorf", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 6.747215, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "N", 
+                            "postalCode": "D-40545", 
+                            "region": "Baden-W\u00fcrttemberg", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Belsenplatz 2", 
+                            "updateDate": "2012-08-13 12:08:36"
+                        }
+                    ], 
+                    "name": "Gatz Brauhaus", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:06"
+                }
+            ], 
+            "createDate": "2012-08-12 12:05:02", 
+            "id": "1helHp", 
+            "isOrganic": "N", 
+            "name": "Leibinger Kristall-Weizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-19 12:51:47"
+        }, 
+        {
+            "abv": "5.4", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:16:41", 
+                    "established": "1854", 
+                    "id": "t3PXt5", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:47:15", 
+                            "id": "SLdIGE", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 49.018225, 
+                            "locality": "Karlsruhe", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 8.414965, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "D-76185", 
+                            "region": "Baden-W\u00fcrttemberg", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Durmersheimer Stra\u00dfe 59", 
+                            "updateDate": "2012-08-13 12:33:59"
+                        }
+                    ], 
+                    "name": "Brauerei Moninger", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-13 14:30:15"
+                }
+            ], 
+            "createDate": "2012-08-12 11:58:30", 
+            "id": "hcfBTQ", 
+            "isOrganic": "N", 
+            "name": "Moninger Kristall-Weizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-19 13:16:51"
+        }, 
+        {
+            "abv": "5.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:17:08", 
+                    "established": "1847", 
+                    "id": "duiPxA", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-16 14:17:50", 
+                            "id": "vEfUhO", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.699705, 
+                            "locality": "Nattheim", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 10.240416, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "89564", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Heidenheimer Str. 7", 
+                            "updateDate": "2012-08-16 14:17:50"
+                        }
+                    ], 
+                    "name": "Privatbrauerei Schlumberger KG", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-16 14:17:22", 
+                    "website": "http://www.nattheimer.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 12:02:42", 
+            "id": "QaMUTm", 
+            "isOrganic": "N", 
+            "name": "Nattheimer Weizen Kristallklar", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-19 13:38:32"
+        }, 
+        {
+            "abv": "5.1", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:07", 
+                    "id": "KVi2od", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:42:07", 
+                            "id": "4xUGux", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.6855422, 
+                            "locality": "Konstanz", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 9.2079992, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "49-(0)7531-/-9373-0", 
+                            "region": "Baden-Wrttemberg", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Hoheneggstrae 41-51", 
+                            "updateDate": "2012-03-21 19:08:16"
+                        }
+                    ], 
+                    "name": "Ruppaner-Brauerei", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-17 14:51:06", 
+                    "website": "http://www.ruppaner.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 11:57:51", 
+            "id": "3fnMyN", 
+            "isOrganic": "N", 
+            "name": "Ruppaner Kristall-Weizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-19 14:16:30"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:17:22", 
+                    "established": "1870", 
+                    "id": "Z8fsMn", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:47:16", 
+                            "id": "JIniiX", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 35.247379, 
+                            "locality": "Neustetten", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -91.726887, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "72149", 
+                            "region": "Baden-W\u00fcrttemberg", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Hauptstr. 1", 
+                            "updateDate": "2012-08-16 13:20:32"
+                        }
+                    ], 
+                    "name": "Kronenbrauerei Alfred Schimpf", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-16 13:20:03", 
+                    "website": "http://www.brauerei-schimpf.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 12:04:41", 
+            "id": "IykPCP", 
+            "isOrganic": "N", 
+            "name": "Schimpf Kristall-Weizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-19 14:19:32"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:18:09", 
+                    "established": "1780", 
+                    "id": "f2bufj", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-13 01:38:26", 
+                            "id": "CCR94D", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 49.620901, 
+                            "locality": "Mossautal", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 8.933312, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "64756", 
+                            "region": "Hesse", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Hauptstra\u00dfe 89", 
+                            "updateDate": "2012-08-13 01:38:26"
+                        }
+                    ], 
+                    "name": "Privat-Brauerei Schmucker", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-13 01:38:06", 
+                    "website": "http://www.schmucker-bier.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 12:10:21", 
+            "description": "Wheat beers don't make an uproar only in Bayern and Baden-W\u00fcrtenberg. Since the beginning of the nineties wheat beers are trendy with the consumers. Yellow, with high reflectability, a balanced and mild taste, with the typical, easily recognizable banana flavour, this top fermenting sparkly beer has its firm place in Schmucker's rich assortment.", 
+            "id": "n74Zob", 
+            "isOrganic": "N", 
+            "name": "Schmucker Kristallweizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-17 00:05:38"
+        }, 
+        {
+            "abv": "4.9", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "id": "CHRyRk", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "id": "rxBexh", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.00397, 
+                            "locality": "Bad Schussenried", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 9.65836, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "49-(0)7583-/-404-11", 
+                            "region": "Baden-Wrttemberg", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Wilhelm-Schussen-Strae 12", 
+                            "updateDate": "2012-03-21 19:08:16"
+                        }
+                    ], 
+                    "name": "Schussenrieder Erlebnisbrauerei", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:08"
+                }
+            ], 
+            "createDate": "2012-08-12 12:05:09", 
+            "id": "g9m5Pv", 
+            "isOrganic": "N", 
+            "name": "Schussenrieder Weisse kristall", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-19 14:32:50"
+        }, 
+        {
+            "abv": "4.5", 
+            "available": {
+                "description": "Available during the summer months.", 
+                "id": 6, 
+                "name": "Summer"
+            }, 
+            "availableId": 6, 
+            "breweries": [
+                {
+                    "createDate": "2012-12-21 18:06:03", 
+                    "description": "Our tasting room is located inside the brewery complete with all the sounds, aromas, sights and sensations of a working production brewery. We have up to 11 of our beers on tap for $4/glass as well as non-alcoholic, small-batch Ginger Ale made right here in the brewery.\r\n\r\nWe have snack food such as smoked salmon and cheese from Crimson Cove Smokehouse, cookies from Mirracole Morsels and peanuts from CB's Nuts. If you have a big appetite, you are welcome to bring in food of your own or order something for delivery while you are here.\r\n\r\nChildren are welcome in our tasting room.", 
+                    "established": "2010", 
+                    "id": "72XZJG", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/72XZJG/upload_X47z5A-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/72XZJG/upload_X47z5A-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/72XZJG/upload_X47z5A-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-12-21 18:08:50", 
+                            "hoursOfOperation": "Tasting Room Hours:\r\n   Mon-Tues: 2:00-6:00pm\r\n   Wed-Fri: 2:00-9:00pm\r\n   Sat: Noon-9:00pm\r\n   Sun: Noon-7:00pm", 
+                            "id": "24ZVdb", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.739855, 
+                            "locality": "Poulsbo", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.657414, 
+                            "name": "Sound Brewing", 
+                            "openToPublic": "Y", 
+                            "phone": "(360) 930-8696", 
+                            "postalCode": "98370", 
+                            "region": "WA", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "650 NW Bovela Ln, Ste #3", 
+                            "updateDate": "2012-12-21 18:15:32"
+                        }
+                    ], 
+                    "name": "Sound Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-23 09:11:06", 
+                    "website": "http://soundbrewery.com"
+                }
+            ], 
+            "createDate": "2012-12-21 18:48:56", 
+            "description": "A common beer style in Southern Germany, the Sommerweizen is clear and clean with a delicate aroma of wheat, light fruit, and spice. Unfiltered yet clear, with a long lasting creamy head, our Sommerweizen is refreshing, yet satisfying and full of flavor.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "KADN2N", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/KADN2N/upload_PM5IHS-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/KADN2N/upload_PM5IHS-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/KADN2N/upload_PM5IHS-medium.png"
+            }, 
+            "name": "Sound Sommerweizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2014-05-27 18:01:00"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:55", 
+                    "description": "The Flying Monkeys Craft Brewery is locally run by a few beer-lovin\u2019 friends and a family of unwavering Beer Disciples right in the heart of downtown Barrie, Ontario. We\u2019re brewing towards a day when Ontario beer lovers won\u2019t have to look south of the border for artisanal beers made with enough hops to rip your tongue from your mouth; for edgy brews with alcohol contents that rival spirits; for rich beers aged in bourbon barrels; or creative ales brewed with strange and interesting ingredients. Our philosophy? Keep the Microbrewery Revolution going --and let the Brewscape of Ontario show how complex and versatile craft brewing can actually be. Bottoms up, and Release the Flying Monkeys!", 
+                    "id": "FOfttK", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/FOfttK/upload_j2fgJq-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/FOfttK/upload_j2fgJq-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/FOfttK/upload_j2fgJq-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2012-01-03 02:41:55", 
+                            "id": "5N0usi", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.3892997, 
+                            "locality": "Barrie", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.6866738, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "705-721-8989", 
+                            "postalCode": "L4M 1A6", 
+                            "region": "Ontario", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "107 Dunlop Street East", 
+                            "updateDate": "2012-03-21 19:08:08", 
+                            "website": "http://www.theflyingmonkeys.ca/"
+                        }
+                    ], 
+                    "name": "Flying Monkeys Craft Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-09-15 18:47:51", 
+                    "website": "http://www.theflyingmonkeys.ca/"
+                }
+            ], 
+            "createDate": "2014-01-22 14:09:49", 
+            "id": "bCkJZ4", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/bCkJZ4/upload_RTWZ0T-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/bCkJZ4/upload_RTWZ0T-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/bCkJZ4/upload_RTWZ0T-medium.png"
+            }, 
+            "name": "Stereovision", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2014-01-22 14:49:26"
+        }, 
+        {
+            "abv": "4.2", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:06", 
+                    "description": "R&B Brewing Co. has always been, and will always be, just about as independent of a microbrewery as you\u2019ll come across. Founded in 1997 by longtime friends and co-workers Rick Dellow and Barry Benson (the \u2018R\u2019 & \u2018B\u2019, respectively), R&B Brewing Co. was set up to stand in opposition to what the beer world had become \u2013 big, non-descript, faceless, and corporate. Combining over 60 years of brewing experience with some of the big guys, Rick and Barry sought to create deliciously hand crafted ales and lagers that would bear no resemblance to the world of big beer. Full-bodied and distinctly rich beer, using only the choicest malts, hops and yeast, would be the focus of the product, while the co-owners personalities would blend to create the marketing milieu \u2013 edgy, young, independent\u2026definitely East Van.", 
+                    "established": "1997", 
+                    "id": "2vIPMI", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/2vIPMI/upload_b2w85l-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/2vIPMI/upload_b2w85l-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/2vIPMI/upload_b2w85l-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2012-01-03 02:42:06", 
+                            "id": "g9JaLp", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 49.267381, 
+                            "locality": "Vancouver", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -123.103715, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-604-874-2537", 
+                            "postalCode": "V5T 1E8", 
+                            "region": "British Columbia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "54 East 4th Ave.", 
+                            "updateDate": "2012-10-21 19:26:56", 
+                            "website": "http://www.r-and-b.com/", 
+                            "yearOpened": "1997"
+                        }
+                    ], 
+                    "name": "R&B Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-21 19:28:35", 
+                    "website": "http://www.r-and-b.com/"
+                }
+            ], 
+            "createDate": "2012-10-21 19:29:36", 
+            "description": "R&B\u2019s Sun God Wheat Ale is a North American style Kristal Weizen (a filtered wheat ale) producing a crisp, clear and refreshing beer. Significantly cleaner tasting than your typical Hefeweizen (unfiltered wheat ale), Sun God is a light-bodied wheat ale made with the highest quality Canadian wheat and 2-Row malted barley and is bittered and finished with premium German Perle hops producing a delicate cereal flavour with a hint of wheat. The perfect patio beer with or without some added citrus.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "12", 
+            "id": "mbLHQq", 
+            "isOrganic": "N", 
+            "name": "Sun God Wheat Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-10-21 19:29:36"
+        }, 
+        {
+            "abv": "5.1", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:16:31", 
+                    "id": "uNEYgw", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-16 12:42:44", 
+                            "id": "deFrF3", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.579718, 
+                            "locality": "Renchen", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 8.048522, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "77871", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Ullenburg Stra\u00dfe 12", 
+                            "updateDate": "2012-08-16 12:42:44"
+                        }
+                    ], 
+                    "name": "Familienbrauerei Bauh\u00f6fer", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-16 12:42:25", 
+                    "website": "http://www.ulmer-bier.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 11:56:47", 
+            "id": "SMZa52", 
+            "isOrganic": "N", 
+            "name": "Ulmer Kristallweizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-19 15:07:05"
+        }, 
+        {
+            "abv": "4.9", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:16:52", 
+                    "established": "1752", 
+                    "id": "U3JLEf", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:46:53", 
+                            "id": "pDKyvz", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 49.402161, 
+                            "locality": "Plankstadt", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 8.578649, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "D-68723", 
+                            "region": "Baden-W\u00fcrttemberg", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Brauereistra\u00dfe 1", 
+                            "updateDate": "2012-08-13 12:20:56"
+                        }
+                    ], 
+                    "name": "Weldebr\u00e4u GmbH & Co. KG", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-13 12:21:09"
+                }
+            ], 
+            "createDate": "2012-08-12 12:00:10", 
+            "id": "vYvm3x", 
+            "isOrganic": "N", 
+            "name": "Welde Weizen Kristall", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-19 15:33:12"
+        }, 
+        {
+            "abv": "5.1", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:17:29", 
+                    "established": "1845", 
+                    "id": "bH4OLS", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:46:36", 
+                            "id": "8cp8pE", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 48.091042, 
+                            "locality": "Sigmaringen", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 9.206585, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "72488", 
+                            "region": "Baden-W\u00fcrttemberg", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Leopoldstrasse 40", 
+                            "updateDate": "2012-08-13 02:17:09"
+                        }
+                    ], 
+                    "name": "Brauerei Zoller-Hof", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-13 02:16:46", 
+                    "website": "http://www.zoller-hof.de/"
+                }
+            ], 
+            "createDate": "2012-08-12 12:05:43", 
+            "id": "EW1r9n", 
+            "isOrganic": "N", 
+            "name": "Zoller-Hof F\u00fcrsten-Weizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-19 15:44:33"
+        }, 
+        {
+            "abv": "5.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-08-07 10:17:29", 
+                    "established": "1530", 
+                    "id": "DanCUt", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:47:08", 
+                            "id": "HAPCjs", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 48.231316, 
+                            "locality": "Zwiefalten", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 9.460634, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "D-88529", 
+                            "region": "Baden-W\u00fcrttemberg", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Hauptstra\u00dfe 24 Postfach 50", 
+                            "updateDate": "2012-08-13 12:28:58"
+                        }
+                    ], 
+                    "name": "Zwiefalter Klosterbr\u00e4u", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-13 14:29:34"
+                }
+            ], 
+            "createDate": "2012-08-12 12:05:51", 
+            "id": "VHrzRK", 
+            "isOrganic": "N", 
+            "name": "Zwiefalter Kloster-Weizen kristallklar", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.9", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 4, 
+                    "name": "German Origin Ales"
+                }, 
+                "categoryId": 4, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "The aroma and flavor of a Weissbier without yeast is very similar to Weissbier with yeast (Hefeweizen/Hefeweissbier) with the caveat that fruity and phenolic characters are not combined with the yeasty flavor and fuller-bodied mouthfeel of yeast. The phenolic characteristics are often described as clove- or nutmeg-like and can be smoky or even vanilla-like. Banana-like esters are often present. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent. Weissbier is well attenuated and very highly carbonated, yet its relatively high starting gravity and alcohol content make it a medium- to full-bodied beer. The color is very pale to deep golden. Because the beer has been filtered, yeast is not present. The beer will have no flavor of yeast and a cleaner, drier mouthfeel. The beer should be clear with no chill haze present. No diacetyl should be perceived.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.008", 
+                "ibuMax": "15", 
+                "ibuMin": "10", 
+                "id": 49, 
+                "name": "South German-Style Kristall Weizen / Kristall Weissbier", 
+                "ogMin": "1.047", 
+                "srmMax": "9", 
+                "srmMin": "3", 
+                "updateDate": "2012-07-06 18:07:22"
+            }, 
+            "styleId": 49, 
+            "updateDate": "2012-08-19 15:46:29"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 32
+}

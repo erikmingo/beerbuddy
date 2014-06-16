@@ -1,0 +1,1571 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:14", 
+                    "description": "The oldest brewpub in the area, opening in 1992. Award-winning craft ales alongside hearty, satisfying pub cuisine. Ale! Ale! The Gang's All Here!", 
+                    "established": "1992", 
+                    "id": "RRoiAq", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/RRoiAq/upload_zHrOeY-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/RRoiAq/upload_zHrOeY-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/RRoiAq/upload_zHrOeY-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:14", 
+                            "id": "ixDWFe", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 39.971947, 
+                            "locality": "Columbus", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.002538, 
+                            "name": "Barley's Ale House #1", 
+                            "openToPublic": "Y", 
+                            "phone": "614-228-2537", 
+                            "postalCode": "43215", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "467 North High Street", 
+                            "updateDate": "2012-05-04 00:01:17", 
+                            "website": "http://barleysbrewing.com/", 
+                            "yearOpened": "1992"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-05-04 00:00:17", 
+                            "id": "kVpTyR", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.973942, 
+                            "locality": "Columbus", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -83.048991, 
+                            "name": "Barley's Ale House #2", 
+                            "openToPublic": "Y", 
+                            "phone": "614-485-0227", 
+                            "postalCode": "43215", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1130 Dublin Road", 
+                            "updateDate": "2012-05-04 00:00:17", 
+                            "website": "http://barleysbrewing.com/"
+                        }
+                    ], 
+                    "name": "Barley's Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 13:03:38", 
+                    "website": "http://barleysbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-05-04 00:27:40", 
+            "description": "A rare beer style today, it is inky-brown with a sweet malt nose and flavor. Excellent body and balance. This style of stout was shipped from Britain to the Russian Imperial Court. 1997 & 2000 RAF Gold Medal Winner!", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "qGRto4", 
+            "isOrganic": "N", 
+            "name": "Alexander's Russian Imperial Stout", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "Dark copper to very dark brown, British-style imperial stouts typically have high alcohol content. The extremely rich malty flavor (often characterized as toffee-like or caramel-like) and aroma are balanced with medium hopping and high fruity-ester characteristics. Bitterness should be moderate and balanced with sweet malt character. The bitterness may be higher in the darker versions. Roasted malt astringency is very low or absent. Bitterness should not overwhelm the overall character. Hop aroma can be subtle to moderately hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.02", 
+                "ibuMax": "65", 
+                "ibuMin": "45", 
+                "id": 16, 
+                "name": "British-Style Imperial Stout", 
+                "ogMin": "1.08", 
+                "srmMax": "35", 
+                "srmMin": "20"
+            }, 
+            "styleId": 16, 
+            "updateDate": "2012-05-04 00:27:40"
+        }, 
+        {
+            "abv": "12", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:07", 
+                    "description": "Saint Arnold Brewing Company, located in Houston, is Texas' Oldest Craft Brewery. Our goal is to brew world class beers and deliver them to our customers as fresh as possible making them the best beers in Texas and Louisiana. Our customers are beer lovers - people that appreciate great, full-flavored beers.\r\n\r\nOur small crew does everything at the brewery: brew the beer, filter the beer, keg the beer, bottle the beer, sell the beer and drink the beer. For us, this is a passion, not a job. We believe that this comes through in the beers we make. Our beers have soul.\r\n\r\nWe brew several different beers; some are year round, some are seasonal and a few are single batch brews. They are available in bars, restaurants, grocery stores, liquor stores and warehouse stores throughout Texas and Louisiana.\r\n\r\nOur first keg of beer was shipped on June 9, 1994. Founded by Brock Wagner and Kevin Bartol, we chose Houston because, other than living here, this was the largest city in the country that did not have a microbrewery. Brock was a longtime homebrewer and had considered opening a brewery as far back as college, although that was quickly dismissed as a silly idea. Seven years after graduating, Brock revisited the idea, enlisted Kevin's help and the brewery was off and running. Kevin has since left the business after a bitter battle. (Just kidding - but don't you wish people wrote that when it was the truth?).\r\n\r\nPlease visit us if you are in Houston. We have a public open house every weekday at 3:00 PM and every Saturday starting at 11:00 AM.\r\n\r\nCheers!", 
+                    "established": "1994", 
+                    "id": "H3UW27", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/H3UW27/upload_Ssjtzj-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/H3UW27/upload_Ssjtzj-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/H3UW27/upload_Ssjtzj-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:07", 
+                            "id": "jPbb33", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 29.7715192, 
+                            "locality": "Houston", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -95.3484972, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "713-686-9494", 
+                            "postalCode": "77020", 
+                            "region": "Texas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2000 Lyons Avenue", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.saintarnold.com/", 
+                            "yearOpened": "1994"
+                        }
+                    ], 
+                    "mailingListUrl": "http://visitor.constantcontact.com/manage/optin?v=001uBxRG66eq3ajbdfZ6GjL91di7O20EmmX", 
+                    "name": "Saint Arnold Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-13 18:32:47", 
+                    "website": "http://www.saintarnold.com/"
+                }
+            ], 
+            "createDate": "2012-11-13 21:38:45", 
+            "description": "Pours a black color with a very light head that dissipates quickly. The nose is all bourbon and chocolate. The taste starts with a mix of spice with the bourbon and chocolate emerging and lingering through the finish. The light carbonation keeps the beer from becoming cloying, almost giving it a perception of lightness. A pleasant sipping beer with the bourbon both present but not overpowering as you work your way through the glass. Oddly easy to drink for a beer this strong.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 6, 
+                "name": "Snifter"
+            }, 
+            "glasswareId": 6, 
+            "ibu": "49", 
+            "id": "kwWfI3", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/kwWfI3/upload_fKor1m-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/kwWfI3/upload_fKor1m-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/kwWfI3/upload_fKor1m-medium.png"
+            }, 
+            "name": "Bishop's Barrel No. 1", 
+            "originalGravity": "1.084", 
+            "servingTemperature": "warm", 
+            "servingTemperatureDisplay": "Warm - (14-16C/57-61F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "Dark copper to very dark brown, British-style imperial stouts typically have high alcohol content. The extremely rich malty flavor (often characterized as toffee-like or caramel-like) and aroma are balanced with medium hopping and high fruity-ester characteristics. Bitterness should be moderate and balanced with sweet malt character. The bitterness may be higher in the darker versions. Roasted malt astringency is very low or absent. Bitterness should not overwhelm the overall character. Hop aroma can be subtle to moderately hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.02", 
+                "ibuMax": "65", 
+                "ibuMin": "45", 
+                "id": 16, 
+                "name": "British-Style Imperial Stout", 
+                "ogMin": "1.08", 
+                "srmMax": "35", 
+                "srmMin": "20"
+            }, 
+            "styleId": 16, 
+            "updateDate": "2012-11-20 13:24:14"
+        }, 
+        {
+            "abv": "9", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "We have 17 draft lines dedicated to our beers. Some beers are brewed seasonally, but we try to keep different brews coming in all the time.\r\n\r\nMarshall Wharf is the house brewery for Three Tides.", 
+                    "established": "2007", 
+                    "id": "MGFWci", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/MGFWci/upload_egzORl-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/MGFWci/upload_egzORl-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/MGFWci/upload_egzORl-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "id": "RH5181", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.428722, 
+                            "locality": "Belfast", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -69.005409, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "207-338-1707", 
+                            "postalCode": "4915", 
+                            "region": "Maine", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2 Pinchy Lane", 
+                            "updateDate": "2012-03-21 19:08:13", 
+                            "website": "http://www.marshallwharf.com/"
+                        }
+                    ], 
+                    "name": "Marshall Wharf Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-23 18:01:12", 
+                    "website": "http://www.marshallwharf.com/"
+                }
+            ], 
+            "createDate": "2012-04-23 18:00:42", 
+            "description": "Our Belgian Royal Stout, brewed with two yeasts. One German Ale Yeast, and a Belgian strong ale yeast. Dark, rich and sublime.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "3m01ON", 
+            "isOrganic": "N", 
+            "name": "Black Angus", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "Dark copper to very dark brown, British-style imperial stouts typically have high alcohol content. The extremely rich malty flavor (often characterized as toffee-like or caramel-like) and aroma are balanced with medium hopping and high fruity-ester characteristics. Bitterness should be moderate and balanced with sweet malt character. The bitterness may be higher in the darker versions. Roasted malt astringency is very low or absent. Bitterness should not overwhelm the overall character. Hop aroma can be subtle to moderately hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.02", 
+                "ibuMax": "65", 
+                "ibuMin": "45", 
+                "id": 16, 
+                "name": "British-Style Imperial Stout", 
+                "ogMin": "1.08", 
+                "srmMax": "35", 
+                "srmMin": "20"
+            }, 
+            "styleId": 16, 
+            "updateDate": "2012-04-23 18:07:10"
+        }, 
+        {
+            "abv": "10.4", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:49", 
+                    "description": "Our brewery is world-famous for our large variety of (imperial) stouts, ales and smoked ales. We want to make good quality beer with respect for people and the environment.", 
+                    "established": "2004", 
+                    "id": "pfj3jO", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/pfj3jO/upload_QrX3aI-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/pfj3jO/upload_QrX3aI-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/pfj3jO/upload_QrX3aI-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Netherlands", 
+                                "isoCode": "NL", 
+                                "isoThree": "NLD", 
+                                "name": "NETHERLANDS", 
+                                "numberCode": 528
+                            }, 
+                            "countryIsoCode": "NL", 
+                            "createDate": "2012-01-03 02:41:49", 
+                            "id": "DrjXxi", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 52.0856206, 
+                            "locality": "Bodegraven", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 4.7419978, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+31-172-610848", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Overtocht 43", 
+                            "updateDate": "2012-03-21 20:05:31", 
+                            "website": "http://www.brouwerijdemolen.nl/", 
+                            "yearOpened": "2004"
+                        }
+                    ], 
+                    "name": "Brouwerij de Molen", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-30 12:05:37", 
+                    "website": "http://www.brouwerijdemolen.nl/"
+                }
+            ], 
+            "createDate": "2012-03-30 11:59:15", 
+            "id": "hkXRgb", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/hkXRgb/upload_GGtFlO-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/hkXRgb/upload_GGtFlO-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/hkXRgb/upload_GGtFlO-medium.png"
+            }, 
+            "name": "Cease & Desist", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "srm": {
+                "hex": "000000", 
+                "id": 41, 
+                "name": "Over 40"
+            }, 
+            "srmId": 41, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "Dark copper to very dark brown, British-style imperial stouts typically have high alcohol content. The extremely rich malty flavor (often characterized as toffee-like or caramel-like) and aroma are balanced with medium hopping and high fruity-ester characteristics. Bitterness should be moderate and balanced with sweet malt character. The bitterness may be higher in the darker versions. Roasted malt astringency is very low or absent. Bitterness should not overwhelm the overall character. Hop aroma can be subtle to moderately hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.02", 
+                "ibuMax": "65", 
+                "ibuMin": "45", 
+                "id": 16, 
+                "name": "British-Style Imperial Stout", 
+                "ogMin": "1.08", 
+                "srmMax": "35", 
+                "srmMin": "20"
+            }, 
+            "styleId": 16, 
+            "updateDate": "2012-09-08 16:52:15"
+        }, 
+        {
+            "abv": "11.2", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "We have 17 draft lines dedicated to our beers. Some beers are brewed seasonally, but we try to keep different brews coming in all the time.\r\n\r\nMarshall Wharf is the house brewery for Three Tides.", 
+                    "established": "2007", 
+                    "id": "MGFWci", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/MGFWci/upload_egzORl-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/MGFWci/upload_egzORl-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/MGFWci/upload_egzORl-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "id": "RH5181", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.428722, 
+                            "locality": "Belfast", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -69.005409, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "207-338-1707", 
+                            "postalCode": "4915", 
+                            "region": "Maine", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2 Pinchy Lane", 
+                            "updateDate": "2012-03-21 19:08:13", 
+                            "website": "http://www.marshallwharf.com/"
+                        }
+                    ], 
+                    "name": "Marshall Wharf Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-23 18:01:12", 
+                    "website": "http://www.marshallwharf.com/"
+                }
+            ], 
+            "createDate": "2012-04-23 18:00:43", 
+            "description": "Big dark and strong.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "g5ipXo", 
+            "isOrganic": "N", 
+            "name": "Chaos Chaos Russian Imperial Stout", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "Dark copper to very dark brown, British-style imperial stouts typically have high alcohol content. The extremely rich malty flavor (often characterized as toffee-like or caramel-like) and aroma are balanced with medium hopping and high fruity-ester characteristics. Bitterness should be moderate and balanced with sweet malt character. The bitterness may be higher in the darker versions. Roasted malt astringency is very low or absent. Bitterness should not overwhelm the overall character. Hop aroma can be subtle to moderately hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.02", 
+                "ibuMax": "65", 
+                "ibuMin": "45", 
+                "id": 16, 
+                "name": "British-Style Imperial Stout", 
+                "ogMin": "1.08", 
+                "srmMax": "35", 
+                "srmMin": "20"
+            }, 
+            "styleId": 16, 
+            "updateDate": "2012-04-23 18:03:46"
+        }, 
+        {
+            "abv": "4.5", 
+            "breweries": [
+                {
+                    "createDate": "2013-06-21 18:23:36", 
+                    "description": "The brewery was first brought to the Historic Dockyard at Chatham as the Flagship Brewery in 1995 where it established a five barrel kit brewing up to 100 firkins a week. All the ales have nautical themed names to gel with the surroundings in which it is brewed\r\n\r\n\r\nIn 2003 the brewery was bought and renamed the Nelson Brewing Company to fall in line with the most famous naval hero of all time 'Admiral Horatio Nelson' and that his flagship 'The Victory' was built here in Chatham Dockyard.\r\n\r\nIn July 2006 the brewery was purchased by Piers Macdonald. Piers has over 20 years experience in the brewing industry and is passionate to keep the traditions of Kent brewing alive. Using the best ingredients and the finest Kent hops, combined with the expertise and dedication of his brewing staff, Piers plans to build on the brewery's already growing reputation as the provider of some of the tastiest ales on the market.\r\n\r\nNow brewing from a seven and a half barrel kit and regularly having over a dozen ales of various strengths and taste available, the brewery is sure to have a beer to suit all!", 
+                    "established": "1995", 
+                    "id": "OYQA8m", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-06-22 15:01:11", 
+                            "extendedAddress": "The Historic Dockyard", 
+                            "id": "wPQQFb", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 51.3943334, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 0.5297882, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "01634 832828", 
+                            "postalCode": "ME4 4TE", 
+                            "region": "Chatham", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Unit 2, Building 64", 
+                            "updateDate": "2013-06-22 15:01:11", 
+                            "website": "http://www.nelsonbrewery.co.uk/"
+                        }
+                    ], 
+                    "name": "Nelson Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-22 15:01:39", 
+                    "website": "http://www.nelsonbrewery.co.uk/"
+                }
+            ], 
+            "createDate": "2013-06-22 15:05:55", 
+            "description": "A smooth creamy stout that has strong hop taste which leaves a smokey chocolate aftertaste on the palate.Dogwatch stout gets its name from the naval terminology for the shift period between 16.00hrs and 20.00hrs. This period of work is split into two, the first and the last dogwatch. The name dogwatch is thought to have come from the two ?half watches? being referred to as ?dodging the watch?. This later evolved into ?dodge watch? and then ?dog watch?", 
+            "id": "ssAmOw", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ssAmOw/upload_nYN7Vu-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ssAmOw/upload_nYN7Vu-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ssAmOw/upload_nYN7Vu-medium.png"
+            }, 
+            "name": "Dogwatch Stout", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "Dark copper to very dark brown, British-style imperial stouts typically have high alcohol content. The extremely rich malty flavor (often characterized as toffee-like or caramel-like) and aroma are balanced with medium hopping and high fruity-ester characteristics. Bitterness should be moderate and balanced with sweet malt character. The bitterness may be higher in the darker versions. Roasted malt astringency is very low or absent. Bitterness should not overwhelm the overall character. Hop aroma can be subtle to moderately hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.02", 
+                "ibuMax": "65", 
+                "ibuMin": "45", 
+                "id": 16, 
+                "name": "British-Style Imperial Stout", 
+                "ogMin": "1.08", 
+                "srmMax": "35", 
+                "srmMin": "20"
+            }, 
+            "styleId": 16, 
+            "updateDate": "2013-06-22 15:09:38"
+        }, 
+        {
+            "abv": "5.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "description": "Shepherd Neame is an English regional brewery founded in 1698 in Faversham, Kent. It is the oldest brewer in Great Britain and has been family-owned since 1864.", 
+                    "established": "1698", 
+                    "id": "c67gGy", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/c67gGy/upload_axJgeX-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/c67gGy/upload_axJgeX-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/c67gGy/upload_axJgeX-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "id": "ArQJDt", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 51.3169414, 
+                            "locality": "Faversham", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 0.8921279, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "44-(01795)-532206", 
+                            "region": "Kent", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "17 Court Street", 
+                            "updateDate": "2012-03-21 19:08:17"
+                        }
+                    ], 
+                    "name": "Shepherd Neame", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-06-11 11:31:24", 
+                    "website": "http://www.shepherdneame.co.uk/"
+                }
+            ], 
+            "createDate": "2013-06-29 04:19:21", 
+            "description": "Double Stout is based on a coded brewers' log that was recently discovered in the brewery archives.\r\n\r\nThe use of the UK's last remaining solid oak mash tuns and East Kent Golding hops bear the hallmarks of a signature brew by Britain's oldest brewer.\r\n\r\nDouble Stout is available on draught from 25 February to 24 March", 
+            "id": "uVJmkY", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/uVJmkY/upload_ulB7pZ-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/uVJmkY/upload_ulB7pZ-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/uVJmkY/upload_ulB7pZ-medium.png"
+            }, 
+            "name": "Double Stout", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "Dark copper to very dark brown, British-style imperial stouts typically have high alcohol content. The extremely rich malty flavor (often characterized as toffee-like or caramel-like) and aroma are balanced with medium hopping and high fruity-ester characteristics. Bitterness should be moderate and balanced with sweet malt character. The bitterness may be higher in the darker versions. Roasted malt astringency is very low or absent. Bitterness should not overwhelm the overall character. Hop aroma can be subtle to moderately hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.02", 
+                "ibuMax": "65", 
+                "ibuMin": "45", 
+                "id": 16, 
+                "name": "British-Style Imperial Stout", 
+                "ogMin": "1.08", 
+                "srmMax": "35", 
+                "srmMin": "20"
+            }, 
+            "styleId": 16, 
+            "updateDate": "2013-06-30 12:29:59"
+        }, 
+        {
+            "abv": "5.5", 
+            "breweries": [
+                {
+                    "createDate": "2014-01-07 05:09:49", 
+                    "description": "Cervecer\u00eda de MateVeza is a cafe and small brewery dedicated to providing locally-sourced, Argentinian-style empanadas paired with creative artisanal beers.", 
+                    "id": "vpdrzj", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/vpdrzj/upload_m5jG8G-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/vpdrzj/upload_m5jG8G-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/vpdrzj/upload_m5jG8G-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-01-07 12:59:01", 
+                            "hoursOfOperation": "Tuesday through Sunday \u2013 12pm to 10pm\r\nMonday \u2013 5pm to 10pm", 
+                            "id": "JJzXl0", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.7611033, 
+                            "locality": "San Francisco", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -122.4284314, 
+                            "name": "Main Brewpub", 
+                            "openToPublic": "Y", 
+                            "phone": "(415) 273-9295", 
+                            "postalCode": "94114", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3801 18th Street", 
+                            "updateDate": "2014-01-07 12:59:01", 
+                            "website": "http://cerveceriasf.com/"
+                        }
+                    ], 
+                    "name": "Cervecer\u00eda de MateVeza", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-07 12:57:55", 
+                    "website": "http://cerveceriasf.com/"
+                }
+            ], 
+            "createDate": "2014-01-07 05:16:21", 
+            "description": "A roasty traditional English stout. Flashman is a despicable Victorian gentleman, but what he lacks in integrity he makes up for in charm and pedigree. Brewed on site by Brendan.", 
+            "id": "98HcIi", 
+            "isOrganic": "N", 
+            "name": "Flashman Stout", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "Dark copper to very dark brown, British-style imperial stouts typically have high alcohol content. The extremely rich malty flavor (often characterized as toffee-like or caramel-like) and aroma are balanced with medium hopping and high fruity-ester characteristics. Bitterness should be moderate and balanced with sweet malt character. The bitterness may be higher in the darker versions. Roasted malt astringency is very low or absent. Bitterness should not overwhelm the overall character. Hop aroma can be subtle to moderately hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.02", 
+                "ibuMax": "65", 
+                "ibuMin": "45", 
+                "id": 16, 
+                "name": "British-Style Imperial Stout", 
+                "ogMin": "1.08", 
+                "srmMax": "35", 
+                "srmMin": "20"
+            }, 
+            "styleId": 16, 
+            "updateDate": "2014-01-07 13:00:15"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-12-21 17:23:06", 
+                    "description": "Established in May 2003 by former chef Dave Hughes and his wife Judi, Acorn Brewery is located to the east of the Pennines in the village of Wombwell, Barnsley.\r\n\r\nHaving worked for Barnsley Brewery as Head Brewer for two years, Dave decided to go it alone, purchased a ten barrel brewplant from the Forester & Firkin brewpub in Stafford and moved it to premises in Wombwell.\r\n\r\n Following a lot of hard work by Dave and his assistant brewer Steve Bunting, and despite some initial set backs, the brewplant was commissioned and production of Acorn Brewery Barnsley Bitter began on 4th July 2003, using the same yeast strain as the original Barnsley Brewery, founded in the 1850's. Since then, sales have grown steadily and the range of beers has increased.\r\n\r\nAcorn Brewery has developed a popular Yorkshire brand and is currently supplying over 300 free trade outlets and 3 national wholesalers.  \r\n\r\nThere are currently three award-winning beers permanently available, as well as regular seasonal brews.", 
+                    "established": "2003", 
+                    "id": "Uiol9p", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Uiol9p/upload_BaB8aL-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Uiol9p/upload_BaB8aL-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Uiol9p/upload_BaB8aL-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-12-21 17:24:31", 
+                            "id": "PkqhUA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 53.5331726, 
+                            "locality": "Wombwell", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -1.4124447, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "01226 270734", 
+                            "postalCode": "S73 8HA", 
+                            "region": "Barnsley", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Unit 3 Aldham Industrial Estate Mitchell Road", 
+                            "updateDate": "2012-12-21 17:39:36", 
+                            "yearOpened": "2003"
+                        }
+                    ], 
+                    "name": "Acorn Brewery of Barnsley", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-15 01:23:07", 
+                    "website": "http://www.acorn-brewery.co.uk"
+                }
+            ], 
+            "createDate": "2012-12-21 17:34:17", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "KfSsfQ", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/KfSsfQ/upload_jDq9bP-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/KfSsfQ/upload_jDq9bP-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/KfSsfQ/upload_jDq9bP-medium.png"
+            }, 
+            "name": "Gorlovka", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "Dark copper to very dark brown, British-style imperial stouts typically have high alcohol content. The extremely rich malty flavor (often characterized as toffee-like or caramel-like) and aroma are balanced with medium hopping and high fruity-ester characteristics. Bitterness should be moderate and balanced with sweet malt character. The bitterness may be higher in the darker versions. Roasted malt astringency is very low or absent. Bitterness should not overwhelm the overall character. Hop aroma can be subtle to moderately hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.02", 
+                "ibuMax": "65", 
+                "ibuMin": "45", 
+                "id": 16, 
+                "name": "British-Style Imperial Stout", 
+                "ogMin": "1.08", 
+                "srmMax": "35", 
+                "srmMin": "20"
+            }, 
+            "styleId": 16, 
+            "updateDate": "2012-12-21 17:41:43"
+        }, 
+        {
+            "abv": "8", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-12-15 14:43:16", 
+                    "description": "Aarhus Brewery makes special beer for enjoyment! That is to say that art is not so advanced as to result in afskr\u00e6mmende and can only be drunk by connoisseurs. Anyone who wants to try something new, you will find joy in Aarhus Brewery products.\r\n\r\nAarhus Brewery makes special beer with between 5 and 9% alcohol, bottled in large 60 cl bottles. There will be a beer which will be suitable as an aperitif beer, which beer will be suitable for fish and meat dishes light, and there will be dark, heavy and bulky beers, which are suitable for meats and cheeses.\r\n\r\nIt builds both fixed beers and varying seasonal beers. Read more in products.\r\n\r\nThe brewery is purely a production brewery that produces beer and brave this in bottles and kegs. There is not affiliated catering to the brewery. On the other hand we do tours for small groups of between 15 and 75 people.", 
+                    "established": "1986", 
+                    "id": "W2dlxg", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/W2dlxg/upload_EBG6MQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/W2dlxg/upload_EBG6MQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/W2dlxg/upload_EBG6MQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Denmark", 
+                                "isoCode": "DK", 
+                                "isoThree": "DNK", 
+                                "name": "DENMARK", 
+                                "numberCode": 208
+                            }, 
+                            "countryIsoCode": "DK", 
+                            "createDate": "2012-12-15 14:45:17", 
+                            "id": "WfHl3C", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "locality": "Aarhus", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+45 8689 2840", 
+                            "postalCode": "86892040", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Gunnar Clausens Vej 26", 
+                            "updateDate": "2012-12-15 14:45:17", 
+                            "yearOpened": "1986"
+                        }
+                    ], 
+                    "name": "Aarhus Bryghus", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-15 15:17:07", 
+                    "website": "http://www.aarhusbryghus.dk"
+                }
+            ], 
+            "createDate": "2012-12-15 14:48:57", 
+            "description": "Aarhus Brewery Stout was inspired by the English Imperial Stout. Imperial Stout is the beer was originally developed for the Tsar's court in St. Petersburg. Petersburg. In the 1800s, this beer very popular. The beer bryggedes in England and sailed to Russia. In order to withstand the long journey was done beer extra strong compared to the Stout, sold in England. The beer was drained often champagne bottles.\r\n\r\nThe high alcohol content of 8% is to ensure the durability of the black beer. There used unrefined cane sugar from Mauritius as extra flavoring. Most English ales are brewed with unrefined cane sugar. By using unrefined sugar, you get tasting notes from cane sugar in the finished beer. The color is in the bright end of the scale. On the other hand, there is no added caramel color in this Stout!\r\n\r\n The taste of Aarhus Brewery Stout is thick and bold. Although it is a strong beer, it is not the hops that are dominant. This makes it easier to access than many other black beer. There is also a slight sweetness from cane sugar that is balanced with the hops. In time, hop bitterness subside, and the sweetness will dominate.\r\n\r\nThe young Stout will be a good companion to a piece of dark meat or a heavy casserole. It will certainly be obvious to drink for Christmas War or pork roast. Danish Yule developed over centuries, where we always have been drinking beer. Therefore suitable beer is just better to Danish cuisine.\r\n\r\nAarhus Brewery Stout will also be an excellent companion for all cheeses. Try to serve bread with cheese. Bread and Stouten will lift and compliment the cheeses.\r\n\r\nServing temperature of Aarhus Brewery Stout allowed to be about 10 degrees. It does not matter that the further warmed in the glass, it can easily tolerate.\r\n\r\nIn time, hop bitterness removable and sweetness will dominate. In about 2 years, Stout be an exciting companion to a strong chocolate cake!\r\n\r\nSave a box, forget it and enjoy! But do not wait too long. by saving it dark and cool, it is not unlikely that it will keep for years.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "fahZRo", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/fahZRo/upload_qcCK2V-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/fahZRo/upload_qcCK2V-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/fahZRo/upload_qcCK2V-medium.png"
+            }, 
+            "name": "Imperial Stout", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "Dark copper to very dark brown, British-style imperial stouts typically have high alcohol content. The extremely rich malty flavor (often characterized as toffee-like or caramel-like) and aroma are balanced with medium hopping and high fruity-ester characteristics. Bitterness should be moderate and balanced with sweet malt character. The bitterness may be higher in the darker versions. Roasted malt astringency is very low or absent. Bitterness should not overwhelm the overall character. Hop aroma can be subtle to moderately hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.02", 
+                "ibuMax": "65", 
+                "ibuMin": "45", 
+                "id": 16, 
+                "name": "British-Style Imperial Stout", 
+                "ogMin": "1.08", 
+                "srmMax": "35", 
+                "srmMin": "20"
+            }, 
+            "styleId": 16, 
+            "updateDate": "2012-12-15 14:58:29"
+        }, 
+        {
+            "abv": "11.6", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:03", 
+                    "description": "NoDa Brewing Company opened its doors to the world on October 29, 2011 and is one of Charlotte\u2019s newest home-grown microbrewery for beer lovers in the Carolinas! This unique production brewery in Charlotte\u2019s NoDa neighborhood crafts small-batch premium beers, offering something for nearly every beer drinker. The North Davidson (NoDa) neighborhood is known as the creative center of Charlotte: as a natural extension of NoDa\u2019s artistic spirit, there isn\u2019t a better place for a microbrewery to call home.\r\n\r\nNoDa Brewing is a 15 barrel brewery creating the highest quality beers for local restaurants and pubs, as well as our tap room.  Our beer styles will have a Northwestern feel, showcasing American Pale Ales, India Pale Ales, and Porters.  Our small size gives us the flexibility to introduce many unique and artistic recipes as well as our renditions of classic varieties such as Imperial Stouts, Wit beers, and Winter Warmers.  Our Head Brewer frequently traveled to Europe over the past couple years.  He has been fortunate to have experienced the wonderful beers that have historically defined many current craft beer styles.  As we pay homage to these great and historic beers, we\u2019ll add an American Flair that will be embraced in the Carolinas and beyond.", 
+                    "established": "2011", 
+                    "id": "pcrctk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/pcrctk/upload_B1Dsle-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/pcrctk/upload_B1Dsle-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/pcrctk/upload_B1Dsle-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:03", 
+                            "hoursOfOperation": "Monday - 4 - 8:30\r\nTuesday - 4-8:30\r\nWednesday - 4-9\r\nThursday- 4-8:30\r\nFriday - 4-9:30\r\nSaturday - 12-10\r\nSunday - 1-6", 
+                            "id": "oGBBGF", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.240347, 
+                            "locality": "Charlotte", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -80.814842, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(704) 900-6851", 
+                            "postalCode": "28205", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2229 North Davidson St", 
+                            "updateDate": "2014-03-03 18:16:27", 
+                            "website": "http://www.nodabrewing.com/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "NoDa Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-04 02:30:17", 
+                    "website": "http://www.nodabrewing.com/"
+                }
+            ], 
+            "createDate": "2012-04-11 01:57:17", 
+            "description": "Russian Imperial Raspberry Stout", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "32", 
+            "id": "bxzsq8", 
+            "isOrganic": "N", 
+            "name": "Liquid Lust", 
+            "srm": {
+                "hex": "3A070B", 
+                "id": 39, 
+                "name": "39"
+            }, 
+            "srmId": 39, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "Dark copper to very dark brown, British-style imperial stouts typically have high alcohol content. The extremely rich malty flavor (often characterized as toffee-like or caramel-like) and aroma are balanced with medium hopping and high fruity-ester characteristics. Bitterness should be moderate and balanced with sweet malt character. The bitterness may be higher in the darker versions. Roasted malt astringency is very low or absent. Bitterness should not overwhelm the overall character. Hop aroma can be subtle to moderately hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.02", 
+                "ibuMax": "65", 
+                "ibuMin": "45", 
+                "id": 16, 
+                "name": "British-Style Imperial Stout", 
+                "ogMin": "1.08", 
+                "srmMax": "35", 
+                "srmMin": "20"
+            }, 
+            "styleId": 16, 
+            "updateDate": "2012-04-11 01:57:17"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "We have 17 draft lines dedicated to our beers. Some beers are brewed seasonally, but we try to keep different brews coming in all the time.\r\n\r\nMarshall Wharf is the house brewery for Three Tides.", 
+                    "established": "2007", 
+                    "id": "MGFWci", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/MGFWci/upload_egzORl-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/MGFWci/upload_egzORl-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/MGFWci/upload_egzORl-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "id": "RH5181", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.428722, 
+                            "locality": "Belfast", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -69.005409, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "207-338-1707", 
+                            "postalCode": "4915", 
+                            "region": "Maine", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2 Pinchy Lane", 
+                            "updateDate": "2012-03-21 19:08:13", 
+                            "website": "http://www.marshallwharf.com/"
+                        }
+                    ], 
+                    "name": "Marshall Wharf Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-23 18:01:12", 
+                    "website": "http://www.marshallwharf.com/"
+                }
+            ], 
+            "createDate": "2012-04-23 18:00:49", 
+            "description": "This small stout is brewed from the same grains that we brew Chaos Chaos, our Russian Imperial Stout. All the malt flavor, without the 10 % abv. Served on nitrogen at the bar, and CO2 in growlers from the store.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "0JmUbr", 
+            "isOrganic": "N", 
+            "name": "Little Mayhem", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "Dark copper to very dark brown, British-style imperial stouts typically have high alcohol content. The extremely rich malty flavor (often characterized as toffee-like or caramel-like) and aroma are balanced with medium hopping and high fruity-ester characteristics. Bitterness should be moderate and balanced with sweet malt character. The bitterness may be higher in the darker versions. Roasted malt astringency is very low or absent. Bitterness should not overwhelm the overall character. Hop aroma can be subtle to moderately hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.02", 
+                "ibuMax": "65", 
+                "ibuMin": "45", 
+                "id": 16, 
+                "name": "British-Style Imperial Stout", 
+                "ogMin": "1.08", 
+                "srmMax": "35", 
+                "srmMin": "20"
+            }, 
+            "styleId": 16, 
+            "updateDate": "2012-04-23 18:07:41"
+        }, 
+        {
+            "abv": "10.5", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:12", 
+                    "description": "Westbrook Brewing is a new craft brewery in Mt. Pleasant, SC. Our mission is to make the most interesting, drinkable, and generally awesome beer possible. We love experimenting with different ingredients and brewing techniques, and we hope you\u2019ll have as much fun drinking our beer as we do making it.", 
+                    "established": "2010", 
+                    "id": "HPfwPW", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/HPfwPW/upload_qo8ArN-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/HPfwPW/upload_qo8ArN-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/HPfwPW/upload_qo8ArN-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:12", 
+                            "hoursOfOperation": "Thursdays 4-7\r\nFridays 4-7\r\nSaturdays 12-4", 
+                            "id": "rgj6Fa", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 32.846477, 
+                            "locality": "Mt. Pleasant", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.877235, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "843-708-2964", 
+                            "postalCode": "29464", 
+                            "region": "South Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "510 Ridge Road", 
+                            "updateDate": "2012-04-09 19:40:32", 
+                            "website": "http://westbrookbrewing.com/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Westbrook Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-10 13:08:38", 
+                    "website": "http://westbrookbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-04-09 19:33:05", 
+            "description": "Happy birthday to us! To celebrate our first year as a brewery we brewed a serious imperial stout and aged it on cocoa nibs, vanilla beans, cinnamon sticks, and fresh habanero peppers. This is the first offering in our annual Anniversary series. Here\u2019s to many more!", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "50", 
+            "id": "09WaJk", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/09WaJk/upload_NBj139-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/09WaJk/upload_NBj139-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/09WaJk/upload_NBj139-medium.png"
+            }, 
+            "name": "Mexican Cake", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "Dark copper to very dark brown, British-style imperial stouts typically have high alcohol content. The extremely rich malty flavor (often characterized as toffee-like or caramel-like) and aroma are balanced with medium hopping and high fruity-ester characteristics. Bitterness should be moderate and balanced with sweet malt character. The bitterness may be higher in the darker versions. Roasted malt astringency is very low or absent. Bitterness should not overwhelm the overall character. Hop aroma can be subtle to moderately hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.02", 
+                "ibuMax": "65", 
+                "ibuMin": "45", 
+                "id": 16, 
+                "name": "British-Style Imperial Stout", 
+                "ogMin": "1.08", 
+                "srmMax": "35", 
+                "srmMin": "20"
+            }, 
+            "styleId": 16, 
+            "updateDate": "2012-08-24 00:35:40"
+        }, 
+        {
+            "abv": "8.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-06-01 13:10:55", 
+                    "description": "One of few breweries that still brew their beers the authentic way. This means only natural ingredients are used, no filtering and no pasteurisation is applied. Ever since we've started our brewery, the quality of our beers has been our most important concern. \r\n\r\nMost of our beers are connected to old folk stories, for example \"De Lamme Goedzak\" or\"De Dulle Griet\". The brewery and its beers are a true monument for beer tasters.", 
+                    "id": "whYakt", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Belgium", 
+                                "isoCode": "BE", 
+                                "isoThree": "BEL", 
+                                "name": "BELGIUM", 
+                                "numberCode": 56
+                            }, 
+                            "countryIsoCode": "BE", 
+                            "createDate": "2012-06-01 13:11:51", 
+                            "id": "6sHf19", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 51.472555, 
+                            "locality": "Meer", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 4.726545, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+32 (0)3 665 36 96", 
+                            "postalCode": "2321", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Wenenstraat 7", 
+                            "updateDate": "2012-06-01 19:59:22"
+                        }
+                    ], 
+                    "name": "Scheldebrouwerij", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-11-06 17:47:14", 
+                    "website": "http://www.scheldebrouwerij.nl/"
+                }
+            ], 
+            "createDate": "2012-11-06 12:32:14", 
+            "description": "Oesterstout is a beer with a slight taste of oyster brine.\r\nIt's a strong, soft tasting stout with a limited bitterness and dark as the night. \r\nDuring the brewing process, the wort is being pumped over oyster shells.", 
+            "id": "qj4E8W", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/qj4E8W/upload_RIaxpB-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/qj4E8W/upload_RIaxpB-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/qj4E8W/upload_RIaxpB-medium.png"
+            }, 
+            "name": "Oesterstout", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "Dark copper to very dark brown, British-style imperial stouts typically have high alcohol content. The extremely rich malty flavor (often characterized as toffee-like or caramel-like) and aroma are balanced with medium hopping and high fruity-ester characteristics. Bitterness should be moderate and balanced with sweet malt character. The bitterness may be higher in the darker versions. Roasted malt astringency is very low or absent. Bitterness should not overwhelm the overall character. Hop aroma can be subtle to moderately hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.02", 
+                "ibuMax": "65", 
+                "ibuMin": "45", 
+                "id": 16, 
+                "name": "British-Style Imperial Stout", 
+                "ogMin": "1.08", 
+                "srmMax": "35", 
+                "srmMin": "20"
+            }, 
+            "styleId": 16, 
+            "updateDate": "2012-11-06 17:54:51"
+        }, 
+        {
+            "abv": "11.2", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "We have 17 draft lines dedicated to our beers. Some beers are brewed seasonally, but we try to keep different brews coming in all the time.\r\n\r\nMarshall Wharf is the house brewery for Three Tides.", 
+                    "established": "2007", 
+                    "id": "MGFWci", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/MGFWci/upload_egzORl-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/MGFWci/upload_egzORl-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/MGFWci/upload_egzORl-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "id": "RH5181", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.428722, 
+                            "locality": "Belfast", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -69.005409, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "207-338-1707", 
+                            "postalCode": "4915", 
+                            "region": "Maine", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2 Pinchy Lane", 
+                            "updateDate": "2012-03-21 19:08:13", 
+                            "website": "http://www.marshallwharf.com/"
+                        }
+                    ], 
+                    "name": "Marshall Wharf Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-23 18:01:12", 
+                    "website": "http://www.marshallwharf.com/"
+                }
+            ], 
+            "createDate": "2012-04-23 18:00:35", 
+            "description": "We age Chaos Choas on vanilla beans and toasted oak chips to give the already sultry and complex Russian Imperial Stout a sexy twist. Very limited availablilty.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "LrfATl", 
+            "isOrganic": "N", 
+            "name": "Sexy Chaos", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "Dark copper to very dark brown, British-style imperial stouts typically have high alcohol content. The extremely rich malty flavor (often characterized as toffee-like or caramel-like) and aroma are balanced with medium hopping and high fruity-ester characteristics. Bitterness should be moderate and balanced with sweet malt character. The bitterness may be higher in the darker versions. Roasted malt astringency is very low or absent. Bitterness should not overwhelm the overall character. Hop aroma can be subtle to moderately hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.02", 
+                "ibuMax": "65", 
+                "ibuMin": "45", 
+                "id": 16, 
+                "name": "British-Style Imperial Stout", 
+                "ogMin": "1.08", 
+                "srmMax": "35", 
+                "srmMin": "20"
+            }, 
+            "styleId": 16, 
+            "updateDate": "2012-04-23 18:06:52"
+        }, 
+        {
+            "abv": "11.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:45", 
+                    "description": "Microbrews...22 rotating taps, plus one cask conditioned beer, have been hand selected for your pairing (and drinking) pleasure. We go to great lengths to find the most rare, most unique, and most first-rate beers. Here you won't find Coors, Heineken, or Bud. What? Well, we've devoted our beer line up to those special brews that not only enhance the food we serve, but also represent some of the finest beers you'll find around. We like to think we can convert anyone. On any given week, we'll go through 10 kegs, so don't be surprised when you come in and don't see the beer you drank yesterday. We've replaced it; it's gone, dunzo, adios...you'll be lucky to ever have the same beer twice.\r\n\r\nGrab a pint that pairs well with the 'que or just come in for a drink on its own...we don't care, but please try one of these beers, you won't be sorry.\r\n\r\nWe have teamed up with well-known Southern California brewer, Julian Shrago, to bring to you a new 10-bbl brewpub with 80 barrels of fermentation space.\r\n\r\nBrewmaster Julian will be producing about eight year-round finely crafted brews, with a few seasonals and other special beer projects going alongside.", 
+                    "established": "2011", 
+                    "id": "RCXyVC", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/RCXyVC/upload_czXqtn-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/RCXyVC/upload_czXqtn-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/RCXyVC/upload_czXqtn-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:45", 
+                            "hoursOfOperation": "Tuesday - Sunday\r\nKitchen open 11:30 to 9:30\r\nBar open 11:30 to Midnightish", 
+                            "id": "dkwIPl", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 33.770328, 
+                            "locality": "Long Beach", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -118.1908196, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "562-436-4020", 
+                            "postalCode": "90802", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "210 E 3rd St.", 
+                            "updateDate": "2012-03-21 19:08:02", 
+                            "website": "http://www.beachwoodbbq.com/"
+                        }
+                    ], 
+                    "name": "Beachwood BBQ & Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-15 01:10:38", 
+                    "website": "http://www.beachwoodbbq.com/"
+                }
+            ], 
+            "createDate": "2012-12-04 13:01:13", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 8, 
+                "name": "Tulip"
+            }, 
+            "glasswareId": 8, 
+            "id": "7QNJnE", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/7QNJnE/upload_SXAVvx-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/7QNJnE/upload_SXAVvx-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/7QNJnE/upload_SXAVvx-medium.png"
+            }, 
+            "name": "Tovarish", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "Dark copper to very dark brown, British-style imperial stouts typically have high alcohol content. The extremely rich malty flavor (often characterized as toffee-like or caramel-like) and aroma are balanced with medium hopping and high fruity-ester characteristics. Bitterness should be moderate and balanced with sweet malt character. The bitterness may be higher in the darker versions. Roasted malt astringency is very low or absent. Bitterness should not overwhelm the overall character. Hop aroma can be subtle to moderately hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.", 
+                "fgMax": "1.03", 
+                "fgMin": "1.02", 
+                "ibuMax": "65", 
+                "ibuMin": "45", 
+                "id": 16, 
+                "name": "British-Style Imperial Stout", 
+                "ogMin": "1.08", 
+                "srmMax": "35", 
+                "srmMin": "20"
+            }, 
+            "styleId": 16, 
+            "updateDate": "2012-12-04 13:01:43"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 16
+}

@@ -1,0 +1,2428 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "4.6", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "Brewery and gastropub in San Francisco's Haight Ashbury District with a production brewery and BBQ restaurant on the way this fall in the Dogpatch neighborhood.", 
+                    "established": "1997", 
+                    "id": "ScZdj3", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ScZdj3/upload_eUt0Jz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ScZdj3/upload_eUt0Jz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ScZdj3/upload_eUt0Jz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "hoursOfOperation": "Mon - Thu: 11:00 am - 12:00 am\r\nFri: 11:00 am - 1:00 am\r\nSat: 10:00 am - 1:00 am\r\nSun: 10:00 am - 11:00 pm", 
+                            "id": "o8mhnm", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.7702334, 
+                            "locality": "San Francisco", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -122.4453252, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(415) 864-7468", 
+                            "postalCode": "94117", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1398 Haight Street", 
+                            "updateDate": "2013-08-06 22:18:16", 
+                            "website": "http://www.magnoliapub.com/", 
+                            "yearOpened": "1997"
+                        }
+                    ], 
+                    "mailingListUrl": "http://magnoliapub.com/brewsletter.html", 
+                    "name": "Magnolia Gastropub and Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-04 12:43:54", 
+                    "website": "http://www.magnoliapub.com/"
+                }
+            ], 
+            "createDate": "2013-05-09 19:12:24", 
+            "id": "Wy6g9d", 
+            "isOrganic": "N", 
+            "name": "Billy's Sunday Bitter", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-05-09 19:12:24"
+        }, 
+        {
+            "abv": "11", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:10", 
+                    "description": "Over one hundred years ago, the building known as the Palace Livery provided a vital service making it a unique gathering place for residents of and travelers to Southwest Michigan. This former horse stable has been brought back to life as The Livery. Located at 190 5th street, in the Arts District of downtown Benton Harbor, Michigan, the Livery features 12 taps of \"Hand-Forged Microbrew\", 2 Real Ale taps, an outdoor bier garden, free WIFI, and a Caf\u00e9 serving great food. Music and other live entertainment are regularly featured in The Upper Livery entertainment venue. You must be age 21 or older to enter The Livery. People under age 21 must be accompanied by parent or legal guardian.", 
+                    "established": "2005", 
+                    "id": "XdP8EM", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/XdP8EM/upload_ZGzaQt-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/XdP8EM/upload_ZGzaQt-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/XdP8EM/upload_ZGzaQt-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:10", 
+                            "hoursOfOperation": "Mon - Thu: 4:00 pm - 12:00 am\r\nFri: 11:30 am - 1:00 am\r\nSat: 12:00 pm - 1:00 am\r\nSun: 12:00 pm - 12:00 am", 
+                            "id": "OIROBN", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.1184758, 
+                            "locality": "Benton Harbor", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -86.4536849, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "269-925-8760", 
+                            "postalCode": "49022", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "190 5th Street", 
+                            "updateDate": "2013-08-14 11:21:08", 
+                            "website": "http://www.liverybrew.com/"
+                        }
+                    ], 
+                    "name": "The Livery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-12-17 22:18:22", 
+                    "website": "http://www.liverybrew.com/"
+                }
+            ], 
+            "createDate": "2012-02-14 12:58:38", 
+            "description": "With a different blend of apples every year, this cyser is fermented in stainless steel with local honey. It is then moved to red wine oak barrels with fresh red and black raspberries and left to age for 12 months. Thanks to our friends from the band \"The Black Lilies\" for the name inspiration!", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "Q7GNOc", 
+            "isOrganic": "N", 
+            "name": "Black Lily", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-12-17 22:24:43"
+        }, 
+        {
+            "abv": "4.1", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "Brewery and gastropub in San Francisco's Haight Ashbury District with a production brewery and BBQ restaurant on the way this fall in the Dogpatch neighborhood.", 
+                    "established": "1997", 
+                    "id": "ScZdj3", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ScZdj3/upload_eUt0Jz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ScZdj3/upload_eUt0Jz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ScZdj3/upload_eUt0Jz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "hoursOfOperation": "Mon - Thu: 11:00 am - 12:00 am\r\nFri: 11:00 am - 1:00 am\r\nSat: 10:00 am - 1:00 am\r\nSun: 10:00 am - 11:00 pm", 
+                            "id": "o8mhnm", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.7702334, 
+                            "locality": "San Francisco", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -122.4453252, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(415) 864-7468", 
+                            "postalCode": "94117", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1398 Haight Street", 
+                            "updateDate": "2013-08-06 22:18:16", 
+                            "website": "http://www.magnoliapub.com/", 
+                            "yearOpened": "1997"
+                        }
+                    ], 
+                    "mailingListUrl": "http://magnoliapub.com/brewsletter.html", 
+                    "name": "Magnolia Gastropub and Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-04 12:43:54", 
+                    "website": "http://www.magnoliapub.com/"
+                }
+            ], 
+            "createDate": "2013-05-09 19:12:25", 
+            "id": "9HpUJ4", 
+            "isOrganic": "N", 
+            "name": "Bonnie Lee's Best Bitter", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-05-09 19:12:25"
+        }, 
+        {
+            "abv": "7", 
+            "breweries": [
+                {
+                    "createDate": "2013-05-07 18:49:46", 
+                    "description": "First things first. We are passionate about beer. And not just our beer. We are passionate about all good beer. That's why in 1989 Liam LaHart and Oliver Hughes opened the first Porterhouse and specialised in importing various beers from around the world with a keen eye on Belgium.", 
+                    "id": "UKxizF", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/UKxizF/upload_5grT3O-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/UKxizF/upload_5grT3O-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/UKxizF/upload_5grT3O-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "name": "The Porterhouse Brewing Co.", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-09 14:35:59", 
+                    "website": "http://www.porterhousebrewco.com"
+                }
+            ], 
+            "createDate": "2013-05-09 14:37:08", 
+            "id": "q4GqV7", 
+            "isOrganic": "N", 
+            "name": "Braonbl\u00e1sta", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-05-09 14:37:09"
+        }, 
+        {
+            "abv": "4.3", 
+            "breweries": [
+                {
+                    "createDate": "2013-05-08 08:41:02", 
+                    "description": "We've been brewing our beers in the fine city of Bristol since 2007. All of our beers are brewed with the intention of creating something we'll enjoy drinking ourselves and, more importantly, something we're proud to put our name to. In a world of endless possibilities, we try to explore as many of them as possible, which is why to date we've brewed in excess of two hundred different beers: some of them regulars, the odd few occasionals, and far too many one-offs to remember let alone try to name!\r\nYou should be able to find our beers on offer nationwide in the kind of pubs and bars that have the freedom and willingness to stock good beer. While most of it goes into cask, you'll also find it in keg or bottle if you look in the right places.", 
+                    "established": "2007", 
+                    "id": "3CT0MA", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/3CT0MA/upload_TQKReY-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/3CT0MA/upload_TQKReY-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/3CT0MA/upload_TQKReY-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-05-09 00:37:54", 
+                            "extendedAddress": "Croydon Street", 
+                            "id": "pguslr", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 51.4583567, 
+                            "locality": "Lawrence Hill", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -2.5694249, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "N", 
+                            "postalCode": "BS5 0EB", 
+                            "region": "Bristol", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Unit 4 Lawrence Hill Industrial Park", 
+                            "updateDate": "2013-05-09 00:37:54"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-05-09 00:40:12", 
+                            "extendedAddress": "Redfield", 
+                            "hoursOfOperation": "Mon-Thu 4pm-11pm;\r\nFri 4pm-12am;\r\nSat 12pm-12am;\r\nSun 12pm-10:30pm", 
+                            "id": "S0dgvI", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 51.4588054, 
+                            "locality": "Bristol", 
+                            "locationType": "tasting", 
+                            "locationTypeDisplay": "Tasting Room", 
+                            "longitude": -2.5578473, 
+                            "name": "The Old Stillage", 
+                            "openToPublic": "Y", 
+                            "phone": "0117 939 4079", 
+                            "postalCode": "BS5 9LA", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "147 Church Rd", 
+                            "updateDate": "2013-05-09 00:40:12"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-05-09 00:41:57", 
+                            "extendedAddress": "Hotwells", 
+                            "hoursOfOperation": "Mon-Thu 12pm-2.30pm & 4pm-11pm;\r\nFri-Sat 12pm-12am;\r\nSun 4pm-10:30pm", 
+                            "id": "4KMV4j", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 51.4511176, 
+                            "locality": "Bristol", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -2.6049702, 
+                            "name": "The Three Tuns", 
+                            "openToPublic": "Y", 
+                            "phone": "0117 907 0689", 
+                            "postalCode": "BS1 5UR", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "78 Saint George's Road", 
+                            "updateDate": "2013-05-09 00:41:57"
+                        }
+                    ], 
+                    "name": "Arbor Ales", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-09 00:46:29", 
+                    "website": "http://arborales.co.uk/"
+                }
+            ], 
+            "createDate": "2013-05-09 00:48:11", 
+            "id": "pkwqxM", 
+            "isOrganic": "N", 
+            "name": "Brigstow Bitter", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-05-09 00:48:12"
+        }, 
+        {
+            "abv": "5.8", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:52", 
+                    "description": "Classically refined, but not styled as a traditional \"sweet beer\" beer alternative, Crispin ciders are crisp and clean, not sweet and sticky and never sacrifice superior quality refreshment satisfaction for overbearing complexity.\r\n\r\nAlways true to the apple, Crispin Hard Ciders naturally fermented in the USA use fresh pressed apple-juice, not from apple juice concentrate, from a premium blend of US West Coast apples, with no added malt, grape wine or spirit alcohol. Crispin\u2019s unique USA produced ciders are smoothed with pure apple juice or from natural sugar sources like organic honey or organic maple syrup, and contain no added colorants, sorbate or benzoate preservatives.\r\n\r\nCrispin ciders have 7 different varietals - Original, Light and Brut; classic European styled crisp clean ciders, Browns Lane; an imported classic English dry cider, and our line of Artisanal Reserves; Honey Crisp, The Saint and Lansdowne - unfiltered \"cloudy\" ciders, ground-breaking \"craft beer\" uniquely American ciders.\r\n\r\nCrispin ciders are all Gluten Free for the wheat-intolerant person.", 
+                    "established": "2008", 
+                    "id": "nCojAV", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/nCojAV/upload_rVcbaH-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/nCojAV/upload_rVcbaH-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/nCojAV/upload_rVcbaH-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:52", 
+                            "extendedAddress": "Suite 10", 
+                            "id": "Gw62Ze", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.9879616, 
+                            "locality": "Minneapolis", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -93.2541382, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "612-331-3699", 
+                            "postalCode": "55414", 
+                            "region": "Minnesota", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "405 Central Ave SE", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://www.crispincider.com/", 
+                            "yearOpened": "2008"
+                        }
+                    ], 
+                    "name": "Crispin Cider", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-02 12:47:18", 
+                    "website": "http://www.crispincider.com/"
+                }
+            ], 
+            "createDate": "2012-05-30 19:12:40", 
+            "description": "Authentically British from it's bespoke British Racing Green tailoring to its superb craftsmanship, but most defined by its World Champion racing spirit. 100% pressed, fermented and produced in England, Crispin Browns Lane is a deliciously dry, classic English cider.\r\n\r\nCrispin Browns Lane is named for the original Jaguar car factory in England, and is a sincere homage to the great British motor-racing heritage, embodied in classic Jaguar, Bentley, Aston-Martin, Lotus cars and the legendary drivers like Hill, Stewart, Moss, Surtees and Clark.  A racing tradition and expertise that continues today in Formula 1 and Cart racing.\r\n\r\nA lightly sparking, crisply effervescent cider made with traditional English bittersweet cider apples sourced in the Malvern Hills of Worcestershire. Dark straw in appearance with a semi-brilliant richness. The slight brettanomyces aroma lends to an almost traditional farmhouse cider bouquet. Soft, subtle natural apple sweetness up front, brett & tannins mid-palate move in to a slightly woody dry lingering finish.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "34ozg2", 
+            "isOrganic": "N", 
+            "name": "Browns Lane", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2012-08-24 04:07:43"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "description": "Shoreline Brewery is a brewery and restaurant located near the shores of Lake Michigan in Michigan City, Indiana. Twelve beers are always on tap, including the World Beer Cup Award winning Beltaine Scottish Ale and Singing Sands Oatmeal Stout, and seasonal beers such as Samuel Jacksons Black IPA, Bavarian Bombshell Black Lager, and the Barrel Aged Imperial Stout Lost Sailor. In the eight years of existence, Shoreline Brewery has evolved and grown into so much more than just a brewery.", 
+                    "id": "J8XoQQ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/J8XoQQ/upload_sB1cFV-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/J8XoQQ/upload_sB1cFV-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/J8XoQQ/upload_sB1cFV-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "hoursOfOperation": "Mon - Sun: 11:00 am - 2:00 am", 
+                            "id": "ag6137", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.7195305, 
+                            "locality": "Michigan City", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -86.9062024, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "219-879-4677", 
+                            "postalCode": "46360", 
+                            "region": "Indiana", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "208 Wabash St", 
+                            "updateDate": "2012-11-16 14:19:17", 
+                            "website": "http://www.shorelinebrewery.com/"
+                        }
+                    ], 
+                    "name": "Shoreline Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-11-16 14:20:11", 
+                    "website": "http://shorelinebrewery.com/"
+                }
+            ], 
+            "createDate": "2012-11-16 14:22:52", 
+            "id": "tU6jCh", 
+            "isOrganic": "N", 
+            "name": "Don't Panic English Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2012-11-16 14:22:53"
+        }, 
+        {
+            "abv": "12", 
+            "breweries": [
+                {
+                    "createDate": "2013-05-08 08:41:02", 
+                    "description": "We've been brewing our beers in the fine city of Bristol since 2007. All of our beers are brewed with the intention of creating something we'll enjoy drinking ourselves and, more importantly, something we're proud to put our name to. In a world of endless possibilities, we try to explore as many of them as possible, which is why to date we've brewed in excess of two hundred different beers: some of them regulars, the odd few occasionals, and far too many one-offs to remember let alone try to name!\r\nYou should be able to find our beers on offer nationwide in the kind of pubs and bars that have the freedom and willingness to stock good beer. While most of it goes into cask, you'll also find it in keg or bottle if you look in the right places.", 
+                    "established": "2007", 
+                    "id": "3CT0MA", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/3CT0MA/upload_TQKReY-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/3CT0MA/upload_TQKReY-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/3CT0MA/upload_TQKReY-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-05-09 00:37:54", 
+                            "extendedAddress": "Croydon Street", 
+                            "id": "pguslr", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 51.4583567, 
+                            "locality": "Lawrence Hill", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -2.5694249, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "N", 
+                            "postalCode": "BS5 0EB", 
+                            "region": "Bristol", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Unit 4 Lawrence Hill Industrial Park", 
+                            "updateDate": "2013-05-09 00:37:54"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-05-09 00:40:12", 
+                            "extendedAddress": "Redfield", 
+                            "hoursOfOperation": "Mon-Thu 4pm-11pm;\r\nFri 4pm-12am;\r\nSat 12pm-12am;\r\nSun 12pm-10:30pm", 
+                            "id": "S0dgvI", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 51.4588054, 
+                            "locality": "Bristol", 
+                            "locationType": "tasting", 
+                            "locationTypeDisplay": "Tasting Room", 
+                            "longitude": -2.5578473, 
+                            "name": "The Old Stillage", 
+                            "openToPublic": "Y", 
+                            "phone": "0117 939 4079", 
+                            "postalCode": "BS5 9LA", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "147 Church Rd", 
+                            "updateDate": "2013-05-09 00:40:12"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-05-09 00:41:57", 
+                            "extendedAddress": "Hotwells", 
+                            "hoursOfOperation": "Mon-Thu 12pm-2.30pm & 4pm-11pm;\r\nFri-Sat 12pm-12am;\r\nSun 4pm-10:30pm", 
+                            "id": "4KMV4j", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 51.4511176, 
+                            "locality": "Bristol", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -2.6049702, 
+                            "name": "The Three Tuns", 
+                            "openToPublic": "Y", 
+                            "phone": "0117 907 0689", 
+                            "postalCode": "BS1 5UR", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "78 Saint George's Road", 
+                            "updateDate": "2013-05-09 00:41:57"
+                        }
+                    ], 
+                    "name": "Arbor Ales", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-09 00:46:29", 
+                    "website": "http://arborales.co.uk/"
+                }
+            ], 
+            "createDate": "2013-05-09 00:48:13", 
+            "description": "Brewed in collaboration with Art Brew", 
+            "id": "S4ff6n", 
+            "isOrganic": "N", 
+            "name": "Double Trouble", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-05-09 00:48:13"
+        }, 
+        {
+            "abv": "4.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2013-05-15 23:04:56", 
+                    "id": "o3lsQF", 
+                    "isOrganic": "N", 
+                    "name": "Foundry Cider", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-29 13:21:25", 
+                    "website": "http://www.foundrycider.com"
+                }
+            ], 
+            "createDate": "2013-05-29 13:22:17", 
+            "description": "Foundry Golden Cider is an imported, 4.5% ABV cider. Crafted in the traditional English style using only the best quality apples, Foundry Golden Cider is matured slowly to produce a refreshingly dry, crisp apple flavour.\r\n\r\nAlthough served cold, Foundry Golden Cider is best enjoyed without ice. Ice dilutes the flavour and unlike some ciders, we've got nothing to hide. Our cider is best enjoyed in a chilled pint glass. Mainly because that's the only way you can buy it.", 
+            "id": "53ttBO", 
+            "isOrganic": "N", 
+            "name": "Foundry Golden Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-05-29 13:22:17"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-11-20 23:47:12", 
+                    "description": "We are the first, and only, licensed and bonded cidery in the Piedmont of the Carolinas.  We produce various types of Award Winning Hand-Crafted Hard Ciders with a commitment to sustainable agricultural practices.\r\n \r\nAs an extension of Windy Hill Orchard and Cidery, we are family owned and operated and located in York, SC.\r\n \r\nPlease be sure to visit our facebook page and our orchard website for details about upcoming events, product news, and hours and directions.", 
+                    "established": "2011", 
+                    "id": "eGtqKZ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/eGtqKZ/upload_JaIVoQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/eGtqKZ/upload_JaIVoQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/eGtqKZ/upload_JaIVoQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-11-23 14:38:56", 
+                            "hoursOfOperation": "Tuesday through Saturday: 9:00 a.m. till 5:00 p.m.\r\nSelect Sundays*: Noon till 5:00 p.m.", 
+                            "id": "bRKIdZ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.024739, 
+                            "locality": "York", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -81.280858, 
+                            "name": "Main Cidery", 
+                            "openToPublic": "Y", 
+                            "phone": "(803) 684-0690", 
+                            "postalCode": "29745", 
+                            "region": "South Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1860 Black Highway", 
+                            "updateDate": "2012-11-23 14:38:56", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Windy Hill Orchard & Cidery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-11-23 14:42:46", 
+                    "website": "http://windyhillorchard.com/yorkcider/"
+                }
+            ], 
+            "createDate": "2012-11-23 14:39:56", 
+            "description": "\u201cGinger Gold\u201d is our flagship cider  that we have produced since 1996.  Our take on a traditional English Style Draught Cider, Ginger Gold provides a refreshing effervescent ginger snap and is best enjoyed by itself, on the rocks, or layered with your favorite beer. Bronze Medal Winner in the 2011 Great Lakes International Cider and Perry Competition.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "Tyl0vE", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Tyl0vE/upload_rncpb2-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Tyl0vE/upload_rncpb2-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Tyl0vE/upload_rncpb2-medium.png"
+            }, 
+            "name": "Ginger Gold", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2012-11-23 14:39:57"
+        }, 
+        {
+            "abv": "6", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:10", 
+                    "description": "Over one hundred years ago, the building known as the Palace Livery provided a vital service making it a unique gathering place for residents of and travelers to Southwest Michigan. This former horse stable has been brought back to life as The Livery. Located at 190 5th street, in the Arts District of downtown Benton Harbor, Michigan, the Livery features 12 taps of \"Hand-Forged Microbrew\", 2 Real Ale taps, an outdoor bier garden, free WIFI, and a Caf\u00e9 serving great food. Music and other live entertainment are regularly featured in The Upper Livery entertainment venue. You must be age 21 or older to enter The Livery. People under age 21 must be accompanied by parent or legal guardian.", 
+                    "established": "2005", 
+                    "id": "XdP8EM", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/XdP8EM/upload_ZGzaQt-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/XdP8EM/upload_ZGzaQt-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/XdP8EM/upload_ZGzaQt-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:10", 
+                            "hoursOfOperation": "Mon - Thu: 4:00 pm - 12:00 am\r\nFri: 11:30 am - 1:00 am\r\nSat: 12:00 pm - 1:00 am\r\nSun: 12:00 pm - 12:00 am", 
+                            "id": "OIROBN", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.1184758, 
+                            "locality": "Benton Harbor", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -86.4536849, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "269-925-8760", 
+                            "postalCode": "49022", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "190 5th Street", 
+                            "updateDate": "2013-08-14 11:21:08", 
+                            "website": "http://www.liverybrew.com/"
+                        }
+                    ], 
+                    "name": "The Livery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-12-17 22:18:22", 
+                    "website": "http://www.liverybrew.com/"
+                }
+            ], 
+            "createDate": "2012-02-14 12:58:10", 
+            "description": "Made with a blend of Michigan apples from our friend Scott Husteds' orchard, and English cider yeast, the recipe changes every year depending on what apples stand out. Slightly tart with a fresh apple finish. Also available in an oak barrel aged version.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "nnXZFB", 
+            "isOrganic": "N", 
+            "name": "Hard Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2012-03-22 13:05:49"
+        }, 
+        {
+            "abv": "6.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "We work daily toward the apex of artisanal flatbread and hand-crafted beer.", 
+                    "established": "1985", 
+                    "id": "VEY3Xa", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/VEY3Xa/upload_7fWmOm-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/VEY3Xa/upload_7fWmOm-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/VEY3Xa/upload_7fWmOm-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "id": "dMbTUT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.476553, 
+                            "locality": "Burlington", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -73.214154, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "802-861-2999", 
+                            "postalCode": "05401", 
+                            "region": "Vermont", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "115 St. Paul St.", 
+                            "updateDate": "2012-03-21 20:05:28", 
+                            "website": "http://www.americanflatbread.com/restaurants/burlington-vt/", 
+                            "yearOpened": "1985"
+                        }
+                    ], 
+                    "name": "Zero Gravity Craft Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-10 23:40:33", 
+                    "website": "http://www.americanflatbread.com/restaurants/burlington-vt/"
+                }
+            ], 
+            "createDate": "2012-10-10 23:41:29", 
+            "description": "Peated IPA", 
+            "id": "4NgQyT", 
+            "isOrganic": "N", 
+            "name": "Hop-Scotch", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2012-10-10 23:41:30"
+        }, 
+        {
+            "abv": "3.6", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "Brewery and gastropub in San Francisco's Haight Ashbury District with a production brewery and BBQ restaurant on the way this fall in the Dogpatch neighborhood.", 
+                    "established": "1997", 
+                    "id": "ScZdj3", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ScZdj3/upload_eUt0Jz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ScZdj3/upload_eUt0Jz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ScZdj3/upload_eUt0Jz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "hoursOfOperation": "Mon - Thu: 11:00 am - 12:00 am\r\nFri: 11:00 am - 1:00 am\r\nSat: 10:00 am - 1:00 am\r\nSun: 10:00 am - 11:00 pm", 
+                            "id": "o8mhnm", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.7702334, 
+                            "locality": "San Francisco", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -122.4453252, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(415) 864-7468", 
+                            "postalCode": "94117", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1398 Haight Street", 
+                            "updateDate": "2013-08-06 22:18:16", 
+                            "website": "http://www.magnoliapub.com/", 
+                            "yearOpened": "1997"
+                        }
+                    ], 
+                    "mailingListUrl": "http://magnoliapub.com/brewsletter.html", 
+                    "name": "Magnolia Gastropub and Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-04 12:43:54", 
+                    "website": "http://www.magnoliapub.com/"
+                }
+            ], 
+            "createDate": "2013-05-09 19:12:30", 
+            "id": "EsRX4F", 
+            "isOrganic": "N", 
+            "name": "New Speedway Bitter", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-05-09 19:12:31"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:07", 
+                    "description": "The Old Brewery at Tadcaster was established in 1758. It is Yorkshire\u2019s oldest brewery. Traditional methods of brewing have been retained at The Old Brewery. The brewery still has its own cooper making and repairing all its oak casks. All Samuel Smith\u2019s naturally conditioned draught beer is served from the wood. The original well at The Old Brewery, sunk in 1758, is still in use, with the brewing water being drawn from 85 feet underground.\r\n\r\nSamuel Smith\u2019s ales and stouts (except draught Sovereign and Extra Stout) are fermented in \u2018stone Yorkshire squares\u2019~ fermenting vessels made of solid slabs of slate ~ which give the beers a fuller bodied taste. \r\n\r\nThe yeast used to ferment Samuel Smith\u2019s ales has been of the same strain since the nineteenth century.  Samuel Smith\u2019s grey Shire horses are stabled behind the Angel & White Horse, the pub next to the brewery.", 
+                    "established": "1758", 
+                    "id": "DbGzFb", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/DbGzFb/upload_ugRsbR-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/DbGzFb/upload_ugRsbR-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/DbGzFb/upload_ugRsbR-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-01-03 02:42:07", 
+                            "id": "9EHIsH", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 53.883845, 
+                            "locality": "Tadcaster", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -1.261709, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "44-(01937)-839201", 
+                            "region": "North Yorkshire", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "High Street", 
+                            "updateDate": "2012-03-21 19:08:16", 
+                            "website": "http://www.samuelsmithsbrewery.co.uk/"
+                        }
+                    ], 
+                    "name": "Samuel Smith Old Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-23 15:30:49", 
+                    "website": "http://www.samuelsmithsbrewery.co.uk/"
+                }
+            ], 
+            "createDate": "2013-09-25 13:13:36", 
+            "description": "Bright straw-gold with excellent clarity, Samuel Smith's Organic Cider has a light body with brilliant conditioning, a crisp clean flavor, and a dry finish. The bouquet is fresh apples, with a soft floral note.", 
+            "foodPairings": "Cream soups, rich dishes, or salad with vinaigrette dressing. Wonderful to clear the palate when served with concentrated or spicy foods; a classic companion to pork dishes.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 8, 
+                "name": "Tulip"
+            }, 
+            "glasswareId": 8, 
+            "id": "AMNlRH", 
+            "isOrganic": "Y", 
+            "name": "Organic Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-09-26 11:47:36"
+        }, 
+        {
+            "abv": "11.5", 
+            "breweries": [
+                {
+                    "createDate": "2013-05-09 21:09:01", 
+                    "description": "Microbrasserie Pit Caribou is on a mission, since its inception 23 June 2007, to provide quality beers Gasp\u00e9 leveraging its local resources. Having started small, the team now has a dozen employees and distributes its products in more than a thousand kilometers in the province.\r\n\r\nOur beers brewed in Anse-\u00e0-Beaufils, a fishing harbor in the town of Perce, proudly bear names that refer to the Gasp\u00e9: The Blonde Anse, the Bonne Aventure Red, White 475 and Pratto Gasp\u00e9 no.13. They are distributed to restaurants and even bartenders land of Gasp\u00e9sie. You can also find their products in bottle 500 ml, 660ml or 1.9L our brewery shop and several grocery and convenience stores in Quebec.\r\n\r\nThe microbrewery is distinguished with several awards. The no.13 Gaspe won the silver medal in the Canadian competition \"Canadian Brewing Awards\" in the category in 2011 and bring the Pratto 475 Blanche was considered the second best white Quebec according to the magazine Protect yourself.  \r\n\r\nWith the Star Series brewer, a dozen other products have been marketed since 2012, positioning the company among specialty beers. \"American Brown Ale\" won the bronze medal in the \"New York international beer competition\" in 2013.\r\n\r\nWith the expansion of facilities and purchase of the building, the company has the wind in the sails!", 
+                    "id": "heaKUG", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/heaKUG/upload_oAmF6m-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/heaKUG/upload_oAmF6m-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/heaKUG/upload_oAmF6m-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2013-05-10 19:01:52", 
+                            "id": "C3N3oZ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "region": "Quebec", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "27, rue de l\u2019Anse L\u2019Anse-\u00e0-Beaufils", 
+                            "updateDate": "2013-05-10 19:01:52", 
+                            "website": "http://www.pitcaribou.com/"
+                        }
+                    ], 
+                    "name": "Microbrasserie Pit Caribou", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-10 19:02:07", 
+                    "website": "http://www.pitcaribou.com/"
+                }
+            ], 
+            "createDate": "2013-05-10 19:03:43", 
+            "id": "GouWxc", 
+            "isOrganic": "N", 
+            "name": "Oxymor Double", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-05-10 19:03:44"
+        }, 
+        {
+            "abv": "7", 
+            "breweries": [
+                {
+                    "createDate": "2013-05-09 21:09:01", 
+                    "description": "Microbrasserie Pit Caribou is on a mission, since its inception 23 June 2007, to provide quality beers Gasp\u00e9 leveraging its local resources. Having started small, the team now has a dozen employees and distributes its products in more than a thousand kilometers in the province.\r\n\r\nOur beers brewed in Anse-\u00e0-Beaufils, a fishing harbor in the town of Perce, proudly bear names that refer to the Gasp\u00e9: The Blonde Anse, the Bonne Aventure Red, White 475 and Pratto Gasp\u00e9 no.13. They are distributed to restaurants and even bartenders land of Gasp\u00e9sie. You can also find their products in bottle 500 ml, 660ml or 1.9L our brewery shop and several grocery and convenience stores in Quebec.\r\n\r\nThe microbrewery is distinguished with several awards. The no.13 Gaspe won the silver medal in the Canadian competition \"Canadian Brewing Awards\" in the category in 2011 and bring the Pratto 475 Blanche was considered the second best white Quebec according to the magazine Protect yourself.  \r\n\r\nWith the Star Series brewer, a dozen other products have been marketed since 2012, positioning the company among specialty beers. \"American Brown Ale\" won the bronze medal in the \"New York international beer competition\" in 2013.\r\n\r\nWith the expansion of facilities and purchase of the building, the company has the wind in the sails!", 
+                    "id": "heaKUG", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/heaKUG/upload_oAmF6m-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/heaKUG/upload_oAmF6m-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/heaKUG/upload_oAmF6m-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2013-05-10 19:01:52", 
+                            "id": "C3N3oZ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "region": "Quebec", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "27, rue de l\u2019Anse L\u2019Anse-\u00e0-Beaufils", 
+                            "updateDate": "2013-05-10 19:01:52", 
+                            "website": "http://www.pitcaribou.com/"
+                        }
+                    ], 
+                    "name": "Microbrasserie Pit Caribou", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-10 19:02:07", 
+                    "website": "http://www.pitcaribou.com/"
+                }
+            ], 
+            "createDate": "2013-05-10 19:03:44", 
+            "id": "t8dL73", 
+            "isOrganic": "N", 
+            "name": "Oxymor IPA", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-05-10 19:03:45"
+        }, 
+        {
+            "abv": "5.2", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-12-21 20:09:52", 
+                    "description": "Based in Shepton Mallet in the heart of Somerset, our cider mill has been pressing cider of exceptional quality for over one hundred years.\r\n\r\nAddlestones was first produced by our team of master cider makers in 1986, and is so popular amongst our loyal consumers; it is now the UK\u2019s leading specialist draught cider.", 
+                    "id": "xzhzlZ", 
+                    "isOrganic": "N", 
+                    "name": "Addlestones", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-21 20:09:56", 
+                    "website": "http://www.addlestones.co.uk"
+                }
+            ], 
+            "createDate": "2012-12-21 20:10:15", 
+            "description": "A bright, golden, naturally cloudy cider with rich, bittersweet apple fruit flavours and a smooth, rounded finish. Addlestones is made using a unique recipe of locally sourced genuine bittersweet cider apples from Somerset and a double fermentation process which creates the Addlestones full-bodied taste.\r\n\r\nThe unique Addlestones cloudiness is caused by the fact that Addlestones is fermented twice, and not filtered at any stage of the process - resulting in the presence of 'live' yeast and natural apple residue in the liquid. Addlestones is a genuine 'live' cider, constantly evolving, developing and shifting.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "7fAGiA", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/7fAGiA/upload_tJuZYo-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/7fAGiA/upload_tJuZYo-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/7fAGiA/upload_tJuZYo-medium.png"
+            }, 
+            "name": "Premium Cloudy Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2012-12-21 20:10:47"
+        }, 
+        {
+            "abv": "5.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:07", 
+                    "description": "The Old Brewery at Tadcaster was established in 1758. It is Yorkshire\u2019s oldest brewery. Traditional methods of brewing have been retained at The Old Brewery. The brewery still has its own cooper making and repairing all its oak casks. All Samuel Smith\u2019s naturally conditioned draught beer is served from the wood. The original well at The Old Brewery, sunk in 1758, is still in use, with the brewing water being drawn from 85 feet underground.\r\n\r\nSamuel Smith\u2019s ales and stouts (except draught Sovereign and Extra Stout) are fermented in \u2018stone Yorkshire squares\u2019~ fermenting vessels made of solid slabs of slate ~ which give the beers a fuller bodied taste. \r\n\r\nThe yeast used to ferment Samuel Smith\u2019s ales has been of the same strain since the nineteenth century.  Samuel Smith\u2019s grey Shire horses are stabled behind the Angel & White Horse, the pub next to the brewery.", 
+                    "established": "1758", 
+                    "id": "DbGzFb", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/DbGzFb/upload_ugRsbR-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/DbGzFb/upload_ugRsbR-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/DbGzFb/upload_ugRsbR-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-01-03 02:42:07", 
+                            "id": "9EHIsH", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 53.883845, 
+                            "locality": "Tadcaster", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -1.261709, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "44-(01937)-839201", 
+                            "region": "North Yorkshire", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "High Street", 
+                            "updateDate": "2012-03-21 19:08:16", 
+                            "website": "http://www.samuelsmithsbrewery.co.uk/"
+                        }
+                    ], 
+                    "name": "Samuel Smith Old Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-23 15:30:49", 
+                    "website": "http://www.samuelsmithsbrewery.co.uk/"
+                }
+            ], 
+            "createDate": "2012-08-25 13:24:06", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "9c73MF", 
+            "isOrganic": "N", 
+            "name": "Reserve Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2012-08-25 14:54:40"
+        }, 
+        {
+            "abv": "4.6", 
+            "breweries": [
+                {
+                    "createDate": "2013-05-07 23:18:09", 
+                    "id": "ZvZlkQ", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Denmark", 
+                                "isoCode": "DK", 
+                                "isoThree": "DNK", 
+                                "name": "DENMARK", 
+                                "numberCode": 208
+                            }, 
+                            "countryIsoCode": "DK", 
+                            "createDate": "2013-05-10 18:32:10", 
+                            "id": "imTpCp", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 55.253957, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 12.12131, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(45) 56 77 15 00", 
+                            "postalCode": "4640", 
+                            "region": "Faxe", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Faxe All\u00e9 1", 
+                            "updateDate": "2013-05-10 18:32:10", 
+                            "website": "http://www.royalunibrew.com/"
+                        }
+                    ], 
+                    "name": "Royal Unibrew A/S", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-10 18:32:39", 
+                    "website": "http://www.royalunibrew.com/"
+                }
+            ], 
+            "createDate": "2013-05-10 18:33:33", 
+            "id": "6xVSF7", 
+            "isOrganic": "N", 
+            "name": "Royal English Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-05-10 18:33:34"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-11-20 23:47:12", 
+                    "description": "We are the first, and only, licensed and bonded cidery in the Piedmont of the Carolinas.  We produce various types of Award Winning Hand-Crafted Hard Ciders with a commitment to sustainable agricultural practices.\r\n \r\nAs an extension of Windy Hill Orchard and Cidery, we are family owned and operated and located in York, SC.\r\n \r\nPlease be sure to visit our facebook page and our orchard website for details about upcoming events, product news, and hours and directions.", 
+                    "established": "2011", 
+                    "id": "eGtqKZ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/eGtqKZ/upload_JaIVoQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/eGtqKZ/upload_JaIVoQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/eGtqKZ/upload_JaIVoQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-11-23 14:38:56", 
+                            "hoursOfOperation": "Tuesday through Saturday: 9:00 a.m. till 5:00 p.m.\r\nSelect Sundays*: Noon till 5:00 p.m.", 
+                            "id": "bRKIdZ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.024739, 
+                            "locality": "York", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -81.280858, 
+                            "name": "Main Cidery", 
+                            "openToPublic": "Y", 
+                            "phone": "(803) 684-0690", 
+                            "postalCode": "29745", 
+                            "region": "South Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1860 Black Highway", 
+                            "updateDate": "2012-11-23 14:38:56", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Windy Hill Orchard & Cidery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-11-23 14:42:46", 
+                    "website": "http://windyhillorchard.com/yorkcider/"
+                }
+            ], 
+            "createDate": "2012-11-23 14:42:01", 
+            "description": "\u201cRusty Gold\u201d is a spiced cider that we infuse with a blend of spices that we have been making our Wassail with for the last 15 years. This blend of spices includes Cinnamon, Nutmeg, Orange Peel, Cloves, and Star Anise. Released in November of 2011, and extremely popular during the holidays, we think you will enjoy this cider year round.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "KvvRNX", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/KvvRNX/upload_3es5zY-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/KvvRNX/upload_3es5zY-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/KvvRNX/upload_3es5zY-medium.png"
+            }, 
+            "name": "Rusty Gold", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-12-31 18:31:33"
+        }, 
+        {
+            "abv": "3.9", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "Brewery and gastropub in San Francisco's Haight Ashbury District with a production brewery and BBQ restaurant on the way this fall in the Dogpatch neighborhood.", 
+                    "established": "1997", 
+                    "id": "ScZdj3", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ScZdj3/upload_eUt0Jz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ScZdj3/upload_eUt0Jz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ScZdj3/upload_eUt0Jz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "hoursOfOperation": "Mon - Thu: 11:00 am - 12:00 am\r\nFri: 11:00 am - 1:00 am\r\nSat: 10:00 am - 1:00 am\r\nSun: 10:00 am - 11:00 pm", 
+                            "id": "o8mhnm", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.7702334, 
+                            "locality": "San Francisco", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -122.4453252, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(415) 864-7468", 
+                            "postalCode": "94117", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1398 Haight Street", 
+                            "updateDate": "2013-08-06 22:18:16", 
+                            "website": "http://www.magnoliapub.com/", 
+                            "yearOpened": "1997"
+                        }
+                    ], 
+                    "mailingListUrl": "http://magnoliapub.com/brewsletter.html", 
+                    "name": "Magnolia Gastropub and Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-04 12:43:54", 
+                    "website": "http://www.magnoliapub.com/"
+                }
+            ], 
+            "createDate": "2013-05-09 19:12:35", 
+            "id": "i9Klfz", 
+            "isOrganic": "N", 
+            "name": "Sarah's Ruby Mild", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-05-09 19:12:36"
+        }, 
+        {
+            "abv": "10", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:06", 
+                    "description": "Ranger Creek is a combined brewery/distillery proudly located in San Antonio, TX. We make beer and whiskey in our \u201cbrewstillery\u201d, and we make it by hand one batch at a time with lots of love and attention. As a combined operation, we use much of the same equipment to make both our beer and our whiskey, and we can do this because there are a lot of similarities between the two processes. It\u2019s actually a really cool process to see, and we invite you to come take a tour and learn about it for yourself.", 
+                    "established": "2010", 
+                    "id": "cZha6q", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/cZha6q/upload_RgcC9A-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/cZha6q/upload_RgcC9A-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/cZha6q/upload_RgcC9A-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:06", 
+                            "id": "rKXfsB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 29.5295495, 
+                            "locality": "San Antonio", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -98.3969518, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "210-775-2099", 
+                            "postalCode": "78217", 
+                            "region": "Texas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4834 Whirlwind Dr.", 
+                            "updateDate": "2012-06-26 18:09:01", 
+                            "website": "http://www.drinkrangercreek.com/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Ranger Creek Brewing & Distilling", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-21 21:14:11", 
+                    "website": "http://www.drinkrangercreek.com/"
+                }
+            ], 
+            "createDate": "2013-01-17 12:15:43", 
+            "description": "Small Batch Series No. 3 is an English-style barleywine that undergoes a 3 hour boil to create a complex layer of malt character including caramel, toffee, ripe fruit, and leather. The floral and earth-toned Kent Goldings hops add a soft background of spice giving depth to the malt flavors and providing an overall balance. It has been aged for 6 months in oak barrels to allow time for this big beer to mature and mellow. At 10% ABV, it\u2019s made to be laid down like a fine wine. If stored properly this barleywine should keep well for upwards of 10 years. Drink one now, save more for later!", 
+            "id": "AjWlK6", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/AjWlK6/upload_qtM9BU-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/AjWlK6/upload_qtM9BU-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/AjWlK6/upload_qtM9BU-medium.png"
+            }, 
+            "name": "Small Batch Series No. 3", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-08-13 14:55:07"
+        }, 
+        {
+            "abv": "5.8", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "Brewery and gastropub in San Francisco's Haight Ashbury District with a production brewery and BBQ restaurant on the way this fall in the Dogpatch neighborhood.", 
+                    "established": "1997", 
+                    "id": "ScZdj3", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ScZdj3/upload_eUt0Jz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ScZdj3/upload_eUt0Jz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ScZdj3/upload_eUt0Jz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "hoursOfOperation": "Mon - Thu: 11:00 am - 12:00 am\r\nFri: 11:00 am - 1:00 am\r\nSat: 10:00 am - 1:00 am\r\nSun: 10:00 am - 11:00 pm", 
+                            "id": "o8mhnm", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.7702334, 
+                            "locality": "San Francisco", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -122.4453252, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(415) 864-7468", 
+                            "postalCode": "94117", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1398 Haight Street", 
+                            "updateDate": "2013-08-06 22:18:16", 
+                            "website": "http://www.magnoliapub.com/", 
+                            "yearOpened": "1997"
+                        }
+                    ], 
+                    "mailingListUrl": "http://magnoliapub.com/brewsletter.html", 
+                    "name": "Magnolia Gastropub and Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-04 12:43:54", 
+                    "website": "http://www.magnoliapub.com/"
+                }
+            ], 
+            "createDate": "2013-05-09 19:12:37", 
+            "description": "5.8% abv, 70 ibu", 
+            "id": "wmmNyr", 
+            "isOrganic": "N", 
+            "name": "Spud Boys IPA", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-05-09 19:12:38"
+        }, 
+        {
+            "abv": "5.3", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:49", 
+                    "description": "H.P. Bulmer, otherwise known as Bulmers Cider, was founded in 1887 in Hereford, England by Percy Bulmer, the 20 year old son of the local rector at Credenhill, taking his mother's advice to make a career in food or drink, \"because neither ever go out of fashion\". Bulmers cider can be found worldwide and Strongbow is sold across Europe, Scandinavia, USA, Australasia and the Far East. The company is owned by Heineken.", 
+                    "established": "1887", 
+                    "id": "lnGqhM", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-01-03 02:41:49", 
+                            "id": "OXi7r1", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 52.059034, 
+                            "locality": "Hereford", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -2.728501, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "01432 352000", 
+                            "postalCode": "HR4 0LE", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Plough Lane", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.bulmers.com/", 
+                            "yearOpened": "1887"
+                        }
+                    ], 
+                    "name": "Bulmers Cider", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-04-12 00:41:42", 
+                    "website": "http://www.bulmers.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:19", 
+            "description": "Strongbow is a brand of cider manufactured in England by Bulmers. It is the UK's most popular cider, accounting for more than half of the draught cider sold in British pubs. Strongbow is also unique in that it is produced with a Royal Warrant.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 3, 
+                "name": "Mug"
+            }, 
+            "glasswareId": 3, 
+            "id": "TiJjtj", 
+            "isOrganic": "N", 
+            "name": "Strongbow Cider", 
+            "srm": {
+                "hex": "F39C00", 
+                "id": 7, 
+                "name": "7"
+            }, 
+            "srmId": 7, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2012-08-25 03:33:42"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2013-05-09 21:27:33", 
+                    "id": "wI1wn8", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/wI1wn8/upload_esf45H-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/wI1wn8/upload_esf45H-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/wI1wn8/upload_esf45H-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2013-05-10 19:05:47", 
+                            "id": "Qgog7R", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 48.1037349, 
+                            "locality": "Carleton-sur-mer", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -66.1256491, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(418) 364-5440", 
+                            "postalCode": "G0C 1J0", 
+                            "region": "Qu\u00e9bec", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "586, boul. Perron", 
+                            "updateDate": "2013-07-08 10:44:17", 
+                            "website": "http://www.lenaufrageur.com/", 
+                            "yearOpened": "2008"
+                        }
+                    ], 
+                    "name": "Microbrasserie Le Naufrageur", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-10 19:06:06", 
+                    "website": "http://www.lenaufrageur.com/"
+                }
+            ], 
+            "createDate": "2013-05-10 19:07:01", 
+            "description": "Black Two Penny beer", 
+            "id": "XakfF9", 
+            "isOrganic": "N", 
+            "name": "U-165", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-05-10 19:07:03"
+        }, 
+        {
+            "abv": "6.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:56", 
+                    "description": "When the first Goose Island Brewpub opened its doors in 1988, domestic, mass-produced beer was deeply ingrained in Midwestern culture. The craft beer industry was still in its infancy, with only a handful of brewpubs in existence in the Midwest. In his travels across Europe, beer-lover John Hall had enjoyed a distinctive local brew in each region he visited. Hall was convinced that Midwesterners could produce beers as good or better than those he\u2019d tasted in his travels. Living on the shore of the largest system of fresh water on the planet Earth, in a city with rapidly evolving tastes \u2013 John decided that his hometown, Chicago, would be the ideal place to do just that.\r\n\r\nThe key to building interest in craft beer, Hall decided, was to allow consumers to watch the brewing process \u2013 while providing them with the then-novel experience of enjoying a wide variety of distinctive beers that had been produced on-site. Hall wanted to not only cater to his customers\u2019 tastes, but to challenge them as well. Goose Island\u2019s brewers set to work crafting a diverse selection of unique beers \u2013 and on Friday, May 13, 1988 the Goose Island Brewpub was born.\r\n\r\nIt turned out that John was right; Chicagoans palates evolved rapidly once Goose Island\u2019s Brewpub opened its doors and introduced the city to distinctive craft beer. By 1995, the brewpub had become so popular that John Hall decided to open a larger brewery and bottling plant to keep up with demand. Finding still more room for growth, in 1999 Hall opened a second Goose Island Brewpub just a stone\u2019s throw away from historic Wrigley Field.\r\n\r\nToday, Goose Island continues to brew an innovative selection of over 50 craft beers at the brewpub, the best of which are then bottled at our Fulton Street brewery. Goose Island beers are now enjoyed in all 50 states and Europe.", 
+                    "established": "1995", 
+                    "id": "APW1BC", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/APW1BC/upload_ouqMGQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/APW1BC/upload_ouqMGQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/APW1BC/upload_ouqMGQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:56", 
+                            "id": "S2n5TB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.887107, 
+                            "locality": "Chicago", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -87.6720969, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-800-466-7363", 
+                            "postalCode": "60612", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1800 West Fulton Street", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.gooseisland.com/", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:15", 
+                            "id": "D2gG2C", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 41.9137478, 
+                            "locality": "Chicago", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -87.6543466, 
+                            "name": "Clybourn", 
+                            "openToPublic": "N", 
+                            "phone": "800-466-7363", 
+                            "postalCode": "60614", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1800 North Clybourn Avenue", 
+                            "updateDate": "2013-09-18 10:48:09", 
+                            "yearOpened": "1995"
+                        }
+                    ], 
+                    "name": "Goose Island Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 21:59:02", 
+                    "website": "http://www.gooseisland.com/"
+                }
+            ], 
+            "createDate": "2012-08-20 14:43:17", 
+            "description": "Lemon color, oaky apple aroma, mildly tart flavor, medium body.", 
+            "id": "sWwvWx", 
+            "isOrganic": "N", 
+            "name": "Virtue RedStreak", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2012-08-20 17:36:15"
+        }, 
+        {
+            "abv": "7", 
+            "breweries": [
+                {
+                    "createDate": "2013-05-08 08:41:02", 
+                    "description": "We've been brewing our beers in the fine city of Bristol since 2007. All of our beers are brewed with the intention of creating something we'll enjoy drinking ourselves and, more importantly, something we're proud to put our name to. In a world of endless possibilities, we try to explore as many of them as possible, which is why to date we've brewed in excess of two hundred different beers: some of them regulars, the odd few occasionals, and far too many one-offs to remember let alone try to name!\r\nYou should be able to find our beers on offer nationwide in the kind of pubs and bars that have the freedom and willingness to stock good beer. While most of it goes into cask, you'll also find it in keg or bottle if you look in the right places.", 
+                    "established": "2007", 
+                    "id": "3CT0MA", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/3CT0MA/upload_TQKReY-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/3CT0MA/upload_TQKReY-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/3CT0MA/upload_TQKReY-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-05-09 00:37:54", 
+                            "extendedAddress": "Croydon Street", 
+                            "id": "pguslr", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 51.4583567, 
+                            "locality": "Lawrence Hill", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -2.5694249, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "N", 
+                            "postalCode": "BS5 0EB", 
+                            "region": "Bristol", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Unit 4 Lawrence Hill Industrial Park", 
+                            "updateDate": "2013-05-09 00:37:54"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-05-09 00:40:12", 
+                            "extendedAddress": "Redfield", 
+                            "hoursOfOperation": "Mon-Thu 4pm-11pm;\r\nFri 4pm-12am;\r\nSat 12pm-12am;\r\nSun 12pm-10:30pm", 
+                            "id": "S0dgvI", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 51.4588054, 
+                            "locality": "Bristol", 
+                            "locationType": "tasting", 
+                            "locationTypeDisplay": "Tasting Room", 
+                            "longitude": -2.5578473, 
+                            "name": "The Old Stillage", 
+                            "openToPublic": "Y", 
+                            "phone": "0117 939 4079", 
+                            "postalCode": "BS5 9LA", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "147 Church Rd", 
+                            "updateDate": "2013-05-09 00:40:12"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-05-09 00:41:57", 
+                            "extendedAddress": "Hotwells", 
+                            "hoursOfOperation": "Mon-Thu 12pm-2.30pm & 4pm-11pm;\r\nFri-Sat 12pm-12am;\r\nSun 4pm-10:30pm", 
+                            "id": "4KMV4j", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 51.4511176, 
+                            "locality": "Bristol", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -2.6049702, 
+                            "name": "The Three Tuns", 
+                            "openToPublic": "Y", 
+                            "phone": "0117 907 0689", 
+                            "postalCode": "BS1 5UR", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "78 Saint George's Road", 
+                            "updateDate": "2013-05-09 00:41:57"
+                        }
+                    ], 
+                    "name": "Arbor Ales", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-09 00:46:29", 
+                    "website": "http://arborales.co.uk/"
+                }
+            ], 
+            "createDate": "2013-05-09 00:48:21", 
+            "id": "mIjKAq", 
+            "isOrganic": "N", 
+            "name": "Zaskar IPA", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "9", 
+                "abvMin": "6", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Generally dry, full-bodied, austere.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 150, 
+                "name": "English Cider", 
+                "ogMax": "1.075", 
+                "ogMin": "1.05"
+            }, 
+            "styleId": 150, 
+            "updateDate": "2013-05-09 00:48:22"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 27
+}

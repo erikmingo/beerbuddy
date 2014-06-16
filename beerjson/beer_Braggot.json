@@ -1,0 +1,1304 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "11", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "description": "Established in 1985, Sprecher is Milwaukee's Original Microbrewery. We brew over 20 different beers as well as 8 gourmet sodas, including our world famous Sprecher Root Beer.", 
+                    "established": "1985", 
+                    "id": "tgXJjJ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/tgXJjJ/upload_UxtSeV-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/tgXJjJ/upload_UxtSeV-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/tgXJjJ/upload_UxtSeV-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "hoursOfOperation": "Mon - Sun: 11:00 am - 6:00 pm", 
+                            "id": "pcrctk", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.100231, 
+                            "locality": "Glendale", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -87.919893, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "414-964-2739", 
+                            "postalCode": "53209", 
+                            "region": "Wisconsin", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "701 West Glendale Avenue", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.sprecherbrewery.com/", 
+                            "yearOpened": "1985"
+                        }
+                    ], 
+                    "name": "Sprecher Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-11 12:29:13", 
+                    "website": "http://www.sprecherbrewery.com/"
+                }
+            ], 
+            "createDate": "2013-11-25 14:04:57", 
+            "id": "bf8OMT", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/bf8OMT/upload_a94sni-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/bf8OMT/upload_a94sni-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/bf8OMT/upload_a94sni-medium.png"
+            }, 
+            "name": "Beyond", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A harmonious blend of mead and beer, with the distinctive characteristics of both. A wide range of results are possible, depending on the base style of beer, variety of honey and overall sweetness and strength. Beer flavors tend to somewhat mask typical honey flavors found in other meads.", 
+                "id": 147, 
+                "name": "Braggot"
+            }, 
+            "styleId": 147, 
+            "updateDate": "2013-11-26 10:01:20", 
+            "year": 2013
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Beer is not available.", 
+                "id": 3, 
+                "name": "Not Available"
+            }, 
+            "availableId": 3, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "The Saturnalian Saga of Magic Hat began in 1994 when our first batch of beer was brewed in a funky little space on Flynn Avenue, in Burlington, Vermont.  Dozens of beers and a brewery later, the Vermont brewery finds itself reaching more than 30 states with its unique take on classic styles.  Magic Hat continues to be a leader in craft beer and is currently the only craft brewer putting a performance in every bottle.", 
+                    "established": "1994", 
+                    "id": "qIqpZc", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/qIqpZc/upload_rtve34-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/qIqpZc/upload_rtve34-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/qIqpZc/upload_rtve34-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "id": "Bp3teL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.428405, 
+                            "locality": "South Burlington", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -73.213148, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-802-658-2739", 
+                            "postalCode": "5403", 
+                            "region": "Vermont", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5 Bartlett Bay Road", 
+                            "updateDate": "2013-08-12 16:50:30", 
+                            "website": "http://www.magichat.net/", 
+                            "yearOpened": "1994"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:47:25", 
+                            "id": "a4dr04", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 52.408494, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 12.562564, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "region": "Brandenburg", 
+                            "status": "deleted", 
+                            "statusDisplay": "Deleted", 
+                            "updateDate": "2012-08-13 12:40:53"
+                        }
+                    ], 
+                    "name": "Magic Hat Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 16:33:41", 
+                    "website": "http://www.magichat.net/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:42:53", 
+            "description": "Braggot is a most remarkable honey ale, made with specialty malts & wildflower honey from Vermont's Champlain Valley. The honey adds smoothness with subtle hints of chamomile. Braggot is an ale of shining perfection that simply must be experienced to be understood. But hurry ... for Braggot, as with each entry in our Humdinger series, vanishes almost as soon as it arrives. Get a bottle of Braggot today and come to know a new 'Ale of Legend'.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "20", 
+            "id": "sHhTXv", 
+            "isOrganic": "N", 
+            "name": "Braggot", 
+            "srm": {
+                "hex": "FBB123", 
+                "id": 5, 
+                "name": "5"
+            }, 
+            "srmId": 5, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A harmonious blend of mead and beer, with the distinctive characteristics of both. A wide range of results are possible, depending on the base style of beer, variety of honey and overall sweetness and strength. Beer flavors tend to somewhat mask typical honey flavors found in other meads.", 
+                "id": 147, 
+                "name": "Braggot"
+            }, 
+            "styleId": 147, 
+            "updateDate": "2013-08-14 18:38:43"
+        }, 
+        {
+            "abv": "10.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:44", 
+                    "description": "The Atlantic Brewing Company began brewing in 1991, on the eve of the microbrewing revolution. We have steadily grown over the years by having a strong commitment to tradition, quality and service. As a result, we have become the number one beer of the Bar Harbor region. Our new facility was built on the site of an old farm a few miles from downtown Bar Harbor. It was designed to create a more visitor-friendly environment similar to country wineries and breweries found throughout Europe. Our beers are now available in select areas throughout the eastern US.", 
+                    "established": "1991", 
+                    "id": "zUkUMx", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/zUkUMx/upload_BihHxP-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/zUkUMx/upload_BihHxP-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/zUkUMx/upload_BihHxP-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:44", 
+                            "hoursOfOperation": "Open 7 Days a Week\r\nFrom Memorial Day to Columbus Day\r\n\r\n\r\nuly/August Hours\r\n\r\nGift Shop: 10am-6pm\r\nFree tours and tastings at 2, 3 & 4pm", 
+                            "id": "dRcIs0", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.3995545, 
+                            "locality": "Bar Harbor", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -68.333992, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "207-288-BEER", 
+                            "postalCode": "4609", 
+                            "region": "Maine", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "15 Knox Rd.", 
+                            "updateDate": "2012-03-21 20:05:24", 
+                            "website": "http://www.atlanticbrewing.com", 
+                            "yearOpened": "1991"
+                        }
+                    ], 
+                    "name": "Atlantic Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-29 18:44:26", 
+                    "website": "http://www.atlanticbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-11-25 12:58:29", 
+            "id": "9i4AYa", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/9i4AYa/upload_Daui6L-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/9i4AYa/upload_Daui6L-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/9i4AYa/upload_Daui6L-medium.png"
+            }, 
+            "name": "Brother Adam's Bragget", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A harmonious blend of mead and beer, with the distinctive characteristics of both. A wide range of results are possible, depending on the base style of beer, variety of honey and overall sweetness and strength. Beer flavors tend to somewhat mask typical honey flavors found in other meads.", 
+                "id": 147, 
+                "name": "Braggot"
+            }, 
+            "styleId": 147, 
+            "updateDate": "2013-11-25 13:00:20"
+        }, 
+        {
+            "abv": "7.8", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:55", 
+                    "description": "Georgetown Brewing Company, a Seattle microbrewery and brewer of Manny's Pale Ale. We're a draft beer only production brewery, which means that all we do is make beer and fill kegs. Sorry, no brewpub, but we do have a retail shop where you can pick up kegs to go, growlers, and perhaps get a taste of our newest beer before it's released. Or you could be social and get out to your favorite local watering hole. If they don't have our beer on tap, let us know and we'll do our best to pester 'em into submission. Do we bottle? Not yet but we never say never. Right now we're focused on doing one thing right... draft beer. Cheers!", 
+                    "established": "2002", 
+                    "id": "IaQrxj", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/IaQrxj/upload_9ce63u-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/IaQrxj/upload_9ce63u-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/IaQrxj/upload_9ce63u-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:55", 
+                            "hoursOfOperation": "Monday to Friday 10am to 6pm\r\nSaturday 10am to 4pm", 
+                            "id": "IBO0kg", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.555477, 
+                            "locality": "Seattle", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.326707, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "206-766-8055", 
+                            "postalCode": "98108", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5200 Denver Ave. S", 
+                            "updateDate": "2012-09-08 11:41:07", 
+                            "website": "http://www.georgetownbeer.com/", 
+                            "yearOpened": "2002"
+                        }
+                    ], 
+                    "mailingListUrl": "http://www.georgetownbeer.com/external/constant/index.php", 
+                    "name": "Georgetown Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-09-05 12:12:11", 
+                    "website": "http://www.georgetownbeer.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:16", 
+            "description": "Our version of this less-than-famous style of mead is technically a bottle-conditioned ale using local blackberry honey. We add Northern Brewer hops and ferment it with a Belgian yeast strain. The malt bill includes Munich, Pilsner and Special B malts.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "4civ74", 
+            "ingredients": {
+                "hops": [
+                    {
+                        "alphaAcidMin": 8, 
+                        "betaAcidMax": 5, 
+                        "betaAcidMin": 3, 
+                        "caryophylleneMax": 8.5, 
+                        "caryophylleneMin": 5.5, 
+                        "category": "hop", 
+                        "categoryDisplay": "Hops", 
+                        "cohumuloneMax": 30, 
+                        "cohumuloneMin": 20, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "United States", 
+                            "isoCode": "US", 
+                            "isoThree": "USA", 
+                            "name": "UNITED STATES", 
+                            "numberCode": 840
+                        }, 
+                        "countryOfOrigin": "US", 
+                        "createDate": "2013-06-24 16:07:33", 
+                        "description": "Originally developed in England (see Northern Brewer (British)), this hop quickly became established both in the Hallertau in Germany (see Hallertauer Northern Brewer) and, later, in the United States . It is no longer grown in the U.K. in significant amounts. In addition to being a good all-around bittering hop for German-style beers, it is the only hop used in Anchor's Steam Beer, and is often used in other beers of the same style. However, the American-grown versions are often considered inferior to the German for use as an aroma hop.", 
+                        "farneseneMax": 0.1, 
+                        "humuleneMax": 30, 
+                        "humuleneMin": 20, 
+                        "id": 89, 
+                        "myrceneMax": 60, 
+                        "myrceneMin": 50, 
+                        "name": "Northern Brewer (American)", 
+                        "updateDate": "2013-06-24 16:10:37"
+                    }
+                ], 
+                "malt": [
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "characteristics": [
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a malty flavor upon the beer.", 
+                                "id": 10, 
+                                "name": "Malty"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a sweet flavor upon the beer.", 
+                                "id": 14, 
+                                "name": "Sweet"
+                            }
+                        ], 
+                        "coarseFineDifference": 1.3, 
+                        "country": {
+                            "createDate": "2012-01-03 02:41:33", 
+                            "displayName": "Germany", 
+                            "isoCode": "DE", 
+                            "isoThree": "DEU", 
+                            "name": "GERMANY", 
+                            "numberCode": 276
+                        }, 
+                        "countryOfOrigin": "DE", 
+                        "createDate": "2013-06-24 16:07:52", 
+                        "description": "Munich Malt has a malty sweet flavor characteristic and adds a reddish amber color to the beer. It has enough diastatic power to convert itself, but needs help from another malt, such as 2-row malt, to convert other grains.", 
+                        "diastaticPower": 72, 
+                        "dryYield": 80, 
+                        "id": 650, 
+                        "maxInBatch": 80, 
+                        "moistureContent": 5, 
+                        "name": "Munich Malt", 
+                        "potential": 1.037, 
+                        "protein": 11.5, 
+                        "requiresMashing": "Y", 
+                        "srm": {
+                            "hex": "E58500", 
+                            "id": 9, 
+                            "name": "9"
+                        }, 
+                        "srmId": 9, 
+                        "srmPrecise": 9, 
+                        "updateDate": "2013-06-24 16:10:14"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "createDate": "2013-06-24 16:07:53", 
+                        "id": 724, 
+                        "name": "Pilsner Malt"
+                    }, 
+                    {
+                        "category": "malt", 
+                        "categoryDisplay": "Malts, Grains, & Fermentables", 
+                        "characteristics": [
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts an aromatic quality upon the beer.", 
+                                "id": 1, 
+                                "name": "Aromatic"
+                            }, 
+                            {
+                                "createDate": "2013-06-24 16:07:26", 
+                                "description": "Imparts a caramel quality upon the beer.", 
+                                "id": 5, 
+                                "name": "Caramel"
+                            }
+                        ], 
+                        "createDate": "2013-06-24 16:07:55", 
+                        "description": "Special B refers to a type of dark, flavorful crystal malt traditionally malted in Belgium. In small amounts, it gives a unique flavor to the finished beer that is often compared to raisins or dried fruit.", 
+                        "dryYield": 64.9, 
+                        "id": 790, 
+                        "maxInBatch": 10, 
+                        "name": "Special B Malt", 
+                        "potential": 1.03, 
+                        "requiresMashing": "N", 
+                        "srm": {
+                            "hex": "000000", 
+                            "id": 41, 
+                            "name": "Over 40"
+                        }, 
+                        "srmId": 41, 
+                        "srmPrecise": 180, 
+                        "updateDate": "2013-06-24 16:10:14"
+                    }
+                ], 
+                "yeast": [
+                    {
+                        "category": "yeast", 
+                        "categoryDisplay": "Yeast", 
+                        "createDate": "2013-06-24 16:08:59", 
+                        "id": 1551, 
+                        "name": "Belgian Ale"
+                    }
+                ]
+            }, 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/4civ74/upload_Y4i7gO-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/4civ74/upload_Y4i7gO-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/4civ74/upload_Y4i7gO-medium.png"
+            }, 
+            "name": "Georgetown Braggot", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A harmonious blend of mead and beer, with the distinctive characteristics of both. A wide range of results are possible, depending on the base style of beer, variety of honey and overall sweetness and strength. Beer flavors tend to somewhat mask typical honey flavors found in other meads.", 
+                "id": 147, 
+                "name": "Braggot"
+            }, 
+            "styleId": 147, 
+            "updateDate": "2012-09-08 11:56:15"
+        }, 
+        {
+            "abv": "7.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:47", 
+                    "description": "Today, we're a team of about 750 people, and we all share a common passion for bringing great Samuel Adams beers to beer lovers everywhere. We've worked hard and are incredibly proud of the many successes we've enjoyed over the years. The Boston Beer Company has been cited as one of the best companies to work for by Boston Magazine, one of the Best Entry-Level Jobs by The Princeton Review, and our beers have won more awards than any other in history. Jim has been named an \"Entrepreneur of the Year\" by Inc. Magazine. Our brewers keep amazing us with innovative new brews, including Samuel Adams Utopias and our Samuel Adams Barrel Room Collection.\r\n\r\nJim has believed from the beginning that the more you know and understand about beer, the more you'll appreciate a beer like Samuel Adams Boston Lager. To begin that mission, all new employees go through intensive training on everything from ingredients, brewing, and beer styles, to taking care of the beer once it leaves the brewery. We're all beer lovers and protectors of the beer so we're trained how to identify off flavors and how to troubleshoot the causes. The passion for beer continues with an annual homebrew competition that we all take part in.\r\n\r\nOne of our wholesalers once asked Jim why he invested so much in training his people, when ultimately they might leave. Jim smiled and replied without hesitation: \"What if I didn't train them, and they stayed?\"\r\n\r\nEach year, usually in January, everyone gathers together. One of the highlights of the meeting is the beer trivia contest. With a culture so steeped in beer education and knowledge, winning is a pretty big deal. Recently, one of the hotel bartenders who was watching as the various teams arrived in costume with music and much enthusiasm and fanfare, said, \"I've always known Samuel Adams made the best beer in America, but now I see this is the greatest company in America.\" When you look around you see that The Boston Beer Company is a team of enthusiastic people who are passionate about beer and who really love coming to work every day to provide American drinkers with the best beer possible.\r\n\r\nThe Boston Beer Company, Inc. is a publicly-traded company listed on the New York Stock Exchange under the symbol, SAM.", 
+                    "established": "1984", 
+                    "id": "1wSztN", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/1wSztN/upload_2Eei4D-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/1wSztN/upload_2Eei4D-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/1wSztN/upload_2Eei4D-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:47", 
+                            "id": "DF5YsC", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.314449, 
+                            "locality": "Boston", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -71.103365, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-800-372-1131", 
+                            "postalCode": "2130", 
+                            "region": "Massachusetts", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "30 Germania Street", 
+                            "updateDate": "2013-02-26 01:29:22", 
+                            "website": "http://www.samueladams.com/", 
+                            "yearOpened": "1984"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-08-12 13:10:57", 
+                            "id": "MLUbXI", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 39.1144986, 
+                            "locality": "Cincinnati", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -84.5222061, 
+                            "name": "Cincinnati", 
+                            "openToPublic": "N", 
+                            "phone": "513-412-3200", 
+                            "postalCode": "45214", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1625 Central Parkway", 
+                            "updateDate": "2013-08-12 13:19:31", 
+                            "website": "http://www.samueladams.com/"
+                        }
+                    ], 
+                    "name": "Boston Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 12:45:10", 
+                    "website": "http://www.samueladams.com/"
+                }
+            ], 
+            "createDate": "2013-03-08 13:20:59", 
+            "id": "57F6lk", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/57F6lk/upload_xsoe2q-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/57F6lk/upload_xsoe2q-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/57F6lk/upload_xsoe2q-medium.png"
+            }, 
+            "name": "Honey Queen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A harmonious blend of mead and beer, with the distinctive characteristics of both. A wide range of results are possible, depending on the base style of beer, variety of honey and overall sweetness and strength. Beer flavors tend to somewhat mask typical honey flavors found in other meads.", 
+                "id": 147, 
+                "name": "Braggot"
+            }, 
+            "styleId": 147, 
+            "updateDate": "2013-03-08 13:21:00"
+        }, 
+        {
+            "abv": "7.5", 
+            "available": {
+                "description": "Beer is not available.", 
+                "id": 3, 
+                "name": "Not Available"
+            }, 
+            "availableId": 3, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "The Saturnalian Saga of Magic Hat began in 1994 when our first batch of beer was brewed in a funky little space on Flynn Avenue, in Burlington, Vermont.  Dozens of beers and a brewery later, the Vermont brewery finds itself reaching more than 30 states with its unique take on classic styles.  Magic Hat continues to be a leader in craft beer and is currently the only craft brewer putting a performance in every bottle.", 
+                    "established": "1994", 
+                    "id": "qIqpZc", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/qIqpZc/upload_rtve34-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/qIqpZc/upload_rtve34-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/qIqpZc/upload_rtve34-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "id": "Bp3teL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.428405, 
+                            "locality": "South Burlington", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -73.213148, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-802-658-2739", 
+                            "postalCode": "5403", 
+                            "region": "Vermont", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5 Bartlett Bay Road", 
+                            "updateDate": "2013-08-12 16:50:30", 
+                            "website": "http://www.magichat.net/", 
+                            "yearOpened": "1994"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:47:25", 
+                            "id": "a4dr04", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 52.408494, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 12.562564, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "region": "Brandenburg", 
+                            "status": "deleted", 
+                            "statusDisplay": "Deleted", 
+                            "updateDate": "2012-08-13 12:40:53"
+                        }
+                    ], 
+                    "name": "Magic Hat Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 16:33:41", 
+                    "website": "http://www.magichat.net/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:49", 
+            "id": "vjv0KR", 
+            "isOrganic": "N", 
+            "name": "Odd Notion Winter 07", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A harmonious blend of mead and beer, with the distinctive characteristics of both. A wide range of results are possible, depending on the base style of beer, variety of honey and overall sweetness and strength. Beer flavors tend to somewhat mask typical honey flavors found in other meads.", 
+                "id": 147, 
+                "name": "Braggot"
+            }, 
+            "styleId": 147, 
+            "updateDate": "2013-08-14 18:34:20"
+        }, 
+        {
+            "abv": "7.5", 
+            "available": {
+                "description": "Beer is not available.", 
+                "id": 3, 
+                "name": "Not Available"
+            }, 
+            "availableId": 3, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "The Saturnalian Saga of Magic Hat began in 1994 when our first batch of beer was brewed in a funky little space on Flynn Avenue, in Burlington, Vermont.  Dozens of beers and a brewery later, the Vermont brewery finds itself reaching more than 30 states with its unique take on classic styles.  Magic Hat continues to be a leader in craft beer and is currently the only craft brewer putting a performance in every bottle.", 
+                    "established": "1994", 
+                    "id": "qIqpZc", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/qIqpZc/upload_rtve34-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/qIqpZc/upload_rtve34-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/qIqpZc/upload_rtve34-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "id": "Bp3teL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.428405, 
+                            "locality": "South Burlington", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -73.213148, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-802-658-2739", 
+                            "postalCode": "5403", 
+                            "region": "Vermont", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5 Bartlett Bay Road", 
+                            "updateDate": "2013-08-12 16:50:30", 
+                            "website": "http://www.magichat.net/", 
+                            "yearOpened": "1994"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:47:25", 
+                            "id": "a4dr04", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 52.408494, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 12.562564, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "region": "Brandenburg", 
+                            "status": "deleted", 
+                            "statusDisplay": "Deleted", 
+                            "updateDate": "2012-08-13 12:40:53"
+                        }
+                    ], 
+                    "name": "Magic Hat Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 16:33:41", 
+                    "website": "http://www.magichat.net/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:49", 
+            "id": "BAGW0w", 
+            "isOrganic": "N", 
+            "name": "Odd Notion Winter 08", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A harmonious blend of mead and beer, with the distinctive characteristics of both. A wide range of results are possible, depending on the base style of beer, variety of honey and overall sweetness and strength. Beer flavors tend to somewhat mask typical honey flavors found in other meads.", 
+                "id": 147, 
+                "name": "Braggot"
+            }, 
+            "styleId": 147, 
+            "updateDate": "2013-08-14 18:34:18"
+        }, 
+        {
+            "abv": "10", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "Widmer Brothers Brewing is located in beautiful and brew-friendly Portland, OR. Our publicly-held brewery employs over 150 people who are as passionate about quality craft beer as Kurt & Rob themselves.\r\n\r\nWe opened the brewery in 1984, and built a new 40-barrel brewing system in our current Russell Street location in 1990. We've grown steadily ever since. In 1996, we completed installation of a state-of-the art 250-barrel brewhouse, bringing our capacity to 220,000 barrels per year. In 1996, for the first time in our brewery\u2019s history we also installed a bottling line, capable of producing 500 bottles per minute. In 2008 we added six new 1500-barrel fermentation tanks that increased our capacity to 450,000 barrels per year, and added a new keg filling line capable of filling 300 kegs per hour.", 
+                    "established": "1984", 
+                    "id": "8wcv7h", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/8wcv7h/upload_ze3hCg-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/8wcv7h/upload_ze3hCg-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/8wcv7h/upload_ze3hCg-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "id": "SgctbA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 45.540795, 
+                            "locality": "Portland", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.675594, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "503-281-2437", 
+                            "postalCode": "97227", 
+                            "region": "Oregon", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "929 North Russell Street", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.widmer.com/", 
+                            "yearOpened": "1984"
+                        }
+                    ], 
+                    "name": "Widmer Brothers Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-09-11 21:48:22", 
+                    "website": "http://www.widmer.com/"
+                }
+            ], 
+            "createDate": "2012-02-18 17:14:26", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "WplusM", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/WplusM/upload_QGcbiK-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/WplusM/upload_QGcbiK-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/WplusM/upload_QGcbiK-medium.png"
+            }, 
+            "name": "Prickly Pear Braggot", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A harmonious blend of mead and beer, with the distinctive characteristics of both. A wide range of results are possible, depending on the base style of beer, variety of honey and overall sweetness and strength. Beer flavors tend to somewhat mask typical honey flavors found in other meads.", 
+                "id": 147, 
+                "name": "Braggot"
+            }, 
+            "styleId": 147, 
+            "updateDate": "2012-03-22 13:05:50"
+        }, 
+        {
+            "abv": "10", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-07-21 22:01:35", 
+                    "description": "We are Alabama's newest Craft Beer Company. We are dedicated to making the South's finest high gravity beers. We are experimental. We are new. We are better by design.", 
+                    "established": "2012", 
+                    "id": "TjzLgu", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/TjzLgu/upload_C83iNZ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/TjzLgu/upload_C83iNZ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/TjzLgu/upload_C83iNZ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-07-21 22:06:59", 
+                            "id": "53D8aF", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 33.364642, 
+                            "locality": "Birmingham", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -86.784916, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "205-677-8024", 
+                            "postalCode": "35244", 
+                            "region": "Alabama", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2147 Riverchase Office Rd", 
+                            "updateDate": "2012-07-21 22:06:59", 
+                            "website": "http://beer-engineers.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Beer Engineers", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-07-21 22:07:31", 
+                    "website": "http://beer-engineers.com/"
+                }
+            ], 
+            "createDate": "2012-07-21 22:10:14", 
+            "id": "I4S2MJ", 
+            "isOrganic": "N", 
+            "name": "Rye Braggot", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A harmonious blend of mead and beer, with the distinctive characteristics of both. A wide range of results are possible, depending on the base style of beer, variety of honey and overall sweetness and strength. Beer flavors tend to somewhat mask typical honey flavors found in other meads.", 
+                "id": 147, 
+                "name": "Braggot"
+            }, 
+            "styleId": 147, 
+            "updateDate": "2012-07-21 22:10:15"
+        }, 
+        {
+            "abv": "7.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:47", 
+                    "description": "Today, we're a team of about 750 people, and we all share a common passion for bringing great Samuel Adams beers to beer lovers everywhere. We've worked hard and are incredibly proud of the many successes we've enjoyed over the years. The Boston Beer Company has been cited as one of the best companies to work for by Boston Magazine, one of the Best Entry-Level Jobs by The Princeton Review, and our beers have won more awards than any other in history. Jim has been named an \"Entrepreneur of the Year\" by Inc. Magazine. Our brewers keep amazing us with innovative new brews, including Samuel Adams Utopias and our Samuel Adams Barrel Room Collection.\r\n\r\nJim has believed from the beginning that the more you know and understand about beer, the more you'll appreciate a beer like Samuel Adams Boston Lager. To begin that mission, all new employees go through intensive training on everything from ingredients, brewing, and beer styles, to taking care of the beer once it leaves the brewery. We're all beer lovers and protectors of the beer so we're trained how to identify off flavors and how to troubleshoot the causes. The passion for beer continues with an annual homebrew competition that we all take part in.\r\n\r\nOne of our wholesalers once asked Jim why he invested so much in training his people, when ultimately they might leave. Jim smiled and replied without hesitation: \"What if I didn't train them, and they stayed?\"\r\n\r\nEach year, usually in January, everyone gathers together. One of the highlights of the meeting is the beer trivia contest. With a culture so steeped in beer education and knowledge, winning is a pretty big deal. Recently, one of the hotel bartenders who was watching as the various teams arrived in costume with music and much enthusiasm and fanfare, said, \"I've always known Samuel Adams made the best beer in America, but now I see this is the greatest company in America.\" When you look around you see that The Boston Beer Company is a team of enthusiastic people who are passionate about beer and who really love coming to work every day to provide American drinkers with the best beer possible.\r\n\r\nThe Boston Beer Company, Inc. is a publicly-traded company listed on the New York Stock Exchange under the symbol, SAM.", 
+                    "established": "1984", 
+                    "id": "1wSztN", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/1wSztN/upload_2Eei4D-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/1wSztN/upload_2Eei4D-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/1wSztN/upload_2Eei4D-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:47", 
+                            "id": "DF5YsC", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.314449, 
+                            "locality": "Boston", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -71.103365, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-800-372-1131", 
+                            "postalCode": "2130", 
+                            "region": "Massachusetts", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "30 Germania Street", 
+                            "updateDate": "2013-02-26 01:29:22", 
+                            "website": "http://www.samueladams.com/", 
+                            "yearOpened": "1984"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-08-12 13:10:57", 
+                            "id": "MLUbXI", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 39.1144986, 
+                            "locality": "Cincinnati", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -84.5222061, 
+                            "name": "Cincinnati", 
+                            "openToPublic": "N", 
+                            "phone": "513-412-3200", 
+                            "postalCode": "45214", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1625 Central Parkway", 
+                            "updateDate": "2013-08-12 13:19:31", 
+                            "website": "http://www.samueladams.com/"
+                        }
+                    ], 
+                    "name": "Boston Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 12:45:10", 
+                    "website": "http://www.samueladams.com/"
+                }
+            ], 
+            "createDate": "2013-04-18 11:39:13", 
+            "id": "OSCE2A", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/OSCE2A/upload_rZKfxi-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/OSCE2A/upload_rZKfxi-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/OSCE2A/upload_rZKfxi-medium.png"
+            }, 
+            "name": "Samuel Adams Honey Queen Braggot", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A harmonious blend of mead and beer, with the distinctive characteristics of both. A wide range of results are possible, depending on the base style of beer, variety of honey and overall sweetness and strength. Beer flavors tend to somewhat mask typical honey flavors found in other meads.", 
+                "id": 147, 
+                "name": "Braggot"
+            }, 
+            "styleId": 147, 
+            "updateDate": "2013-04-18 11:39:14"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:10", 
+                    "description": "Located at 24 Federal Street in Greenfield, The People's Pint has been open since January 1st, 1997. Since then, we've offered delicious food, quality ales & lagers, and friendly service. The Pint is open daily at 11 a.m. for lunch. The dinner menu is available from 4 - 10 p.m. and we have a late night menu from 10 p.m. - Midnight. We do not take reservations. All ages are welcome.", 
+                    "established": "1997", 
+                    "id": "loSfjp", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/loSfjp/upload_Uwl2Up-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/loSfjp/upload_Uwl2Up-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/loSfjp/upload_Uwl2Up-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:10", 
+                            "id": "QQpuA2", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.5886166, 
+                            "locality": "Greenfield", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -72.599865, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(413) 773-0333", 
+                            "postalCode": "01301", 
+                            "region": "Massachusetts", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "24 Federal St", 
+                            "updateDate": "2012-03-21 20:05:29", 
+                            "website": "http://thepeoplespint.com/", 
+                            "yearOpened": "1997"
+                        }
+                    ], 
+                    "name": "The People's Pint", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-23 00:29:54", 
+                    "website": "http://thepeoplespint.com/"
+                }
+            ], 
+            "createDate": "2012-10-23 00:28:59", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 6, 
+                "name": "Snifter"
+            }, 
+            "glasswareId": 6, 
+            "id": "9aRRZ4", 
+            "isOrganic": "N", 
+            "name": "Slippery Slope", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A harmonious blend of mead and beer, with the distinctive characteristics of both. A wide range of results are possible, depending on the base style of beer, variety of honey and overall sweetness and strength. Beer flavors tend to somewhat mask typical honey flavors found in other meads.", 
+                "id": 147, 
+                "name": "Braggot"
+            }, 
+            "styleId": 147, 
+            "updateDate": "2012-10-23 00:32:33"
+        }, 
+        {
+            "abv": "8.3", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:09", 
+                    "description": "While you're enjoying the full-bodied flavor of the beer, remember that it was more than 10 years in the making. We think it was worth it. We hope you agree.\r\n \r\nSurly: The anger fueled by the inability to find good beer.\r\n\r\n\"We brewed beer for people who didn't know they wanted to drink it until they had it.\" - Omar Ansari", 
+                    "established": "2006", 
+                    "id": "cPRfoj", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/cPRfoj/upload_h0oqUF-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/cPRfoj/upload_h0oqUF-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/cPRfoj/upload_h0oqUF-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:09", 
+                            "id": "2REili", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 45.04285, 
+                            "locality": "Brooklyn Center", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -93.324557, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "763-535-3330", 
+                            "postalCode": "55429", 
+                            "region": "Minnesota", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4811 Dusharme Drive", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.surlybrewing.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "Surly Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 13:01:28", 
+                    "website": "http://www.surlybrewing.com/"
+                }
+            ], 
+            "createDate": "2012-07-30 22:25:51", 
+            "description": "Our 3rd anniversary beer. A black braggot. Beer brewed with 50% Munich malt and 50% honey.", 
+            "ibu": "20", 
+            "id": "lefGVo", 
+            "isOrganic": "N", 
+            "name": "Three", 
+            "srm": {
+                "hex": "6A0E00", 
+                "id": 28, 
+                "name": "28"
+            }, 
+            "srmId": 28, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A harmonious blend of mead and beer, with the distinctive characteristics of both. A wide range of results are possible, depending on the base style of beer, variety of honey and overall sweetness and strength. Beer flavors tend to somewhat mask typical honey flavors found in other meads.", 
+                "id": 147, 
+                "name": "Braggot"
+            }, 
+            "styleId": 147, 
+            "updateDate": "2012-07-30 22:25:51"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 12
+}

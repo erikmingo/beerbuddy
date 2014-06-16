@@ -1,0 +1,1182 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "8", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "Colorado\u2019s first brewpub, Wynkoop Brewing Company was founded in 1988 by a group of young entrepreneurs and urban pioneers led by current Denver Governor John Hickenlooper.\r\n\r\nOur brewpub\u2019s hallmarks -- highly acclaimed small-batch beers, high quality food & service, the city\u2019s best pool hall and our glorious 1888 building -- helped make us a major catalyst for the revival of Lower Downtown Denver.\r\n\r\nToday Wynkoop Brewing Company is a beer-blessed Denver institution, a must-visit Colorado landmark and one of the nation\u2019s most revered craft breweries.\r\n\r\nWe\u2019re also one of the city\u2019s best places for private and corporate events. We\u2019ve hosted everything from Democratic National Convention parties to beer festivals, weddings and company conferences. (All with great beer and food.)\r\n\r\nToday we\u2019re expanding our downtown brewing efforts to deliver more of our ambitious, artisan-style craft beer to Denver\u2019s best beer outlets. Look for cans of our beer in local stores and kegs of all of our beers at the area\u2019s top bars and restaurants.", 
+                    "established": "1988", 
+                    "id": "GfdTrX", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/GfdTrX/upload_oxC8S0-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/GfdTrX/upload_oxC8S0-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/GfdTrX/upload_oxC8S0-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "hoursOfOperation": "Mon - Sun: 11:00 am - 2:00 am", 
+                            "id": "H09IRl", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.753509, 
+                            "locality": "Denver", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -104.998505, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "303-297-2700", 
+                            "postalCode": "80202", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1634 18th Street", 
+                            "updateDate": "2012-10-30 00:14:39", 
+                            "website": "http://www.wynkoop.com/", 
+                            "yearOpened": "1988"
+                        }
+                    ], 
+                    "name": "Wynkoop Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-13 23:58:28", 
+                    "website": "http://www.wynkoop.com/"
+                }
+            ], 
+            "createDate": "2013-08-14 17:48:12", 
+            "description": "Kriek with Montgomery cherries added", 
+            "id": "Lo4Pfk", 
+            "isOrganic": "N", 
+            "name": "25th Anniversary Kriek", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.1", 
+                "abvMin": "6.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Unblended, naturally and spontaneously fermented lambic is intensely estery, sour, and sometimes, but not necessarily, acetic flavored. Low in carbon dioxide, these hazy beers are brewed with unmalted wheat and malted barley. Sweet malt characters are not perceived. They are very low in hop bitterness. Cloudiness is acceptable. These beers are quite dry and light bodied. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambicstyle\" and may be made to resemble many of the beers of true origin. Vanillin and other wood-derived flavors should not be evident. Historically, traditional lambic is dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Sweet versions may be created through addition of sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet. Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 66, 
+                "name": "Belgian-Style Lambic", 
+                "ogMin": "1.047", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 66, 
+            "updateDate": "2013-08-14 19:06:41"
+        }, 
+        {
+            "abv": "4.8", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:09", 
+                    "description": "The Syracuse Suds Factory was founded on January 19th, 1993. It is located in the historic Amos Building in downtown Syracuse, New York. The Syracuse Suds Factory became the first commercial brewery in Syracuse after 31 years. Our first beer was brewed on March 20, 1993 and first tapped on April 17, 1993. At this time we were the only brewery in Syracuse, New York.\r\n\r\nThe Syracuse Suds Factory also has the claim of being the first brewery, in Syracuse New York, in 31 years to commercially ship its product to other outlets. On May 7th 1995 we shipped our first keg to Jack London's, a pub in Sidney New York. From that point on we have shipped to other accounts outside of Syracuse as well as local accounts.", 
+                    "established": "1993", 
+                    "id": "l4QDBq", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/l4QDBq/upload_ca5I2N-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/l4QDBq/upload_ca5I2N-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/l4QDBq/upload_ca5I2N-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:09", 
+                            "id": "DcSoI4", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.0480734, 
+                            "locality": "Syracuse", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -76.1536694, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "315-471-2253", 
+                            "postalCode": "13202", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "320 South Clinton Street", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://www.sudsfactory.com/", 
+                            "yearOpened": "1993"
+                        }
+                    ], 
+                    "name": "Syracuse Suds Factory", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:11", 
+                    "website": "http://www.sudsfactory.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:42:50", 
+            "description": "Based on a wheat ale, our variation of this unsual product of Belgin origins is made with pale and wheat malts, fuggles and cascade hops. It is fermented with a mixed strain yeast culture and abundance of black Bing cherries to produce a slightly tart and refreshing fruit character. Unfined, unfiltered and naturally aged for at least 1 1/2 months.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "VaxjS2", 
+            "isOrganic": "N", 
+            "name": "Black Cherry Weizen Lambic", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.1", 
+                "abvMin": "6.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Unblended, naturally and spontaneously fermented lambic is intensely estery, sour, and sometimes, but not necessarily, acetic flavored. Low in carbon dioxide, these hazy beers are brewed with unmalted wheat and malted barley. Sweet malt characters are not perceived. They are very low in hop bitterness. Cloudiness is acceptable. These beers are quite dry and light bodied. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambicstyle\" and may be made to resemble many of the beers of true origin. Vanillin and other wood-derived flavors should not be evident. Historically, traditional lambic is dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Sweet versions may be created through addition of sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet. Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 66, 
+                "name": "Belgian-Style Lambic", 
+                "ogMin": "1.047", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 66, 
+            "updateDate": "2012-03-22 13:05:31"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:49", 
+                    "id": "EFaa8I", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Belgium", 
+                                "isoCode": "BE", 
+                                "isoThree": "BEL", 
+                                "name": "BELGIUM", 
+                                "numberCode": 56
+                            }, 
+                            "countryIsoCode": "BE", 
+                            "createDate": "2012-01-03 02:41:49", 
+                            "id": "6xIUOg", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.7599724, 
+                            "locality": "Beersel", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 4.3047963, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "region": "Vlaams Brabant", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Laarheiestraat 230", 
+                            "updateDate": "2012-03-21 19:08:05"
+                        }
+                    ], 
+                    "name": "Brouwerij Oud Beersel", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:05"
+                }
+            ], 
+            "createDate": "2013-01-03 11:55:55", 
+            "id": "WyaSuL", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/WyaSuL/upload_ZbN2uF-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/WyaSuL/upload_ZbN2uF-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/WyaSuL/upload_ZbN2uF-medium.png"
+            }, 
+            "name": "Bzart Lambiek", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.1", 
+                "abvMin": "6.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Unblended, naturally and spontaneously fermented lambic is intensely estery, sour, and sometimes, but not necessarily, acetic flavored. Low in carbon dioxide, these hazy beers are brewed with unmalted wheat and malted barley. Sweet malt characters are not perceived. They are very low in hop bitterness. Cloudiness is acceptable. These beers are quite dry and light bodied. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambicstyle\" and may be made to resemble many of the beers of true origin. Vanillin and other wood-derived flavors should not be evident. Historically, traditional lambic is dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Sweet versions may be created through addition of sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet. Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 66, 
+                "name": "Belgian-Style Lambic", 
+                "ogMin": "1.047", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 66, 
+            "updateDate": "2013-01-03 11:55:55"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:49", 
+                    "id": "dFgmmi", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Belgium", 
+                                "isoCode": "BE", 
+                                "isoThree": "BEL", 
+                                "name": "BELGIUM", 
+                                "numberCode": 56
+                            }, 
+                            "countryIsoCode": "BE", 
+                            "createDate": "2012-01-03 02:41:49", 
+                            "id": "o33q8U", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.712415, 
+                            "locality": "1502 Lembeek", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 4.2201751, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "32-2-356-66-44", 
+                            "region": "Vlaams Brabant", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Fonteinstraat 65", 
+                            "updateDate": "2012-03-21 19:08:04", 
+                            "website": "http://www.boon.be/"
+                        }
+                    ], 
+                    "name": "Brouwerij Boon", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-06-01 15:24:28", 
+                    "website": "http://www.boon.be/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:56", 
+            "id": "D2gG2C", 
+            "isOrganic": "N", 
+            "name": "Faro Boon", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.1", 
+                "abvMin": "6.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Unblended, naturally and spontaneously fermented lambic is intensely estery, sour, and sometimes, but not necessarily, acetic flavored. Low in carbon dioxide, these hazy beers are brewed with unmalted wheat and malted barley. Sweet malt characters are not perceived. They are very low in hop bitterness. Cloudiness is acceptable. These beers are quite dry and light bodied. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambicstyle\" and may be made to resemble many of the beers of true origin. Vanillin and other wood-derived flavors should not be evident. Historically, traditional lambic is dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Sweet versions may be created through addition of sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet. Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 66, 
+                "name": "Belgian-Style Lambic", 
+                "ogMin": "1.047", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 66, 
+            "updateDate": "2012-06-01 15:16:27"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "Backed by the support of countless friends and neighbors, Worth Brewing Company opened on March 17, 2007. Its owners, the husband-and-wife team of Peter Ausenhus and Margaret Bishop, have lived near Northwood since their purchase of a nearby farmhouse and acreage in 1998. Nebraska natives, Peter and Margaret lived and worked in Minneapolis for many years before moving to Worth County, where Peter\u2019s grandparents had lived and farmed and where Peter had spent much time as a boy.\r\n\r\n Having already established Margaret\u2019s engineering business in downtown Northwood, the couple turned next to Peter\u2019s passion \u2013 brewing great beer. For 24 years, Peter has brewed award-winning beer, winning contests, teaching others and perfecting classic recipes along the way. He\u2019s a BJCP National Beer Judge, has brewed professionally with Summit Brewing Company of St. Paul, Minn., and worked on staff at one of the country\u2019s most popular brewing supply shops.\r\n\r\nWorth Brewing Company is Peter and Margaret\u2019s way of helping to reintroduce a great tradition \u2013 the locally owned brewery serving hand-crafted, high-quality, distinctive beers for the enjoyment of locals and lucky visitors. The nation\u2019s small and mid-sized towns were once dotted with such breweries. Today, Worth Brewing \u2013 perhaps one of the world\u2019s smallest craft brewers \u2013 brings a bit of those days back to delight the growing number of those who appreciate fine, locally brewed beers.", 
+                    "established": "2007", 
+                    "id": "5hWjSw", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/5hWjSw/upload_Khe2DC-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/5hWjSw/upload_Khe2DC-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/5hWjSw/upload_Khe2DC-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "hoursOfOperation": "Tap Room Hours: \r\nWed: 5 to 9 p.m.\r\nFri: 5 to 11 p.m.\r\nSat: noon to 11 p.m.", 
+                            "id": "Z5oRX9", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.444055, 
+                            "locality": "Northwood", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -93.220486, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "641-324-4991", 
+                            "postalCode": "50459", 
+                            "region": "Iowa", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "826 Central Ave", 
+                            "updateDate": "2012-03-21 20:05:31", 
+                            "website": "http://www.worthbrewing.com/", 
+                            "yearOpened": "2007"
+                        }
+                    ], 
+                    "name": "Worth Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:18", 
+                    "website": "http://www.worthbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-03-02 23:11:11", 
+            "description": "A blend of 100% pure organic tart cherry juice, hard cider from Worth County apples, mead from Worth County honey, WBC Belgian-style ale and wildflower honey, all gently aged on toasted oak chips.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 1, 
+                "name": "Flute"
+            }, 
+            "glasswareId": 1, 
+            "ibu": "10", 
+            "id": "XxfPav", 
+            "isOrganic": "N", 
+            "name": "Five Seasons Cherry Elixir", 
+            "originalGravity": "1.06", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.1", 
+                "abvMin": "6.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Unblended, naturally and spontaneously fermented lambic is intensely estery, sour, and sometimes, but not necessarily, acetic flavored. Low in carbon dioxide, these hazy beers are brewed with unmalted wheat and malted barley. Sweet malt characters are not perceived. They are very low in hop bitterness. Cloudiness is acceptable. These beers are quite dry and light bodied. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambicstyle\" and may be made to resemble many of the beers of true origin. Vanillin and other wood-derived flavors should not be evident. Historically, traditional lambic is dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Sweet versions may be created through addition of sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet. Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 66, 
+                "name": "Belgian-Style Lambic", 
+                "ogMin": "1.047", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 66, 
+            "updateDate": "2012-03-22 13:05:51"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:47", 
+                    "description": "A traditional Lambic brewery from Brussels.", 
+                    "id": "qFzOjy", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/qFzOjy/upload_4mQnPA-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/qFzOjy/upload_4mQnPA-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/qFzOjy/upload_4mQnPA-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Belgium", 
+                                "isoCode": "BE", 
+                                "isoThree": "BEL", 
+                                "name": "BELGIUM", 
+                                "numberCode": 56
+                            }, 
+                            "countryIsoCode": "BE", 
+                            "createDate": "2012-01-03 02:41:47", 
+                            "id": "BvGY4L", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.8415188, 
+                            "locality": "Anderlecht", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 4.3355854, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "32-(0)2-521-49-28", 
+                            "region": "Brussel", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Gheudestraat 56", 
+                            "updateDate": "2012-03-21 19:08:03", 
+                            "website": "http://www.cantillon.be/"
+                        }
+                    ], 
+                    "name": "Brasserie Cantillon", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:04", 
+                    "website": "http://www.cantillon.be/"
+                }
+            ], 
+            "createDate": "2012-09-10 16:20:11", 
+            "id": "bgZkcb", 
+            "isOrganic": "N", 
+            "name": "Fou'Foune", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.1", 
+                "abvMin": "6.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Unblended, naturally and spontaneously fermented lambic is intensely estery, sour, and sometimes, but not necessarily, acetic flavored. Low in carbon dioxide, these hazy beers are brewed with unmalted wheat and malted barley. Sweet malt characters are not perceived. They are very low in hop bitterness. Cloudiness is acceptable. These beers are quite dry and light bodied. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambicstyle\" and may be made to resemble many of the beers of true origin. Vanillin and other wood-derived flavors should not be evident. Historically, traditional lambic is dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Sweet versions may be created through addition of sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet. Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 66, 
+                "name": "Belgian-Style Lambic", 
+                "ogMin": "1.047", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 66, 
+            "updateDate": "2012-09-10 16:37:49"
+        }, 
+        {
+            "abv": "6", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:43", 
+                    "description": "Drie Fonteinen is the only remaining traditional geuze blender in Belgium, using only 100% spontaneously fermented lambik beer, aged in oak casks, with no artificial sweeteners or other additives. The blendery is connected to the very popular Drie Fonteinen Restaurant in Beersel, on the outskirts of Brussels. The proprietor, Armand Debelder, buys pure lambik from three breweries in Belgium, ages them in oak, and blends them, employing the skill, knowledge, and supreme passion for real geuze that his father handed down to him. Drie Fontenein\u2019s Geuze and fruit Lambiks (cherry, raspberry) are rare, highly prized, and indisputably among the best of Belgium.", 
+                    "established": "1887", 
+                    "id": "qxAQSJ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/qxAQSJ/upload_awf3wV-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/qxAQSJ/upload_awf3wV-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/qxAQSJ/upload_awf3wV-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Belgium", 
+                                "isoCode": "BE", 
+                                "isoThree": "BEL", 
+                                "name": "BELGIUM", 
+                                "numberCode": 56
+                            }, 
+                            "countryIsoCode": "BE", 
+                            "createDate": "2012-01-03 02:41:43", 
+                            "id": "nUwtfn", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.7666391, 
+                            "locality": "Beersel", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 4.3083771, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "32-02-/-306-71-03", 
+                            "region": "Vlaams Brabant", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Hoogstraat 2A", 
+                            "updateDate": "2012-03-21 19:08:01", 
+                            "website": "http://www.3fonteinen.be/index.htm"
+                        }
+                    ], 
+                    "name": "3 Fonteinen Brouwerij Ambachtelijke Geuzestekerij", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-20 13:23:39", 
+                    "website": "http://www.3fonteinen.be/index.htm"
+                }
+            ], 
+            "createDate": "2013-11-25 14:16:45", 
+            "id": "JZTFH5", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/JZTFH5/upload_NSGOqm-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/JZTFH5/upload_NSGOqm-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/JZTFH5/upload_NSGOqm-medium.png"
+            }, 
+            "name": "Golden Doesjel", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.1", 
+                "abvMin": "6.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Unblended, naturally and spontaneously fermented lambic is intensely estery, sour, and sometimes, but not necessarily, acetic flavored. Low in carbon dioxide, these hazy beers are brewed with unmalted wheat and malted barley. Sweet malt characters are not perceived. They are very low in hop bitterness. Cloudiness is acceptable. These beers are quite dry and light bodied. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambicstyle\" and may be made to resemble many of the beers of true origin. Vanillin and other wood-derived flavors should not be evident. Historically, traditional lambic is dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Sweet versions may be created through addition of sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet. Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 66, 
+                "name": "Belgian-Style Lambic", 
+                "ogMin": "1.047", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 66, 
+            "updateDate": "2013-11-26 10:04:19"
+        }, 
+        {
+            "abv": "6.3", 
+            "available": {
+                "description": "Available during the spring months.", 
+                "id": 5, 
+                "name": "Spring"
+            }, 
+            "availableId": 5, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:07", 
+                    "description": "Welcome to the Rivertown Brewing Company, We specialize in brewing traditional Handcrafted Lagers and Ales, using only the finest and freshest ingredients available.  use the buttons to the left to find out \"What Ales You\"!", 
+                    "established": "2009", 
+                    "id": "DWjwcm", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/DWjwcm/upload_lZNV3Y-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/DWjwcm/upload_lZNV3Y-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/DWjwcm/upload_lZNV3Y-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:07", 
+                            "hoursOfOperation": "Wed:        4:00 pm - 8:00 pm\r\nThu:         5:00 pm - 10:00 pm\r\nFri:\t5:00 pm -10:00 pm\r\nSat:\t2:00 pm - 10:00 pm", 
+                            "id": "eKF3uv", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.236015, 
+                            "locality": "Cincinnati", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -84.462885, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "513-827-9280", 
+                            "postalCode": "45215", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "607 Shepherd Drive #6", 
+                            "updateDate": "2013-08-09 16:59:23", 
+                            "website": "http://rivertownbrewery.com/"
+                        }
+                    ], 
+                    "name": "Rivertown Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 17:01:19", 
+                    "website": "http://rivertownbrewery.com/"
+                }
+            ], 
+            "createDate": "2012-07-02 00:29:24", 
+            "ibu": "7", 
+            "id": "jann9y", 
+            "isOrganic": "N", 
+            "name": "Lambic", 
+            "srm": {
+                "hex": "FFBF42", 
+                "id": 4, 
+                "name": "4"
+            }, 
+            "srmId": 4, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.1", 
+                "abvMin": "6.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Unblended, naturally and spontaneously fermented lambic is intensely estery, sour, and sometimes, but not necessarily, acetic flavored. Low in carbon dioxide, these hazy beers are brewed with unmalted wheat and malted barley. Sweet malt characters are not perceived. They are very low in hop bitterness. Cloudiness is acceptable. These beers are quite dry and light bodied. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambicstyle\" and may be made to resemble many of the beers of true origin. Vanillin and other wood-derived flavors should not be evident. Historically, traditional lambic is dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Sweet versions may be created through addition of sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet. Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 66, 
+                "name": "Belgian-Style Lambic", 
+                "ogMin": "1.047", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 66, 
+            "updateDate": "2012-07-02 01:38:58"
+        }, 
+        {
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:59", 
+                    "description": "Welcome to a land of open fermentation, oak barrel aging, and bottle conditioning. At Jolly Pumpkin Artisan Ales we are dedicated to more than the traditions of old world craftsmanship. Everything we do is designed to create ales of outstanding art and flavor. Focusing on traditional rustic country style beers brought to life through labor and love, we strive to create beers to lighten the spirit, and soothe the soul. Sharing our joy to the betterment of mankind is the most that we could hope for.", 
+                    "established": "2004", 
+                    "id": "pzWq1r", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/pzWq1r/upload_6UXFjj-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/pzWq1r/upload_6UXFjj-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/pzWq1r/upload_6UXFjj-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:59", 
+                            "id": "XFY63m", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 42.337535, 
+                            "locality": "Dexter", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.889488, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "734-426-4962", 
+                            "postalCode": "48130", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3115 Broad Street", 
+                            "updateDate": "2013-08-12 23:48:04", 
+                            "website": "http://www.jollypumpkin.com/", 
+                            "yearOpened": "2004"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-08-11 19:41:57", 
+                            "hoursOfOperation": "Main Floor\r\nMonday - Thursday 11am - 11pm Friday 11am - midnight \r\nSaturday 10am - midnight \r\nSunday 10am - 11pm\r\n\r\nUpstairs\r\nSunday - Wednesday 4pm - midnight \r\nThursday - Saturday 4pm - 2am\r\n\r\nRooftop Deck\r\nMonday - Wednesday 4pm - 11pm \r\nThursday - Friday 4pm - 1am \r\nSaturday - noon - 1 am\r\nSunday - noon - 11pm", 
+                            "id": "CGyBh2", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 42.27927, 
+                            "locality": "Ann Arbor", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -83.748608, 
+                            "name": "Jolly Pumpkin Cafe & Brewery\u200e", 
+                            "openToPublic": "Y", 
+                            "phone": "734-913-2730", 
+                            "postalCode": "48104", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "311 South Main Street", 
+                            "updateDate": "2012-08-11 19:43:21", 
+                            "website": "http://www.jollypumpkin.com/annarbor/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-08-11 19:43:08", 
+                            "extendedAddress": "Old Mission Peninsula", 
+                            "hoursOfOperation": "Monday - Thursday 12pm - 10 pm\r\nFriday 12pm - 11pm\r\nSaturday 12pm - 11pm\r\nSunday 12pm - 9pm", 
+                            "id": "oagzqT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 44.8861815, 
+                            "locality": "Traverse City", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -85.5285305, 
+                            "name": "Jolly Pumpkin Restaurant, Brewery, Distillery", 
+                            "openToPublic": "Y", 
+                            "phone": "231-223-4333", 
+                            "postalCode": "49686", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "13512 Peninsula Drive", 
+                            "updateDate": "2013-06-16 11:24:48", 
+                            "website": "http://www.jollypumpkin.com/traversecity/index8.htm"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-08-12 20:27:33", 
+                            "id": "4FpSRu", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.323727, 
+                            "locality": "Dexter", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -83.879212, 
+                            "name": "Northern United Brewing Company", 
+                            "openToPublic": "Y", 
+                            "phone": "(734) 424-9540", 
+                            "postalCode": "48130", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2319 Bishop Cir East", 
+                            "updateDate": "2013-08-12 23:48:04", 
+                            "website": "http://www.jollypumpkin.com/"
+                        }
+                    ], 
+                    "name": "Jolly Pumpkin Artisan Ales", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 22:00:26", 
+                    "website": "http://www.jollypumpkin.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:56", 
+            "description": "A new sour blend chosen from select barrels to reflect our never ending pursuit and passion for perfection in every bottle. Cellared a further six months before being offered for sale. As always; unfiltered, unpasturized and naturally delicious. Not a single beer, but rather a journey into taste!", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "UM9Y1i", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/UM9Y1i/upload_cNtCaH-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/UM9Y1i/upload_cNtCaH-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/UM9Y1i/upload_cNtCaH-medium.png"
+            }, 
+            "name": "Perseguidor", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.1", 
+                "abvMin": "6.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Unblended, naturally and spontaneously fermented lambic is intensely estery, sour, and sometimes, but not necessarily, acetic flavored. Low in carbon dioxide, these hazy beers are brewed with unmalted wheat and malted barley. Sweet malt characters are not perceived. They are very low in hop bitterness. Cloudiness is acceptable. These beers are quite dry and light bodied. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambicstyle\" and may be made to resemble many of the beers of true origin. Vanillin and other wood-derived flavors should not be evident. Historically, traditional lambic is dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Sweet versions may be created through addition of sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet. Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 66, 
+                "name": "Belgian-Style Lambic", 
+                "ogMin": "1.047", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 66, 
+            "updateDate": "2012-03-22 13:05:11"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:49", 
+                    "description": "Amandus Van Honsebrouck, born in 1811, farmer and mayor of Werken, starts the first brewery around 1850 in Werken.\r\nEmile, his son, takes over and moves to Ingelmunster in 1900 and founds the St-Josef brewery.\r\nEmile\u2019s sons, Paul and Ernest, take over and expand firmly. In 1930 they build a new malt house and a foeder room and in 1937 a new brewing room, a fermentation room, a tank room and a bottling hall. Their focus still is on the traditional low fermentation beers: bock, export and lager.\r\nLuc, the son of Paul, goes to brewery school and learns the trade as an apprentice in Germany and Wallonia.\r\nLuc takes over in 1953, changes the name in brewery Vanhonsebrouck and decides to stop brewing lager and focuses on \u2018old Flemish brown\u2019, Bacchus.\r\nIn 1957 he starts with lambic and later on with Gueuze and Kriek under the name Saint Louis. Brewery Vanhonsebrouck becomes the second largest brewery of Gueuze, thanks to the shirt sponsoring of FC Bruges, European soccer finalist in 1976 and 1978. The production of Gueuze Saint Louis booms to a record in that time of 1 million kg of malt.\r\nIn 1980 Luc responds to the growing demand for heavy blond beers and launches Brigand, named after the farmer\u2019s uprising against French occupation in 1798.\r\nIn 1986 the family buys Ingelmunster castle and 3 years later, the famous Kasteel(bier) is launched. It starts with \u2018Donker\u2019, than \u2018Tripel\u2019, \u2018Rouge\u2019 and \u2018Blond\u2019.\r\nIn 2009, the 5th generation, Xavier Van Honsebrouck, takes over.\r\nHis first achievement is the \u2018Cuv\u00e9e du Ch\u00e2teau\u2019.\r\nIn 2012 the high exclusive Trignac follows and in 2013 Kasteel Hoppy.\r\nIn commemoration of a 100 years World War I, \u2018Passchendaele\u2019, a Belgian Top Blond, with only 5.2\u00b0 alcohol is launched in 2013. A donation is offered to the community of Zonnebeke, to contribute in the preservation of its remnants of the Great War.\r\nDue to the fast growing export, the actual brewery is almost on its full capacity. A delocalisation to a brand new castle/brewery is scheduled for 2017.", 
+                    "id": "GNz66x", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/GNz66x/upload_VcM90W-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/GNz66x/upload_VcM90W-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/GNz66x/upload_VcM90W-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Belgium", 
+                                "isoCode": "BE", 
+                                "isoThree": "BEL", 
+                                "name": "BELGIUM", 
+                                "numberCode": 56
+                            }, 
+                            "countryIsoCode": "BE", 
+                            "createDate": "2012-01-03 02:41:49", 
+                            "id": "lPPoWm", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.9197964, 
+                            "locality": "Ingelmunster", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 3.259074, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "32-051-33-51-60", 
+                            "region": "West-Vlaanderen", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Oostrozebekestraat 43", 
+                            "updateDate": "2014-01-28 13:06:26", 
+                            "website": "http://www.vanhonsebrouck.be/"
+                        }
+                    ], 
+                    "name": "Brouwerij Van Honsebrouck", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-28 13:06:05", 
+                    "website": "http://www.vanhonsebrouck.be"
+                }
+            ], 
+            "createDate": "2014-04-23 09:56:37", 
+            "id": "JRaz3u", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/JRaz3u/upload_y1wS2D-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/JRaz3u/upload_y1wS2D-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/JRaz3u/upload_y1wS2D-medium.png"
+            }, 
+            "name": "St Louis Premium Kriek", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.1", 
+                "abvMin": "6.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Unblended, naturally and spontaneously fermented lambic is intensely estery, sour, and sometimes, but not necessarily, acetic flavored. Low in carbon dioxide, these hazy beers are brewed with unmalted wheat and malted barley. Sweet malt characters are not perceived. They are very low in hop bitterness. Cloudiness is acceptable. These beers are quite dry and light bodied. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambicstyle\" and may be made to resemble many of the beers of true origin. Vanillin and other wood-derived flavors should not be evident. Historically, traditional lambic is dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Sweet versions may be created through addition of sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet. Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 66, 
+                "name": "Belgian-Style Lambic", 
+                "ogMin": "1.047", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 66, 
+            "updateDate": "2014-04-24 09:05:03"
+        }, 
+        {
+            "abv": "6.4", 
+            "available": {
+                "description": "Available during the fall months.", 
+                "id": 7, 
+                "name": "Fall"
+            }, 
+            "availableId": 7, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:07", 
+                    "description": "Welcome to the Rivertown Brewing Company, We specialize in brewing traditional Handcrafted Lagers and Ales, using only the finest and freshest ingredients available.  use the buttons to the left to find out \"What Ales You\"!", 
+                    "established": "2009", 
+                    "id": "DWjwcm", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/DWjwcm/upload_lZNV3Y-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/DWjwcm/upload_lZNV3Y-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/DWjwcm/upload_lZNV3Y-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:07", 
+                            "hoursOfOperation": "Wed:        4:00 pm - 8:00 pm\r\nThu:         5:00 pm - 10:00 pm\r\nFri:\t5:00 pm -10:00 pm\r\nSat:\t2:00 pm - 10:00 pm", 
+                            "id": "eKF3uv", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.236015, 
+                            "locality": "Cincinnati", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -84.462885, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "513-827-9280", 
+                            "postalCode": "45215", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "607 Shepherd Drive #6", 
+                            "updateDate": "2013-08-09 16:59:23", 
+                            "website": "http://rivertownbrewery.com/"
+                        }
+                    ], 
+                    "name": "Rivertown Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 17:01:19", 
+                    "website": "http://rivertownbrewery.com/"
+                }
+            ], 
+            "createDate": "2012-07-02 00:27:38", 
+            "ibu": "5", 
+            "id": "UxMAr6", 
+            "isOrganic": "N", 
+            "name": "Ville Dd Rivere Geuze", 
+            "srm": {
+                "hex": "FBB123", 
+                "id": 5, 
+                "name": "5"
+            }, 
+            "srmId": 5, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.1", 
+                "abvMin": "6.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Unblended, naturally and spontaneously fermented lambic is intensely estery, sour, and sometimes, but not necessarily, acetic flavored. Low in carbon dioxide, these hazy beers are brewed with unmalted wheat and malted barley. Sweet malt characters are not perceived. They are very low in hop bitterness. Cloudiness is acceptable. These beers are quite dry and light bodied. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambicstyle\" and may be made to resemble many of the beers of true origin. Vanillin and other wood-derived flavors should not be evident. Historically, traditional lambic is dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Sweet versions may be created through addition of sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet. Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 66, 
+                "name": "Belgian-Style Lambic", 
+                "ogMin": "1.047", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 66, 
+            "updateDate": "2012-07-02 01:38:21"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-10-29 15:51:13", 
+                    "id": "SH6FdP", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/SH6FdP/upload_pjX6wG-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/SH6FdP/upload_pjX6wG-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/SH6FdP/upload_pjX6wG-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Belgium", 
+                                "isoCode": "BE", 
+                                "isoThree": "BEL", 
+                                "name": "BELGIUM", 
+                                "numberCode": 56
+                            }, 
+                            "countryIsoCode": "BE", 
+                            "createDate": "2012-10-29 15:52:31", 
+                            "id": "YUMHU6", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.950764, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 4.66411, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+ (32) (477) 515991", 
+                            "postalCode": "3150", 
+                            "region": "Tildonk", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Dormaalhof Caubergstraat 2", 
+                            "updateDate": "2012-10-29 15:52:31", 
+                            "website": "http://www.hoftendormaal.com/"
+                        }
+                    ], 
+                    "name": "Brouwerij Hof ten Dormaal", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-29 15:51:35", 
+                    "website": "http://www.hoftendormaal.com/"
+                }
+            ], 
+            "createDate": "2014-04-01 18:13:14", 
+            "id": "bbnAm7", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/bbnAm7/upload_Dlh8xO-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/bbnAm7/upload_Dlh8xO-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/bbnAm7/upload_Dlh8xO-medium.png"
+            }, 
+            "name": "Zure Van Tildonk 2013 No.1", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "8.1", 
+                "abvMin": "6.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 5, 
+                    "name": "Belgian And French Origin Ales"
+                }, 
+                "categoryId": 5, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Unblended, naturally and spontaneously fermented lambic is intensely estery, sour, and sometimes, but not necessarily, acetic flavored. Low in carbon dioxide, these hazy beers are brewed with unmalted wheat and malted barley. Sweet malt characters are not perceived. They are very low in hop bitterness. Cloudiness is acceptable. These beers are quite dry and light bodied. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambicstyle\" and may be made to resemble many of the beers of true origin. Vanillin and other wood-derived flavors should not be evident. Historically, traditional lambic is dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Sweet versions may be created through addition of sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet. Artificial sweeteners are sometimes used in some brands.", 
+                "fgMax": "1.01", 
+                "fgMin": "1", 
+                "ibuMax": "23", 
+                "ibuMin": "11", 
+                "id": 66, 
+                "name": "Belgian-Style Lambic", 
+                "ogMin": "1.047", 
+                "srmMax": "13", 
+                "srmMin": "6"
+            }, 
+            "styleId": 66, 
+            "updateDate": "2014-04-04 20:49:57"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 12
+}

@@ -1,0 +1,434 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "6", 
+            "breweries": [
+                {
+                    "createDate": "2013-01-24 11:58:59", 
+                    "description": "Known for the most amazing and creative alcoholic beverages made from honey. B. Nektar is a world-wide sensation.\r\n\r\nTo boldly go where no meadery has gone before. To prove to you that the horrible mead your best friend made one time in college is NOT what a good mead should taste like. To show you that mead doesn't HAVE to be sweet. To educate you on the different styles of mead. To bring mead into the mainstream, but still maintain our integrity. To everyday thank my mom and tell her that I love her (shouldn't we all?).", 
+                    "established": "2006", 
+                    "id": "GOh8Oi", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-01-24 12:01:16", 
+                            "extendedAddress": "Suite B", 
+                            "hoursOfOperation": "Fri: 5:30 pm - 10:00 pm\r\nSat: 1:00 pm - 7:00 pm", 
+                            "id": "aQpHNT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.453829, 
+                            "locality": "Ferndale", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.1139, 
+                            "name": "Main Meadery", 
+                            "openToPublic": "Y", 
+                            "phone": "(313) 744-6323", 
+                            "postalCode": "48220", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1481 Wordsworth", 
+                            "updateDate": "2014-05-19 12:58:26", 
+                            "website": "http://www.bnektar.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "B. Nektar Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-24 12:00:24", 
+                    "website": "http://www.bnektar.com/"
+                }
+            ], 
+            "createDate": "2014-06-13 01:12:14", 
+            "description": "A sparkling session mead made with honey, blackberry, clove and orange zest.", 
+            "id": "EKYq8b", 
+            "isOrganic": "N", 
+            "name": "Black Fang", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a semisweet (or medium-dry) white wine, with a pleasant mixture of honey character, light sweetness, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 141, 
+                "name": "Semi-Sweet Mead"
+            }, 
+            "styleId": 141, 
+            "updateDate": "2014-06-13 18:45:11"
+        }, 
+        {
+            "abv": "7", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2013-12-03 20:59:03", 
+                    "description": "Artisan crafted honey wines in Austin, Texas. Filling your glass with history in the New World.", 
+                    "established": "2013", 
+                    "id": "Xq2gbP", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Xq2gbP/upload_1iMCzY-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Xq2gbP/upload_1iMCzY-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Xq2gbP/upload_1iMCzY-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-12-03 21:06:05", 
+                            "extendedAddress": "Ste 400", 
+                            "hoursOfOperation": "By Appt", 
+                            "id": "J0fYDF", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 30.329828, 
+                            "locality": "Austin", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -97.671725, 
+                            "name": "Meridian Hive Meadery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "78754", 
+                            "region": "Texas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "8120 Exchange Dr.,", 
+                            "updateDate": "2013-12-03 23:54:20", 
+                            "yearOpened": "2013"
+                        }
+                    ], 
+                    "name": "Meridian Hive Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-12-03 23:54:33", 
+                    "website": "http://www.meridianhive.com/"
+                }
+            ], 
+            "createDate": "2013-12-03 21:08:49", 
+            "description": "Slightly carbonated orange blossom honey traditional", 
+            "id": "nyFybO", 
+            "isOrganic": "N", 
+            "name": "Discovery", 
+            "originalGravity": "1.054", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a semisweet (or medium-dry) white wine, with a pleasant mixture of honey character, light sweetness, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 141, 
+                "name": "Semi-Sweet Mead"
+            }, 
+            "styleId": 141, 
+            "updateDate": "2013-12-04 12:17:35"
+        }, 
+        {
+            "abv": "6", 
+            "breweries": [
+                {
+                    "createDate": "2013-01-24 11:58:59", 
+                    "description": "Known for the most amazing and creative alcoholic beverages made from honey. B. Nektar is a world-wide sensation.\r\n\r\nTo boldly go where no meadery has gone before. To prove to you that the horrible mead your best friend made one time in college is NOT what a good mead should taste like. To show you that mead doesn't HAVE to be sweet. To educate you on the different styles of mead. To bring mead into the mainstream, but still maintain our integrity. To everyday thank my mom and tell her that I love her (shouldn't we all?).", 
+                    "established": "2006", 
+                    "id": "GOh8Oi", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-01-24 12:01:16", 
+                            "extendedAddress": "Suite B", 
+                            "hoursOfOperation": "Fri: 5:30 pm - 10:00 pm\r\nSat: 1:00 pm - 7:00 pm", 
+                            "id": "aQpHNT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.453829, 
+                            "locality": "Ferndale", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.1139, 
+                            "name": "Main Meadery", 
+                            "openToPublic": "Y", 
+                            "phone": "(313) 744-6323", 
+                            "postalCode": "48220", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1481 Wordsworth", 
+                            "updateDate": "2014-05-19 12:58:26", 
+                            "website": "http://www.bnektar.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "B. Nektar Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-24 12:00:24", 
+                    "website": "http://www.bnektar.com/"
+                }
+            ], 
+            "createDate": "2013-04-22 03:11:37", 
+            "description": "In an obscure industrial lair resides the man known only as the evil Dr. I.P.A. Using his hadron colider, hidden deep underground, he has conducted his most remarkable experiment to-date. The result is a perfect balance of honey and hops. But there are side-effects... His lab rats can't get enough of the stuff. And soon, neither will you. Introducing the Evil Genius. The big bang is no longer a theory, it's your reality.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 6, 
+                "name": "Snifter"
+            }, 
+            "glasswareId": 6, 
+            "id": "0GfWYY", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/0GfWYY/upload_YpHZTs-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/0GfWYY/upload_YpHZTs-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/0GfWYY/upload_YpHZTs-medium.png"
+            }, 
+            "name": "Evil Genius", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a semisweet (or medium-dry) white wine, with a pleasant mixture of honey character, light sweetness, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 141, 
+                "name": "Semi-Sweet Mead"
+            }, 
+            "styleId": 141, 
+            "updateDate": "2013-05-10 01:05:27"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2013-01-24 11:58:59", 
+                    "description": "Known for the most amazing and creative alcoholic beverages made from honey. B. Nektar is a world-wide sensation.\r\n\r\nTo boldly go where no meadery has gone before. To prove to you that the horrible mead your best friend made one time in college is NOT what a good mead should taste like. To show you that mead doesn't HAVE to be sweet. To educate you on the different styles of mead. To bring mead into the mainstream, but still maintain our integrity. To everyday thank my mom and tell her that I love her (shouldn't we all?).", 
+                    "established": "2006", 
+                    "id": "GOh8Oi", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-01-24 12:01:16", 
+                            "extendedAddress": "Suite B", 
+                            "hoursOfOperation": "Fri: 5:30 pm - 10:00 pm\r\nSat: 1:00 pm - 7:00 pm", 
+                            "id": "aQpHNT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.453829, 
+                            "locality": "Ferndale", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.1139, 
+                            "name": "Main Meadery", 
+                            "openToPublic": "Y", 
+                            "phone": "(313) 744-6323", 
+                            "postalCode": "48220", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1481 Wordsworth", 
+                            "updateDate": "2014-05-19 12:58:26", 
+                            "website": "http://www.bnektar.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "B. Nektar Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-24 12:00:24", 
+                    "website": "http://www.bnektar.com/"
+                }
+            ], 
+            "createDate": "2013-04-22 03:38:51", 
+            "description": "Swallow this...\r\n\r\nMany years ago, a mysterious book was discovered by a group of friends in a Ferndale, MI basement. A translation of its contents revealed the recipe for an ancient beverage using mango juice, honey, and black pepper. What they didn't realize was that creating the beverage had dire consequences. Stricken by fear after its compleation, the friends tried to contain the terrifying forces into this very bottle. Once opened, however, no one can say for sure if it can be conquered. Defend your soul or join us...", 
+            "id": "caOKhz", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/caOKhz/upload_YWjCS0-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/caOKhz/upload_YWjCS0-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/caOKhz/upload_YWjCS0-medium.png"
+            }, 
+            "name": "Necromangocon", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a semisweet (or medium-dry) white wine, with a pleasant mixture of honey character, light sweetness, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 141, 
+                "name": "Semi-Sweet Mead"
+            }, 
+            "styleId": 141, 
+            "updateDate": "2013-04-22 03:38:53"
+        }, 
+        {
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2013-06-27 15:30:02", 
+                    "description": "After several years as home mead makers, we are thrilled to be opening Starrlight Mead. We have had a fantastic time making mead and meeting mead drinkers from all over the world, and now its our turn to share our love of mead with all of you!\r\n\r\nBecky Starr, Owner, Sales/Tasting Room Manager\r\nBen Starr, Owner, Wine/Meadmaker\r\n\r\nWe first discovered mead in CA at the Southern California Renaissance Pleasure Faire. Several years later, we found friends that were home brewing mead with good results. We decided to try our hand at it too.\r\n\r\nIn February 2006, we entered our first competition and took Best in Show out of over 210 entries in the home mead-maker category at the International Mead Association\u2019s Mead Festival. The competition was judged by seven professionals in the mead industry; including Ken Schramm, author of The Compleat Mead Maker, and meadery owners from around the world. The Best in Show prize was selected from the gold medal winners in nine categories. Our \u201cStarrlight Mulled Apple Cyser\u201d was awarded not only the gold medal in the cyser (mead made with apples) category, but was also selected as the best overall representation of mead making. It was at that point we decided to try creating a business from our love of mead.\r\n\r\nBen shares his expertise and love of brewing by conducting demonstrations and workshops on mead making in the local community. We also organize and conduct the local Mead Day celebration each August (since 2005) and are a key part of the product tasting team for mead reviews on Gotmead.com. Becky worked with Chatham Hill Winery for 2 years learning tasting room and wine club management. We are members of the Chatham County Beekeepers Association, and the NC Winegrowers Association.", 
+                    "established": "2009", 
+                    "id": "Hdz6Zk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-27 15:32:51", 
+                            "extendedAddress": "Suite 1000", 
+                            "hoursOfOperation": "Regular Hours\r\nThursdays and Fridays from noon til 6 pm\r\n\r\nSaturdays from noon til 6 pm\r\nMeadery tours at 1 pm, 3 pm & 5 pm.\r\n\r\nSundays from 1 pm til 5 pm\r\nMeadery tours at 2 pm & 4 pm.", 
+                            "id": "XPKDbB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.7269418, 
+                            "locality": "Pittsboro", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.1752021, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "919-533-6314", 
+                            "postalCode": "27312", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "480 Hillsboro Street", 
+                            "updateDate": "2013-06-27 15:32:51", 
+                            "website": "http://starrlightmead.com"
+                        }
+                    ], 
+                    "name": "Starrlight Mead", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-27 15:34:55", 
+                    "website": "http://starrlightmead.com"
+                }
+            ], 
+            "createDate": "2013-06-27 15:53:46", 
+            "description": "Sage is best known as a culinary herb, but also boasts restorative properties. Earthy, savory flavors with a light woodsy quality. Lightly sweetened.", 
+            "id": "jK5hEC", 
+            "isOrganic": "N", 
+            "name": "Sage Mead", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a semisweet (or medium-dry) white wine, with a pleasant mixture of honey character, light sweetness, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 141, 
+                "name": "Semi-Sweet Mead"
+            }, 
+            "styleId": 141, 
+            "updateDate": "2013-06-27 15:53:46"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 5
+}

@@ -1,0 +1,658 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "breweries": [
+                {
+                    "createDate": "2013-08-05 17:06:49", 
+                    "description": "MOBCRAFT IS THE WORLD\u2019S FIRST COMPLETELY CROWDSOURCED BREWERY!\r\n\r\nMobCraft Beer is a small craft brewery making custom craft beer. We produce small batch \u201ccustom craft beers\u201d based off of users submitted recipes and ideas which end up in our recipe vault. As each beer grows in social popularity, the four most popular beers are put up for a monthly vote. Cast your vote by ordering the beer you want us to brew. MobCraft will produce the beer with the most orders and ship out a 4 pack of 22oz \u201cbomber\u201d bottles to your doorstep! Or if your near the brewery come pick it up in our tap room location at House of Brews.", 
+                    "established": "2012", 
+                    "id": "QUtA29", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/QUtA29/upload_Qp3yy5-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/QUtA29/upload_Qp3yy5-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/QUtA29/upload_Qp3yy5-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-08-06 23:59:48", 
+                            "id": "lLaoBi", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.0667426, 
+                            "locality": "Madison", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -89.3052373, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "53718", 
+                            "region": "Wisconsin", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4539 Helgesen Dr", 
+                            "updateDate": "2013-08-06 23:59:48", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "mailingListUrl": "http://mobcraftbeer.us5.list-manage2.com/subscribe?u=0453a0f96af0b4a21c44383d9&id=b53eb572c1", 
+                    "name": "MobCraft Beer", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-07 00:01:36", 
+                    "website": "http://www.mobcraftbeer.com"
+                }
+            ], 
+            "createDate": "2013-08-14 03:32:21", 
+            "description": "Base Style: Ancient Wheat Beer. Pour Style normal. A ancient style beer brewed with khorosan wheat, and basil fermented with passionfruit.", 
+            "id": "ifm6LV", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ifm6LV/upload_jPIxQT-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ifm6LV/upload_jPIxQT-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ifm6LV/upload_jPIxQT-medium.png"
+            }, 
+            "name": "Amohga", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer style is unusual in that its impetus is to commemorate combinations of ingredients and/or techniques adopted by or unique to a particular region. At least one regional combination of ingredients and/or techniques must be unique and differentiated from ingredients and/or techniques commonly used by brewers throughout the world.  There are many excellent and popular beers that are brewed with either non-traditional or traditional ingredients and/or processes yet their character may distinctively vary from all other styles currently defined or included in these guidelines. These grain-based beers are brewed reflecting local beer culture (process, ingredients, climate, etc.). This category recognizes uniquely local or regional beer types and beers distinctively not defined in any recognized style in these guidelines. They may be light or dark, strong or weak, hoppy or not hoppy. They may have characters which are unique to yeast, fermentation techniques, aging conditions, carbonation level - or higher or lower levels of profound characters normally associated with other beer types. Examples of indigenous beers might include current day versions of highly regional and/or historic styles which are not represented elsewhere in these guidelines, such as Finnish-style sahti, S American chicha, African sorghum based beers, and others. Other examples might include beers made wholly unique by use of multiple local ingredients and/or techniques, with the resulting beer being highly representative of location, as well as differentiated from traditional beer style categories. Beers brewed with non-traditional hop varieties, grains, malt, yeast or other ingredient that still closely approximate an existing classical category would be more appropriately entered into the classical category. New and innovative beers that do not represent locally adopted techniques or grown ingredients would be more appropriately entered into the experimental category. Proper evaluation of entries in this category requires the need to provide  judges with additional information about the beer.  A written summary illustrating the intent, background, history, design and/or development of the beer as well as  describing any regional and/or stylistic context, choice of ingredients, process and any other unique information, helps establish a basis for comparison between highly diverse entries. Entering brewers must provide a statement of 100 words or less illustrating the above and why it is an indigenous beer without revealing the company's identity. This statement should be carefully crafted and will be evaluated by judges and carry significant weight in their decisions. Statements that contain information which might identify or otherwise create bias towards the entry will be modified by the Competition Manager. Entries not accompanied by this information will be at a profound disadvantage during judging.", 
+                "id": 128, 
+                "name": "Indigenous Beer (Lager or Ale)"
+            }, 
+            "styleId": 128, 
+            "updateDate": "2013-10-26 13:04:43"
+        }, 
+        {
+            "abv": "5.8", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:03", 
+                    "description": "Our mission is to create a cornucopia of high-quality rustic ales for the discriminating consumer, to test the boundaries of creativity and style. In short, to make outstanding beer.\r\n\r\nHow do we plan to do it? It involves using fresh, high-quality ingredients and a steady hand at the kettle. But that\u2019s just half of it. The other half of it is right here. The power of the internet, social media, and networking is here to see. Think of this as your own internet brewpub where you can sidle up next to the brewmaster and ask a question \u2014 because you can.\r\n\r\nWhat\u2019s so Mysterious?\r\n\r\nIt\u2019s a bit of a throwback. \u201cMystery\u201d in its original definition meant the \u201cart and craft of a trade.\u201d  Brewers were among the first organized trade groups; there is evidence of a guild of brewers as early as 12th Century London: \u201cthe Master, Keepers or Wardens and Commonalty of the Mistery or Art of Brewers of the City of London\u201d. So, it\u2019s a tribute, it\u2019s recognition that there is just as much art to brewing as there is science, and it\u2019s a gentle reminder that to move forward and create a truly excellent future, sometimes you have to look at the past.", 
+                    "established": "2011", 
+                    "id": "L29NU9", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/L29NU9/upload_vN4pal-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/L29NU9/upload_vN4pal-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/L29NU9/upload_vN4pal-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:03", 
+                            "extendedAddress": "Suite 41", 
+                            "hoursOfOperation": "Tap Room:  Friday 6pm - 11pm\r\nOtherwise, By Appointment Only", 
+                            "id": "xoGGQz", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 36.070686, 
+                            "locality": "Hillsborough", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.114137, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "919-697-8379", 
+                            "postalCode": "27278", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "437 Dimmocks Mill Road", 
+                            "updateDate": "2012-06-19 19:44:16", 
+                            "website": "http://www.mysterybrewing.com/", 
+                            "yearOpened": "2011"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-08-09 12:44:26", 
+                            "hoursOfOperation": "M 4 - 10PM\r\nT - Th 4PM - 12AM\r\nF 2PM - 12AM\r\nSat 12PM - 12AM\r\nSun 12PM - 10PM", 
+                            "id": "KD65Yd", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 36.0736632, 
+                            "locality": "Hillsborough", 
+                            "locationType": "tasting", 
+                            "locationTypeDisplay": "Tasting Room", 
+                            "longitude": -79.1110699, 
+                            "name": "Public House", 
+                            "openToPublic": "Y", 
+                            "phone": "(919) 245-1325", 
+                            "postalCode": "27278", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "230 South Nash Street", 
+                            "updateDate": "2013-08-09 12:51:58", 
+                            "website": "http://www.mysterybrewing.com", 
+                            "yearOpened": "2013"
+                        }
+                    ], 
+                    "mailingListUrl": "http://eepurl.com/goT5b", 
+                    "name": "Mystery Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 12:53:53", 
+                    "website": "http://www.mysterybrewing.com/"
+                }
+            ], 
+            "createDate": "2012-04-11 02:51:56", 
+            "description": "Built from recipes found in historical documents during research for the book North Carolina Craft Beer and Breweries. This dry beer contains molasses, ginger, wheat, rice, and North Carolina grown barley.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 8, 
+                "name": "Tulip"
+            }, 
+            "glasswareId": 8, 
+            "ibu": "35", 
+            "id": "SvAJIR", 
+            "isOrganic": "N", 
+            "name": "Caswell", 
+            "originalGravity": "1.054", 
+            "servingTemperature": "cellar", 
+            "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)", 
+            "srm": {
+                "hex": "A13700", 
+                "id": 19, 
+                "name": "19"
+            }, 
+            "srmId": 19, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer style is unusual in that its impetus is to commemorate combinations of ingredients and/or techniques adopted by or unique to a particular region. At least one regional combination of ingredients and/or techniques must be unique and differentiated from ingredients and/or techniques commonly used by brewers throughout the world.  There are many excellent and popular beers that are brewed with either non-traditional or traditional ingredients and/or processes yet their character may distinctively vary from all other styles currently defined or included in these guidelines. These grain-based beers are brewed reflecting local beer culture (process, ingredients, climate, etc.). This category recognizes uniquely local or regional beer types and beers distinctively not defined in any recognized style in these guidelines. They may be light or dark, strong or weak, hoppy or not hoppy. They may have characters which are unique to yeast, fermentation techniques, aging conditions, carbonation level - or higher or lower levels of profound characters normally associated with other beer types. Examples of indigenous beers might include current day versions of highly regional and/or historic styles which are not represented elsewhere in these guidelines, such as Finnish-style sahti, S American chicha, African sorghum based beers, and others. Other examples might include beers made wholly unique by use of multiple local ingredients and/or techniques, with the resulting beer being highly representative of location, as well as differentiated from traditional beer style categories. Beers brewed with non-traditional hop varieties, grains, malt, yeast or other ingredient that still closely approximate an existing classical category would be more appropriately entered into the classical category. New and innovative beers that do not represent locally adopted techniques or grown ingredients would be more appropriately entered into the experimental category. Proper evaluation of entries in this category requires the need to provide  judges with additional information about the beer.  A written summary illustrating the intent, background, history, design and/or development of the beer as well as  describing any regional and/or stylistic context, choice of ingredients, process and any other unique information, helps establish a basis for comparison between highly diverse entries. Entering brewers must provide a statement of 100 words or less illustrating the above and why it is an indigenous beer without revealing the company's identity. This statement should be carefully crafted and will be evaluated by judges and carry significant weight in their decisions. Statements that contain information which might identify or otherwise create bias towards the entry will be modified by the Competition Manager. Entries not accompanied by this information will be at a profound disadvantage during judging.", 
+                "id": 128, 
+                "name": "Indigenous Beer (Lager or Ale)"
+            }, 
+            "styleId": 128, 
+            "updateDate": "2012-04-11 12:00:34"
+        }, 
+        {
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:58", 
+                    "id": "jaLI5s", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Viet Nam", 
+                                "isoCode": "VN", 
+                                "isoThree": "VNM", 
+                                "name": "VIET NAM", 
+                                "numberCode": 704
+                            }, 
+                            "countryIsoCode": "VN", 
+                            "createDate": "2012-01-03 02:41:58", 
+                            "id": "rAHla4", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 19.754371, 
+                            "locality": "Hue", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -155.971195, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Hue", 
+                            "updateDate": "2012-03-21 19:08:11"
+                        }
+                    ], 
+                    "name": "Hue Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-13 18:37:23"
+                }
+            ], 
+            "createDate": "2012-04-13 18:37:23", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "AwtdfW", 
+            "isOrganic": "N", 
+            "name": "Hue Beer", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer style is unusual in that its impetus is to commemorate combinations of ingredients and/or techniques adopted by or unique to a particular region. At least one regional combination of ingredients and/or techniques must be unique and differentiated from ingredients and/or techniques commonly used by brewers throughout the world.  There are many excellent and popular beers that are brewed with either non-traditional or traditional ingredients and/or processes yet their character may distinctively vary from all other styles currently defined or included in these guidelines. These grain-based beers are brewed reflecting local beer culture (process, ingredients, climate, etc.). This category recognizes uniquely local or regional beer types and beers distinctively not defined in any recognized style in these guidelines. They may be light or dark, strong or weak, hoppy or not hoppy. They may have characters which are unique to yeast, fermentation techniques, aging conditions, carbonation level - or higher or lower levels of profound characters normally associated with other beer types. Examples of indigenous beers might include current day versions of highly regional and/or historic styles which are not represented elsewhere in these guidelines, such as Finnish-style sahti, S American chicha, African sorghum based beers, and others. Other examples might include beers made wholly unique by use of multiple local ingredients and/or techniques, with the resulting beer being highly representative of location, as well as differentiated from traditional beer style categories. Beers brewed with non-traditional hop varieties, grains, malt, yeast or other ingredient that still closely approximate an existing classical category would be more appropriately entered into the classical category. New and innovative beers that do not represent locally adopted techniques or grown ingredients would be more appropriately entered into the experimental category. Proper evaluation of entries in this category requires the need to provide  judges with additional information about the beer.  A written summary illustrating the intent, background, history, design and/or development of the beer as well as  describing any regional and/or stylistic context, choice of ingredients, process and any other unique information, helps establish a basis for comparison between highly diverse entries. Entering brewers must provide a statement of 100 words or less illustrating the above and why it is an indigenous beer without revealing the company's identity. This statement should be carefully crafted and will be evaluated by judges and carry significant weight in their decisions. Statements that contain information which might identify or otherwise create bias towards the entry will be modified by the Competition Manager. Entries not accompanied by this information will be at a profound disadvantage during judging.", 
+                "id": 128, 
+                "name": "Indigenous Beer (Lager or Ale)"
+            }, 
+            "styleId": 128, 
+            "updateDate": "2012-04-13 18:37:23"
+        }, 
+        {
+            "abv": "8.2", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:53", 
+                    "description": "The story of Dogfish Head began in June of 1995 when we opened Dogfish Head Brewings & Eats, the first state's first brewpub opened in the resort beach community of Rehoboth Beach, Delaware. The plan was to bring original beer, original food, and original music to the area.\r\n\r\nNot only was Dogfish Head Delaware's first brewpub, it was the smallest commercial brewery in America. Our very first batch, Shelter Pale Ale, was brewed on a system which essentially was three little kegs with propane burners underneath. Brewing 12 gallon batches of beer for a whole restaurant proved to be more than a full time job. When the doors to the pub first opened, we brewed three times a day, five days a week! The one benefit to brewing on such a small system was the ability to try out a myriad of different recipes. We quickly got bored brewing the same things over and over that's when we started adding all sorts of weird ingredients and getting kind of crazy with the beers!", 
+                    "established": "1995", 
+                    "id": "g0jHqt", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/g0jHqt/upload_WaJNQt-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/g0jHqt/upload_WaJNQt-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/g0jHqt/upload_WaJNQt-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:53", 
+                            "id": "Mq24sa", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.770622, 
+                            "locality": "Milton", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -75.310893, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "302-684-1000", 
+                            "postalCode": "19968", 
+                            "region": "Delaware", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6 Cannery Village Center", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.dogfish.com/", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-24 14:58:17", 
+                            "hoursOfOperation": "Open 7 Days, Year Round! Open at noon for LUNCH everyday, & we serve DINNER every night!", 
+                            "id": "57kBD4", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.715362, 
+                            "locality": "Rehoboth Beach", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -75.086898, 
+                            "name": "Dogfish Head Brewings & Eats", 
+                            "openToPublic": "Y", 
+                            "phone": "302-226-2739", 
+                            "postalCode": "19971", 
+                            "region": "Delaware", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "320 Rehoboth Avenue", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.dogfish.com/", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-24 15:01:34", 
+                            "hoursOfOperation": "Monday - Wednesday: 11:30am to 11:00pm\r\nThursday: 11:00am to 11:00pm\r\nFriday-Saturday: 11:00am to 12:00am\r\nSunday: 11:30am to 10:00pm", 
+                            "id": "hRSzMV", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 39.142971, 
+                            "locality": "Gaithersburg", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -77.215924, 
+                            "name": "DFH Alehouse, Gaithersburg", 
+                            "openToPublic": "Y", 
+                            "phone": "301-963-4847", 
+                            "postalCode": "20878", 
+                            "region": "Maryland", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "800 West Diamond Ave.", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.dogfishalehouse.com/dogfish-head-alehouse-gaithersburg.html", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-24 15:03:04", 
+                            "extendedAddress": "Seven Corners Shopping Center", 
+                            "hoursOfOperation": "Monday - Thursday: 11:30am to 11:00pm\r\nFriday - Saturday: 11:30am to 12:00am\r\nSunday: 11:30 am to 10:00pm", 
+                            "id": "JlBnVw", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.870041, 
+                            "locality": "Falls Church", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -77.151446, 
+                            "name": "DFH Alehouse, Falls Church", 
+                            "openToPublic": "Y", 
+                            "phone": "703-534-3342", 
+                            "postalCode": "22044", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6220 Leesburg Pike", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.dogfishalehouse.com/dfh-alehouse-falls-church.html", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-24 15:04:07", 
+                            "hoursOfOperation": "Monday - Thursday: 11:30am to 11:00pm\r\nFriday - Saturday: 11:30am to 12:00am\r\nSunday: 11:30am to 10:00pm", 
+                            "id": "w4ubfN", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.880695, 
+                            "locality": "Fairfax", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -77.397333, 
+                            "name": "DFH Alehouse, Fairfax", 
+                            "openToPublic": "Y", 
+                            "phone": "703-961-1140", 
+                            "postalCode": "22033", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "13041 Lee Jackson Memorial Hwy", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.dogfishalehouse.com/dfh-alehouse-fairfax.html", 
+                            "yearOpened": "1995"
+                        }
+                    ], 
+                    "name": "Dogfish Head Craft Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-24 13:07:38", 
+                    "website": "http://www.dogfish.com/"
+                }, 
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "Maui Brewing Co., with a brewpub in Kahana and production brewery in Lahaina, has built a reputation for creating handcrafted beers brewed using the finest natural ingredients.  We have become one of the area's most popular dining locations and are the island's only microbrewery.  Our menu offers a broad selection of fine foods to satisfy any palate.", 
+                    "established": "2005", 
+                    "id": "fwCFE4", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/fwCFE4/upload_TvmDee-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/fwCFE4/upload_TvmDee-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/fwCFE4/upload_TvmDee-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "id": "08aIUw", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 20.972149, 
+                            "locality": "Lahaina", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -156.677334, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "808-669-3474", 
+                            "postalCode": "96761", 
+                            "region": "Hawaii", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4405 Honoapiilani Highway #217", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://mauibrewingco.com/", 
+                            "yearOpened": "2005"
+                        }
+                    ], 
+                    "name": "Maui Brewing Co.", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-08 19:11:20", 
+                    "website": "http://www.MauiBrewing.com/"
+                }
+            ], 
+            "createDate": "2012-11-20 00:08:34", 
+            "description": "Liquid Breadfruit is an Imperial Golden Ale brewed with \u2018ulu (local Maui breadfruit) and toasted papaya seeds.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 2, 
+                "name": "Goblet"
+            }, 
+            "glasswareId": 2, 
+            "ibu": "25", 
+            "id": "9khLrB", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/9khLrB/upload_wEvQXQ-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/9khLrB/upload_wEvQXQ-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/9khLrB/upload_wEvQXQ-medium.png"
+            }, 
+            "name": "Liquid Breadfruit", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer style is unusual in that its impetus is to commemorate combinations of ingredients and/or techniques adopted by or unique to a particular region. At least one regional combination of ingredients and/or techniques must be unique and differentiated from ingredients and/or techniques commonly used by brewers throughout the world.  There are many excellent and popular beers that are brewed with either non-traditional or traditional ingredients and/or processes yet their character may distinctively vary from all other styles currently defined or included in these guidelines. These grain-based beers are brewed reflecting local beer culture (process, ingredients, climate, etc.). This category recognizes uniquely local or regional beer types and beers distinctively not defined in any recognized style in these guidelines. They may be light or dark, strong or weak, hoppy or not hoppy. They may have characters which are unique to yeast, fermentation techniques, aging conditions, carbonation level - or higher or lower levels of profound characters normally associated with other beer types. Examples of indigenous beers might include current day versions of highly regional and/or historic styles which are not represented elsewhere in these guidelines, such as Finnish-style sahti, S American chicha, African sorghum based beers, and others. Other examples might include beers made wholly unique by use of multiple local ingredients and/or techniques, with the resulting beer being highly representative of location, as well as differentiated from traditional beer style categories. Beers brewed with non-traditional hop varieties, grains, malt, yeast or other ingredient that still closely approximate an existing classical category would be more appropriately entered into the classical category. New and innovative beers that do not represent locally adopted techniques or grown ingredients would be more appropriately entered into the experimental category. Proper evaluation of entries in this category requires the need to provide  judges with additional information about the beer.  A written summary illustrating the intent, background, history, design and/or development of the beer as well as  describing any regional and/or stylistic context, choice of ingredients, process and any other unique information, helps establish a basis for comparison between highly diverse entries. Entering brewers must provide a statement of 100 words or less illustrating the above and why it is an indigenous beer without revealing the company's identity. This statement should be carefully crafted and will be evaluated by judges and carry significant weight in their decisions. Statements that contain information which might identify or otherwise create bias towards the entry will be modified by the Competition Manager. Entries not accompanied by this information will be at a profound disadvantage during judging.", 
+                "id": 128, 
+                "name": "Indigenous Beer (Lager or Ale)"
+            }, 
+            "styleId": 128, 
+            "updateDate": "2013-08-08 19:32:26"
+        }, 
+        {
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "description": "Sixpoint Craft Ales was founded in 2004 by Shane Welch, a former homebrewer that originally grew up in Milwaukee. The microbrewery is located in a 7,000-square-foot (650 m2) factory in in Red Hook, Brooklyn that formerly manufactured filing cabinets. Sixpoint began business by only distributing kegs to local bars and restaurants; instead of bottling its beer, filling growlers at bars were the only way for customers to drink the beer at their homes. \r\n\r\nIn 2011 Sixpoint launched initial canned  offerings of 16 oz, year-round styles Sweet Action, Bengali Tiger, Righteous Ale and The Crisp.  Further releases have included the 12 oz Resin and 3Beans, as well as 16oz seasonal offerings such as Apollo and Autumnation.", 
+                    "established": "2004", 
+                    "id": "7VPQrN", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/7VPQrN/upload_X4w8Lq-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/7VPQrN/upload_X4w8Lq-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/7VPQrN/upload_X4w8Lq-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "id": "QJRQhZ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.6739317, 
+                            "locality": "Brooklyn", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -74.0119473, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "917-696-0438", 
+                            "postalCode": "11231", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "40 Van Dyke St", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.sixpointcraftales.com/", 
+                            "yearOpened": "2005"
+                        }
+                    ], 
+                    "mailingListUrl": "http://sixpoint.com/connect", 
+                    "name": "Sixpoint Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 16:33:25", 
+                    "website": "http://www.sixpoint.com/"
+                }
+            ], 
+            "createDate": "2012-08-27 17:28:00", 
+            "id": "CZ54Vi", 
+            "isOrganic": "N", 
+            "name": "Mad Scientists Series #4: Hibiscus Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer style is unusual in that its impetus is to commemorate combinations of ingredients and/or techniques adopted by or unique to a particular region. At least one regional combination of ingredients and/or techniques must be unique and differentiated from ingredients and/or techniques commonly used by brewers throughout the world.  There are many excellent and popular beers that are brewed with either non-traditional or traditional ingredients and/or processes yet their character may distinctively vary from all other styles currently defined or included in these guidelines. These grain-based beers are brewed reflecting local beer culture (process, ingredients, climate, etc.). This category recognizes uniquely local or regional beer types and beers distinctively not defined in any recognized style in these guidelines. They may be light or dark, strong or weak, hoppy or not hoppy. They may have characters which are unique to yeast, fermentation techniques, aging conditions, carbonation level - or higher or lower levels of profound characters normally associated with other beer types. Examples of indigenous beers might include current day versions of highly regional and/or historic styles which are not represented elsewhere in these guidelines, such as Finnish-style sahti, S American chicha, African sorghum based beers, and others. Other examples might include beers made wholly unique by use of multiple local ingredients and/or techniques, with the resulting beer being highly representative of location, as well as differentiated from traditional beer style categories. Beers brewed with non-traditional hop varieties, grains, malt, yeast or other ingredient that still closely approximate an existing classical category would be more appropriately entered into the classical category. New and innovative beers that do not represent locally adopted techniques or grown ingredients would be more appropriately entered into the experimental category. Proper evaluation of entries in this category requires the need to provide  judges with additional information about the beer.  A written summary illustrating the intent, background, history, design and/or development of the beer as well as  describing any regional and/or stylistic context, choice of ingredients, process and any other unique information, helps establish a basis for comparison between highly diverse entries. Entering brewers must provide a statement of 100 words or less illustrating the above and why it is an indigenous beer without revealing the company's identity. This statement should be carefully crafted and will be evaluated by judges and carry significant weight in their decisions. Statements that contain information which might identify or otherwise create bias towards the entry will be modified by the Competition Manager. Entries not accompanied by this information will be at a profound disadvantage during judging.", 
+                "id": 128, 
+                "name": "Indigenous Beer (Lager or Ale)"
+            }, 
+            "styleId": 128, 
+            "updateDate": "2012-08-28 12:59:42"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 5
+}

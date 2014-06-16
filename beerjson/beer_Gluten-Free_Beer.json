@@ -1,0 +1,2132 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:03", 
+                    "description": "New Planet Beer specializes in great tasting craft ales, that are 100%gluten-free, offering a range of beer styles that can be enjoyed by any craft beer drinker, but especially by those that gluten-free is their only option. Unrivaled in flavor, quality, taste and care, New Planet is everything a craft beer should be.\r\n\r\nThe brand is grounded on what\u2019s good for the earth and for the individual, and is about discovering something better. That\u2019s why New Planet is dedicated to donating a portion of their proceeds to help make the planet better for all of us.", 
+                    "established": "2008", 
+                    "id": "A4WPqG", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/A4WPqG/upload_Y2XZFN-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/A4WPqG/upload_Y2XZFN-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/A4WPqG/upload_Y2XZFN-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:03", 
+                            "extendedAddress": "Ste. 103 \u2013 PMB 116", 
+                            "id": "4DRoMy", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.0476644, 
+                            "locality": "Boulder", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -105.2820644, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "303-842-5656", 
+                            "postalCode": "80304", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3980 Broadway", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://newplanetbeer.com/", 
+                            "yearOpened": "2008"
+                        }
+                    ], 
+                    "name": "New Planet Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 21:39:02", 
+                    "website": "http://newplanetbeer.com/"
+                }
+            ], 
+            "createDate": "2013-08-08 17:23:52", 
+            "description": "A truly drinkable amber ale with a balanced malt profile, lightly toasted caramel notes and subtle citrus hints on the finish.", 
+            "foodPairings": "Suggested pairings:  With the balance malt profile and notes of caramel and citrus, we suggest\u2026\u2026\r\n\r\nBBQ pork & brisket, lamb and game meat or smoked salmon\r\nMilder & fuller flavored cheeses \u2013 Smoked Gouda, Manchego or even a Camembert/Brie\r\nVeggie options: Eggplant or Portobello mushroom would be a great fit too", 
+            "ibu": "31", 
+            "id": "b1IaEU", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/b1IaEU/upload_w8H8QU-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/b1IaEU/upload_w8H8QU-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/b1IaEU/upload_w8H8QU-medium.png"
+            }, 
+            "name": "Amber Ale", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2013-08-09 09:00:34"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:03", 
+                    "description": "New Planet Beer specializes in great tasting craft ales, that are 100%gluten-free, offering a range of beer styles that can be enjoyed by any craft beer drinker, but especially by those that gluten-free is their only option. Unrivaled in flavor, quality, taste and care, New Planet is everything a craft beer should be.\r\n\r\nThe brand is grounded on what\u2019s good for the earth and for the individual, and is about discovering something better. That\u2019s why New Planet is dedicated to donating a portion of their proceeds to help make the planet better for all of us.", 
+                    "established": "2008", 
+                    "id": "A4WPqG", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/A4WPqG/upload_Y2XZFN-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/A4WPqG/upload_Y2XZFN-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/A4WPqG/upload_Y2XZFN-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:03", 
+                            "extendedAddress": "Ste. 103 \u2013 PMB 116", 
+                            "id": "4DRoMy", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.0476644, 
+                            "locality": "Boulder", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -105.2820644, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "303-842-5656", 
+                            "postalCode": "80304", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3980 Broadway", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://newplanetbeer.com/", 
+                            "yearOpened": "2008"
+                        }
+                    ], 
+                    "name": "New Planet Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 21:39:02", 
+                    "website": "http://newplanetbeer.com/"
+                }
+            ], 
+            "createDate": "2013-08-08 17:29:45", 
+            "description": "An ale created with a distinctly Belgian character. Bright, crisp and refreshing with subtle spice and honey notes. \r\n\r\nSpring/Summer Seasonal", 
+            "foodPairings": "Suggested pairings:  \r\n\r\nDue to the spice, citrus and honey notes, our Belgian pairs beautifully with a range of foods. Try\u2026\u2026\r\n\r\nMussels, Crab and Calamari (and other light seafood\u2019s).\r\nSharp cheeses \u2013 especially a Belgian Blue or Gruyere.\r\nSpring green salads topped with Grilled salmon or chicken and a citrus based vinaigrette.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 8, 
+                "name": "Tulip"
+            }, 
+            "glasswareId": 8, 
+            "ibu": "26", 
+            "id": "pekCXM", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/pekCXM/upload_9a0NN4-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/pekCXM/upload_9a0NN4-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/pekCXM/upload_9a0NN4-medium.png"
+            }, 
+            "name": "Belgian Ale", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2013-08-09 09:00:45"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:03", 
+                    "description": "New Planet Beer specializes in great tasting craft ales, that are 100%gluten-free, offering a range of beer styles that can be enjoyed by any craft beer drinker, but especially by those that gluten-free is their only option. Unrivaled in flavor, quality, taste and care, New Planet is everything a craft beer should be.\r\n\r\nThe brand is grounded on what\u2019s good for the earth and for the individual, and is about discovering something better. That\u2019s why New Planet is dedicated to donating a portion of their proceeds to help make the planet better for all of us.", 
+                    "established": "2008", 
+                    "id": "A4WPqG", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/A4WPqG/upload_Y2XZFN-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/A4WPqG/upload_Y2XZFN-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/A4WPqG/upload_Y2XZFN-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:03", 
+                            "extendedAddress": "Ste. 103 \u2013 PMB 116", 
+                            "id": "4DRoMy", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.0476644, 
+                            "locality": "Boulder", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -105.2820644, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "303-842-5656", 
+                            "postalCode": "80304", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3980 Broadway", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://newplanetbeer.com/", 
+                            "yearOpened": "2008"
+                        }
+                    ], 
+                    "name": "New Planet Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 21:39:02", 
+                    "website": "http://newplanetbeer.com/"
+                }
+            ], 
+            "createDate": "2013-08-08 17:17:23", 
+            "description": "Light and refreshing, our Blonde Ale \u2013 Formerly known as Tread Lightly Ale \u2013 offers bright notes of honey and a subtle floral aroma with a crisp clean finish.", 
+            "foodPairings": "Suggested Pairings: Lighter foods pair best with the Blonde Ale given it\u2019s more straight forward taste profile. Try..\r\n\r\nMontery Jack cheese or similar light, nutty cheese\r\n\r\nGrilled chicken,  Salmon or Bratwurst\r\n\r\nFresh summer salads\r\n\r\nSomething with citrus in it as the orange peel will accent those flavors", 
+            "ibu": "15", 
+            "id": "MNqxvc", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/MNqxvc/upload_5hqq2U-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/MNqxvc/upload_5hqq2U-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/MNqxvc/upload_5hqq2U-medium.png"
+            }, 
+            "name": "Blonde Ale", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2013-08-08 17:39:46"
+        }, 
+        {
+            "abv": "3.9", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:09", 
+                    "id": "MxQYL3", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-01-03 02:42:09", 
+                            "id": "mAe67E", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 52.45058, 
+                            "locality": "Bungay", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 1.44284, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "44-(01986)-782322", 
+                            "region": "Suffolk", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "St Peter's Hall", 
+                            "updateDate": "2012-03-21 19:08:17"
+                        }
+                    ], 
+                    "name": "St Peter's Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:09"
+                }
+            ], 
+            "createDate": "2014-04-10 21:53:38", 
+            "description": "Suffolk grown, Sovereign bittering hops provide the floral notes for this full bodied beer, which is Gluten free and suitable for coeliacs.", 
+            "id": "MHAWku", 
+            "isOrganic": "N", 
+            "name": "Dark G-Free", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2014-04-12 21:33:37"
+        }, 
+        {
+            "abv": "4.7", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "The Yak and Yeti Brewpub is located in Olde Town Arvada and resides in an 1864 haunted Victorian brick mansion. Our 7 barrel brewhouse can be seen from the lobby near the bar. \r\n\r\nAll our beers are handcrafted by our brewmaster, Adam Draeger. Seasonals beers are released monthly and sometimes weekly. Stop by for pint of craft beer or take home a growler today.", 
+                    "established": "2008", 
+                    "id": "De8Q5F", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/De8Q5F/upload_BrArvM-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/De8Q5F/upload_BrArvM-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/De8Q5F/upload_BrArvM-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "id": "kH2X3V", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 39.8536985, 
+                            "locality": "Westminster", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -105.0529843, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "303-426-1976", 
+                            "postalCode": "80003", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "8665 N Sheridan Bvld", 
+                            "updateDate": "2013-08-14 18:43:05", 
+                            "website": "http://www.theyakandyeti.com/", 
+                            "yearOpened": "2001"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:16", 
+                            "hoursOfOperation": "Mon - Sat: 11:00 am - 9:30 pm\r\nSun: 11:00 am - 9:00 pm", 
+                            "id": "RzRrsp", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.802325, 
+                            "locality": "Arvada", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -105.084091, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "303-431-9000", 
+                            "postalCode": "80002", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "7803 Ralston Road", 
+                            "updateDate": "2013-08-14 18:43:03", 
+                            "website": "http://www.theyakandyeti.com/", 
+                            "yearOpened": "2008"
+                        }
+                    ], 
+                    "name": "Yak & Yeti Brewpub", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-22 13:13:07", 
+                    "website": "http://www.theyakandyeti.com/"
+                }
+            ], 
+            "createDate": "2012-09-29 17:10:16", 
+            "description": "GF stands for gluten-free as this ale is made iwht cider and sorghum. Looks like a cider, tastes likes a cider but is still technically an ale. (a hop pellet for good measure)", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "8X4zTK", 
+            "isOrganic": "N", 
+            "name": "GF Apple Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2013-07-29 23:14:50"
+        }, 
+        {
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:54", 
+                    "description": "The Fenton Winery and Brewery is the place to be when you're past the 'bar' scene.  A full production winery and brewery offering 13 micro-brewed beers, over 20 wines, a wonderful food menu, and a warm and relaxing atmosphere, you're sure to have found your new home.  There is a solid line-up of 9 regular beers and 4 rotating taps that help keep things interesting.  Pair our beer with our great food menu, live music, and casual conversation with friends, and you have yourself a new favorite hangout.", 
+                    "established": "2008", 
+                    "id": "MV2TXe", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/MV2TXe/upload_1xn3S3-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/MV2TXe/upload_1xn3S3-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/MV2TXe/upload_1xn3S3-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:54", 
+                            "hoursOfOperation": "M-TH: 3-10pm\r\nFri: 3-midnight\r\nSat: 1-midnight\r\nClosed Sunday", 
+                            "id": "BSsTGw", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.818872, 
+                            "locality": "Fenton", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.707637, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "810-373-4194", 
+                            "postalCode": "48430", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1545 N. Leroy St", 
+                            "updateDate": "2012-06-22 12:16:08", 
+                            "website": "http://fentonbrewery.com/", 
+                            "yearOpened": "2008"
+                        }
+                    ], 
+                    "name": "Fenton Winery & Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-06-30 03:34:32", 
+                    "website": "http://fentonbrewery.com/"
+                }
+            ], 
+            "createDate": "2012-06-22 12:47:09", 
+            "description": "We've had a lot of requests for a gluten free beer.  So many, in fact, that we decided to develop a recipe to quench the thirst of those that can't have gluten.  This beer used buckwheat that was malted in-house, rice syrup, honey and Cascade hops.", 
+            "id": "gplI5n", 
+            "isOrganic": "N", 
+            "name": "Gluten for Punishment Cream Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2012-06-22 12:47:09"
+        }, 
+        {
+            "abv": "7.9", 
+            "breweries": [
+                {
+                    "createDate": "2013-07-30 00:12:45", 
+                    "description": "The Big Rip was founded by two friends who caught the beer and wine making bug years ago and decided to throw in together to start this brewery. We don\u2019t have goals of taking over the world or creating beer that only appeals to a select few. Instead, we want to create unique beers that appeal to both beer-nerds and beer-curious people.", 
+                    "established": "2012", 
+                    "id": "HxJ67V", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/HxJ67V/upload_C26ABp-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/HxJ67V/upload_C26ABp-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/HxJ67V/upload_C26ABp-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-30 00:16:29", 
+                            "hoursOfOperation": "Friday: Noon \u2013 10pm\r\nSaturday: Noon \u2013 10pm\r\nSunday: Noon \u2013 4pm", 
+                            "id": "fRelsm", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.1259484, 
+                            "locality": "Kansas City", 
+                            "locationType": "nano", 
+                            "locationTypeDisplay": "Nano Brewery", 
+                            "longitude": -94.5786205, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "64116", 
+                            "region": "Missouri", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "216 E 9th Ave.", 
+                            "updateDate": "2013-07-30 00:20:07", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Big Rip Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-07-30 00:20:03", 
+                    "website": "http://bigripbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-07-30 00:18:00", 
+            "id": "IIzS3a", 
+            "isOrganic": "N", 
+            "name": "Gluten Free Pomegranate Blueberry", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2013-07-30 00:18:01"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-06-15 13:18:30", 
+                    "description": "In 2009 Walt and Luke sat at a craft beer bar and talked about the dream of opening their own brewery that would focus on big West Coast hoppy ales and authentic Belgain ales that would inspire those who drank them. From that conversation forward there would be no looking back. A business plan was developed and hundreds of test batches brewed. In 2011 Walt and Luke\u2019s lifelong friend Ryan Guthy and his parents Rick and Denise all sat down at their house in the mountains of Western North Carolina to taste some of Luke and Walt\u2019s creations while looking over the plans for what would be Wicked Weed Brewing.  After being thoroughly impressed with the full flavor and vision of the project, the Guthys joined the Dickinsons and the team was assembled.  Over the next months Wicked Weed Brewing found a home at 91 Biltmore avenue, a building that seemed destined to be a brewery.\r\nWith the creativity of Luke, vision of Walt, dedication of Ryan, exquisite taste of Denise and wisdom of Rick a truly unique brewery was born.  So from the humble beginning of a basement, the dream of Wicked Weed Brewing has come to life. Our beer is bold, full of excitement and flavor.  Always focused on drinkability and pushing the boundaries of what we think we are capable of.  Wicked Weed Brewing will always evolve, always grow and always aspire to be greater.  Join us in bringing something a little Wicked to Asheville.", 
+                    "established": "2012", 
+                    "id": "zeWbuM", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/zeWbuM/upload_rxRe0d-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/zeWbuM/upload_rxRe0d-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/zeWbuM/upload_rxRe0d-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-06-15 13:19:17", 
+                            "id": "90gAzo", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.591695, 
+                            "locality": "Asheville", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -82.551084, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "828-575-9599", 
+                            "postalCode": "28801", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "91 Biltmore Ave", 
+                            "updateDate": "2013-08-04 13:03:19", 
+                            "website": "http://wickedweedbrewing.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Wicked Weed Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-06-12 11:31:23", 
+                    "website": "http://wickedweedbrewing.com/"
+                }
+            ], 
+            "createDate": "2014-05-07 13:04:11", 
+            "description": "Gluten FREEk is Asheville\u2019s first gluten reduced beer. Crafted for those with a gluten intolerance who are sick of drinking beer that doesn\u2019t taste like beer, Freek was brewed with loads of hops and a similar grain bill to Freak of Nature DIPA. This ale is designed to be big, hoppy, and uniquely Wicked Weed. Gluten FREEk contains less than 10ppm of gluten.", 
+            "id": "VYn3DX", 
+            "isOrganic": "N", 
+            "name": "Gluten FREEk", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2014-05-07 13:04:11"
+        }, 
+        {
+            "abv": "5.3", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:54", 
+                    "description": "EPIC Brewing Company opened in May 2010 with six fermentation tanks, but an increase in space and brewing capacity has given brewers the flexibility to create beers that have yet to be imagined. Epic has doubled is capacity twice in the past three years and in the summer of 2013 opened an additional brewery in Denver, CO.  \r\n\r\nIn only a few short months after opening, Epic began earning medals for its beers domestically and internationally. Now brewing over 35 distinctly different beers we believe there is an Epic brew for your tastes, at the right place and the right time. At Epic, everyone is here to help you make the perfect beer match.", 
+                    "established": "2008", 
+                    "id": "1qGLTN", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/1qGLTN/upload_pxkIFU-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/1qGLTN/upload_pxkIFU-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/1qGLTN/upload_pxkIFU-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:54", 
+                            "hoursOfOperation": "Mon - Thu: 11:00 am - 9:00 pm\r\nFri - Sat: 10:00 am - 11:00 pm", 
+                            "id": "w0rLnG", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.7511051, 
+                            "locality": "Salt Lake City", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -111.8878836, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "801-906-0123", 
+                            "postalCode": "84111", 
+                            "region": "Utah", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "825 S. State Street", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://www.epicbrewing.com/", 
+                            "yearOpened": "2008"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-10-20 16:58:54", 
+                            "hoursOfOperation": "The taproom hours are Monday through Thursday, 12:00 pm \u2013 9:00 pm, Friday and Saturday, 12:00 pm \u2013 10:00 pm and Sunday from 11:00 am \u2013 8:00 pm. Brewery tours are held Thursday and Friday at 3:30pm and Saturday and Sunday at 12:00, 2:00, 4:00 and 6:00.", 
+                            "id": "D6jVuJ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 39.7633439, 
+                            "locality": "Denver", 
+                            "locationType": "tasting", 
+                            "locationTypeDisplay": "Tasting Room", 
+                            "longitude": -104.981419, 
+                            "name": "Taproom & Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "80205", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3001 Walnut St", 
+                            "updateDate": "2013-10-20 16:58:54", 
+                            "website": "http://www.epicbrewing.com/", 
+                            "yearOpened": "2013"
+                        }
+                    ], 
+                    "name": "EPIC Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 16:31:24", 
+                    "website": "http://www.epicbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-08-23 18:02:57", 
+            "description": "You won't find any astringent sorghum in this beer. Instead we use light-bodied millet, brown rice, sweet potatoes and molasses along with plenty of American hops. This beer has a golden color, aromas of hops and sweet potatoes with a sweet grain flavor and a clean, sorghum-free finish. A gluten-free beer for everybody!", 
+            "foodPairings": "Lighter foods including salads, chicken and fish.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "zkhydk", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/zkhydk/upload_PefCAc-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/zkhydk/upload_PefCAc-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/zkhydk/upload_PefCAc-medium.png"
+            }, 
+            "name": "Glutenator", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2013-08-17 14:17:18"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2013-07-30 00:43:27", 
+                    "description": "Martin City Brewing Company is Kansas City\u2019s newest family owned restaurant and pub.  It sits nestled in Martin City, near the train tracks.  Martin City Brewing Company has a one of a kind food menu with top-notch chefs on staff.  There are over 50 different brews to choose from.  Not only will one find a cozy space inside the pub, but one can enjoy the beer garden and live music on any given weekend night.  With chain restaurants taking over the American landscape, this restaurant/tavern is a great escape from \u201cthe norm.\u201d  The newly remodeled hundred-year-old building is far from your ordinary place next door.  Make Martin City Brewing Company your next night out and your neighborhood hotspot!!", 
+                    "established": "2013", 
+                    "id": "lECKjF", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/lECKjF/upload_ERc9Tp-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/lECKjF/upload_ERc9Tp-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/lECKjF/upload_ERc9Tp-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-30 00:44:38", 
+                            "hoursOfOperation": "Monday - Saturday 11am to 1:30am\r\nSunday 11am - Midnight", 
+                            "id": "8iY0UW", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.882854, 
+                            "locality": "Kansas City", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -94.589789, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "816.268.2222", 
+                            "postalCode": "64145", 
+                            "region": "Missouri", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "500 E 135th Street", 
+                            "updateDate": "2013-07-30 00:44:38", 
+                            "yearOpened": "2013"
+                        }
+                    ], 
+                    "name": "Martin City Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-07-30 00:45:28", 
+                    "website": "http://martincitybrewingcompany.com/"
+                }
+            ], 
+            "createDate": "2013-07-30 00:45:45", 
+            "id": "2Liowr", 
+            "isOrganic": "N", 
+            "name": "Kech-uh'p", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2013-07-30 00:45:46"
+        }, 
+        {
+            "abv": "5.7", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:00", 
+                    "description": "Milwaukee\u2019s own Lakefront Brewery Inc. started in 1987.  The industrious and inventive microbrewery located on the Milwaukee River has become a Milwaukee landmark.  Its rich history includes partnerships with local taverns, preservation of local historical pieces, unique tours, family style dining options and most importantly, great beer.", 
+                    "established": "1987", 
+                    "id": "Gcm31t", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Gcm31t/upload_sxYPO5-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Gcm31t/upload_sxYPO5-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Gcm31t/upload_sxYPO5-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:00", 
+                            "hoursOfOperation": "See Website: http://www.lakefrontbrewery.com/details_details.html", 
+                            "id": "ksUh6Y", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.055092, 
+                            "locality": "Milwaukee", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -87.905281, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "414-372-8800", 
+                            "postalCode": "53212", 
+                            "region": "Wisconsin", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1872 North Commerce Street", 
+                            "updateDate": "2012-04-22 23:38:32", 
+                            "website": "http://www.lakefrontbrewery.com/", 
+                            "yearOpened": "1987"
+                        }
+                    ], 
+                    "mailingListUrl": "https://www.vendini.com/ticket-software.html?j=8483931a86f26f60b3a321bce670914a&t=join", 
+                    "name": "Lakefront Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-23 16:49:43", 
+                    "website": "http://www.lakefrontbrewery.com/"
+                }
+            ], 
+            "createDate": "2012-04-22 23:35:51", 
+            "description": "New Grist is a one-of-akind beer brewed without wheat or barley: the first of its kind that can be enjoyed by those with Celiac Disease. It is the first beer to be certified gluten-free by the US Government. Each batch we brew is tested for its gluten contents before it is bottled and shipped.\r\nNew Grist is brewed from sorghum, rice, hops, water, yeast. These ingredients are carefully combined to form a crisp, refreshing \"session ale: brewed for those on a gluten-free diet, or anyone with an appreciation for a great tasting, handmade beer.\r\n\r\nIt pours a brilliant gold color, with a bubbly head and light, fruity aroma. The flavor is crisp and refreshing, fruity and smooth at the same time. Hints of green apple slice through the maltiness of the sorghum, making this an extremely quaffable beer.", 
+            "foodPairings": "A great pairing with grilled veggies and fish, also very good with a burger and fries.", 
+            "id": "gHeLd6", 
+            "isOrganic": "N", 
+            "name": "New Grist", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2012-08-29 17:07:47"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:03", 
+                    "description": "New Planet Beer specializes in great tasting craft ales, that are 100%gluten-free, offering a range of beer styles that can be enjoyed by any craft beer drinker, but especially by those that gluten-free is their only option. Unrivaled in flavor, quality, taste and care, New Planet is everything a craft beer should be.\r\n\r\nThe brand is grounded on what\u2019s good for the earth and for the individual, and is about discovering something better. That\u2019s why New Planet is dedicated to donating a portion of their proceeds to help make the planet better for all of us.", 
+                    "established": "2008", 
+                    "id": "A4WPqG", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/A4WPqG/upload_Y2XZFN-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/A4WPqG/upload_Y2XZFN-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/A4WPqG/upload_Y2XZFN-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:03", 
+                            "extendedAddress": "Ste. 103 \u2013 PMB 116", 
+                            "id": "4DRoMy", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.0476644, 
+                            "locality": "Boulder", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -105.2820644, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "303-842-5656", 
+                            "postalCode": "80304", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3980 Broadway", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://newplanetbeer.com/", 
+                            "yearOpened": "2008"
+                        }
+                    ], 
+                    "name": "New Planet Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 21:39:02", 
+                    "website": "http://newplanetbeer.com/"
+                }
+            ], 
+            "createDate": "2013-08-08 17:15:38", 
+            "description": "New Planet Beer\u2019s Pale Ale \u2013 Formerly Off Grid Pale Ale - is reminiscent of a classic American Pale Ale, offering bold hop character and rich caramel and grapefruit notes with a clean yet distinctly hoppy finish.", 
+            "foodPairings": "The hop bitterness contrasts with spicy, heat-charred, smoky, or aromatic flavors. Try:\r\n\r\nBlue cheese\r\n\r\nBarbeque\r\n\r\nSeafood\r\n\r\nAsian spiced dishes.", 
+            "ibu": "50", 
+            "id": "k489mB", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/k489mB/upload_zthlSn-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/k489mB/upload_zthlSn-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/k489mB/upload_zthlSn-medium.png"
+            }, 
+            "name": "Pale Ale", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2013-08-08 17:39:49"
+        }, 
+        {
+            "abv": "6.1", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:56", 
+                    "description": "When the first Goose Island Brewpub opened its doors in 1988, domestic, mass-produced beer was deeply ingrained in Midwestern culture. The craft beer industry was still in its infancy, with only a handful of brewpubs in existence in the Midwest. In his travels across Europe, beer-lover John Hall had enjoyed a distinctive local brew in each region he visited. Hall was convinced that Midwesterners could produce beers as good or better than those he\u2019d tasted in his travels. Living on the shore of the largest system of fresh water on the planet Earth, in a city with rapidly evolving tastes \u2013 John decided that his hometown, Chicago, would be the ideal place to do just that.\r\n\r\nThe key to building interest in craft beer, Hall decided, was to allow consumers to watch the brewing process \u2013 while providing them with the then-novel experience of enjoying a wide variety of distinctive beers that had been produced on-site. Hall wanted to not only cater to his customers\u2019 tastes, but to challenge them as well. Goose Island\u2019s brewers set to work crafting a diverse selection of unique beers \u2013 and on Friday, May 13, 1988 the Goose Island Brewpub was born.\r\n\r\nIt turned out that John was right; Chicagoans palates evolved rapidly once Goose Island\u2019s Brewpub opened its doors and introduced the city to distinctive craft beer. By 1995, the brewpub had become so popular that John Hall decided to open a larger brewery and bottling plant to keep up with demand. Finding still more room for growth, in 1999 Hall opened a second Goose Island Brewpub just a stone\u2019s throw away from historic Wrigley Field.\r\n\r\nToday, Goose Island continues to brew an innovative selection of over 50 craft beers at the brewpub, the best of which are then bottled at our Fulton Street brewery. Goose Island beers are now enjoyed in all 50 states and Europe.", 
+                    "established": "1995", 
+                    "id": "APW1BC", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/APW1BC/upload_ouqMGQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/APW1BC/upload_ouqMGQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/APW1BC/upload_ouqMGQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:56", 
+                            "id": "S2n5TB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.887107, 
+                            "locality": "Chicago", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -87.6720969, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-800-466-7363", 
+                            "postalCode": "60612", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1800 West Fulton Street", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.gooseisland.com/", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:15", 
+                            "id": "D2gG2C", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 41.9137478, 
+                            "locality": "Chicago", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -87.6543466, 
+                            "name": "Clybourn", 
+                            "openToPublic": "N", 
+                            "phone": "800-466-7363", 
+                            "postalCode": "60614", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1800 North Clybourn Avenue", 
+                            "updateDate": "2013-09-18 10:48:09", 
+                            "yearOpened": "1995"
+                        }
+                    ], 
+                    "name": "Goose Island Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 21:59:02", 
+                    "website": "http://www.gooseisland.com/"
+                }
+            ], 
+            "createDate": "2012-08-20 14:40:57", 
+            "description": "Cherry blossom color, Ruby Red grapefruit aroma, effervescent citrus flavor, light body.\r\n\r\n* Does not contain ingredients from a gluten source\r\n* This beer has not yet been certified gluten-free", 
+            "id": "dtVJE5", 
+            "isOrganic": "N", 
+            "name": "Queen-OA", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2012-08-20 17:33:43"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:03", 
+                    "description": "New Planet Beer specializes in great tasting craft ales, that are 100%gluten-free, offering a range of beer styles that can be enjoyed by any craft beer drinker, but especially by those that gluten-free is their only option. Unrivaled in flavor, quality, taste and care, New Planet is everything a craft beer should be.\r\n\r\nThe brand is grounded on what\u2019s good for the earth and for the individual, and is about discovering something better. That\u2019s why New Planet is dedicated to donating a portion of their proceeds to help make the planet better for all of us.", 
+                    "established": "2008", 
+                    "id": "A4WPqG", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/A4WPqG/upload_Y2XZFN-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/A4WPqG/upload_Y2XZFN-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/A4WPqG/upload_Y2XZFN-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:03", 
+                            "extendedAddress": "Ste. 103 \u2013 PMB 116", 
+                            "id": "4DRoMy", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.0476644, 
+                            "locality": "Boulder", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -105.2820644, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "303-842-5656", 
+                            "postalCode": "80304", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3980 Broadway", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://newplanetbeer.com/", 
+                            "yearOpened": "2008"
+                        }
+                    ], 
+                    "name": "New Planet Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 21:39:02", 
+                    "website": "http://newplanetbeer.com/"
+                }
+            ], 
+            "createDate": "2013-08-08 17:26:35", 
+            "description": "This delightfully drinkable ale offers a crisp, yet complex, balance of subtle fruit flavor and aroma, with a zesty, citrusy finish. Brewed with natural raspberry puree and orange peel.", 
+            "foodPairings": "Pairings: Best paired with foods driven by herbs and spices, especially fruit elements. Try:\r\n\r\nLight white meats like chicken or pork, especially when prepared with a fruit glaze\r\nSalads with fruit based dressings\r\nDeserts could be mascarpone cheese, chiffon cakes, and souffl\u00e9s,\r\nOr keep it simple, and delicious, and go with some nice dark chocolate!\r\n\r\nAdd a splash of OJ for a BeerMosa!", 
+            "ibu": "15", 
+            "id": "DL1ONv", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/DL1ONv/upload_oVvA1Q-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/DL1ONv/upload_oVvA1Q-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/DL1ONv/upload_oVvA1Q-medium.png"
+            }, 
+            "name": "Raspberry Ale", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2013-08-09 09:05:12"
+        }, 
+        {
+            "abv": "4", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:44", 
+                    "description": "Anheuser-Busch operates 12 breweries in the United States, 14 in China and one in the United Kingdom. Anheuser-Busch's operations and resources are focused on adding to life's enjoyment not only through the responsible consumption of beer by adults, but through theme park entertainment and packaging.  In the United States, the company holds a 48.5 percent share of U.S. beer sales. Worldwide, Anheuser-Busch's beer sales volume was 128.4 million barrels in 2007.  The St. Louis-based company's subsidiaries include one of the largest U.S. manufacturers of aluminum beverage containers and one of the world's largest recyclers of aluminum beverage cans. Anheuser-Busch also has interests in malt production, rice milling, real estate development, turf farming, metalized and paper label printing, bottle production and transportation services.", 
+                    "established": "1852", 
+                    "id": "BznahA", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/BznahA/upload_1PzrC7-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/BznahA/upload_1PzrC7-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/BznahA/upload_1PzrC7-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:44", 
+                            "hoursOfOperation": "September though May\r\nMon-Sat: 10 a.m. - 4 p.m.\r\nSun: 11:30 a.m. - 4 p.m.\r\n\r\nJune though August\r\nMon-Sat: 9 a.m. - 5 p.m.\r\nSun: 11:30 a.m. - 5 p.m.", 
+                            "id": "ZApGug", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.5985037, 
+                            "locality": "Saint Louis", 
+                            "locationType": "macro", 
+                            "locationTypeDisplay": "Macro Brewery", 
+                            "longitude": -90.2093428, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(314) 577-2626", 
+                            "postalCode": "63118", 
+                            "region": "Missouri", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "One Busch Place", 
+                            "updateDate": "2014-01-05 22:48:18", 
+                            "website": "http://www.anheuser-busch.com/", 
+                            "yearOpened": "1852"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:02:01", 
+                            "id": "doVlXA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 40.6169416, 
+                            "locality": "Fort Collins", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -105.0018273, 
+                            "name": "Fort Collins", 
+                            "openToPublic": "N", 
+                            "phone": "(970) 490-4500", 
+                            "postalCode": "80524", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2351 Busch Dr", 
+                            "updateDate": "2013-07-13 23:02:01", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:02:44", 
+                            "id": "G8EZgb", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 34.2210112, 
+                            "locality": "Van Nuys", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -118.4768522, 
+                            "name": "Los Angeles", 
+                            "openToPublic": "N", 
+                            "phone": "(818) 989-5300", 
+                            "postalCode": "91406", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "15800 Roscoe Blvd", 
+                            "updateDate": "2013-07-13 23:02:44", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:03:49", 
+                            "id": "sRxNq2", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 43.1624453, 
+                            "locality": "Baldwinsville", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -76.3096615, 
+                            "name": "Baldwinsville", 
+                            "openToPublic": "N", 
+                            "phone": "(315) 635-4000", 
+                            "postalCode": "13027", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2885 Belgium Rd", 
+                            "updateDate": "2013-07-13 23:03:49", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:04:45", 
+                            "id": "UlgBzT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 34.2558728, 
+                            "locality": "Cartersville", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -84.7831874, 
+                            "name": "Cartersville", 
+                            "openToPublic": "N", 
+                            "phone": "(770) 386-2000", 
+                            "postalCode": "30121", 
+                            "region": "Georgia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "100 Busch Dr NE", 
+                            "updateDate": "2013-07-13 23:04:45", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:05:39", 
+                            "id": "75P08u", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 40.102482, 
+                            "locality": "Columbus", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -82.9933123, 
+                            "name": "Columbus", 
+                            "openToPublic": "N", 
+                            "phone": "(614) 888-6644", 
+                            "postalCode": "43229", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "700 Schrock Rd", 
+                            "updateDate": "2013-07-13 23:05:39", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:06:25", 
+                            "id": "jP7oIL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.236362, 
+                            "locality": "Fairfield", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -122.091866, 
+                            "name": "Fairfield", 
+                            "openToPublic": "N", 
+                            "phone": "(707) 429-2000", 
+                            "postalCode": "94534", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3101 Busch Dr", 
+                            "updateDate": "2013-07-13 23:06:25", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:07:07", 
+                            "id": "LiqcRm", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 29.773088, 
+                            "locality": "Houston", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -95.269255, 
+                            "name": "Houston", 
+                            "openToPublic": "N", 
+                            "phone": "(713) 675-2311", 
+                            "postalCode": "77029", 
+                            "region": "Texas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "775 Gellhorn Dr", 
+                            "updateDate": "2013-07-13 23:07:07", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:07:42", 
+                            "id": "y2ZQbD", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 30.433924, 
+                            "locality": "Jacksonville", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -81.650619, 
+                            "name": "Jacksonville", 
+                            "openToPublic": "N", 
+                            "phone": "(904) 751-0700", 
+                            "postalCode": "32218", 
+                            "region": "Florida", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "111 Busch Dr", 
+                            "updateDate": "2013-07-13 23:07:42", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:08:31", 
+                            "hoursOfOperation": "Mon: 10:00 am - 4:00 pm\r\nThu - Sun: 10:00 am - 4:00 pm", 
+                            "id": "aMIEke", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 42.8287766, 
+                            "locality": "Merrimack", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -71.4911518, 
+                            "name": "Merrimack", 
+                            "openToPublic": "Y", 
+                            "phone": "(603) 595-1202", 
+                            "postalCode": "03054", 
+                            "region": "New Hampshire", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "221 Daniel Webster Hwy", 
+                            "updateDate": "2014-01-05 22:50:01", 
+                            "website": "http://anheuser-busch.com/", 
+                            "yearOpened": "1970"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:09:14", 
+                            "id": "Cg12u5", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 40.7067437, 
+                            "locality": "Newark", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -74.1736086, 
+                            "name": "Newark", 
+                            "openToPublic": "N", 
+                            "phone": "(973) 645-7700", 
+                            "postalCode": "07114", 
+                            "region": "New Jersey", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "200 US Highway 1", 
+                            "updateDate": "2013-07-13 23:09:14", 
+                            "website": "http://anheuser-busch.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-13 23:09:54", 
+                            "id": "ozjr3W", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 37.2381215, 
+                            "locality": "Williamsburg", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": -76.652522, 
+                            "name": "Williamsburg", 
+                            "openToPublic": "N", 
+                            "phone": "(757) 253-3600", 
+                            "postalCode": "23185", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "7801 Pocahontas Trail", 
+                            "updateDate": "2013-07-13 23:09:54", 
+                            "website": "http://anheuser-busch.com/"
+                        }
+                    ], 
+                    "name": "Anheuser-Busch InBev", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-15 12:54:43", 
+                    "website": "http://www.anheuser-busch.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:04", 
+            "description": "Redbridge beer doesn't need to make promises to stand out from the crowd; its very essence sets it apart. Redbridge is made without wheat or barley, so the approximately 3.2 million consumers who are unable to drink beer made with barley due to Celiac Disease or because they follow a wheat-free or gluten-free diet can once again enjoy a great tasting beer. Redbridge is a rich, full-bodied lager brewed from sorghum for a well-balanced, moderately hopped taste.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "7aeVlx", 
+            "isOrganic": "N", 
+            "name": "Redbridge", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2013-11-08 23:40:09"
+        }, 
+        {
+            "abv": "6", 
+            "breweries": [
+                {
+                    "createDate": "2013-07-22 23:15:18", 
+                    "description": "Gillette Wyoming's first and finest brewery in the heart of downtown.  We have a relaxed atmosphere and the finest craft brewed beer around.", 
+                    "established": "2012", 
+                    "id": "F0L4y2", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/F0L4y2/upload_iK4EjB-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/F0L4y2/upload_iK4EjB-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/F0L4y2/upload_iK4EjB-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-23 13:22:49", 
+                            "hoursOfOperation": "Thu - Sat: 4:00 pm - 11:00 pm", 
+                            "id": "5lZzL3", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.2921909, 
+                            "locality": "Gillette", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -105.5039389, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(307) 670-8948", 
+                            "postalCode": "82716", 
+                            "region": "Wyoming", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "301 South Gillette Avenue", 
+                            "updateDate": "2013-07-23 13:22:49", 
+                            "website": "http://www.gillettebrewingcompany.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Gillette Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-09 11:44:35", 
+                    "website": "http://www.gillettebrewingcompany.com"
+                }
+            ], 
+            "createDate": "2013-07-22 23:23:10", 
+            "ibu": "21", 
+            "id": "7JgscW", 
+            "isOrganic": "N", 
+            "name": "Silly Yak GFA", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2013-07-23 13:23:50"
+        }, 
+        {
+            "abv": "6.8", 
+            "breweries": [
+                {
+                    "createDate": "2012-09-21 16:53:20", 
+                    "description": "Steadfast Beer Co. proudly produces delicious, Gluten-Free craft beer! Look for our first offering, Steadfast Sorghum Pale Ale, in the Gluten-Free section of your favorite Capital Region beer stores! If you want your local bar or restaurant to carry our beer, please tell them to email us - we'll take care of the rest!\r\n\r\nWe are dedicated to producing Gluten-Free beers that are high in quality and full of flavor. Every day, more Americans are switching to craft beer because IT TASTES GOOD! For those folks who follow a Gluten-Free diet by choice or by necessity and still want to experience the taste of craft beer, Steadfast Beer Co. thinks outside the box, while thinking about what's inside the bottle. Creatively-written recipes and attention to detail make Steadfast a Gluten-Free beer that you can trust!", 
+                    "established": "2009", 
+                    "id": "5bK52w", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-09-21 16:53:56", 
+                            "id": "ESE8VL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.651445, 
+                            "locality": "Albany", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -73.755254, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "N", 
+                            "postalCode": "12207", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2012-09-21 16:53:56", 
+                            "website": "http://www.steadfastbeer.com/"
+                        }
+                    ], 
+                    "name": "Steadfast Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-09-21 16:53:28", 
+                    "website": "http://www.steadfastbeer.com/"
+                }
+            ], 
+            "createDate": "2013-05-08 19:43:39", 
+            "description": "Flavorful, aromatic, satisfying... things you\u2019re probably not used to saying about the Gluten-Free beer in your fridge. Think again! Steadfast Sorghum Pale Ale is our Gluten-Free take on a quintessential American beer style. Made with sorghum, molasses, invert sugar, and an aggressive hop profile, this ale lives where quality and flavor intersect. Thank you for your support - you have ours. Together, we\u2019re Steadfast!", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "ERj441", 
+            "isOrganic": "N", 
+            "name": "Sorghum Pale Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2013-05-11 15:00:55"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Available during the spring months.", 
+                "id": 5, 
+                "name": "Spring"
+            }, 
+            "availableId": 5, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:53", 
+                    "description": "The story of Dogfish Head began in June of 1995 when we opened Dogfish Head Brewings & Eats, the first state's first brewpub opened in the resort beach community of Rehoboth Beach, Delaware. The plan was to bring original beer, original food, and original music to the area.\r\n\r\nNot only was Dogfish Head Delaware's first brewpub, it was the smallest commercial brewery in America. Our very first batch, Shelter Pale Ale, was brewed on a system which essentially was three little kegs with propane burners underneath. Brewing 12 gallon batches of beer for a whole restaurant proved to be more than a full time job. When the doors to the pub first opened, we brewed three times a day, five days a week! The one benefit to brewing on such a small system was the ability to try out a myriad of different recipes. We quickly got bored brewing the same things over and over that's when we started adding all sorts of weird ingredients and getting kind of crazy with the beers!", 
+                    "established": "1995", 
+                    "id": "g0jHqt", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/g0jHqt/upload_WaJNQt-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/g0jHqt/upload_WaJNQt-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/g0jHqt/upload_WaJNQt-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:53", 
+                            "id": "Mq24sa", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.770622, 
+                            "locality": "Milton", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -75.310893, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "302-684-1000", 
+                            "postalCode": "19968", 
+                            "region": "Delaware", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6 Cannery Village Center", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.dogfish.com/", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-24 14:58:17", 
+                            "hoursOfOperation": "Open 7 Days, Year Round! Open at noon for LUNCH everyday, & we serve DINNER every night!", 
+                            "id": "57kBD4", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.715362, 
+                            "locality": "Rehoboth Beach", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -75.086898, 
+                            "name": "Dogfish Head Brewings & Eats", 
+                            "openToPublic": "Y", 
+                            "phone": "302-226-2739", 
+                            "postalCode": "19971", 
+                            "region": "Delaware", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "320 Rehoboth Avenue", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.dogfish.com/", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-24 15:01:34", 
+                            "hoursOfOperation": "Monday - Wednesday: 11:30am to 11:00pm\r\nThursday: 11:00am to 11:00pm\r\nFriday-Saturday: 11:00am to 12:00am\r\nSunday: 11:30am to 10:00pm", 
+                            "id": "hRSzMV", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 39.142971, 
+                            "locality": "Gaithersburg", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -77.215924, 
+                            "name": "DFH Alehouse, Gaithersburg", 
+                            "openToPublic": "Y", 
+                            "phone": "301-963-4847", 
+                            "postalCode": "20878", 
+                            "region": "Maryland", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "800 West Diamond Ave.", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.dogfishalehouse.com/dogfish-head-alehouse-gaithersburg.html", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-24 15:03:04", 
+                            "extendedAddress": "Seven Corners Shopping Center", 
+                            "hoursOfOperation": "Monday - Thursday: 11:30am to 11:00pm\r\nFriday - Saturday: 11:30am to 12:00am\r\nSunday: 11:30 am to 10:00pm", 
+                            "id": "JlBnVw", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.870041, 
+                            "locality": "Falls Church", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -77.151446, 
+                            "name": "DFH Alehouse, Falls Church", 
+                            "openToPublic": "Y", 
+                            "phone": "703-534-3342", 
+                            "postalCode": "22044", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6220 Leesburg Pike", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.dogfishalehouse.com/dfh-alehouse-falls-church.html", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-24 15:04:07", 
+                            "hoursOfOperation": "Monday - Thursday: 11:30am to 11:00pm\r\nFriday - Saturday: 11:30am to 12:00am\r\nSunday: 11:30am to 10:00pm", 
+                            "id": "w4ubfN", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.880695, 
+                            "locality": "Fairfax", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -77.397333, 
+                            "name": "DFH Alehouse, Fairfax", 
+                            "openToPublic": "Y", 
+                            "phone": "703-961-1140", 
+                            "postalCode": "22033", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "13041 Lee Jackson Memorial Hwy", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.dogfishalehouse.com/dfh-alehouse-fairfax.html", 
+                            "yearOpened": "1995"
+                        }
+                    ], 
+                    "name": "Dogfish Head Craft Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-24 13:07:38", 
+                    "website": "http://www.dogfish.com/"
+                }
+            ], 
+            "createDate": "2012-04-23 23:50:56", 
+            "description": "Between the seasons, we have a special release - a gluten-free beer. But not just any gluten-free beer -- a gluten-free with gusto!\r\n\r\n\"It seems as if lots of folks who have gluten-tolerance issues are pining for an interesting beer,\" says Dogfish founder and president Sam Calagione. \"While there are a few well-made examples that mirror traditional beer styles, there arent any off-centered offerings.\"\r\n\r\nEnter Tweason'ale.\r\n\r\nFor our first new 12-ounce 4-packs in nearly half a decade, we replaced the classic barley foundation of beer with a mild sorghum base. The hints of molasses and pit-fruit are balanced by vibrant strawberry notes and a unique complexity that comes with the addition of a malty buckwheat honey.\r\n\r\nWe believe health-conscious beer drinkers and the millions of Americans who suffer from Celiac disease can cut back on gluten while relishing the distinction and drinkability of this very special brew.\r\n\r\nTweasonale is a seasonal for between the seasons. It first hit shelves in late January 2012 and will be released four times a year through our national network of distributors.", 
+            "foodPairings": "Fatty fish, dried fruit, salted nuts", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "Qx1hbt", 
+            "ingredients": {
+                "misc": [
+                    {
+                        "category": "misc", 
+                        "categoryDisplay": "Miscellaneous", 
+                        "createDate": "2013-06-24 16:08:25", 
+                        "id": 1186, 
+                        "name": "honey, buckwheat"
+                    }, 
+                    {
+                        "category": "misc", 
+                        "categoryDisplay": "Miscellaneous", 
+                        "createDate": "2013-06-24 16:08:48", 
+                        "id": 1444, 
+                        "name": "Strawberries"
+                    }
+                ]
+            }, 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Qx1hbt/upload_WRLXal-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Qx1hbt/upload_WRLXal-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Qx1hbt/upload_WRLXal-medium.png"
+            }, 
+            "name": "Tweason'ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "A beer (lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten, in other words zero gluten (No barley, wheat, spelt, oats, rye, etc). May or may not contain malted grains that do not contain gluten. Brewers may or may not design and identify these beers along other style guidelines with regard to flavor, aroma and appearance profile. The beer's overall balance and character should be based on its own merits and not necessarily compared with traditional styles of beer. In competitions, brewers identify ingredients and fermentation type. NOTE: These guidelines do not supersede any government regulations. Wine, mead, flavored malt beverages or beverages other than beer as defined by the TTB (U.S. Trade and Tax Bureau) are not considered \"gluten-free beer\" under these guidelines.", 
+                "id": 127, 
+                "name": "Gluten-Free Beer"
+            }, 
+            "styleId": 127, 
+            "updateDate": "2013-02-23 13:53:28"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 18
+}

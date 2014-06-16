@@ -1,0 +1,1771 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2013-06-27 15:30:02", 
+                    "description": "After several years as home mead makers, we are thrilled to be opening Starrlight Mead. We have had a fantastic time making mead and meeting mead drinkers from all over the world, and now its our turn to share our love of mead with all of you!\r\n\r\nBecky Starr, Owner, Sales/Tasting Room Manager\r\nBen Starr, Owner, Wine/Meadmaker\r\n\r\nWe first discovered mead in CA at the Southern California Renaissance Pleasure Faire. Several years later, we found friends that were home brewing mead with good results. We decided to try our hand at it too.\r\n\r\nIn February 2006, we entered our first competition and took Best in Show out of over 210 entries in the home mead-maker category at the International Mead Association\u2019s Mead Festival. The competition was judged by seven professionals in the mead industry; including Ken Schramm, author of The Compleat Mead Maker, and meadery owners from around the world. The Best in Show prize was selected from the gold medal winners in nine categories. Our \u201cStarrlight Mulled Apple Cyser\u201d was awarded not only the gold medal in the cyser (mead made with apples) category, but was also selected as the best overall representation of mead making. It was at that point we decided to try creating a business from our love of mead.\r\n\r\nBen shares his expertise and love of brewing by conducting demonstrations and workshops on mead making in the local community. We also organize and conduct the local Mead Day celebration each August (since 2005) and are a key part of the product tasting team for mead reviews on Gotmead.com. Becky worked with Chatham Hill Winery for 2 years learning tasting room and wine club management. We are members of the Chatham County Beekeepers Association, and the NC Winegrowers Association.", 
+                    "established": "2009", 
+                    "id": "Hdz6Zk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-27 15:32:51", 
+                            "extendedAddress": "Suite 1000", 
+                            "hoursOfOperation": "Regular Hours\r\nThursdays and Fridays from noon til 6 pm\r\n\r\nSaturdays from noon til 6 pm\r\nMeadery tours at 1 pm, 3 pm & 5 pm.\r\n\r\nSundays from 1 pm til 5 pm\r\nMeadery tours at 2 pm & 4 pm.", 
+                            "id": "XPKDbB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.7269418, 
+                            "locality": "Pittsboro", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.1752021, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "919-533-6314", 
+                            "postalCode": "27312", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "480 Hillsboro Street", 
+                            "updateDate": "2013-06-27 15:32:51", 
+                            "website": "http://starrlightmead.com"
+                        }
+                    ], 
+                    "name": "Starrlight Mead", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-27 15:34:55", 
+                    "website": "http://starrlightmead.com"
+                }
+            ], 
+            "createDate": "2013-06-27 15:37:20", 
+            "description": "The mint family is well known for aiding digestion and calming effects. Flavors of light, fresh mint-crisp with a natural sweetness.", 
+            "id": "4ryN66", 
+            "isOrganic": "N", 
+            "name": "Apple Mint", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-06-27 15:47:57"
+        }, 
+        {
+            "abv": "12.5", 
+            "breweries": [
+                {
+                    "createDate": "2013-06-27 15:30:02", 
+                    "description": "After several years as home mead makers, we are thrilled to be opening Starrlight Mead. We have had a fantastic time making mead and meeting mead drinkers from all over the world, and now its our turn to share our love of mead with all of you!\r\n\r\nBecky Starr, Owner, Sales/Tasting Room Manager\r\nBen Starr, Owner, Wine/Meadmaker\r\n\r\nWe first discovered mead in CA at the Southern California Renaissance Pleasure Faire. Several years later, we found friends that were home brewing mead with good results. We decided to try our hand at it too.\r\n\r\nIn February 2006, we entered our first competition and took Best in Show out of over 210 entries in the home mead-maker category at the International Mead Association\u2019s Mead Festival. The competition was judged by seven professionals in the mead industry; including Ken Schramm, author of The Compleat Mead Maker, and meadery owners from around the world. The Best in Show prize was selected from the gold medal winners in nine categories. Our \u201cStarrlight Mulled Apple Cyser\u201d was awarded not only the gold medal in the cyser (mead made with apples) category, but was also selected as the best overall representation of mead making. It was at that point we decided to try creating a business from our love of mead.\r\n\r\nBen shares his expertise and love of brewing by conducting demonstrations and workshops on mead making in the local community. We also organize and conduct the local Mead Day celebration each August (since 2005) and are a key part of the product tasting team for mead reviews on Gotmead.com. Becky worked with Chatham Hill Winery for 2 years learning tasting room and wine club management. We are members of the Chatham County Beekeepers Association, and the NC Winegrowers Association.", 
+                    "established": "2009", 
+                    "id": "Hdz6Zk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-27 15:32:51", 
+                            "extendedAddress": "Suite 1000", 
+                            "hoursOfOperation": "Regular Hours\r\nThursdays and Fridays from noon til 6 pm\r\n\r\nSaturdays from noon til 6 pm\r\nMeadery tours at 1 pm, 3 pm & 5 pm.\r\n\r\nSundays from 1 pm til 5 pm\r\nMeadery tours at 2 pm & 4 pm.", 
+                            "id": "XPKDbB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.7269418, 
+                            "locality": "Pittsboro", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.1752021, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "919-533-6314", 
+                            "postalCode": "27312", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "480 Hillsboro Street", 
+                            "updateDate": "2013-06-27 15:32:51", 
+                            "website": "http://starrlightmead.com"
+                        }
+                    ], 
+                    "name": "Starrlight Mead", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-27 15:34:55", 
+                    "website": "http://starrlightmead.com"
+                }
+            ], 
+            "createDate": "2013-06-27 15:37:22", 
+            "description": "Our Blackberry Mead is sweet, tangy and bursting with flavor! Serve chilled with beef or pork. Or try it with a lemon flavored dessert or as a reduction over pound cake!", 
+            "id": "hBhBFX", 
+            "isOrganic": "N", 
+            "name": "Blackberry Mead", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-06-27 15:38:53"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2013-06-27 15:30:02", 
+                    "description": "After several years as home mead makers, we are thrilled to be opening Starrlight Mead. We have had a fantastic time making mead and meeting mead drinkers from all over the world, and now its our turn to share our love of mead with all of you!\r\n\r\nBecky Starr, Owner, Sales/Tasting Room Manager\r\nBen Starr, Owner, Wine/Meadmaker\r\n\r\nWe first discovered mead in CA at the Southern California Renaissance Pleasure Faire. Several years later, we found friends that were home brewing mead with good results. We decided to try our hand at it too.\r\n\r\nIn February 2006, we entered our first competition and took Best in Show out of over 210 entries in the home mead-maker category at the International Mead Association\u2019s Mead Festival. The competition was judged by seven professionals in the mead industry; including Ken Schramm, author of The Compleat Mead Maker, and meadery owners from around the world. The Best in Show prize was selected from the gold medal winners in nine categories. Our \u201cStarrlight Mulled Apple Cyser\u201d was awarded not only the gold medal in the cyser (mead made with apples) category, but was also selected as the best overall representation of mead making. It was at that point we decided to try creating a business from our love of mead.\r\n\r\nBen shares his expertise and love of brewing by conducting demonstrations and workshops on mead making in the local community. We also organize and conduct the local Mead Day celebration each August (since 2005) and are a key part of the product tasting team for mead reviews on Gotmead.com. Becky worked with Chatham Hill Winery for 2 years learning tasting room and wine club management. We are members of the Chatham County Beekeepers Association, and the NC Winegrowers Association.", 
+                    "established": "2009", 
+                    "id": "Hdz6Zk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-27 15:32:51", 
+                            "extendedAddress": "Suite 1000", 
+                            "hoursOfOperation": "Regular Hours\r\nThursdays and Fridays from noon til 6 pm\r\n\r\nSaturdays from noon til 6 pm\r\nMeadery tours at 1 pm, 3 pm & 5 pm.\r\n\r\nSundays from 1 pm til 5 pm\r\nMeadery tours at 2 pm & 4 pm.", 
+                            "id": "XPKDbB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.7269418, 
+                            "locality": "Pittsboro", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.1752021, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "919-533-6314", 
+                            "postalCode": "27312", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "480 Hillsboro Street", 
+                            "updateDate": "2013-06-27 15:32:51", 
+                            "website": "http://starrlightmead.com"
+                        }
+                    ], 
+                    "name": "Starrlight Mead", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-27 15:34:55", 
+                    "website": "http://starrlightmead.com"
+                }
+            ], 
+            "createDate": "2013-06-27 15:37:23", 
+            "description": "Our limited release Blackberry Off-dry Mead is our honey homage to red wine. With a full berry nose, and a taste that is tart blackberry balanced with the warm flavors of oak and vanilla, this luscious gem is the perfect complement to a romantic evening. Serve at cellar temperature with beef or pork, or chill slightly, if you prefer.", 
+            "foodPairings": "beef or pork", 
+            "id": "JVPzOy", 
+            "isOrganic": "N", 
+            "name": "Blackberry Off-Dry Mead", 
+            "servingTemperature": "cellar", 
+            "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-06-27 15:39:21"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2013-01-24 11:58:59", 
+                    "description": "Known for the most amazing and creative alcoholic beverages made from honey. B. Nektar is a world-wide sensation.\r\n\r\nTo boldly go where no meadery has gone before. To prove to you that the horrible mead your best friend made one time in college is NOT what a good mead should taste like. To show you that mead doesn't HAVE to be sweet. To educate you on the different styles of mead. To bring mead into the mainstream, but still maintain our integrity. To everyday thank my mom and tell her that I love her (shouldn't we all?).", 
+                    "established": "2006", 
+                    "id": "GOh8Oi", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-01-24 12:01:16", 
+                            "extendedAddress": "Suite B", 
+                            "hoursOfOperation": "Fri: 5:30 pm - 10:00 pm\r\nSat: 1:00 pm - 7:00 pm", 
+                            "id": "aQpHNT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.453829, 
+                            "locality": "Ferndale", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.1139, 
+                            "name": "Main Meadery", 
+                            "openToPublic": "Y", 
+                            "phone": "(313) 744-6323", 
+                            "postalCode": "48220", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1481 Wordsworth", 
+                            "updateDate": "2014-05-19 12:58:26", 
+                            "website": "http://www.bnektar.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "B. Nektar Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-24 12:00:24", 
+                    "website": "http://www.bnektar.com/"
+                }
+            ], 
+            "createDate": "2013-01-24 12:02:34", 
+            "id": "V4ytqc", 
+            "isOrganic": "N", 
+            "name": "Bourbon Barrel Mead", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-04-22 03:36:48"
+        }, 
+        {
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2013-06-27 15:30:02", 
+                    "description": "After several years as home mead makers, we are thrilled to be opening Starrlight Mead. We have had a fantastic time making mead and meeting mead drinkers from all over the world, and now its our turn to share our love of mead with all of you!\r\n\r\nBecky Starr, Owner, Sales/Tasting Room Manager\r\nBen Starr, Owner, Wine/Meadmaker\r\n\r\nWe first discovered mead in CA at the Southern California Renaissance Pleasure Faire. Several years later, we found friends that were home brewing mead with good results. We decided to try our hand at it too.\r\n\r\nIn February 2006, we entered our first competition and took Best in Show out of over 210 entries in the home mead-maker category at the International Mead Association\u2019s Mead Festival. The competition was judged by seven professionals in the mead industry; including Ken Schramm, author of The Compleat Mead Maker, and meadery owners from around the world. The Best in Show prize was selected from the gold medal winners in nine categories. Our \u201cStarrlight Mulled Apple Cyser\u201d was awarded not only the gold medal in the cyser (mead made with apples) category, but was also selected as the best overall representation of mead making. It was at that point we decided to try creating a business from our love of mead.\r\n\r\nBen shares his expertise and love of brewing by conducting demonstrations and workshops on mead making in the local community. We also organize and conduct the local Mead Day celebration each August (since 2005) and are a key part of the product tasting team for mead reviews on Gotmead.com. Becky worked with Chatham Hill Winery for 2 years learning tasting room and wine club management. We are members of the Chatham County Beekeepers Association, and the NC Winegrowers Association.", 
+                    "established": "2009", 
+                    "id": "Hdz6Zk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-27 15:32:51", 
+                            "extendedAddress": "Suite 1000", 
+                            "hoursOfOperation": "Regular Hours\r\nThursdays and Fridays from noon til 6 pm\r\n\r\nSaturdays from noon til 6 pm\r\nMeadery tours at 1 pm, 3 pm & 5 pm.\r\n\r\nSundays from 1 pm til 5 pm\r\nMeadery tours at 2 pm & 4 pm.", 
+                            "id": "XPKDbB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.7269418, 
+                            "locality": "Pittsboro", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.1752021, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "919-533-6314", 
+                            "postalCode": "27312", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "480 Hillsboro Street", 
+                            "updateDate": "2013-06-27 15:32:51", 
+                            "website": "http://starrlightmead.com"
+                        }
+                    ], 
+                    "name": "Starrlight Mead", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-27 15:34:55", 
+                    "website": "http://starrlightmead.com"
+                }
+            ], 
+            "createDate": "2013-06-27 15:37:24", 
+            "description": "Chamomile has long been prized for its relaxant effects. Beautiful floral and honey with a light grassy note.", 
+            "id": "vp8nYP", 
+            "isOrganic": "N", 
+            "name": "Chamomile Mead", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-06-27 15:48:04"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2013-01-24 11:58:59", 
+                    "description": "Known for the most amazing and creative alcoholic beverages made from honey. B. Nektar is a world-wide sensation.\r\n\r\nTo boldly go where no meadery has gone before. To prove to you that the horrible mead your best friend made one time in college is NOT what a good mead should taste like. To show you that mead doesn't HAVE to be sweet. To educate you on the different styles of mead. To bring mead into the mainstream, but still maintain our integrity. To everyday thank my mom and tell her that I love her (shouldn't we all?).", 
+                    "established": "2006", 
+                    "id": "GOh8Oi", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-01-24 12:01:16", 
+                            "extendedAddress": "Suite B", 
+                            "hoursOfOperation": "Fri: 5:30 pm - 10:00 pm\r\nSat: 1:00 pm - 7:00 pm", 
+                            "id": "aQpHNT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.453829, 
+                            "locality": "Ferndale", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.1139, 
+                            "name": "Main Meadery", 
+                            "openToPublic": "Y", 
+                            "phone": "(313) 744-6323", 
+                            "postalCode": "48220", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1481 Wordsworth", 
+                            "updateDate": "2014-05-19 12:58:26", 
+                            "website": "http://www.bnektar.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "B. Nektar Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-24 12:00:24", 
+                    "website": "http://www.bnektar.com/"
+                }
+            ], 
+            "createDate": "2013-01-24 12:02:35", 
+            "id": "7Ohi03", 
+            "isOrganic": "N", 
+            "name": "Dry Orange Blossom", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-01-24 12:02:36"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2013-01-24 11:58:59", 
+                    "description": "Known for the most amazing and creative alcoholic beverages made from honey. B. Nektar is a world-wide sensation.\r\n\r\nTo boldly go where no meadery has gone before. To prove to you that the horrible mead your best friend made one time in college is NOT what a good mead should taste like. To show you that mead doesn't HAVE to be sweet. To educate you on the different styles of mead. To bring mead into the mainstream, but still maintain our integrity. To everyday thank my mom and tell her that I love her (shouldn't we all?).", 
+                    "established": "2006", 
+                    "id": "GOh8Oi", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-01-24 12:01:16", 
+                            "extendedAddress": "Suite B", 
+                            "hoursOfOperation": "Fri: 5:30 pm - 10:00 pm\r\nSat: 1:00 pm - 7:00 pm", 
+                            "id": "aQpHNT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.453829, 
+                            "locality": "Ferndale", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.1139, 
+                            "name": "Main Meadery", 
+                            "openToPublic": "Y", 
+                            "phone": "(313) 744-6323", 
+                            "postalCode": "48220", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1481 Wordsworth", 
+                            "updateDate": "2014-05-19 12:58:26", 
+                            "website": "http://www.bnektar.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "B. Nektar Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-24 12:00:24", 
+                    "website": "http://www.bnektar.com/"
+                }
+            ], 
+            "createDate": "2013-01-24 12:02:36", 
+            "id": "jiQW9U", 
+            "isOrganic": "N", 
+            "name": "Ethiopean Harrar Mead", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-01-24 12:02:36"
+        }, 
+        {
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2013-06-27 15:30:02", 
+                    "description": "After several years as home mead makers, we are thrilled to be opening Starrlight Mead. We have had a fantastic time making mead and meeting mead drinkers from all over the world, and now its our turn to share our love of mead with all of you!\r\n\r\nBecky Starr, Owner, Sales/Tasting Room Manager\r\nBen Starr, Owner, Wine/Meadmaker\r\n\r\nWe first discovered mead in CA at the Southern California Renaissance Pleasure Faire. Several years later, we found friends that were home brewing mead with good results. We decided to try our hand at it too.\r\n\r\nIn February 2006, we entered our first competition and took Best in Show out of over 210 entries in the home mead-maker category at the International Mead Association\u2019s Mead Festival. The competition was judged by seven professionals in the mead industry; including Ken Schramm, author of The Compleat Mead Maker, and meadery owners from around the world. The Best in Show prize was selected from the gold medal winners in nine categories. Our \u201cStarrlight Mulled Apple Cyser\u201d was awarded not only the gold medal in the cyser (mead made with apples) category, but was also selected as the best overall representation of mead making. It was at that point we decided to try creating a business from our love of mead.\r\n\r\nBen shares his expertise and love of brewing by conducting demonstrations and workshops on mead making in the local community. We also organize and conduct the local Mead Day celebration each August (since 2005) and are a key part of the product tasting team for mead reviews on Gotmead.com. Becky worked with Chatham Hill Winery for 2 years learning tasting room and wine club management. We are members of the Chatham County Beekeepers Association, and the NC Winegrowers Association.", 
+                    "established": "2009", 
+                    "id": "Hdz6Zk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-27 15:32:51", 
+                            "extendedAddress": "Suite 1000", 
+                            "hoursOfOperation": "Regular Hours\r\nThursdays and Fridays from noon til 6 pm\r\n\r\nSaturdays from noon til 6 pm\r\nMeadery tours at 1 pm, 3 pm & 5 pm.\r\n\r\nSundays from 1 pm til 5 pm\r\nMeadery tours at 2 pm & 4 pm.", 
+                            "id": "XPKDbB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.7269418, 
+                            "locality": "Pittsboro", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.1752021, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "919-533-6314", 
+                            "postalCode": "27312", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "480 Hillsboro Street", 
+                            "updateDate": "2013-06-27 15:32:51", 
+                            "website": "http://starrlightmead.com"
+                        }
+                    ], 
+                    "name": "Starrlight Mead", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-27 15:34:55", 
+                    "website": "http://starrlightmead.com"
+                }
+            ], 
+            "createDate": "2013-06-27 15:37:25", 
+            "description": "Ginger's warming properties have been recognized for years, especially in Asian cultures. Light floral nose with intense Ginger flavor and a slight burn.", 
+            "id": "Y8rbhq", 
+            "isOrganic": "N", 
+            "name": "Ginger Mead", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-06-27 15:48:12"
+        }, 
+        {
+            "abv": "13", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:48", 
+                    "description": "Like most things, there are various ways to make mead. At Brothers Drake, our philosophy on making mead is based on the following principles:\r\n\r\n1. Start Local: We buy local honey, support local agriculture, and produce a local product.\r\n\r\n2. Use the Best: We look for the highest quality local product on the market, ordering from the best from the source closest to Ohio.\r\n\r\n3. No Heat: We do not boil our honey or any water used in production. The No Heat Method keeps honey flavors true to the source and a better mead.\r\n\r\n4. No Added Sulfites: Unlike grapes which have wild yeast growing on them, honey is naturally antiseptic and antibiotic, so no sulfites needed.\r\n\r\n5. Build community: We share our knowledge openly and are grateful to people everywhere who ask questions, share their perspective, and engage in an open collaborative dialogue on mead-making.\r\n\r\n6. Embrace creativity: Our mead can be paired with wonderful cheeses, appetizers, and entrees, as well as used in cooking and in mixed drinks.\r\n\r\nThese basic principles guide our craft, our partnerships, and our practices. We look forward to sharing a drink with you!", 
+                    "id": "IEFRaK", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:48", 
+                            "id": "0Y6wSh", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.987311, 
+                            "locality": "Columbus", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.004595, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "614-388-8765", 
+                            "postalCode": "43201", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "26 E. 5th Avenue", 
+                            "updateDate": "2012-03-21 19:08:04", 
+                            "website": "http://brothersdrake.com/"
+                        }
+                    ], 
+                    "name": "Brothers Drake Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-06-16 20:17:24", 
+                    "website": "http://brothersdrake.com/"
+                }
+            ], 
+            "createDate": "2012-06-10 20:57:47", 
+            "description": "We put our dry traditional mead on oak staves to add a barrel aged character.  Strong honey on the nose gives way to caramel flavors and woody tones.  Oak rounds out the dry finish.  Honey Oak complements anything on the grill.  Goes nicely with conversation at the bar.", 
+            "id": "4CiUOb", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/4CiUOb/upload_LAj14X-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/4CiUOb/upload_LAj14X-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/4CiUOb/upload_LAj14X-medium.png"
+            }, 
+            "name": "Honey Oak", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2012-06-10 23:48:25"
+        }, 
+        {
+            "abv": "12.5", 
+            "available": {
+                "description": "Available during the fall months.", 
+                "id": 7, 
+                "name": "Fall"
+            }, 
+            "availableId": 7, 
+            "breweries": [
+                {
+                    "createDate": "2013-06-27 15:30:02", 
+                    "description": "After several years as home mead makers, we are thrilled to be opening Starrlight Mead. We have had a fantastic time making mead and meeting mead drinkers from all over the world, and now its our turn to share our love of mead with all of you!\r\n\r\nBecky Starr, Owner, Sales/Tasting Room Manager\r\nBen Starr, Owner, Wine/Meadmaker\r\n\r\nWe first discovered mead in CA at the Southern California Renaissance Pleasure Faire. Several years later, we found friends that were home brewing mead with good results. We decided to try our hand at it too.\r\n\r\nIn February 2006, we entered our first competition and took Best in Show out of over 210 entries in the home mead-maker category at the International Mead Association\u2019s Mead Festival. The competition was judged by seven professionals in the mead industry; including Ken Schramm, author of The Compleat Mead Maker, and meadery owners from around the world. The Best in Show prize was selected from the gold medal winners in nine categories. Our \u201cStarrlight Mulled Apple Cyser\u201d was awarded not only the gold medal in the cyser (mead made with apples) category, but was also selected as the best overall representation of mead making. It was at that point we decided to try creating a business from our love of mead.\r\n\r\nBen shares his expertise and love of brewing by conducting demonstrations and workshops on mead making in the local community. We also organize and conduct the local Mead Day celebration each August (since 2005) and are a key part of the product tasting team for mead reviews on Gotmead.com. Becky worked with Chatham Hill Winery for 2 years learning tasting room and wine club management. We are members of the Chatham County Beekeepers Association, and the NC Winegrowers Association.", 
+                    "established": "2009", 
+                    "id": "Hdz6Zk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-27 15:32:51", 
+                            "extendedAddress": "Suite 1000", 
+                            "hoursOfOperation": "Regular Hours\r\nThursdays and Fridays from noon til 6 pm\r\n\r\nSaturdays from noon til 6 pm\r\nMeadery tours at 1 pm, 3 pm & 5 pm.\r\n\r\nSundays from 1 pm til 5 pm\r\nMeadery tours at 2 pm & 4 pm.", 
+                            "id": "XPKDbB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.7269418, 
+                            "locality": "Pittsboro", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.1752021, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "919-533-6314", 
+                            "postalCode": "27312", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "480 Hillsboro Street", 
+                            "updateDate": "2013-06-27 15:32:51", 
+                            "website": "http://starrlightmead.com"
+                        }
+                    ], 
+                    "name": "Starrlight Mead", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-27 15:34:55", 
+                    "website": "http://starrlightmead.com"
+                }
+            ], 
+            "createDate": "2013-06-27 15:37:26", 
+            "description": "Our mead with Peppers! This wine has the juicy flavors of Cranberry and Orange, kicked up a notch with local, jalapeno peppers from Granite Springs Farm in Pittsboro. This mead has a great smokey nose and starts out fruity, then moves to smokey with a little bit of heat! Serve slightly chilled with everything from backed chicken to a BLT, to shrimp and grits!", 
+            "id": "ASaPrH", 
+            "isOrganic": "N", 
+            "name": "Kickin' Cranberry Orange Mead", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-06-27 15:40:43"
+        }, 
+        {
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2013-06-27 15:30:02", 
+                    "description": "After several years as home mead makers, we are thrilled to be opening Starrlight Mead. We have had a fantastic time making mead and meeting mead drinkers from all over the world, and now its our turn to share our love of mead with all of you!\r\n\r\nBecky Starr, Owner, Sales/Tasting Room Manager\r\nBen Starr, Owner, Wine/Meadmaker\r\n\r\nWe first discovered mead in CA at the Southern California Renaissance Pleasure Faire. Several years later, we found friends that were home brewing mead with good results. We decided to try our hand at it too.\r\n\r\nIn February 2006, we entered our first competition and took Best in Show out of over 210 entries in the home mead-maker category at the International Mead Association\u2019s Mead Festival. The competition was judged by seven professionals in the mead industry; including Ken Schramm, author of The Compleat Mead Maker, and meadery owners from around the world. The Best in Show prize was selected from the gold medal winners in nine categories. Our \u201cStarrlight Mulled Apple Cyser\u201d was awarded not only the gold medal in the cyser (mead made with apples) category, but was also selected as the best overall representation of mead making. It was at that point we decided to try creating a business from our love of mead.\r\n\r\nBen shares his expertise and love of brewing by conducting demonstrations and workshops on mead making in the local community. We also organize and conduct the local Mead Day celebration each August (since 2005) and are a key part of the product tasting team for mead reviews on Gotmead.com. Becky worked with Chatham Hill Winery for 2 years learning tasting room and wine club management. We are members of the Chatham County Beekeepers Association, and the NC Winegrowers Association.", 
+                    "established": "2009", 
+                    "id": "Hdz6Zk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-27 15:32:51", 
+                            "extendedAddress": "Suite 1000", 
+                            "hoursOfOperation": "Regular Hours\r\nThursdays and Fridays from noon til 6 pm\r\n\r\nSaturdays from noon til 6 pm\r\nMeadery tours at 1 pm, 3 pm & 5 pm.\r\n\r\nSundays from 1 pm til 5 pm\r\nMeadery tours at 2 pm & 4 pm.", 
+                            "id": "XPKDbB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.7269418, 
+                            "locality": "Pittsboro", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.1752021, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "919-533-6314", 
+                            "postalCode": "27312", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "480 Hillsboro Street", 
+                            "updateDate": "2013-06-27 15:32:51", 
+                            "website": "http://starrlightmead.com"
+                        }
+                    ], 
+                    "name": "Starrlight Mead", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-27 15:34:55", 
+                    "website": "http://starrlightmead.com"
+                }
+            ], 
+            "createDate": "2013-06-27 15:37:27", 
+            "description": "Lavender is known for its floral nose and relaxing benefits. Heady floral with a slight rose flavor.", 
+            "id": "mmJE0i", 
+            "isOrganic": "N", 
+            "name": "Lavender Mead", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-06-27 15:48:19"
+        }, 
+        {
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2013-06-27 15:30:02", 
+                    "description": "After several years as home mead makers, we are thrilled to be opening Starrlight Mead. We have had a fantastic time making mead and meeting mead drinkers from all over the world, and now its our turn to share our love of mead with all of you!\r\n\r\nBecky Starr, Owner, Sales/Tasting Room Manager\r\nBen Starr, Owner, Wine/Meadmaker\r\n\r\nWe first discovered mead in CA at the Southern California Renaissance Pleasure Faire. Several years later, we found friends that were home brewing mead with good results. We decided to try our hand at it too.\r\n\r\nIn February 2006, we entered our first competition and took Best in Show out of over 210 entries in the home mead-maker category at the International Mead Association\u2019s Mead Festival. The competition was judged by seven professionals in the mead industry; including Ken Schramm, author of The Compleat Mead Maker, and meadery owners from around the world. The Best in Show prize was selected from the gold medal winners in nine categories. Our \u201cStarrlight Mulled Apple Cyser\u201d was awarded not only the gold medal in the cyser (mead made with apples) category, but was also selected as the best overall representation of mead making. It was at that point we decided to try creating a business from our love of mead.\r\n\r\nBen shares his expertise and love of brewing by conducting demonstrations and workshops on mead making in the local community. We also organize and conduct the local Mead Day celebration each August (since 2005) and are a key part of the product tasting team for mead reviews on Gotmead.com. Becky worked with Chatham Hill Winery for 2 years learning tasting room and wine club management. We are members of the Chatham County Beekeepers Association, and the NC Winegrowers Association.", 
+                    "established": "2009", 
+                    "id": "Hdz6Zk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-27 15:32:51", 
+                            "extendedAddress": "Suite 1000", 
+                            "hoursOfOperation": "Regular Hours\r\nThursdays and Fridays from noon til 6 pm\r\n\r\nSaturdays from noon til 6 pm\r\nMeadery tours at 1 pm, 3 pm & 5 pm.\r\n\r\nSundays from 1 pm til 5 pm\r\nMeadery tours at 2 pm & 4 pm.", 
+                            "id": "XPKDbB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.7269418, 
+                            "locality": "Pittsboro", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.1752021, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "919-533-6314", 
+                            "postalCode": "27312", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "480 Hillsboro Street", 
+                            "updateDate": "2013-06-27 15:32:51", 
+                            "website": "http://starrlightmead.com"
+                        }
+                    ], 
+                    "name": "Starrlight Mead", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-27 15:34:55", 
+                    "website": "http://starrlightmead.com"
+                }
+            ], 
+            "createDate": "2013-06-27 15:37:28", 
+            "description": "Lemon balm is named after the Greek word for honey bee. Refreshing and mood lifting. Flavors of tropical fruit, grass and light lemon.", 
+            "id": "P622A9", 
+            "isOrganic": "N", 
+            "name": "Lemon Balm", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-06-27 15:43:43"
+        }, 
+        {
+            "available": {
+                "description": "Available during the summer months.", 
+                "id": 6, 
+                "name": "Summer"
+            }, 
+            "availableId": 6, 
+            "breweries": [
+                {
+                    "createDate": "2013-06-27 15:30:02", 
+                    "description": "After several years as home mead makers, we are thrilled to be opening Starrlight Mead. We have had a fantastic time making mead and meeting mead drinkers from all over the world, and now its our turn to share our love of mead with all of you!\r\n\r\nBecky Starr, Owner, Sales/Tasting Room Manager\r\nBen Starr, Owner, Wine/Meadmaker\r\n\r\nWe first discovered mead in CA at the Southern California Renaissance Pleasure Faire. Several years later, we found friends that were home brewing mead with good results. We decided to try our hand at it too.\r\n\r\nIn February 2006, we entered our first competition and took Best in Show out of over 210 entries in the home mead-maker category at the International Mead Association\u2019s Mead Festival. The competition was judged by seven professionals in the mead industry; including Ken Schramm, author of The Compleat Mead Maker, and meadery owners from around the world. The Best in Show prize was selected from the gold medal winners in nine categories. Our \u201cStarrlight Mulled Apple Cyser\u201d was awarded not only the gold medal in the cyser (mead made with apples) category, but was also selected as the best overall representation of mead making. It was at that point we decided to try creating a business from our love of mead.\r\n\r\nBen shares his expertise and love of brewing by conducting demonstrations and workshops on mead making in the local community. We also organize and conduct the local Mead Day celebration each August (since 2005) and are a key part of the product tasting team for mead reviews on Gotmead.com. Becky worked with Chatham Hill Winery for 2 years learning tasting room and wine club management. We are members of the Chatham County Beekeepers Association, and the NC Winegrowers Association.", 
+                    "established": "2009", 
+                    "id": "Hdz6Zk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-27 15:32:51", 
+                            "extendedAddress": "Suite 1000", 
+                            "hoursOfOperation": "Regular Hours\r\nThursdays and Fridays from noon til 6 pm\r\n\r\nSaturdays from noon til 6 pm\r\nMeadery tours at 1 pm, 3 pm & 5 pm.\r\n\r\nSundays from 1 pm til 5 pm\r\nMeadery tours at 2 pm & 4 pm.", 
+                            "id": "XPKDbB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.7269418, 
+                            "locality": "Pittsboro", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.1752021, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "919-533-6314", 
+                            "postalCode": "27312", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "480 Hillsboro Street", 
+                            "updateDate": "2013-06-27 15:32:51", 
+                            "website": "http://starrlightmead.com"
+                        }
+                    ], 
+                    "name": "Starrlight Mead", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-27 15:34:55", 
+                    "website": "http://starrlightmead.com"
+                }
+            ], 
+            "createDate": "2013-06-27 15:37:29", 
+            "description": "A Cuban classic goes medieval! Our crisp, fresh take on a summer favorite drink, Meadjitos (mead-hee-toes), is a wonderful balance of spearmint, lime and honey in a semi-sweet mead! Elegant, yet fun, for entertaining or casual drinking by the pool! Try it frozen too!", 
+            "id": "1PkqJa", 
+            "isOrganic": "N", 
+            "name": "Meadjitos", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-06-27 15:44:29"
+        }, 
+        {
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2013-06-27 15:30:02", 
+                    "description": "After several years as home mead makers, we are thrilled to be opening Starrlight Mead. We have had a fantastic time making mead and meeting mead drinkers from all over the world, and now its our turn to share our love of mead with all of you!\r\n\r\nBecky Starr, Owner, Sales/Tasting Room Manager\r\nBen Starr, Owner, Wine/Meadmaker\r\n\r\nWe first discovered mead in CA at the Southern California Renaissance Pleasure Faire. Several years later, we found friends that were home brewing mead with good results. We decided to try our hand at it too.\r\n\r\nIn February 2006, we entered our first competition and took Best in Show out of over 210 entries in the home mead-maker category at the International Mead Association\u2019s Mead Festival. The competition was judged by seven professionals in the mead industry; including Ken Schramm, author of The Compleat Mead Maker, and meadery owners from around the world. The Best in Show prize was selected from the gold medal winners in nine categories. Our \u201cStarrlight Mulled Apple Cyser\u201d was awarded not only the gold medal in the cyser (mead made with apples) category, but was also selected as the best overall representation of mead making. It was at that point we decided to try creating a business from our love of mead.\r\n\r\nBen shares his expertise and love of brewing by conducting demonstrations and workshops on mead making in the local community. We also organize and conduct the local Mead Day celebration each August (since 2005) and are a key part of the product tasting team for mead reviews on Gotmead.com. Becky worked with Chatham Hill Winery for 2 years learning tasting room and wine club management. We are members of the Chatham County Beekeepers Association, and the NC Winegrowers Association.", 
+                    "established": "2009", 
+                    "id": "Hdz6Zk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-27 15:32:51", 
+                            "extendedAddress": "Suite 1000", 
+                            "hoursOfOperation": "Regular Hours\r\nThursdays and Fridays from noon til 6 pm\r\n\r\nSaturdays from noon til 6 pm\r\nMeadery tours at 1 pm, 3 pm & 5 pm.\r\n\r\nSundays from 1 pm til 5 pm\r\nMeadery tours at 2 pm & 4 pm.", 
+                            "id": "XPKDbB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.7269418, 
+                            "locality": "Pittsboro", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.1752021, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "919-533-6314", 
+                            "postalCode": "27312", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "480 Hillsboro Street", 
+                            "updateDate": "2013-06-27 15:32:51", 
+                            "website": "http://starrlightmead.com"
+                        }
+                    ], 
+                    "name": "Starrlight Mead", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-27 15:34:55", 
+                    "website": "http://starrlightmead.com"
+                }
+            ], 
+            "createDate": "2013-06-27 15:54:59", 
+            "description": "Reminiscent of a well known Scandinavian drink, Aquavit, made with caraway, fennel and anise seed. Flavors of fennel and rye bread.", 
+            "id": "LdoVNd", 
+            "isOrganic": "N", 
+            "name": "Nordic Blend Mead", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-06-27 15:54:59"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2013-06-27 15:30:02", 
+                    "description": "After several years as home mead makers, we are thrilled to be opening Starrlight Mead. We have had a fantastic time making mead and meeting mead drinkers from all over the world, and now its our turn to share our love of mead with all of you!\r\n\r\nBecky Starr, Owner, Sales/Tasting Room Manager\r\nBen Starr, Owner, Wine/Meadmaker\r\n\r\nWe first discovered mead in CA at the Southern California Renaissance Pleasure Faire. Several years later, we found friends that were home brewing mead with good results. We decided to try our hand at it too.\r\n\r\nIn February 2006, we entered our first competition and took Best in Show out of over 210 entries in the home mead-maker category at the International Mead Association\u2019s Mead Festival. The competition was judged by seven professionals in the mead industry; including Ken Schramm, author of The Compleat Mead Maker, and meadery owners from around the world. The Best in Show prize was selected from the gold medal winners in nine categories. Our \u201cStarrlight Mulled Apple Cyser\u201d was awarded not only the gold medal in the cyser (mead made with apples) category, but was also selected as the best overall representation of mead making. It was at that point we decided to try creating a business from our love of mead.\r\n\r\nBen shares his expertise and love of brewing by conducting demonstrations and workshops on mead making in the local community. We also organize and conduct the local Mead Day celebration each August (since 2005) and are a key part of the product tasting team for mead reviews on Gotmead.com. Becky worked with Chatham Hill Winery for 2 years learning tasting room and wine club management. We are members of the Chatham County Beekeepers Association, and the NC Winegrowers Association.", 
+                    "established": "2009", 
+                    "id": "Hdz6Zk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-27 15:32:51", 
+                            "extendedAddress": "Suite 1000", 
+                            "hoursOfOperation": "Regular Hours\r\nThursdays and Fridays from noon til 6 pm\r\n\r\nSaturdays from noon til 6 pm\r\nMeadery tours at 1 pm, 3 pm & 5 pm.\r\n\r\nSundays from 1 pm til 5 pm\r\nMeadery tours at 2 pm & 4 pm.", 
+                            "id": "XPKDbB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.7269418, 
+                            "locality": "Pittsboro", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.1752021, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "919-533-6314", 
+                            "postalCode": "27312", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "480 Hillsboro Street", 
+                            "updateDate": "2013-06-27 15:32:51", 
+                            "website": "http://starrlightmead.com"
+                        }
+                    ], 
+                    "name": "Starrlight Mead", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-27 15:34:55", 
+                    "website": "http://starrlightmead.com"
+                }
+            ], 
+            "createDate": "2013-06-27 15:37:31", 
+            "description": "Honey wine with just a hint of sweetness. Light floral notes with a slight citrus finish. Serve as you would a white wine, lightly chilled with Lemon Chicken, fish, or with spicy food! Bronze Medal winner at 2012 Mazer Cup International mead-only competition!", 
+            "foodPairings": "Lemon Chicken, fish, or with spicy food", 
+            "id": "djTeT1", 
+            "isOrganic": "N", 
+            "name": "Off-Dry Traditional", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-06-27 15:45:01"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2013-06-27 15:30:02", 
+                    "description": "After several years as home mead makers, we are thrilled to be opening Starrlight Mead. We have had a fantastic time making mead and meeting mead drinkers from all over the world, and now its our turn to share our love of mead with all of you!\r\n\r\nBecky Starr, Owner, Sales/Tasting Room Manager\r\nBen Starr, Owner, Wine/Meadmaker\r\n\r\nWe first discovered mead in CA at the Southern California Renaissance Pleasure Faire. Several years later, we found friends that were home brewing mead with good results. We decided to try our hand at it too.\r\n\r\nIn February 2006, we entered our first competition and took Best in Show out of over 210 entries in the home mead-maker category at the International Mead Association\u2019s Mead Festival. The competition was judged by seven professionals in the mead industry; including Ken Schramm, author of The Compleat Mead Maker, and meadery owners from around the world. The Best in Show prize was selected from the gold medal winners in nine categories. Our \u201cStarrlight Mulled Apple Cyser\u201d was awarded not only the gold medal in the cyser (mead made with apples) category, but was also selected as the best overall representation of mead making. It was at that point we decided to try creating a business from our love of mead.\r\n\r\nBen shares his expertise and love of brewing by conducting demonstrations and workshops on mead making in the local community. We also organize and conduct the local Mead Day celebration each August (since 2005) and are a key part of the product tasting team for mead reviews on Gotmead.com. Becky worked with Chatham Hill Winery for 2 years learning tasting room and wine club management. We are members of the Chatham County Beekeepers Association, and the NC Winegrowers Association.", 
+                    "established": "2009", 
+                    "id": "Hdz6Zk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-27 15:32:51", 
+                            "extendedAddress": "Suite 1000", 
+                            "hoursOfOperation": "Regular Hours\r\nThursdays and Fridays from noon til 6 pm\r\n\r\nSaturdays from noon til 6 pm\r\nMeadery tours at 1 pm, 3 pm & 5 pm.\r\n\r\nSundays from 1 pm til 5 pm\r\nMeadery tours at 2 pm & 4 pm.", 
+                            "id": "XPKDbB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.7269418, 
+                            "locality": "Pittsboro", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.1752021, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "919-533-6314", 
+                            "postalCode": "27312", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "480 Hillsboro Street", 
+                            "updateDate": "2013-06-27 15:32:51", 
+                            "website": "http://starrlightmead.com"
+                        }
+                    ], 
+                    "name": "Starrlight Mead", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-27 15:34:55", 
+                    "website": "http://starrlightmead.com"
+                }
+            ], 
+            "createDate": "2013-06-27 15:37:32", 
+            "id": "G3CScS", 
+            "isOrganic": "N", 
+            "name": "Pear Off-Dry Mead", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-06-27 15:45:23"
+        }, 
+        {
+            "abv": "13", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:48", 
+                    "description": "Like most things, there are various ways to make mead. At Brothers Drake, our philosophy on making mead is based on the following principles:\r\n\r\n1. Start Local: We buy local honey, support local agriculture, and produce a local product.\r\n\r\n2. Use the Best: We look for the highest quality local product on the market, ordering from the best from the source closest to Ohio.\r\n\r\n3. No Heat: We do not boil our honey or any water used in production. The No Heat Method keeps honey flavors true to the source and a better mead.\r\n\r\n4. No Added Sulfites: Unlike grapes which have wild yeast growing on them, honey is naturally antiseptic and antibiotic, so no sulfites needed.\r\n\r\n5. Build community: We share our knowledge openly and are grateful to people everywhere who ask questions, share their perspective, and engage in an open collaborative dialogue on mead-making.\r\n\r\n6. Embrace creativity: Our mead can be paired with wonderful cheeses, appetizers, and entrees, as well as used in cooking and in mixed drinks.\r\n\r\nThese basic principles guide our craft, our partnerships, and our practices. We look forward to sharing a drink with you!", 
+                    "id": "IEFRaK", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/IEFRaK/upload_L9x0MS-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:48", 
+                            "id": "0Y6wSh", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.987311, 
+                            "locality": "Columbus", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.004595, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "614-388-8765", 
+                            "postalCode": "43201", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "26 E. 5th Avenue", 
+                            "updateDate": "2012-03-21 19:08:04", 
+                            "website": "http://brothersdrake.com/"
+                        }
+                    ], 
+                    "name": "Brothers Drake Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-06-16 20:17:24", 
+                    "website": "http://brothersdrake.com/"
+                }
+            ], 
+            "createDate": "2012-06-10 21:01:46", 
+            "description": "Our \u2018winding down after a long day\u2019s work\u2019 mead. Lavender and Chamomile metheglin is our answer to aromatherapy. And perhaps an excuse to get a little more \u2018local\u2019 with that certain someone\u2026", 
+            "id": "IqA6hT", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/IqA6hT/upload_Xe5Sad-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/IqA6hT/upload_Xe5Sad-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/IqA6hT/upload_Xe5Sad-medium.png"
+            }, 
+            "name": "Pillow Talk", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2012-09-08 20:21:02"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2013-06-27 15:30:02", 
+                    "description": "After several years as home mead makers, we are thrilled to be opening Starrlight Mead. We have had a fantastic time making mead and meeting mead drinkers from all over the world, and now its our turn to share our love of mead with all of you!\r\n\r\nBecky Starr, Owner, Sales/Tasting Room Manager\r\nBen Starr, Owner, Wine/Meadmaker\r\n\r\nWe first discovered mead in CA at the Southern California Renaissance Pleasure Faire. Several years later, we found friends that were home brewing mead with good results. We decided to try our hand at it too.\r\n\r\nIn February 2006, we entered our first competition and took Best in Show out of over 210 entries in the home mead-maker category at the International Mead Association\u2019s Mead Festival. The competition was judged by seven professionals in the mead industry; including Ken Schramm, author of The Compleat Mead Maker, and meadery owners from around the world. The Best in Show prize was selected from the gold medal winners in nine categories. Our \u201cStarrlight Mulled Apple Cyser\u201d was awarded not only the gold medal in the cyser (mead made with apples) category, but was also selected as the best overall representation of mead making. It was at that point we decided to try creating a business from our love of mead.\r\n\r\nBen shares his expertise and love of brewing by conducting demonstrations and workshops on mead making in the local community. We also organize and conduct the local Mead Day celebration each August (since 2005) and are a key part of the product tasting team for mead reviews on Gotmead.com. Becky worked with Chatham Hill Winery for 2 years learning tasting room and wine club management. We are members of the Chatham County Beekeepers Association, and the NC Winegrowers Association.", 
+                    "established": "2009", 
+                    "id": "Hdz6Zk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Hdz6Zk/upload_lvyIUz-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-27 15:32:51", 
+                            "extendedAddress": "Suite 1000", 
+                            "hoursOfOperation": "Regular Hours\r\nThursdays and Fridays from noon til 6 pm\r\n\r\nSaturdays from noon til 6 pm\r\nMeadery tours at 1 pm, 3 pm & 5 pm.\r\n\r\nSundays from 1 pm til 5 pm\r\nMeadery tours at 2 pm & 4 pm.", 
+                            "id": "XPKDbB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.7269418, 
+                            "locality": "Pittsboro", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -79.1752021, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "919-533-6314", 
+                            "postalCode": "27312", 
+                            "region": "North Carolina", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "480 Hillsboro Street", 
+                            "updateDate": "2013-06-27 15:32:51", 
+                            "website": "http://starrlightmead.com"
+                        }
+                    ], 
+                    "name": "Starrlight Mead", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-27 15:34:55", 
+                    "website": "http://starrlightmead.com"
+                }
+            ], 
+            "createDate": "2013-06-27 15:37:33", 
+            "description": "Apple pie in a glass! Wonderful apple flavor enhanced with spices of cinnamon, clove and nutmeg. Tasty chilled, room temperature or warmed gently in the Crockpot! (Warming, brings out the spice!) Fabulous with turkey dinner, carrot cake or spice cake!", 
+            "foodPairings": "Fabulous with turkey dinner, carrot cake or spice cake!", 
+            "id": "sMvGlt", 
+            "isOrganic": "N", 
+            "name": "Spiced Apple Mead", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-06-27 15:45:54"
+        }, 
+        {
+            "abv": "14", 
+            "breweries": [
+                {
+                    "createDate": "2013-01-24 11:58:59", 
+                    "description": "Known for the most amazing and creative alcoholic beverages made from honey. B. Nektar is a world-wide sensation.\r\n\r\nTo boldly go where no meadery has gone before. To prove to you that the horrible mead your best friend made one time in college is NOT what a good mead should taste like. To show you that mead doesn't HAVE to be sweet. To educate you on the different styles of mead. To bring mead into the mainstream, but still maintain our integrity. To everyday thank my mom and tell her that I love her (shouldn't we all?).", 
+                    "established": "2006", 
+                    "id": "GOh8Oi", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-01-24 12:01:16", 
+                            "extendedAddress": "Suite B", 
+                            "hoursOfOperation": "Fri: 5:30 pm - 10:00 pm\r\nSat: 1:00 pm - 7:00 pm", 
+                            "id": "aQpHNT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.453829, 
+                            "locality": "Ferndale", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.1139, 
+                            "name": "Main Meadery", 
+                            "openToPublic": "Y", 
+                            "phone": "(313) 744-6323", 
+                            "postalCode": "48220", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1481 Wordsworth", 
+                            "updateDate": "2014-05-19 12:58:26", 
+                            "website": "http://www.bnektar.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "B. Nektar Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-24 12:00:24", 
+                    "website": "http://www.bnektar.com/"
+                }
+            ], 
+            "createDate": "2013-01-24 12:03:10", 
+            "description": "Limited run of 110 bottles", 
+            "id": "gGCzMy", 
+            "isOrganic": "N", 
+            "name": "The Heart of Darkness", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-01-24 12:03:11"
+        }, 
+        {
+            "abv": "14", 
+            "breweries": [
+                {
+                    "createDate": "2013-01-24 11:58:59", 
+                    "description": "Known for the most amazing and creative alcoholic beverages made from honey. B. Nektar is a world-wide sensation.\r\n\r\nTo boldly go where no meadery has gone before. To prove to you that the horrible mead your best friend made one time in college is NOT what a good mead should taste like. To show you that mead doesn't HAVE to be sweet. To educate you on the different styles of mead. To bring mead into the mainstream, but still maintain our integrity. To everyday thank my mom and tell her that I love her (shouldn't we all?).", 
+                    "established": "2006", 
+                    "id": "GOh8Oi", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-01-24 12:01:16", 
+                            "extendedAddress": "Suite B", 
+                            "hoursOfOperation": "Fri: 5:30 pm - 10:00 pm\r\nSat: 1:00 pm - 7:00 pm", 
+                            "id": "aQpHNT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.453829, 
+                            "locality": "Ferndale", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.1139, 
+                            "name": "Main Meadery", 
+                            "openToPublic": "Y", 
+                            "phone": "(313) 744-6323", 
+                            "postalCode": "48220", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1481 Wordsworth", 
+                            "updateDate": "2014-05-19 12:58:26", 
+                            "website": "http://www.bnektar.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "B. Nektar Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-24 12:00:24", 
+                    "website": "http://www.bnektar.com/"
+                }
+            ], 
+            "createDate": "2013-01-24 12:02:38", 
+            "description": "A sweet mead made with whole cinnamon sticks, vanilla beans and aged on American oak. Each vanilla bean is sliced open by hand before being adding to the mead to ensure maximum flavor extraction.", 
+            "id": "afawbn", 
+            "isOrganic": "N", 
+            "name": "Vanilla Cinnamon", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-01-24 12:02:38"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2013-01-24 11:58:59", 
+                    "description": "Known for the most amazing and creative alcoholic beverages made from honey. B. Nektar is a world-wide sensation.\r\n\r\nTo boldly go where no meadery has gone before. To prove to you that the horrible mead your best friend made one time in college is NOT what a good mead should taste like. To show you that mead doesn't HAVE to be sweet. To educate you on the different styles of mead. To bring mead into the mainstream, but still maintain our integrity. To everyday thank my mom and tell her that I love her (shouldn't we all?).", 
+                    "established": "2006", 
+                    "id": "GOh8Oi", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-01-24 12:01:16", 
+                            "extendedAddress": "Suite B", 
+                            "hoursOfOperation": "Fri: 5:30 pm - 10:00 pm\r\nSat: 1:00 pm - 7:00 pm", 
+                            "id": "aQpHNT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.453829, 
+                            "locality": "Ferndale", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.1139, 
+                            "name": "Main Meadery", 
+                            "openToPublic": "Y", 
+                            "phone": "(313) 744-6323", 
+                            "postalCode": "48220", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1481 Wordsworth", 
+                            "updateDate": "2014-05-19 12:58:26", 
+                            "website": "http://www.bnektar.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "B. Nektar Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-24 12:00:24", 
+                    "website": "http://www.bnektar.com/"
+                }
+            ], 
+            "createDate": "2013-01-24 12:02:39", 
+            "id": "pJ2Yuf", 
+            "isOrganic": "N", 
+            "name": "Wildflower Mead", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-01-24 12:02:41"
+        }, 
+        {
+            "abv": "14", 
+            "breweries": [
+                {
+                    "createDate": "2013-01-24 11:58:59", 
+                    "description": "Known for the most amazing and creative alcoholic beverages made from honey. B. Nektar is a world-wide sensation.\r\n\r\nTo boldly go where no meadery has gone before. To prove to you that the horrible mead your best friend made one time in college is NOT what a good mead should taste like. To show you that mead doesn't HAVE to be sweet. To educate you on the different styles of mead. To bring mead into the mainstream, but still maintain our integrity. To everyday thank my mom and tell her that I love her (shouldn't we all?).", 
+                    "established": "2006", 
+                    "id": "GOh8Oi", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-01-24 12:01:16", 
+                            "extendedAddress": "Suite B", 
+                            "hoursOfOperation": "Fri: 5:30 pm - 10:00 pm\r\nSat: 1:00 pm - 7:00 pm", 
+                            "id": "aQpHNT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.453829, 
+                            "locality": "Ferndale", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.1139, 
+                            "name": "Main Meadery", 
+                            "openToPublic": "Y", 
+                            "phone": "(313) 744-6323", 
+                            "postalCode": "48220", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1481 Wordsworth", 
+                            "updateDate": "2014-05-19 12:58:26", 
+                            "website": "http://www.bnektar.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "B. Nektar Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-24 12:00:24", 
+                    "website": "http://www.bnektar.com/"
+                }
+            ], 
+            "createDate": "2013-01-24 12:02:41", 
+            "id": "RclN46", 
+            "isOrganic": "N", 
+            "name": "Yo Momma's Strawberry Pizzazz", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.", 
+                "id": 140, 
+                "name": "Dry Mead"
+            }, 
+            "styleId": 140, 
+            "updateDate": "2013-01-24 12:02:41"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 22
+}

@@ -1,0 +1,93 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "14", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2013-02-19 23:34:20", 
+                    "description": "We are a Hawaiian craft brewery with a solid lineup that covers a wide range of styles. Some examples are: Hawaiian Pale Ale (finishes with hints of Hawaiian orange peel), Wai Meli (Spiced mead made from macadamia nut honey, which is produced *only* in Hawaii), and Green Tea Ginger, a light beer that starts with the smoothness of four kinds of green tea and finishes with a hint of ginger spice.", 
+                    "established": "2012", 
+                    "id": "AIpa0U", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/AIpa0U/upload_3maP6g-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/AIpa0U/upload_3maP6g-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/AIpa0U/upload_3maP6g-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-02-20 11:46:05", 
+                            "id": "FhW6gN", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 21.407531, 
+                            "locality": "Pearl City", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -157.976223, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(855) 710-BEER", 
+                            "postalCode": "96782", 
+                            "region": "Hawaii", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "96-1233 Waihona St.", 
+                            "updateDate": "2013-02-20 11:46:05", 
+                            "website": "http://pacificbreach.com/"
+                        }
+                    ], 
+                    "name": "Pacific Breach", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-02-20 11:45:08", 
+                    "website": "http://www.pacificbreach.com/"
+                }
+            ], 
+            "createDate": "2013-02-19 23:46:55", 
+            "description": "Wai Meli is a harmonic symphony of flavor, with notes of honey and a bubbly feel. We make it from the finest honey that bees have to offer; Macademia nut honey is found nowhere else but Hawai'i.", 
+            "foodPairings": "This is a medium-sweet spiced mead that goes well with a nice meal and excellent company.", 
+            "id": "nugVTz", 
+            "isOrganic": "N", 
+            "name": "Wai Meli", 
+            "servingTemperature": "very_cold", 
+            "servingTemperatureDisplay": "Very Cold - (0-4C/32-39F)", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "In well-made examples of the style, the herbs/spices are both distinctive and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. Different types of herbs/spices can result in widely different characteristics; allow for a variation in the final product.", 
+                "id": 146, 
+                "name": "Metheglin"
+            }, 
+            "styleId": 146, 
+            "updateDate": "2013-02-20 11:51:03"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 1
+}

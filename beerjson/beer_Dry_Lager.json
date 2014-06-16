@@ -1,0 +1,347 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:44", 
+                    "id": "tu8Rbm", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Japan", 
+                                "isoCode": "JP", 
+                                "isoThree": "JPN", 
+                                "name": "JAPAN", 
+                                "numberCode": 392
+                            }, 
+                            "countryIsoCode": "JP", 
+                            "createDate": "2012-01-03 02:41:44", 
+                            "id": "4a71V5", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.709646, 
+                            "locality": "Tokyo", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 139.799797, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "81-(03)-5608-5129", 
+                            "region": "Kanto", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "23-1 Azumabashi 1-chome", 
+                            "updateDate": "2012-03-21 19:08:01"
+                        }
+                    ], 
+                    "name": "Asahi Breweries", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:03"
+                }
+            ], 
+            "createDate": "2012-01-03 02:42:43", 
+            "description": "Fresh, crisp and clear - with a sharp delivery that slakes thirst before slipping gently on.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "sP5x0O", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/sP5x0O/upload_ZEDHp5-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/sP5x0O/upload_ZEDHp5-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/sP5x0O/upload_ZEDHp5-medium.png"
+            }, 
+            "name": "Asahi Super Dry", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.3", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This straw-colored lager lacks sweetness, is light in body, and is only mildly flavored by malt. Its alcoholic strength may contribute to the overall flavor character. Bitterness is low and carbonation is high. Chill haze, fruity esters, and diacetyl should be absent.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "23", 
+                "ibuMin": "15", 
+                "id": 107, 
+                "name": "Dry Lager", 
+                "ogMin": "1.04", 
+                "srmMax": "4", 
+                "srmMin": "2"
+            }, 
+            "styleId": 107, 
+            "updateDate": "2012-12-16 10:00:09"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "description": "Sixpoint Craft Ales was founded in 2004 by Shane Welch, a former homebrewer that originally grew up in Milwaukee. The microbrewery is located in a 7,000-square-foot (650 m2) factory in in Red Hook, Brooklyn that formerly manufactured filing cabinets. Sixpoint began business by only distributing kegs to local bars and restaurants; instead of bottling its beer, filling growlers at bars were the only way for customers to drink the beer at their homes. \r\n\r\nIn 2011 Sixpoint launched initial canned  offerings of 16 oz, year-round styles Sweet Action, Bengali Tiger, Righteous Ale and The Crisp.  Further releases have included the 12 oz Resin and 3Beans, as well as 16oz seasonal offerings such as Apollo and Autumnation.", 
+                    "established": "2004", 
+                    "id": "7VPQrN", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/7VPQrN/upload_X4w8Lq-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/7VPQrN/upload_X4w8Lq-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/7VPQrN/upload_X4w8Lq-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "id": "QJRQhZ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.6739317, 
+                            "locality": "Brooklyn", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -74.0119473, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "917-696-0438", 
+                            "postalCode": "11231", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "40 Van Dyke St", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.sixpointcraftales.com/", 
+                            "yearOpened": "2005"
+                        }
+                    ], 
+                    "mailingListUrl": "http://sixpoint.com/connect", 
+                    "name": "Sixpoint Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 16:33:25", 
+                    "website": "http://www.sixpoint.com/"
+                }
+            ], 
+            "createDate": "2012-08-27 20:05:25", 
+            "description": "A spiced Mexican lager! Made with corn and a unique California lager yeast, this beer is fermented clean then racked into a secondary with a special blend of rare Mexican chilies and cumin. Should be a classic pairing with the Calexico food cart!", 
+            "ibu": "30", 
+            "id": "5ee0wg", 
+            "isOrganic": "N", 
+            "name": "El Gordo Barracho", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.3", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This straw-colored lager lacks sweetness, is light in body, and is only mildly flavored by malt. Its alcoholic strength may contribute to the overall flavor character. Bitterness is low and carbonation is high. Chill haze, fruity esters, and diacetyl should be absent.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "23", 
+                "ibuMin": "15", 
+                "id": 107, 
+                "name": "Dry Lager", 
+                "ogMin": "1.04", 
+                "srmMax": "4", 
+                "srmMin": "2"
+            }, 
+            "styleId": 107, 
+            "updateDate": "2012-08-28 12:35:00"
+        }, 
+        {
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "description": "Sixpoint Craft Ales was founded in 2004 by Shane Welch, a former homebrewer that originally grew up in Milwaukee. The microbrewery is located in a 7,000-square-foot (650 m2) factory in in Red Hook, Brooklyn that formerly manufactured filing cabinets. Sixpoint began business by only distributing kegs to local bars and restaurants; instead of bottling its beer, filling growlers at bars were the only way for customers to drink the beer at their homes. \r\n\r\nIn 2011 Sixpoint launched initial canned  offerings of 16 oz, year-round styles Sweet Action, Bengali Tiger, Righteous Ale and The Crisp.  Further releases have included the 12 oz Resin and 3Beans, as well as 16oz seasonal offerings such as Apollo and Autumnation.", 
+                    "established": "2004", 
+                    "id": "7VPQrN", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/7VPQrN/upload_X4w8Lq-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/7VPQrN/upload_X4w8Lq-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/7VPQrN/upload_X4w8Lq-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "id": "QJRQhZ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.6739317, 
+                            "locality": "Brooklyn", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -74.0119473, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "917-696-0438", 
+                            "postalCode": "11231", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "40 Van Dyke St", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.sixpointcraftales.com/", 
+                            "yearOpened": "2005"
+                        }
+                    ], 
+                    "mailingListUrl": "http://sixpoint.com/connect", 
+                    "name": "Sixpoint Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 16:33:25", 
+                    "website": "http://www.sixpoint.com/"
+                }
+            ], 
+            "createDate": "2012-08-27 17:30:19", 
+            "id": "3WFUy1", 
+            "isOrganic": "N", 
+            "name": "Mad Scientists Series #11: Seispunto Especial", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.3", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This straw-colored lager lacks sweetness, is light in body, and is only mildly flavored by malt. Its alcoholic strength may contribute to the overall flavor character. Bitterness is low and carbonation is high. Chill haze, fruity esters, and diacetyl should be absent.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "23", 
+                "ibuMin": "15", 
+                "id": 107, 
+                "name": "Dry Lager", 
+                "ogMin": "1.04", 
+                "srmMax": "4", 
+                "srmMin": "2"
+            }, 
+            "styleId": 107, 
+            "updateDate": "2012-08-28 12:59:32"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-12-21 16:39:09", 
+                    "established": "2007", 
+                    "id": "dleKhW", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/dleKhW/upload_75ZnW0-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/dleKhW/upload_75ZnW0-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/dleKhW/upload_75ZnW0-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "name": "Abashiri Beer", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-21 16:39:17", 
+                    "website": "http://www.takahasi.co.jp"
+                }
+            ], 
+            "createDate": "2012-12-21 16:40:47", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "Stix2J", 
+            "isOrganic": "N", 
+            "name": "Premium Beer", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.3", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This straw-colored lager lacks sweetness, is light in body, and is only mildly flavored by malt. Its alcoholic strength may contribute to the overall flavor character. Bitterness is low and carbonation is high. Chill haze, fruity esters, and diacetyl should be absent.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "23", 
+                "ibuMin": "15", 
+                "id": 107, 
+                "name": "Dry Lager", 
+                "ogMin": "1.04", 
+                "srmMax": "4", 
+                "srmMin": "2"
+            }, 
+            "styleId": 107, 
+            "updateDate": "2012-12-21 16:45:21"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 4
+}

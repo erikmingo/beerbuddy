@@ -1,0 +1,367 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "8.2", 
+            "breweries": [
+                {
+                    "createDate": "2013-07-28 23:15:13", 
+                    "description": "Virginia\u2019s first and only urban cidery, Blue Bee Cider is located in the heart of downtown Richmond\u2019s Old Manchester district at the fall line of the James River. The name for Blue Bee Cider is derived from a common name for one of Virginia\u2019s native bees, osmia lignaria, or the blue orchard bee. These hardworking bees are solitary and wild, emerging early in the cool spring just in time to pollinate apple blossoms.\r\n\r\nAt Blue Bee Cider, we aim to create balanced ciders true to their Virginia roots from a culinary perspective and true to the fruit from a cidermaking one. Each apple variety ferments differently, creating its own flavors which vary year to year depending on weather conditions. Blue Bee Ciders are never chapitalized (it\u2019s so sunny in the South, who needs to add sugar?) and never watered down. We use raw juice and ferment it straight off the press.", 
+                    "established": "2012", 
+                    "id": "Foua8q", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Foua8q/upload_QWrcin-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Foua8q/upload_QWrcin-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Foua8q/upload_QWrcin-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-29 11:03:49", 
+                            "id": "rwhsCz", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.5257172, 
+                            "locality": "Richmond", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -77.4415178, 
+                            "name": "Blue Bee Cider", 
+                            "openToPublic": "Y", 
+                            "phone": "(804) 231-0280", 
+                            "postalCode": "23224", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "212 W. 6th Street", 
+                            "updateDate": "2013-07-29 11:03:49", 
+                            "website": "http://www.bluebeecider.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Blue Bee Cider", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-07-29 11:04:07", 
+                    "website": "http://www.bluebeecider.com"
+                }
+            ], 
+            "createDate": "2013-07-28 23:21:02", 
+            "description": "Served all day long at colonial-era taverns, or ordinaries, cider was the refreshment of choice for Virginians of all classes and walks of life \u2013 man, woman, child, rich and poor. CHARRED ORDINARY is semi-sparkling and made from heirloom variety apples to create an old-fashioned Virginia cider, dry and sharp. It pairs well with salty hams and cheeses, rich poultry dishes, and other traditional Virginia fare.", 
+            "id": "oDWiH2", 
+            "isOrganic": "N", 
+            "name": "Charred Ordinary", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "13", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Substantial body and character.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 154, 
+                "name": "New England Cider", 
+                "ogMax": "1.1", 
+                "ogMin": "1.06"
+            }, 
+            "styleId": 154, 
+            "updateDate": "2013-07-29 11:04:36"
+        }, 
+        {
+            "abv": "5.1", 
+            "breweries": [
+                {
+                    "createDate": "2013-10-14 23:21:33", 
+                    "description": "Downeast Cider House was founded by Ross Brockman and Tyler Mosher during their senior year of college. Through their travels abroad, they took notice of the large presence of hard cider in bars, restaurants, and liquor stores. Upon evaluating the disappointing landscape of hard cider in the United States, Ross and Tyler have made it their goal to build New England's first and largest craft hard cider company, and restore hard cider to its rightful place in American culture.\r\n\r\nDowneast Cider House currently produces one type of cider, Original Blend. The Original Blend is made from freshly pressed Maine apples because we believe in making the best product we possibly can, while also supporting local agriculture. We use Red Delicious, McIntosh, Cortland, and Gala apples in our cider. The Original Blend, currently packaged in kegs, is distributed through Pine State Trading Company (Northern Maine), Nappi Distributors.(Portland and Southern Maine), L. Knife & Sons (South Shore Mass), Seaboard Products (North Shore Mass), and Craft Brewers Guild (Mass minus north and south shores)", 
+                    "id": "gZYGbL", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/gZYGbL/upload_l715pj-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/gZYGbL/upload_l715pj-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/gZYGbL/upload_l715pj-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-10-15 19:22:51", 
+                            "id": "yTHtbR", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.383121, 
+                            "locality": "Charlestown", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -71.0500472, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(207) 200-7332", 
+                            "postalCode": "02129", 
+                            "region": "Massachusetts", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "200 Terminal Street", 
+                            "updateDate": "2013-10-15 19:22:51", 
+                            "website": "http://www.downeastcider.com/"
+                        }
+                    ], 
+                    "name": "Downeast Cider House", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-10-16 12:11:55", 
+                    "website": "http://www.downeastcider.com"
+                }
+            ], 
+            "createDate": "2013-10-14 23:23:52", 
+            "description": "Original Blend is the Auerbach to our Celtics, the Satisfaction to our Stones, the Agent K to our Men In Black, our foundation. From its humble beginnings in the basement of a Bates College dormitory, Original Blend is the result of hundreds of test batches aimed at crafting the best damn hard cider you've ever tasted. Original Blend is made from freshly pressed local apples because we not only believe in high quality cider, we believe in America. We use a secret blend of Red Delicious, McIntosh, Cortland, and Gala apples, and NEVER add concentrate, artificial flavors or sweeteners. Original Blend is the way cider should be.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "yAeeep", 
+            "isOrganic": "N", 
+            "name": "Original Blend", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "13", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Substantial body and character.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 154, 
+                "name": "New England Cider", 
+                "ogMax": "1.1", 
+                "ogMin": "1.06"
+            }, 
+            "styleId": 154, 
+            "updateDate": "2013-10-16 12:12:11"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:56", 
+                    "description": "At Woodchuck\u00ae, we do things our own way. We start with the finest ingredients crafted at our local cidery here in Middlebury, Vermont. Then our cider-master meticulously oversees the details of every small batch before any bottle or keg leaves our back door. It\u2019s this special attention and love for our product that ensures we always deliver a smooth unique hard cider that is true to our roots. \r\nIndependent to the core\u00ae.", 
+                    "established": "1991", 
+                    "id": "cMaEz5", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/cMaEz5/upload_jGHlhZ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/cMaEz5/upload_jGHlhZ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/cMaEz5/upload_jGHlhZ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:56", 
+                            "id": "w8FpFj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.034351, 
+                            "locality": "Middlebury", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -73.173546, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(802) 873-9045", 
+                            "postalCode": "05753", 
+                            "region": "Vermont", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "153 Pond Lane", 
+                            "updateDate": "2013-01-02 12:56:15", 
+                            "website": "http://www.woodchuck.com/", 
+                            "yearOpened": "1991"
+                        }
+                    ], 
+                    "name": "Vermont Hard Cider Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-02 12:56:49", 
+                    "website": "http://www.woodchuck.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:33", 
+            "description": "Woodchuck Fall Cider is the perfect combination of complexity and elegance, giving the cider a unique taste and special aroma not found in any other hard cider. Crafted using a centuries old technique, Woodchuck Fall Cider begins with an attractive cinnamon, nutmeg, spicy bouquet, and balances out the taste with a hint of American white oak. The appealing lingering aftertaste makes Woodchuck Fall Cider the perfect beverage for a crisp, autumn day. Woodchuck Fall Cider will be available in limited markets during Autumn 2009.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "JLtP5E", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/JLtP5E/upload_m9YOCl-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/JLtP5E/upload_m9YOCl-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/JLtP5E/upload_m9YOCl-medium.png"
+            }, 
+            "name": "Woodchuck Fall", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "13", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Substantial body and character.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 154, 
+                "name": "New England Cider", 
+                "ogMax": "1.1", 
+                "ogMin": "1.06"
+            }, 
+            "styleId": 154, 
+            "updateDate": "2013-10-15 19:27:18"
+        }, 
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2014-06-05 21:27:24", 
+                    "description": "Modern American Cider. We are committed to making creative and distinctive crafted cider using fresh pressed apples and high-quality, all-natural ingredients.", 
+                    "established": "2012", 
+                    "id": "TIn5vy", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/TIn5vy/upload_ux7Pf3-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/TIn5vy/upload_ux7Pf3-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/TIn5vy/upload_ux7Pf3-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-06-06 12:21:26", 
+                            "id": "ETPxXo", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.37807, 
+                            "locality": "Somerville", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -71.092168, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(617) 299-8600", 
+                            "postalCode": "02143", 
+                            "region": "Massachusetts", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "230 Somerville Ave", 
+                            "updateDate": "2014-06-06 12:21:26", 
+                            "website": "http://www.bantamcider.com", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Bantam Cider", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-06-06 12:21:38", 
+                    "website": "http://www.bantamcider.com"
+                }
+            ], 
+            "createDate": "2014-06-05 21:30:50", 
+            "description": "Wunderkind is bright and crisp and gently lingers on  the palate. It is made from a blend of local apples, slowly fermented to capture subtle esters, and del-icately balanced with a hint of flower-blossom honey.  It is the result of countless test batches on dozens of  apple varieties and yeast strains to arrive at just the  rright combination of flavors, aroma and body.", 
+            "id": "eqPZgA", 
+            "isOrganic": "N", 
+            "name": "Wunderkind", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "13", 
+                "abvMin": "7", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Substantial body and character.", 
+                "fgMax": "1.01", 
+                "fgMin": "0.995", 
+                "id": 154, 
+                "name": "New England Cider", 
+                "ogMax": "1.1", 
+                "ogMin": "1.06"
+            }, 
+            "styleId": 154, 
+            "updateDate": "2014-06-06 12:04:13"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 4
+}

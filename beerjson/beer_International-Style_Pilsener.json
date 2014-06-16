@@ -1,0 +1,2713 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-12-15 14:43:16", 
+                    "description": "Aarhus Brewery makes special beer for enjoyment! That is to say that art is not so advanced as to result in afskr\u00e6mmende and can only be drunk by connoisseurs. Anyone who wants to try something new, you will find joy in Aarhus Brewery products.\r\n\r\nAarhus Brewery makes special beer with between 5 and 9% alcohol, bottled in large 60 cl bottles. There will be a beer which will be suitable as an aperitif beer, which beer will be suitable for fish and meat dishes light, and there will be dark, heavy and bulky beers, which are suitable for meats and cheeses.\r\n\r\nIt builds both fixed beers and varying seasonal beers. Read more in products.\r\n\r\nThe brewery is purely a production brewery that produces beer and brave this in bottles and kegs. There is not affiliated catering to the brewery. On the other hand we do tours for small groups of between 15 and 75 people.", 
+                    "established": "1986", 
+                    "id": "W2dlxg", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/W2dlxg/upload_EBG6MQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/W2dlxg/upload_EBG6MQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/W2dlxg/upload_EBG6MQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Denmark", 
+                                "isoCode": "DK", 
+                                "isoThree": "DNK", 
+                                "name": "DENMARK", 
+                                "numberCode": 208
+                            }, 
+                            "countryIsoCode": "DK", 
+                            "createDate": "2012-12-15 14:45:17", 
+                            "id": "WfHl3C", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "locality": "Aarhus", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+45 8689 2840", 
+                            "postalCode": "86892040", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Gunnar Clausens Vej 26", 
+                            "updateDate": "2012-12-15 14:45:17", 
+                            "yearOpened": "1986"
+                        }
+                    ], 
+                    "name": "Aarhus Bryghus", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-15 15:17:07", 
+                    "website": "http://www.aarhusbryghus.dk"
+                }
+            ], 
+            "createDate": "2012-12-15 14:48:53", 
+            "description": "As the filtered beer known as the Aarhus Extra Pilsner. It was crowned by the Exchange at a blind tasting of 38 different Danish pilsners to 3 best lager in Denmark.\r\n\r\nAarhus Pilsner is a beer with 5% alcohol, brewed with lager malt, wheat malt and caramel malt. It is like the other beers from Aarhus Brewery exclusively with hoppy aroma hops. Humlingen was inspired by the Czech beer, making this beer more bitter than the usual Danish lager.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "id": "odX8zV", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/odX8zV/upload_JfVXQc-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/odX8zV/upload_JfVXQc-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/odX8zV/upload_JfVXQc-medium.png"
+            }, 
+            "name": "Aarhus Extra Pilsner", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2012-12-15 15:02:25"
+        }, 
+        {
+            "abv": "5.7", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:10", 
+                    "description": "If the Cannon Brewpub had an old man, it would be Jim Newman. A U.S. Army Ranger, Jim had just returned Stateside from Haiti when he attended a party hosted by Dr. Jack Blalock. At the soiree, he was introduced to a kindred soul named William Gantt. Their conversation soon turned to the quality of beer in Columbus. Needless to say, the tone was bitter and the language seasoned with expletives. When Jim explained that in Oregon, where he came of age, there was a vibrant scene of restaurants and bars that housed their own microbreweries that crafted their own distinct beers that could only be enjoyed at the source, Gantt understandably replied, \"$#@*!\".\r\n\r\nWhat began as a conversation soon became an obsession and, in 1996, the firm Warner and Worth was incorporated to see their shared dream come true.", 
+                    "established": "1996", 
+                    "id": "9vSKac", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/9vSKac/upload_RxpDNZ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/9vSKac/upload_RxpDNZ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/9vSKac/upload_RxpDNZ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:10", 
+                            "id": "VCsRkP", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 32.4663533, 
+                            "locality": "Columbus", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -84.9935198, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "706-653-2337", 
+                            "postalCode": "31901", 
+                            "region": "Georgia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1041 Broadway", 
+                            "updateDate": "2012-03-21 20:05:30", 
+                            "website": "http://thecannonbrewpub.com/", 
+                            "yearOpened": "1996"
+                        }
+                    ], 
+                    "name": "The Cannon Brewpub", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-11-22 16:13:40", 
+                    "website": "http://thecannonbrewpub.com/"
+                }
+            ], 
+            "createDate": "2013-08-15 02:26:55", 
+            "description": "A smooth, crisp Mexican Style lager", 
+            "foodPairings": "Fish Tacos, Fried Calamari, Key Lime Pie", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "18", 
+            "id": "vU9CDT", 
+            "isOrganic": "N", 
+            "name": "Crossing the Border", 
+            "originalGravity": "1.047", 
+            "servingTemperature": "cold", 
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)", 
+            "srm": {
+                "hex": "FFBF42", 
+                "id": 4, 
+                "name": "4"
+            }, 
+            "srmId": 4, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2013-08-15 10:56:30"
+        }, 
+        {
+            "abv": "5.2", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:56", 
+                    "description": "When the first Goose Island Brewpub opened its doors in 1988, domestic, mass-produced beer was deeply ingrained in Midwestern culture. The craft beer industry was still in its infancy, with only a handful of brewpubs in existence in the Midwest. In his travels across Europe, beer-lover John Hall had enjoyed a distinctive local brew in each region he visited. Hall was convinced that Midwesterners could produce beers as good or better than those he\u2019d tasted in his travels. Living on the shore of the largest system of fresh water on the planet Earth, in a city with rapidly evolving tastes \u2013 John decided that his hometown, Chicago, would be the ideal place to do just that.\r\n\r\nThe key to building interest in craft beer, Hall decided, was to allow consumers to watch the brewing process \u2013 while providing them with the then-novel experience of enjoying a wide variety of distinctive beers that had been produced on-site. Hall wanted to not only cater to his customers\u2019 tastes, but to challenge them as well. Goose Island\u2019s brewers set to work crafting a diverse selection of unique beers \u2013 and on Friday, May 13, 1988 the Goose Island Brewpub was born.\r\n\r\nIt turned out that John was right; Chicagoans palates evolved rapidly once Goose Island\u2019s Brewpub opened its doors and introduced the city to distinctive craft beer. By 1995, the brewpub had become so popular that John Hall decided to open a larger brewery and bottling plant to keep up with demand. Finding still more room for growth, in 1999 Hall opened a second Goose Island Brewpub just a stone\u2019s throw away from historic Wrigley Field.\r\n\r\nToday, Goose Island continues to brew an innovative selection of over 50 craft beers at the brewpub, the best of which are then bottled at our Fulton Street brewery. Goose Island beers are now enjoyed in all 50 states and Europe.", 
+                    "established": "1995", 
+                    "id": "APW1BC", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/APW1BC/upload_ouqMGQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/APW1BC/upload_ouqMGQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/APW1BC/upload_ouqMGQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:56", 
+                            "id": "S2n5TB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.887107, 
+                            "locality": "Chicago", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -87.6720969, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-800-466-7363", 
+                            "postalCode": "60612", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1800 West Fulton Street", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.gooseisland.com/", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:15", 
+                            "id": "D2gG2C", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 41.9137478, 
+                            "locality": "Chicago", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -87.6543466, 
+                            "name": "Clybourn", 
+                            "openToPublic": "N", 
+                            "phone": "800-466-7363", 
+                            "postalCode": "60614", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1800 North Clybourn Avenue", 
+                            "updateDate": "2013-09-18 10:48:09", 
+                            "yearOpened": "1995"
+                        }
+                    ], 
+                    "name": "Goose Island Beer Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 21:59:02", 
+                    "website": "http://www.gooseisland.com/"
+                }
+            ], 
+            "createDate": "2013-08-12 21:15:06", 
+            "description": "Brewers Brian Taylor and Timmy Seldon collaborated on a Czech-style Pilsner dry-hopped with Cucumbers. This beer is part of our Fulton and Wood Series which is draft-only and Chicago-only where we let our brewers run wild!", 
+            "id": "BK1Lrj", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/BK1Lrj/upload_60PS1M-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/BK1Lrj/upload_60PS1M-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/BK1Lrj/upload_60PS1M-medium.png"
+            }, 
+            "name": "Cucumbersome", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2013-08-12 23:22:59"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:13", 
+                    "description": "Widmer Brothers Brewing is located in beautiful and brew-friendly Portland, OR. Our publicly-held brewery employs over 150 people who are as passionate about quality craft beer as Kurt & Rob themselves.\r\n\r\nWe opened the brewery in 1984, and built a new 40-barrel brewing system in our current Russell Street location in 1990. We've grown steadily ever since. In 1996, we completed installation of a state-of-the art 250-barrel brewhouse, bringing our capacity to 220,000 barrels per year. In 1996, for the first time in our brewery\u2019s history we also installed a bottling line, capable of producing 500 bottles per minute. In 2008 we added six new 1500-barrel fermentation tanks that increased our capacity to 450,000 barrels per year, and added a new keg filling line capable of filling 300 kegs per hour.", 
+                    "established": "1984", 
+                    "id": "8wcv7h", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/8wcv7h/upload_ze3hCg-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/8wcv7h/upload_ze3hCg-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/8wcv7h/upload_ze3hCg-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:13", 
+                            "id": "SgctbA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 45.540795, 
+                            "locality": "Portland", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.675594, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "503-281-2437", 
+                            "postalCode": "97227", 
+                            "region": "Oregon", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "929 North Russell Street", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.widmer.com/", 
+                            "yearOpened": "1984"
+                        }
+                    ], 
+                    "name": "Widmer Brothers Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-09-11 21:48:22", 
+                    "website": "http://www.widmer.com/"
+                }
+            ], 
+            "createDate": "2014-04-10 10:55:57", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "lHGjPK", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/lHGjPK/upload_edwmSM-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/lHGjPK/upload_edwmSM-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/lHGjPK/upload_edwmSM-medium.png"
+            }, 
+            "name": "Czech Style Lager", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2014-04-10 10:58:49"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:02", 
+                    "description": "The story of Mikkeller is the story of two homebrewers that in a few years went from hobby brewing in the kitchen to national and international recognition.\r\n\r\nSince the summer of 2007, Mikkel Borg Bjergs\u00f8, has run Mikkeller on his own. Mikkel is a gipsy-brewer, who brews at different breweries in Denmark, around Europe and the United States.", 
+                    "established": "2007", 
+                    "id": "tFoqj5", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/tFoqj5/upload_26IcfW-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/tFoqj5/upload_26IcfW-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/tFoqj5/upload_26IcfW-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Denmark", 
+                                "isoCode": "DK", 
+                                "isoThree": "DNK", 
+                                "name": "DENMARK", 
+                                "numberCode": 208
+                            }, 
+                            "countryIsoCode": "DK", 
+                            "createDate": "2012-01-03 02:42:02", 
+                            "id": "irUeaM", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 55.6647648, 
+                            "locality": "Copenhagen V", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 12.541426, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "45-4162-3489", 
+                            "postalCode": "DK-1763", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Dannevirkegade 22, 1. tv.", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.mikkeller.dk/", 
+                            "yearOpened": "2007"
+                        }
+                    ], 
+                    "name": "Mikkeller", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-06-13 13:38:09", 
+                    "website": "http://www.mikkeller.dk/"
+                }
+            ], 
+            "createDate": "2013-04-19 09:47:30", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "id": "duDLVq", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/duDLVq/upload_Ex6kqX-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/duDLVq/upload_Ex6kqX-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/duDLVq/upload_Ex6kqX-medium.png"
+            }, 
+            "name": "Dim Sum", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2013-04-20 09:01:02"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:50", 
+                    "description": "Visit our brew house, enjoy a pint, and take a free tour! Taste our specialty craft beers on draft and brewed on premise. Growlers and growler refills are available. Beer whose bold flavor and character reflects the spirit and courage of the sailors of the North Atlantic fishing fleet, Fisherman's is a tribute to hard work and a salute to friendships that endure. Cape Ann Brewing Co. is an award-winning, family-owned, microbrewery in the heart of downtown Gloucester on Cape Ann, Massachusetts", 
+                    "established": "2004", 
+                    "id": "HCYbHl", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/HCYbHl/upload_Btkzfu-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/HCYbHl/upload_Btkzfu-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/HCYbHl/upload_Btkzfu-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:50", 
+                            "id": "YP7CZW", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.6114111, 
+                            "locality": "Gloucester", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -70.6652468, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "866-233-7636", 
+                            "postalCode": "01930", 
+                            "region": "Massachusetts", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "11 Rodgers Street", 
+                            "updateDate": "2012-04-13 02:03:44", 
+                            "website": "http://www.capeannbrewing.com/"
+                        }
+                    ], 
+                    "name": "Cape Ann Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-18 01:52:18", 
+                    "website": "http://www.capeannbrewing.com/"
+                }
+            ], 
+            "createDate": "2012-04-13 01:56:14", 
+            "description": "A traditional Czech Pilsner brewed with ten pounds of local honey. Light and refeshing with a hint of honeycomb at the finish.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "id": "zxb4ES", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/zxb4ES/upload_OWXPUl-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/zxb4ES/upload_OWXPUl-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/zxb4ES/upload_OWXPUl-medium.png"
+            }, 
+            "name": "Fisherman's Honey Pilsner", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2012-04-13 01:56:17"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:06", 
+                    "id": "7hKwwf", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/7hKwwf/upload_npHDCN-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/7hKwwf/upload_npHDCN-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/7hKwwf/upload_npHDCN-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Czech Republic", 
+                                "isoCode": "CZ", 
+                                "isoThree": "CZE", 
+                                "name": "CZECH REPUBLIC", 
+                                "numberCode": 203
+                            }, 
+                            "countryIsoCode": "CZ", 
+                            "createDate": "2012-01-03 02:42:06", 
+                            "id": "OYtwtU", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 49.7466261, 
+                            "locality": "Plze", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 13.386083, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "420-019/706-1111", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "U Prazdroje 7", 
+                            "updateDate": "2012-03-21 19:08:15"
+                        }
+                    ], 
+                    "name": "Plze\u0148sk\u00fd Prazdroj", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-07-19 22:59:05", 
+                    "website": "http://www.pilsner-urquell.cz/"
+                }
+            ], 
+            "createDate": "2013-05-15 17:47:44", 
+            "id": "bfcB7B", 
+            "isOrganic": "N", 
+            "name": "Gambrinus Premium", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2013-05-24 12:11:22"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2014-02-14 17:16:30", 
+                    "description": "Born and brewed in Margaret River, Cheeky Monkey is producing Western Australia\u2019s freshest line up of craft beers and ciders. But it\u2019s not all about the beer, we\u2019re blessed with an idyllic location half way between Margaret River and Dunsborough on Caves Road. It\u2019s a location that affords the kind of space that lets kids play free whilst you relax, kick back and enjoy a long lunch. Check out our Cheeky Beer Blog for the latest news and events at Cheeky Monkey Brewey & Cidery.", 
+                    "established": "2012", 
+                    "id": "0PktUo", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/0PktUo/upload_IUqhLA-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/0PktUo/upload_IUqhLA-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/0PktUo/upload_IUqhLA-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2014-02-15 12:24:30", 
+                            "hoursOfOperation": "Mon - Sun: 10:00 am - 6:00 pm", 
+                            "id": "IJUWUu", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -33.9740296, 
+                            "locality": "Margaret River", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 115.0320926, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "97 555 555", 
+                            "postalCode": "6280", 
+                            "region": "Western Australia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4259 Caves Road", 
+                            "updateDate": "2014-02-15 12:24:30", 
+                            "website": "http://cheekymonkeybrewery.com.au/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Cheeky Monkey Brewery & Cidery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-15 12:25:56", 
+                    "website": "http://cheekymonkeybrewery.com.au/"
+                }
+            ], 
+            "createDate": "2014-02-14 17:25:21", 
+            "description": "Brewed to a traditional European style showcasing a blend of 100% New Zealand grown hops, this modern interpretation of a classic style. Winemakers often talk about terrior, it is much the same for hops. New Zealand hops typically produce rich tropical fruit and citrus aromas compared to their European cousins.", 
+            "id": "ZoOG8O", 
+            "isOrganic": "N", 
+            "name": "Hatseller", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2014-02-15 12:47:18"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:50", 
+                    "id": "j9cp5e", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Honduras", 
+                                "isoCode": "HN", 
+                                "isoThree": "HND", 
+                                "name": "HONDURAS", 
+                                "numberCode": 340
+                            }, 
+                            "countryIsoCode": "HN", 
+                            "createDate": "2012-01-03 02:41:50", 
+                            "id": "SJFeBI", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 15.50276, 
+                            "locality": "San Pedro Sula", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -88.025471, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "504-550-0100", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Carretera a Puerto Corts", 
+                            "updateDate": "2012-03-21 19:08:06"
+                        }
+                    ], 
+                    "name": "Cervecera Hondurea", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:05"
+                }
+            ], 
+            "createDate": "2013-05-09 18:25:45", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "id": "jT9mTq", 
+            "isOrganic": "N", 
+            "name": "Imperial", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2013-05-09 22:05:22"
+        }, 
+        {
+            "abv": "7.7", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:06", 
+                    "description": "Based in the Pacific Northwest, Pyramid Breweries began as Hart Brewing in 1984 and launched the flagship brand of Pyramid Ales.  In 1996, the company was reborn as Pyramid Breweries and currently offers craft beers produced under the Pyramid family of ales and lagers.  With breweries in Seattle, WA, Portland, OR, and Berkeley, CA, Pyramid also owns Alehouses at all three locations and an additional Alehouse in Walnut Creek, CA.", 
+                    "established": "1984", 
+                    "id": "By7ytz", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/By7ytz/upload_pTbwo7-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/By7ytz/upload_pTbwo7-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/By7ytz/upload_pTbwo7-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:06", 
+                            "id": "yEyjRD", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 47.5924, 
+                            "locality": "Seattle", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.3351834, 
+                            "name": "Seattle Home Office", 
+                            "openToPublic": "Y", 
+                            "phone": "(206) 682-8322", 
+                            "postalCode": "98134", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "91 S Royal Brougham Way", 
+                            "updateDate": "2013-08-12 18:21:15", 
+                            "website": "http://www.pyramidbrew.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:15", 
+                            "hoursOfOperation": "Day Dining \r\nMonday - Thursday 11:30am - 10:00pm \r\nFriday 11:30am - 11:00pm \r\nSaturday 11:30am - 11:00pm \r\nSunday 11:30am - 10:00pm", 
+                            "id": "h88zok", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 37.879624, 
+                            "locality": "Berkeley", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.300147, 
+                            "name": "Berkeley", 
+                            "openToPublic": "Y", 
+                            "phone": "510-528-9880", 
+                            "postalCode": "94710", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "901 Gilman Street", 
+                            "updateDate": "2012-12-24 14:09:52", 
+                            "website": "http://www.pyramidbrew.com/alehouses/berkeley"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:15", 
+                            "hoursOfOperation": "Day Dining \r\nMonday - Thursday 11:00am - 10:00pm \r\nFriday 11:00am - 11:00pm \r\nSaturday 11:00am - 11:00pm \r\nSunday 11:00am - 9:00pm", 
+                            "id": "JRrnyB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.5920122, 
+                            "locality": "Seattle", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.3346949, 
+                            "name": "Seattle", 
+                            "openToPublic": "Y", 
+                            "phone": "206-682-3377", 
+                            "postalCode": "98134", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1201 First Avenue South", 
+                            "updateDate": "2013-08-12 18:21:07", 
+                            "website": "http://www.pyramidbrew.com/alehouses/seattle"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-08-09 20:13:42", 
+                            "hoursOfOperation": "Monday\t11:00am - 9:00pm\r\nTuesday - Thursday\t11:00am - 10:00pm\r\nFriday\t11:00am - 11:00pm\r\nSaturday\t12:00pm - 11:00pm\r\nSunday\t12:00pm - 9:00pm", 
+                            "id": "dPSuK7", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 45.541628, 
+                            "locality": "Portland", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -122.713737, 
+                            "name": "Portland", 
+                            "openToPublic": "Y", 
+                            "phone": "503-228-5269", 
+                            "postalCode": "97210", 
+                            "region": "Oregon", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2730 NW 31st", 
+                            "updateDate": "2012-08-09 20:14:39", 
+                            "website": "http://www.pyramidbrew.com/alehouses/portland"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-08-09 20:14:38", 
+                            "hoursOfOperation": "Monday - Thursday\t11:30am - 9:00pm\r\nFriday\t11:30am - 11:00pm\r\nSaturday\t12:00pm - 10:00pm\r\nSunday\t12:00pm - 7:00pm", 
+                            "id": "FjBiTY", 
+                            "inPlanning": "N", 
+                            "isClosed": "Y", 
+                            "isPrimary": "N", 
+                            "latitude": 38.5791177, 
+                            "locality": "Sacramento", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -121.4929869, 
+                            "name": "Sacramento", 
+                            "openToPublic": "Y", 
+                            "phone": "916-498-9800", 
+                            "postalCode": "95814", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1029 K Street", 
+                            "updateDate": "2013-08-12 23:47:38", 
+                            "website": "http://www.pyramidbrew.com/alehouses/sacramento", 
+                            "yearClosed": "2013"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-08-09 20:15:30", 
+                            "hoursOfOperation": "Monday - Tuesday\t11:30am - 10:00pm\r\nWednesday - Thursday\t11:30am - 10:30pm\r\nFriday - Saturday\t11:30am - 11:00pm\r\nSunday\t11:30am - 10:00pm", 
+                            "id": "s2uWcz", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 37.8991595, 
+                            "locality": "Walnut Creek", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.0619714, 
+                            "name": "Walnut Creek", 
+                            "openToPublic": "Y", 
+                            "phone": "925-946-1520", 
+                            "postalCode": "94596", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1410 Locust Street", 
+                            "updateDate": "2013-08-12 19:10:24", 
+                            "website": "http://www.pyramidbrew.com/alehouses/walnut-creek"
+                        }
+                    ], 
+                    "mailingListUrl": "http://www.pyramidbrew.com/newsletter", 
+                    "name": "Pyramid Breweries", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 16:49:28", 
+                    "website": "http://www.pyramidbrew.com/"
+                }
+            ], 
+            "createDate": "2013-01-05 19:11:18", 
+            "description": "Imperial Pils is a crisp, more intense version of a classic Pilsner. Light golden in color and carrying a heady herbaceous nose, it offers a dry bitterness on the palate and fresh, floral finish from the use of traditional Eastern European hops.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "ibu": "55", 
+            "id": "jmxYmJ", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/jmxYmJ/upload_9tGrtF-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/jmxYmJ/upload_9tGrtF-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/jmxYmJ/upload_9tGrtF-medium.png"
+            }, 
+            "name": "Imperial Pils", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2013-08-12 18:34:49"
+        }, 
+        {
+            "abv": "9", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:04", 
+                    "description": "N\u00f8gne \u00f8 is Norway's leading and largest supplier of bottle conditioned ale and the first and only producer of unfiltered sake in Europe. We make more than 20 different styles of ale & 5 different sake!", 
+                    "established": "2002", 
+                    "id": "rmvkfa", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/rmvkfa/upload_imEH8U-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/rmvkfa/upload_imEH8U-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/rmvkfa/upload_imEH8U-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Norway", 
+                                "isoCode": "NO", 
+                                "isoThree": "NOR", 
+                                "name": "NORWAY", 
+                                "numberCode": 578
+                            }, 
+                            "countryIsoCode": "NO", 
+                            "createDate": "2012-01-03 02:42:04", 
+                            "id": "7APpWR", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 58.391579, 
+                            "locality": "Lunde", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 8.635219, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+47 37 25 74 00", 
+                            "postalCode": "N-4885", 
+                            "region": "Grimstad", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Gamle Rygene Kraftstasjon", 
+                            "updateDate": "2012-03-21 19:08:14", 
+                            "website": "http://www.nogne-o.com/"
+                        }
+                    ], 
+                    "name": "N\u00f8gne \u00d8", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-02-02 12:56:52", 
+                    "website": "http://www.nogne-o.com/"
+                }
+            ], 
+            "createDate": "2013-04-18 11:01:29", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "id": "NdcirM", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/NdcirM/upload_XxRccv-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/NdcirM/upload_XxRccv-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/NdcirM/upload_XxRccv-medium.png"
+            }, 
+            "name": "Imperial Premiant", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2013-04-18 11:01:31"
+        }, 
+        {
+            "abv": "4.3", 
+            "breweries": [
+                {
+                    "createDate": "2013-09-12 12:49:51", 
+                    "description": "The Sportsman Brewing Company a pub nano-brewery housed in the Sportsman, Huddersfield. Our mission is to brew our own unique real ales which will be available at the Sportsman, the West Riding Refreshment Rooms the Cricketers Arms and Stalybridge Buffet Bar.", 
+                    "established": "2011", 
+                    "id": "KiLbBg", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/KiLbBg/upload_uJBc5b-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/KiLbBg/upload_uJBc5b-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/KiLbBg/upload_uJBc5b-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-09-12 12:51:58", 
+                            "id": "KWQ56O", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 53.650349, 
+                            "locality": "Huddersfield", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -1.7842224, 
+                            "name": "Sportsman Brewing Company", 
+                            "openToPublic": "Y", 
+                            "phone": "07766 131123", 
+                            "postalCode": "HD1 5AY", 
+                            "region": "West Yorkshire", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1 St Johns Road", 
+                            "updateDate": "2013-09-12 18:59:45"
+                        }
+                    ], 
+                    "name": "Sportsman Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-09-12 18:59:35", 
+                    "website": "http://www.sportsmanbrewingcompany.co.uk"
+                }
+            ], 
+            "createDate": "2013-09-12 12:55:21", 
+            "description": "A German style speciality beer", 
+            "id": "fSLWTv", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/fSLWTv/upload_iiXl4D-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/fSLWTv/upload_iiXl4D-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/fSLWTv/upload_iiXl4D-medium.png"
+            }, 
+            "name": "Keller Bier", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2013-09-12 19:00:35"
+        }, 
+        {
+            "abv": "4.9", 
+            "breweries": [
+                {
+                    "createDate": "2013-05-28 05:43:43", 
+                    "established": "2003", 
+                    "id": "LbS8zJ", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Chile", 
+                                "isoCode": "CL", 
+                                "isoThree": "CHL", 
+                                "name": "CHILE", 
+                                "numberCode": 152
+                            }, 
+                            "countryIsoCode": "CL", 
+                            "createDate": "2013-05-28 12:24:16", 
+                            "id": "rK3t7T", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(562) 3392266", 
+                            "region": "Curacav\u00ed", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Camino El Toro km 6,5 s/n", 
+                            "updateDate": "2013-05-28 12:24:16", 
+                            "website": "http://www.kross.cl/"
+                        }
+                    ], 
+                    "name": "Kross", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-28 12:23:38", 
+                    "website": "http://www.kross.cl/"
+                }
+            ], 
+            "createDate": "2013-05-28 06:04:18", 
+            "id": "Zec8az", 
+            "isOrganic": "N", 
+            "name": "Kross Pilsner", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2013-05-28 12:26:23"
+        }, 
+        {
+            "abv": "6", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:53", 
+                    "description": "The story of Dogfish Head began in June of 1995 when we opened Dogfish Head Brewings & Eats, the first state's first brewpub opened in the resort beach community of Rehoboth Beach, Delaware. The plan was to bring original beer, original food, and original music to the area.\r\n\r\nNot only was Dogfish Head Delaware's first brewpub, it was the smallest commercial brewery in America. Our very first batch, Shelter Pale Ale, was brewed on a system which essentially was three little kegs with propane burners underneath. Brewing 12 gallon batches of beer for a whole restaurant proved to be more than a full time job. When the doors to the pub first opened, we brewed three times a day, five days a week! The one benefit to brewing on such a small system was the ability to try out a myriad of different recipes. We quickly got bored brewing the same things over and over that's when we started adding all sorts of weird ingredients and getting kind of crazy with the beers!", 
+                    "established": "1995", 
+                    "id": "g0jHqt", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/g0jHqt/upload_WaJNQt-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/g0jHqt/upload_WaJNQt-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/g0jHqt/upload_WaJNQt-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:53", 
+                            "id": "Mq24sa", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.770622, 
+                            "locality": "Milton", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -75.310893, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "302-684-1000", 
+                            "postalCode": "19968", 
+                            "region": "Delaware", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6 Cannery Village Center", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.dogfish.com/", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-24 14:58:17", 
+                            "hoursOfOperation": "Open 7 Days, Year Round! Open at noon for LUNCH everyday, & we serve DINNER every night!", 
+                            "id": "57kBD4", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.715362, 
+                            "locality": "Rehoboth Beach", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -75.086898, 
+                            "name": "Dogfish Head Brewings & Eats", 
+                            "openToPublic": "Y", 
+                            "phone": "302-226-2739", 
+                            "postalCode": "19971", 
+                            "region": "Delaware", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "320 Rehoboth Avenue", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.dogfish.com/", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-24 15:01:34", 
+                            "hoursOfOperation": "Monday - Wednesday: 11:30am to 11:00pm\r\nThursday: 11:00am to 11:00pm\r\nFriday-Saturday: 11:00am to 12:00am\r\nSunday: 11:30am to 10:00pm", 
+                            "id": "hRSzMV", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 39.142971, 
+                            "locality": "Gaithersburg", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -77.215924, 
+                            "name": "DFH Alehouse, Gaithersburg", 
+                            "openToPublic": "Y", 
+                            "phone": "301-963-4847", 
+                            "postalCode": "20878", 
+                            "region": "Maryland", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "800 West Diamond Ave.", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.dogfishalehouse.com/dogfish-head-alehouse-gaithersburg.html", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-24 15:03:04", 
+                            "extendedAddress": "Seven Corners Shopping Center", 
+                            "hoursOfOperation": "Monday - Thursday: 11:30am to 11:00pm\r\nFriday - Saturday: 11:30am to 12:00am\r\nSunday: 11:30 am to 10:00pm", 
+                            "id": "JlBnVw", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.870041, 
+                            "locality": "Falls Church", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -77.151446, 
+                            "name": "DFH Alehouse, Falls Church", 
+                            "openToPublic": "Y", 
+                            "phone": "703-534-3342", 
+                            "postalCode": "22044", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6220 Leesburg Pike", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.dogfishalehouse.com/dfh-alehouse-falls-church.html", 
+                            "yearOpened": "1995"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-24 15:04:07", 
+                            "hoursOfOperation": "Monday - Thursday: 11:30am to 11:00pm\r\nFriday - Saturday: 11:30am to 12:00am\r\nSunday: 11:30am to 10:00pm", 
+                            "id": "w4ubfN", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.880695, 
+                            "locality": "Fairfax", 
+                            "locationType": "restaurant", 
+                            "locationTypeDisplay": "Restaurant/Ale House", 
+                            "longitude": -77.397333, 
+                            "name": "DFH Alehouse, Fairfax", 
+                            "openToPublic": "Y", 
+                            "phone": "703-961-1140", 
+                            "postalCode": "22033", 
+                            "region": "Virginia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "13041 Lee Jackson Memorial Hwy", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.dogfishalehouse.com/dfh-alehouse-fairfax.html", 
+                            "yearOpened": "1995"
+                        }
+                    ], 
+                    "name": "Dogfish Head Craft Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-24 13:07:38", 
+                    "website": "http://www.dogfish.com/"
+                }
+            ], 
+            "createDate": "2013-09-25 12:13:40", 
+            "description": "A Perry-Pils hybrid, Piercing Pils is a Czech Style Pilsner brewed with a White Pear Tea and Pear juice.  Both the juice and the tea were added in the kettle during the whirlpool (after the boil) for maximum flavor and aroma contribution.  The Pear fruit complexity pierces right through the spicy Czech Saaz hops beautifully, adding a gentle acidity to this pale lager that makes for a crisp refreshing sipper.  Amarillo hops add nuanced citrus notes that meld perfectly with the fruit.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "id": "Y2exHq", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Y2exHq/upload_c1C2Gx-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Y2exHq/upload_c1C2Gx-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Y2exHq/upload_c1C2Gx-medium.png"
+            }, 
+            "name": "Piercing Pils", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2014-05-02 11:59:26"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:49", 
+                    "id": "AnN3Lm", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Belgium", 
+                                "isoCode": "BE", 
+                                "isoThree": "BEL", 
+                                "name": "BELGIUM", 
+                                "numberCode": 56
+                            }, 
+                            "countryIsoCode": "BE", 
+                            "createDate": "2012-01-03 02:41:49", 
+                            "id": "3V4xcA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 51.0919697, 
+                            "locality": "Ichtegem", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 3.0094488, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "32-051-58-81-16", 
+                            "region": "West-Vlaanderen", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Markt 1", 
+                            "updateDate": "2012-03-21 19:08:05"
+                        }
+                    ], 
+                    "name": "Brouwerij Strubbe", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:05"
+                }
+            ], 
+            "createDate": "2014-02-17 13:03:35", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "id": "3tqzuw", 
+            "isOrganic": "Y", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/3tqzuw/upload_jEoRuI-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/3tqzuw/upload_jEoRuI-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/3tqzuw/upload_jEoRuI-medium.png"
+            }, 
+            "name": "Pils", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2014-02-17 13:08:24"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2013-01-26 14:14:15", 
+                    "id": "cl9JRQ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/cl9JRQ/upload_0cB2VX-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/cl9JRQ/upload_0cB2VX-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/cl9JRQ/upload_0cB2VX-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-01-26 14:15:36", 
+                            "id": "wnHSQB", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 45.5606405, 
+                            "locality": "Portland", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -122.6616514, 
+                            "name": "Main Brewpub", 
+                            "openToPublic": "Y", 
+                            "phone": "(503) 200-5988", 
+                            "postalCode": "97211", 
+                            "region": "Oregon", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5201 NE M L King Blvd.", 
+                            "updateDate": "2013-01-26 14:15:36", 
+                            "website": "http://www.otbrewing.com/"
+                        }
+                    ], 
+                    "name": "Old Town Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-26 14:15:57", 
+                    "website": "http://www.otbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-01-26 14:16:42", 
+            "description": "This European styled Pilsner is made right here in Northeast Portland. Light golden European Pilsner malt is married with Oregon grown Noble hops to make a refreshing Lager.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "ibu": "35", 
+            "id": "6tSCN0", 
+            "isOrganic": "N", 
+            "name": "Pilsner", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2013-01-26 14:16:42"
+        }, 
+        {
+            "abv": "3.8", 
+            "breweries": [
+                {
+                    "createDate": "2012-07-12 13:12:47", 
+                    "description": "Arkell\u2019s Brewery is one of the few family breweries left in the UK.\r\n\r\nEstablished as Brunel was building the Great Western Railway, Arkell\u2019s is still brewing beer long after the railway works closed down.", 
+                    "established": "1864", 
+                    "id": "9Vvgcr", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/9Vvgcr/upload_bXkrsa-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/9Vvgcr/upload_bXkrsa-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/9Vvgcr/upload_bXkrsa-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-07-12 13:15:10", 
+                            "id": "U3JLEf", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 51.5933, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -1.759518, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(01793) 823026", 
+                            "postalCode": "SN2 7RU", 
+                            "region": "Swindon", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Kingsdown Brewery", 
+                            "updateDate": "2012-07-12 13:15:10", 
+                            "website": "http://www.arkells.com/"
+                        }
+                    ], 
+                    "name": "Arkell's Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-07-12 13:15:38", 
+                    "website": "http://www.arkells.com/"
+                }
+            ], 
+            "createDate": "2012-07-12 13:18:46", 
+            "description": "Brewed in the traditional Czech fashion, bottom fermented and cold-conditioned. This is a classic continental style Pilsner produced at Arkell\u2019s Kingsdown brewery using the authentic Czech hop Saaz, to produce the characteristically hoppy flavour and aroma of a pilsner. Well balanced with malty foundations.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "id": "IGNYRb", 
+            "isOrganic": "N", 
+            "name": "Pilsner", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2012-07-12 13:18:46"
+        }, 
+        {
+            "abv": "5.2", 
+            "available": {
+                "description": "Beer is not available.", 
+                "id": 3, 
+                "name": "Not Available"
+            }, 
+            "availableId": 3, 
+            "breweries": [
+                {
+                    "createDate": "2013-05-09 22:00:17", 
+                    "description": "Our atmost goal is become well respected brand in the Asiapacific region.\r\n\r\nIn 1998, \u201cChinggis beer \u201cLLC was the landmark in the history of Mongolian Beer market supplying high quality beer brewed according to the quality control stature or famous \u201c Reinheitsgebot\u201d , Beer Purity law of Germany.", 
+                    "established": "1997", 
+                    "id": "nFCNFR", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/nFCNFR/upload_IWSM6o-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/nFCNFR/upload_IWSM6o-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/nFCNFR/upload_IWSM6o-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Mongolia", 
+                                "isoCode": "MN", 
+                                "isoThree": "MNG", 
+                                "name": "MONGOLIA", 
+                                "numberCode": 496
+                            }, 
+                            "countryIsoCode": "MN", 
+                            "createDate": "2013-05-10 13:15:41", 
+                            "extendedAddress": "6th Khoroo,", 
+                            "id": "0s8yID", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.921378, 
+                            "locality": "Chingeltei District", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 106.90554, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+ (976)-70115820", 
+                            "region": "Ulaanbaatar", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Sukhbaatar street-10,", 
+                            "updateDate": "2013-05-10 13:15:41", 
+                            "website": "http://www.chinggisbeer.mn/", 
+                            "yearOpened": "1997"
+                        }
+                    ], 
+                    "name": "Chinggis Beer Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-10 13:15:53", 
+                    "website": "http://www.chinggisbeer.mn/"
+                }
+            ], 
+            "createDate": "2013-05-10 13:19:45", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "id": "D3N0dL", 
+            "isOrganic": "N", 
+            "name": "Pilsner", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2013-05-10 13:19:46"
+        }, 
+        {
+            "abv": "4.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:03", 
+                    "description": "About\r\nNoble Ale Works is a microbrewery located in Anaheim, California at the Stadium Plaza Business Park in the Platinum Triangle. We are conveniently located between the Angels Stadium and the Honda Center.\r\n \r\nOur goal is to create and maintain high quality full flavored craft brews for those who can handle it. \"We are not here to convert light or non-beer drinkers; our beer is for people that already appreciate craft beer\" We will never skimp on quality or freshness of ingredients, so that we can maintain the high profile flavor of brews that we at Noble care about.", 
+                    "established": "2009", 
+                    "id": "ksUh6Y", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ksUh6Y/upload_audRSf-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ksUh6Y/upload_audRSf-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ksUh6Y/upload_audRSf-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:03", 
+                            "extendedAddress": "Ste B", 
+                            "id": "ZcjYxN", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 33.808471, 
+                            "locality": "Anaheim", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -117.8824638, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "714-634-2739", 
+                            "postalCode": "92806", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1621 S. Sinclair St.", 
+                            "updateDate": "2012-03-21 20:05:28", 
+                            "website": "http://www.noblealeworks.com/", 
+                            "yearOpened": "2009"
+                        }
+                    ], 
+                    "name": "Noble Ale Works", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-02 11:38:46", 
+                    "website": "http://www.noblealeworks.com/"
+                }
+            ], 
+            "createDate": "2014-04-01 17:59:26", 
+            "id": "W1B80w", 
+            "isOrganic": "N", 
+            "name": "Pistola", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2014-04-02 11:53:54"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:48", 
+                    "description": "All Brouwerij \u2019t IJ\u2019s beer is brewed at Funenkade 7 in Amsterdam - all 300,000 litres of it.\r\n\r\nThe Natte, Zatte, Columbus and Struis are 100% organic.\r\nA lot of beer never makes it out of the brewery, because it is sold in their pub. What does leave the brewery finds its way to health food shops all over the Netherlands, off licence chains such as Gall&Gall and Mitra, or caf\u00e9s, mainly in Amsterdam.\r\n\r\nAll the brewery\u2019s beers are top fermented and brewed with traditional craftsmanship.", 
+                    "established": "1983", 
+                    "id": "J1d7if", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/J1d7if/upload_HwFYLb-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/J1d7if/upload_HwFYLb-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/J1d7if/upload_HwFYLb-medium.png"
+                    }, 
+                    "isOrganic": "Y", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Netherlands", 
+                                "isoCode": "NL", 
+                                "isoThree": "NLD", 
+                                "name": "NETHERLANDS", 
+                                "numberCode": 528
+                            }, 
+                            "countryIsoCode": "NL", 
+                            "createDate": "2012-01-03 02:41:48", 
+                            "id": "rVHMv0", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 52.3666373, 
+                            "locality": "Amsterdam", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 4.9263348, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "31-020-3201786", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Funenkade 7", 
+                            "updateDate": "2012-03-21 19:08:04"
+                        }
+                    ], 
+                    "name": "Brouwerij 't IJ", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-11 19:01:03", 
+                    "website": "http://www.brouwerijhetij.nl/"
+                }
+            ], 
+            "createDate": "2012-08-11 19:01:43", 
+            "description": "Our pils is a sturdy, hoppy and blossomy blond beer, which is top fermented. \r\nBrewed from 100% barley malt. You really should have a couple of these in your fridge.\r\n\r\nOn tap only in our tasting room and Cafe De Balie.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "id": "1jKN50", 
+            "isOrganic": "Y", 
+            "name": "Plzen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2012-08-11 19:01:43"
+        }, 
+        {
+            "abv": "4.2", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:47", 
+                    "description": "Located at the heart of the Green Mountains, we have the unique pleasure of serving handcrafted beers along side homemade food that is fresh and creative. Our brewmaster, Mark Magiera, uses high quality grains, hops and yeast strains to create up to a dozen true to style beers. With his unending expertise, Mark is passionate and innovative without losing the tradition behind each style. In the kitchen, we work hard to bring consistency and quality to the table. We focus on local ingredients to enhance our creative comfort food.\r\n\r\nThe Bobcat Cafe and Brewery opened ten years ago as a community supported business. Today, we strive to support and enhance the community by hosting benefit dinners and by providing a comfortable spot where local people can meet and socialize. Our 100 member Mug Club is a testament to the dedication of our regulars.", 
+                    "established": "2002", 
+                    "id": "qlEuN1", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/qlEuN1/upload_klH0wG-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/qlEuN1/upload_klH0wG-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/qlEuN1/upload_klH0wG-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:47", 
+                            "hoursOfOperation": "Bar opens daily at 4pm\r\n\r\nSunday - Thursday\r\n5:00 PM - 9:00 PM\r\n\r\nFriday - Saturday\r\n5:00 PM - 9:30 PM", 
+                            "id": "EYuZg3", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.1331567, 
+                            "locality": "Bristol", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -73.0784259, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(802) 453-3311", 
+                            "postalCode": "5443", 
+                            "region": "Vermont", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4 Main Street", 
+                            "updateDate": "2012-04-13 14:33:46", 
+                            "website": "http://www.bobcatcafe.com/"
+                        }
+                    ], 
+                    "name": "Bobcat Cafe & Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-13 14:50:19", 
+                    "website": "http://www.bobcatcafe.com/"
+                }
+            ], 
+            "createDate": "2012-04-13 14:44:41", 
+            "description": "This is a gold colored Czech Pilsner style beer, with a pronounced spicy bitterness. The bitterness is from \u017datec/Saaz hops imported from the Czech Republic along with German Hallertau Hersbrucker hops & the hop aroma is Styrian Golding delivering a blast of flavour. A tight creamy head compliments its velvety body.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "ibu": "30", 
+            "id": "axUra2", 
+            "isOrganic": "N", 
+            "name": "Pocock Pilsner", 
+            "originalGravity": "1.04", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2012-04-13 14:44:41"
+        }, 
+        {
+            "abv": "4.7", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2013-05-28 15:50:43", 
+                    "description": "From Melbourne, Australia, comes a boutique liquor importer/distributor with a passion for handcrafted premium beers, spirits and ciders. Because we are spirits and beer enthusiasts, we carefully select all our products from Europe and South America to impress even the most demanding palates. Our aim is to give your price-conscious yet discerning customer the ultimate drinking experience, by offering an innovative product selection ranging from Brazilian Beers to Mexican tequila.", 
+                    "id": "aEtlIB", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2013-05-29 12:25:02", 
+                            "hoursOfOperation": "Monday to Friday 9am to 6pm AEST", 
+                            "id": "Kax7jD", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -37.8143487, 
+                            "locality": "Melbourne", 
+                            "locationType": "office", 
+                            "locationTypeDisplay": "Office", 
+                            "longitude": 144.958959, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "0450 410 563", 
+                            "postalCode": "3000", 
+                            "region": "VIC", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Law Courts Place,", 
+                            "updateDate": "2013-05-29 12:25:02", 
+                            "website": "http://www.ibev.com.au/"
+                        }
+                    ], 
+                    "name": "IBEV", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-29 12:22:41", 
+                    "website": "http://www.ibev.com.au/"
+                }
+            ], 
+            "createDate": "2013-05-28 16:03:30", 
+            "description": "It\u2019s easy to understand how Skol is Brazil's most popular beer. Brazilians love this clear, crisp pilsner that goes down smooth, with a perfect amount of carbonation and enough flavor to to give it a little bite. Skol is a clear, straw colored pilsner with a thin white head and aromas of grain.\r\n\r\nWhether it is an advertisement on the beach, or a vendor selling ice-cold cans on the streets, Skol is found everywhere in Brazil. Because it\u2019s in such strong demand, you\u2019ll find it served in most restaurants, bars, clubs and retail establishments throughout the country.\r\n\r\nSkol is easy to drink, making it a perfect beer to drink with meat dishes and spicy food. An interesting feature of the Skol bottle is a small logo on the label, which turns blue when the beer is at its perfect temperature to drink. When the logo turn blue it says \"Skol Gelada\" (Skol is cold), to tell you when the beer is cold enough to drink.\r\n\r\nThe best Brazilian beer is now available in Australia, where it is gaining the popularity it enjoys at home. It can now be found at restaurants and premium bars in Melbourne, Sydney and Brisbane.\r\n\r\nDRINK IT ICE COLD !", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "id": "8W7Pxu", 
+            "isOrganic": "N", 
+            "name": "Skol", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2013-05-29 12:26:33"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-10-23 00:58:26", 
+                    "established": "1807", 
+                    "id": "3mFYc2", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/3mFYc2/upload_SRzApq-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/3mFYc2/upload_SRzApq-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/3mFYc2/upload_SRzApq-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Estonia", 
+                                "isoCode": "EE", 
+                                "isoThree": "EST", 
+                                "name": "ESTONIA", 
+                                "numberCode": 233
+                            }, 
+                            "countryIsoCode": "EE", 
+                            "createDate": "2012-10-23 00:59:05", 
+                            "id": "gicLqz", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 58.37655, 
+                            "locality": "Tartu", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 26.72614, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "region": "Tartu", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2012-10-23 00:59:05", 
+                            "yearOpened": "1807"
+                        }
+                    ], 
+                    "name": "A. Le Coq", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-23 00:59:11", 
+                    "website": "http://www.alecoq.ee"
+                }
+            ], 
+            "createDate": "2012-10-23 01:07:41", 
+            "id": "Mu4345", 
+            "isOrganic": "N", 
+            "name": "Viru", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2012-10-23 01:07:42"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-04-16 19:49:52", 
+                    "description": "Back in the Summer of 2011, we got the crazy idea to startup a brewery, not because we wanted to be on the bandwagon, but because we wanted something different, something our talents and passion for beer could make happen. Out technical background in Microbiology, Chemistry, and Automation, made up the perfect storm needed to produce quality beer with a higher level of consistency and with improved shelf stability. Our passion for beer and diversity of tastes allowed us to craft carefully refined recipes that we know will delight you.\r\n\r\nWe chose Fountain Square because of the community. Since we will be the first to admit our creativity and talents exist on a side of the brain that has little capability to draw, we have this admiration and attraction to those whose talents reside in the arts. We have connected to this community over the past year and look forward to being a vehicle for expressing its artistic nature. Fountain Square is a community of hard working, creative, fun loving, and genuine people. They are probably the most helpful people we've ever met. We are truly honored to be a part of the community and will strive to be worthy ambassadors and stewards.", 
+                    "established": "2011", 
+                    "id": "f78xIY", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/f78xIY/upload_ODxmSI-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/f78xIY/upload_ODxmSI-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/f78xIY/upload_ODxmSI-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-04-16 19:54:28", 
+                            "hoursOfOperation": "Thursday - 4pm to 9pm\r\nFriday - 4pm to 10pm\r\nSaturday - 2pm to 10pm\r\nSunday - Noon - 6pm", 
+                            "id": "N1ToDA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.749645, 
+                            "locality": "Indianapolis", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -86.140794, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "317.493.1410", 
+                            "postalCode": "46203", 
+                            "region": "Indiana", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1301 Barth Ave.", 
+                            "updateDate": "2012-04-16 19:54:28", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Fountain Square Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-16 19:56:55", 
+                    "website": "http://www.fountainsquarebrewery.com/"
+                }
+            ], 
+            "createDate": "2013-10-10 18:20:58", 
+            "id": "Afhkz2", 
+            "isOrganic": "N", 
+            "name": "Workingman's Pilsner", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2013-10-11 12:16:08"
+        }, 
+        {
+            "abv": "5.5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:15", 
+                    "established": "1876", 
+                    "id": "16DsvO", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Japan", 
+                                "isoCode": "JP", 
+                                "isoThree": "JPN", 
+                                "name": "JAPAN", 
+                                "numberCode": 392
+                            }, 
+                            "countryIsoCode": "JP", 
+                            "createDate": "2012-01-03 02:42:15", 
+                            "id": "CXQkP9", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 35.668455, 
+                            "locality": "Tokyo", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 139.763405, 
+                            "name": "Chuo", 
+                            "openToPublic": "N", 
+                            "phone": "81-(03)-3572-6111", 
+                            "region": "Kanto", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "10-1 Ginza 7-chome, Chuo-ku", 
+                            "updateDate": "2012-03-21 19:08:21"
+                        }
+                    ], 
+                    "name": "Sapporo Breweries", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-05 13:07:15", 
+                    "website": "http://www.sapporousa.com/"
+                }
+            ], 
+            "createDate": "2013-05-04 18:24:48", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "id": "tmwvzk", 
+            "isOrganic": "N", 
+            "name": "Yebisu The Hop", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2013-05-05 13:12:13"
+        }, 
+        {
+            "abv": "4.9", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-05-01 18:53:58", 
+                    "description": "The historical beginnings of Pivovarna La\u0161ko reach back to 1825, when the mead and gingerbread maker Franz Geyer set up a brewery in the former Valvasor Hospital, which still stands today. One hundred and eighty five years have passed since then, with Pivovarna La\u0161ko growing from a local brewery to the leading producer of beer and together with other companies in the Group, into the leading producer of mineral and natural waters, non-alcoholic beverages and other beverages on the Slovene market.\r\n\r\nBeverages production belongs to the more competitive industries, where multinational corporations, commercial companies and demanding users play the most important roles.\r\n\r\nPivovarna La\u0161ko and the La\u0161ko Group are embarking on a path of development with the following basic business orientation: to produce and sell innovative trendy products, maintain the market position of its own brand names on the domestic market and to attain again and expand positions in foreign markets achieved in the past.\u00a0 Furthermore, to use the most advanced technology in the development of appropriate production and commercial programs which guarantee the top quality of beer, non-alcoholic beverages and mineral and natural water.\r\n\r\nThe umbrella brand La\u0161ko is represented by the following products: the La\u0161ko Zlatorog, the special beers La\u0161ko Club, La\u0161ko Dark, and La\u0161ko Light,\u00a0 the light beer Export Pils and the sweet beverage La\u0161ko Malt with apple and peach flavours. In addition to the above brands Pivovarna La\u0161ko also produces the Bandidos product line, a beer with added aromas and in three different flavours: Bandidos Tequila, Bandidos Ice and Bandidos Sun. The Bandidos brand image was entirely renewed in spring 2010 to get even closer to its target population.\r\n\r\nFor special occasions Pivovarna La\u0161ko brews unique beers, such as the Jubilejnik and Eliksir beers. Pivovarna La\u0161ko entered an entirely new field in 2010, when it launched on the Slovenian market a novelty in the category of beverages, namely the apple cider, under the brand name iC Cider.\u00a0\u00a0\r\n\r\nDespite the harsh market conditions Pivovarna La\u0161ko, d. d. maintained its position of leading beer producer in Slovenia.\r\n\r\nThe Pivovarna La\u0161ko Group today includes producers of beer, mineral, spring and natural waters, non-alcoholic beverages, spirits and other alcoholic drinks, and syrups for the productions of drinks, and also a newspaper and publishing activity.", 
+                    "established": "1825", 
+                    "id": "jNvzFs", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/jNvzFs/upload_jdgLWU-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/jNvzFs/upload_jdgLWU-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/jNvzFs/upload_jdgLWU-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Slovenia", 
+                                "isoCode": "SI", 
+                                "isoThree": "SVN", 
+                                "name": "SLOVENIA", 
+                                "numberCode": 705
+                            }, 
+                            "countryIsoCode": "SI", 
+                            "createDate": "2012-05-01 18:58:45", 
+                            "id": "8C6fp0", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 50.593349, 
+                            "locality": "La\u0161ko", 
+                            "locationType": "production", 
+                            "locationTypeDisplay": "Production Facility", 
+                            "longitude": 23.23594, 
+                            "name": "Pivovarna La\u0161ko", 
+                            "openToPublic": "Y", 
+                            "phone": "+386 3 734 80 00", 
+                            "postalCode": "`````", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Trubarjeva ulica 28", 
+                            "updateDate": "2012-05-02 12:26:55", 
+                            "website": "http://www.pivo-lasko.si/"
+                        }
+                    ], 
+                    "name": "Pivovarna La\u0161ko", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-05 14:59:16", 
+                    "website": "http://www.pivo-lasko.si/"
+                }
+            ], 
+            "createDate": "2012-05-01 19:03:02", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 4, 
+                "name": "Pilsner"
+            }, 
+            "glasswareId": 4, 
+            "id": "2lV08H", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/2lV08H/upload_fuywT4-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/2lV08H/upload_fuywT4-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/2lV08H/upload_fuywT4-medium.png"
+            }, 
+            "name": "Zlatorog", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.3", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 10, 
+                    "name": "International Styles"
+                }, 
+                "categoryId": 10, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "International Pilseners are straw/golden in color and are well attenuated. This medium-bodied beer is often brewed with rice, corn, wheat, or other grain or sugar adjuncts making up part of the mash. Hop bitterness is low to medium. Hop flavor and aroma are low. Residual malt sweetness is low--it does not predominate but may be perceived. Fruity esters and diacetyl should not be perceived. Very low levels of sweet corn-like dimethylsulfide (DMS) character, if perceived, are acceptable. There should be no chill haze.", 
+                "fgMax": "1.01", 
+                "fgMin": "1.008", 
+                "ibuMax": "30", 
+                "ibuMin": "17", 
+                "id": 106, 
+                "name": "International-Style Pilsener", 
+                "ogMin": "1.044", 
+                "srmMax": "4", 
+                "srmMin": "3"
+            }, 
+            "styleId": 106, 
+            "updateDate": "2013-05-05 14:59:32"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 26
+}

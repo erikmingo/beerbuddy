@@ -1,0 +1,390 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "6", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:56", 
+                    "description": "The Great Crescent Brewery beers are made with all malt, fresh hops and whole ingredients. Every beer is hand-crafted in small batches using traditional brewing methods. We package our beer in self-pressurizing mini-kegs that hold the equivalent of a case of beer, half\u2013gallon refillable growler bottles and 1/6 barrel (5 gallon) kegs that can be used in commercial and home draft systems. Some of our specialty beers, like our Cherry Ale, will only be available in limited quantities.\r\nWe are a production brewery that sells beer right from the premises. Although we don\u2019t currently have a tasting room where we can sell beer by the glass \u2013 we will be offering samples to help you decide which beer to purchase.\r\n\r\nWe are open to the public Wednesday-Friday 2pm to 7pm, Saturday 12 (noon) to 7pm and Sunday 12 (noon) to 4pm. You can purchase our beers outside of the brewery at The Pour House in Aurora, Indiana, Bakers Discount Liquors in Rising Sun, Indiana and Whitey\u2019s in Lawrenceburg, Indiana. We are also available on draft at Bourbons Bar & Grill in Lawrenceburg, Indiana.", 
+                    "established": "2008", 
+                    "id": "DZbNSQ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/DZbNSQ/upload_vZusaG-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/DZbNSQ/upload_vZusaG-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/DZbNSQ/upload_vZusaG-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:56", 
+                            "hoursOfOperation": "Friday 1PM to 6PM\r\nSaturday Noon to 6PM\r\nClosed Sunday through Thursday", 
+                            "id": "Hg8V7d", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.057436, 
+                            "locality": "Aurora", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -84.8996633, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "812-655-9079", 
+                            "postalCode": "47001", 
+                            "region": "Indiana", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "315 Importing Street", 
+                            "updateDate": "2012-07-12 13:25:10", 
+                            "website": "http://www.gcbeer.com/", 
+                            "yearOpened": "2008"
+                        }
+                    ], 
+                    "name": "Great Crescent Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-23 15:11:09", 
+                    "website": "http://www.gcbeer.com/"
+                }
+            ], 
+            "createDate": "2012-07-12 13:40:11", 
+            "description": "Frosted Fields was created to celebrate those cold Winter days when the frost lays heavy across the fields. In addition to the usual 2-row malted barley Frosted Fields uses a blend of white and red wheat malt. If we could put this one in a category, it would best fit the double-wit style, but has the addition of high alpha Summit hops to enhance the bitteness and flavor. The citrus flavors of the corriander and the sweet and bitter orange touch on the times when we sit warm inside munching on nuts and some fresh citrus fruits to take the edge off the cold outside. We will be tapping the first keg on New Year's Eve at the brewery and it will then be available in Pint Cans, Growlers and Kegs.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "ibu": "25", 
+            "id": "i53GGp", 
+            "isOrganic": "N", 
+            "name": "Frosted Fields Winter Wheat", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.8", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent malt wheat, and hop rates may be low to medium. Fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. Diacetyl should not be perceived. Because this style is intended to be served with yeast the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Chill haze is acceptable. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of malt and hops.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.004", 
+                "ibuMax": "25", 
+                "ibuMin": "10", 
+                "id": 115, 
+                "name": "Dark American Wheat Ale or Lager with Yeast", 
+                "ogMin": "1.036", 
+                "srmMax": "22", 
+                "srmMin": "9"
+            }, 
+            "styleId": 115, 
+            "updateDate": "2012-07-12 13:40:11"
+        }, 
+        {
+            "abv": "5.4", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:02", 
+                    "description": "Originally located less than a mile from the very hill where Friar Junipero Serra and his scurvy-ridden crew drove their stake into the ground, Mission Brewery was born in those heady first days of the 20th century. And then prohibition shut it down. Re-established in 2007, we are honored to say that four months and four beers in, Mission was awarded two national medals at the Great American Beer Festival. Fast forward to 2010 our plunder of precious beer medals has gown considerably. Three Gold, three Silver and two Bronze medals now fill our bounty. A dream come true for long-time die-hard home brewers. From modest beginnings to a state of the art custom made brewery in the historic Wonderbread building just east of San Diego\u2019s baseball stadium Petco Park. Our brewery should be brewing beer with in the month. Soon therafter our tasting bar will be open to the public. There\u2019s nothing more enjoyable than a pint while watching the beer you\u2019re drinking being made a few feet from where you\u2019re sitting.\r\nNo catchy gimmicks. No national campaigns. Just great handcrafted beer made in San Diego!", 
+                    "established": "2007", 
+                    "id": "HbbSUo", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/HbbSUo/upload_39FnXf-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/HbbSUo/upload_39FnXf-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/HbbSUo/upload_39FnXf-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:02", 
+                            "id": "JrORvw", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 32.7074347, 
+                            "locality": "San Diego", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -117.1519306, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "619-628-0500", 
+                            "postalCode": "92101", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1441 L Street", 
+                            "updateDate": "2013-11-01 11:21:10", 
+                            "website": "http://www.missionbrewery.com/", 
+                            "yearOpened": "2007"
+                        }
+                    ], 
+                    "name": "Mission Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-16 21:42:54", 
+                    "website": "http://www.missionbrewery.com/"
+                }
+            ], 
+            "createDate": "2013-03-28 00:46:15", 
+            "ibu": "18", 
+            "id": "pTITCm", 
+            "isOrganic": "N", 
+            "name": "Mission Dunkelweizen", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.8", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent malt wheat, and hop rates may be low to medium. Fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. Diacetyl should not be perceived. Because this style is intended to be served with yeast the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Chill haze is acceptable. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of malt and hops.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.004", 
+                "ibuMax": "25", 
+                "ibuMin": "10", 
+                "id": 115, 
+                "name": "Dark American Wheat Ale or Lager with Yeast", 
+                "ogMin": "1.036", 
+                "srmMax": "22", 
+                "srmMin": "9"
+            }, 
+            "styleId": 115, 
+            "updateDate": "2013-03-28 13:51:15"
+        }, 
+        {
+            "abv": "7", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "Market Garden Brewery & Distillery. The love is coming from the same folks who brought McNulty's Bier Markt, Bar Cento and Speakeasy to Ohio City", 
+                    "established": "2011", 
+                    "id": "p7c7Gh", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/p7c7Gh/upload_YqsN0q-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/p7c7Gh/upload_YqsN0q-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/p7c7Gh/upload_YqsN0q-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "hoursOfOperation": "Mon - Thu: 4:00 pm - 2:00 am\r\nFri - Sat: 11:00 am - 2:00 am\r\nSun: 10:00 am - 2:00 am", 
+                            "id": "y0BmWH", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.484995, 
+                            "locality": "Cleveland", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -81.7035159, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "216-621-4000", 
+                            "postalCode": "44113", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1947 West 25th Street", 
+                            "updateDate": "2013-05-05 13:59:20", 
+                            "website": "http://marketgardenbrewery.com/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Market Garden Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 13:08:04", 
+                    "website": "http://marketgardenbrewery.com/"
+                }
+            ], 
+            "createDate": "2013-05-05 14:23:43", 
+            "description": "They say everything has a dark side. It\u2019s true for our Pearl Street PM.  With cherry notes, this dark wheat is still a summer favorite, but we think it\u2019s most fun to sip this after the sun goes down!", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "cpBHcv", 
+            "isOrganic": "N", 
+            "name": "Pearl Street Dark Wheat", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.8", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent malt wheat, and hop rates may be low to medium. Fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. Diacetyl should not be perceived. Because this style is intended to be served with yeast the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Chill haze is acceptable. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of malt and hops.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.004", 
+                "ibuMax": "25", 
+                "ibuMin": "10", 
+                "id": 115, 
+                "name": "Dark American Wheat Ale or Lager with Yeast", 
+                "ogMin": "1.036", 
+                "srmMax": "22", 
+                "srmMin": "9"
+            }, 
+            "styleId": 115, 
+            "updateDate": "2013-05-05 14:23:43"
+        }, 
+        {
+            "available": {
+                "description": "Available during the winter months.", 
+                "id": 8, 
+                "name": "Winter"
+            }, 
+            "availableId": 8, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:07", 
+                    "description": "Rising Tide is one of Maine's newest and smallest breweries! We craft our beers by hand, 90 gallons at a time and we're pleased to be shipping ATLANTIS\u2014our hoppy black ale with a whisper of smoke, DAYMARK\u2014our pale ale with local rye, ISHMAEL\u2014our rich copper ale and URSA MINOR\u2014our unique wheat stout, to bars, restaurants, and beverage retailers throughout southern Maine.", 
+                    "established": "2010", 
+                    "id": "AaxkVm", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/AaxkVm/upload_Q2oKVC-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/AaxkVm/upload_Q2oKVC-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/AaxkVm/upload_Q2oKVC-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:07", 
+                            "hoursOfOperation": "Tue: 4:00 pm - 7:00 pm\r\nThu: 4:00 pm - 7:00 pm\r\nFri - Sat: 12:00 pm - 5:00 pm", 
+                            "id": "EVZM5h", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.665445, 
+                            "locality": "Portland", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -70.256734, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(207) 370-2337", 
+                            "postalCode": "04101", 
+                            "region": "Maine", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "103 Fox Street", 
+                            "updateDate": "2014-03-12 17:42:44", 
+                            "website": "http://www.risingtidebrewing.com", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Rising Tide Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-23 16:18:28", 
+                    "website": "http://www.risingtidebrewing.com/"
+                }
+            ], 
+            "createDate": "2012-04-23 16:17:28", 
+            "description": "Dark as squid ink and moody as the sea, Ursa Minor is our take on a winter wheat beer. Starting with a German wheat-beer yeast and a base of malted wheat, we added a blend of dark crystal and roasted malts to create a wheat stout. Redolent of dark fruit, weizen yeast esters, and roasted barley, Ursa Minor is perfect for an icy winter\u2019s eve.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "id": "w2zSeX", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/w2zSeX/upload_ADGBig-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/w2zSeX/upload_ADGBig-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/w2zSeX/upload_ADGBig-medium.png"
+            }, 
+            "name": "Ursa Minor", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.8", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent malt wheat, and hop rates may be low to medium. Fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. Diacetyl should not be perceived. Because this style is intended to be served with yeast the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Chill haze is acceptable. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of malt and hops.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.004", 
+                "ibuMax": "25", 
+                "ibuMin": "10", 
+                "id": 115, 
+                "name": "Dark American Wheat Ale or Lager with Yeast", 
+                "ogMin": "1.036", 
+                "srmMax": "22", 
+                "srmMin": "9"
+            }, 
+            "styleId": 115, 
+            "updateDate": "2012-04-23 16:19:00"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 4
+}

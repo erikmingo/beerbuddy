@@ -1,0 +1,809 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:49", 
+                    "description": "H.P. Bulmer, otherwise known as Bulmers Cider, was founded in 1887 in Hereford, England by Percy Bulmer, the 20 year old son of the local rector at Credenhill, taking his mother's advice to make a career in food or drink, \"because neither ever go out of fashion\". Bulmers cider can be found worldwide and Strongbow is sold across Europe, Scandinavia, USA, Australasia and the Far East. The company is owned by Heineken.", 
+                    "established": "1887", 
+                    "id": "lnGqhM", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-01-03 02:41:49", 
+                            "id": "OXi7r1", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 52.059034, 
+                            "locality": "Hereford", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -2.728501, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "01432 352000", 
+                            "postalCode": "HR4 0LE", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Plough Lane", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.bulmers.com/", 
+                            "yearOpened": "1887"
+                        }
+                    ], 
+                    "name": "Bulmers Cider", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-04-12 00:41:42", 
+                    "website": "http://www.bulmers.com/"
+                }
+            ], 
+            "createDate": "2013-05-17 23:08:25", 
+            "description": "Bulmers Berry is another great success story - Launched in 2010, Bulmers Berry is now the best selling flavoured cider brand in Ireland.\r\n\r\nA unique blend of seventeen varieties of apple and the finest selection of blackcurrants, raspberries and strawberries deliver that distinctive Bulmers character fused with the naturally refreshing taste of ripened berries.\r\n\r\nBulmers Berry is available in pint bottle, long neck and 500ml can.", 
+            "id": "7ODvFL", 
+            "isOrganic": "N", 
+            "name": "Berry", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "fgMax": "1.02", 
+                "fgMin": "0.995", 
+                "id": 157, 
+                "name": "Other Specialty Cider or Perry", 
+                "ogMax": "1.1", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 157, 
+            "updateDate": "2013-05-20 18:04:41"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:49", 
+                    "description": "H.P. Bulmer, otherwise known as Bulmers Cider, was founded in 1887 in Hereford, England by Percy Bulmer, the 20 year old son of the local rector at Credenhill, taking his mother's advice to make a career in food or drink, \"because neither ever go out of fashion\". Bulmers cider can be found worldwide and Strongbow is sold across Europe, Scandinavia, USA, Australasia and the Far East. The company is owned by Heineken.", 
+                    "established": "1887", 
+                    "id": "lnGqhM", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-01-03 02:41:49", 
+                            "id": "OXi7r1", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 52.059034, 
+                            "locality": "Hereford", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -2.728501, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "01432 352000", 
+                            "postalCode": "HR4 0LE", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Plough Lane", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.bulmers.com/", 
+                            "yearOpened": "1887"
+                        }
+                    ], 
+                    "name": "Bulmers Cider", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-04-12 00:41:42", 
+                    "website": "http://www.bulmers.com/"
+                }
+            ], 
+            "createDate": "2013-05-17 23:10:13", 
+            "id": "M1fXYD", 
+            "isOrganic": "N", 
+            "name": "Bulmers Mid-Strength Spiced Apple & Honey Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "fgMax": "1.02", 
+                "fgMin": "0.995", 
+                "id": 157, 
+                "name": "Other Specialty Cider or Perry", 
+                "ogMax": "1.1", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 157, 
+            "updateDate": "2013-05-20 18:04:46"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:49", 
+                    "description": "H.P. Bulmer, otherwise known as Bulmers Cider, was founded in 1887 in Hereford, England by Percy Bulmer, the 20 year old son of the local rector at Credenhill, taking his mother's advice to make a career in food or drink, \"because neither ever go out of fashion\". Bulmers cider can be found worldwide and Strongbow is sold across Europe, Scandinavia, USA, Australasia and the Far East. The company is owned by Heineken.", 
+                    "established": "1887", 
+                    "id": "lnGqhM", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-01-03 02:41:49", 
+                            "id": "OXi7r1", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 52.059034, 
+                            "locality": "Hereford", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -2.728501, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "01432 352000", 
+                            "postalCode": "HR4 0LE", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Plough Lane", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.bulmers.com/", 
+                            "yearOpened": "1887"
+                        }
+                    ], 
+                    "name": "Bulmers Cider", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-04-12 00:41:42", 
+                    "website": "http://www.bulmers.com/"
+                }
+            ], 
+            "createDate": "2013-05-17 23:10:35", 
+            "id": "yLOLhe", 
+            "isOrganic": "N", 
+            "name": "Bulmers Mid-Strength Spiced Apple & Rhubarb Cider", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "fgMax": "1.02", 
+                "fgMin": "0.995", 
+                "id": 157, 
+                "name": "Other Specialty Cider or Perry", 
+                "ogMax": "1.1", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 157, 
+            "updateDate": "2013-05-20 18:04:49"
+        }, 
+        {
+            "abv": "10", 
+            "breweries": [
+                {
+                    "createDate": "2012-07-25 14:46:56", 
+                    "description": "Once upon a time cider was the drink of choice. We've been making ciders for decades... now we want to share them with you. Branch out and experience our Angry Orchard.", 
+                    "established": "2011", 
+                    "id": "tYf3W8", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-07-27 12:04:21", 
+                            "id": "jVKSiL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.106614, 
+                            "locality": "Cincinnati", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -84.504552, 
+                            "name": "Main Cidery", 
+                            "openToPublic": "Y", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2012-07-27 12:04:21", 
+                            "website": "http://angryorchard.com/"
+                        }
+                    ], 
+                    "name": "Angry Orchard", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-07-27 12:02:55", 
+                    "website": "http://www.angryorchard.com/"
+                }
+            ], 
+            "createDate": "2014-04-21 20:14:46", 
+            "description": "Cider House Collection #2: Inspired by the tradition of Ice Ciders in Quebec, Canada, Iceman uses the process of freezing the juice from culinary and bittersweet apples to produce a rich, complex and unique cider with a crisp apple taste and notes of caramel and toffee. This cider is sweet but not cloying. The addition of oak-aging yields a smooth and pleasing vanilla character. The result is a perfectly balanced, full-flavored cider that delights the palate with clean apple notes and a lingering toffee finish.", 
+            "id": "2fkqmN", 
+            "isOrganic": "N", 
+            "name": "Iceman", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "fgMax": "1.02", 
+                "fgMin": "0.995", 
+                "id": 157, 
+                "name": "Other Specialty Cider or Perry", 
+                "ogMax": "1.1", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 157, 
+            "updateDate": "2014-04-22 15:30:50"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:49", 
+                    "description": "H.P. Bulmer, otherwise known as Bulmers Cider, was founded in 1887 in Hereford, England by Percy Bulmer, the 20 year old son of the local rector at Credenhill, taking his mother's advice to make a career in food or drink, \"because neither ever go out of fashion\". Bulmers cider can be found worldwide and Strongbow is sold across Europe, Scandinavia, USA, Australasia and the Far East. The company is owned by Heineken.", 
+                    "established": "1887", 
+                    "id": "lnGqhM", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-01-03 02:41:49", 
+                            "id": "OXi7r1", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 52.059034, 
+                            "locality": "Hereford", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -2.728501, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "01432 352000", 
+                            "postalCode": "HR4 0LE", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Plough Lane", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.bulmers.com/", 
+                            "yearOpened": "1887"
+                        }
+                    ], 
+                    "name": "Bulmers Cider", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-04-12 00:41:42", 
+                    "website": "http://www.bulmers.com/"
+                }
+            ], 
+            "createDate": "2013-05-17 23:08:49", 
+            "description": "Created in the same authentic time honoured tradition as Bulmers Original Irish Cider. Bulmers Light provides the crisp, refreshing flavour and natural character you\u2019d expect from Bulmers - but with fewer calories.\r\n\r\nLaunched in 2004, Bulmers Light was the first extension to the Bulmers brand. Bulmers Light is the only Light cider on the Irish market. Containing fewer calories than Bulmers Original, it is enjoyed by the more calorie conscious drinker while still maintaining the 4.5% alcohol and full taste that you would expect from a Bulmers Cider.\r\n\r\nIn 2011, the Bulmers Light pint bottle was launched followed by the launch of the Light litre bottle later on that year.", 
+            "id": "jhwjOm", 
+            "isOrganic": "N", 
+            "name": "Light", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "fgMax": "1.02", 
+                "fgMin": "0.995", 
+                "id": 157, 
+                "name": "Other Specialty Cider or Perry", 
+                "ogMax": "1.1", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 157, 
+            "updateDate": "2013-05-20 18:04:42"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:49", 
+                    "description": "H.P. Bulmer, otherwise known as Bulmers Cider, was founded in 1887 in Hereford, England by Percy Bulmer, the 20 year old son of the local rector at Credenhill, taking his mother's advice to make a career in food or drink, \"because neither ever go out of fashion\". Bulmers cider can be found worldwide and Strongbow is sold across Europe, Scandinavia, USA, Australasia and the Far East. The company is owned by Heineken.", 
+                    "established": "1887", 
+                    "id": "lnGqhM", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-01-03 02:41:49", 
+                            "id": "OXi7r1", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 52.059034, 
+                            "locality": "Hereford", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -2.728501, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "01432 352000", 
+                            "postalCode": "HR4 0LE", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Plough Lane", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.bulmers.com/", 
+                            "yearOpened": "1887"
+                        }
+                    ], 
+                    "name": "Bulmers Cider", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-04-12 00:41:42", 
+                    "website": "http://www.bulmers.com/"
+                }
+            ], 
+            "createDate": "2013-05-17 23:07:25", 
+            "description": "Bulmers Original Irish Cider is Ireland\u2019s favorite cider. It is patiently vat matured to deliver a pure, crisp, refreshing flavour and natural character. A time honoured tradition that is part of its authentic heritage.\r\n\r\nEnjoying the success of being the number one cider in Ireland, Bulmers Original Irish Cider has grown it\u2019s brand share, and the Cider market in Ireland since 1994.\r\n\r\nA time honoured tradition of cider making which has been mastered over the last seven decades\r\n\r\nBulmers Original Irish Cider remains the most popular LAD brand in pubs among 18 \u2013 24 year olds (Source: Ipsos MRBI, Most often drunk brand, MAT October 2011) with the Bulmers pint bottle topping sales as the number one on the market.", 
+            "id": "skmIwT", 
+            "isOrganic": "N", 
+            "name": "Original", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "fgMax": "1.02", 
+                "fgMin": "0.995", 
+                "id": 157, 
+                "name": "Other Specialty Cider or Perry", 
+                "ogMax": "1.1", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 157, 
+            "updateDate": "2013-05-20 18:04:50"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:49", 
+                    "description": "H.P. Bulmer, otherwise known as Bulmers Cider, was founded in 1887 in Hereford, England by Percy Bulmer, the 20 year old son of the local rector at Credenhill, taking his mother's advice to make a career in food or drink, \"because neither ever go out of fashion\". Bulmers cider can be found worldwide and Strongbow is sold across Europe, Scandinavia, USA, Australasia and the Far East. The company is owned by Heineken.", 
+                    "established": "1887", 
+                    "id": "lnGqhM", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/lnGqhM/upload_zk7nfm-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-01-03 02:41:49", 
+                            "id": "OXi7r1", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 52.059034, 
+                            "locality": "Hereford", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -2.728501, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "01432 352000", 
+                            "postalCode": "HR4 0LE", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Plough Lane", 
+                            "updateDate": "2012-03-21 20:05:25", 
+                            "website": "http://www.bulmers.com/", 
+                            "yearOpened": "1887"
+                        }
+                    ], 
+                    "name": "Bulmers Cider", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-04-12 00:41:42", 
+                    "website": "http://www.bulmers.com/"
+                }
+            ], 
+            "createDate": "2013-05-17 23:08:04", 
+            "description": "The first flavour variation for Bulmers since their doors opened, Bulmers Pear was launched in 2009 and became an instant success.\r\n\r\nBulmers Pear Cider is created to the highest standards that you would expect from Bulmers. The best quality pears are ripened and selected to provide a distinctive character and a delicately refreshing taste.\r\n\r\nThe best selling pear cider in Ireland, Bulmers Pear is available in pint bottle, long neck and 500ml can.", 
+            "id": "V4V75u", 
+            "isOrganic": "N", 
+            "name": "Pear", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "fgMax": "1.02", 
+                "fgMin": "0.995", 
+                "id": 157, 
+                "name": "Other Specialty Cider or Perry", 
+                "ogMax": "1.1", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 157, 
+            "updateDate": "2013-05-20 18:04:53"
+        }, 
+        {
+            "abv": "10", 
+            "breweries": [
+                {
+                    "createDate": "2012-07-25 14:46:56", 
+                    "description": "Once upon a time cider was the drink of choice. We've been making ciders for decades... now we want to share them with you. Branch out and experience our Angry Orchard.", 
+                    "established": "2011", 
+                    "id": "tYf3W8", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-07-27 12:04:21", 
+                            "id": "jVKSiL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.106614, 
+                            "locality": "Cincinnati", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -84.504552, 
+                            "name": "Main Cidery", 
+                            "openToPublic": "Y", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2012-07-27 12:04:21", 
+                            "website": "http://angryorchard.com/"
+                        }
+                    ], 
+                    "name": "Angry Orchard", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-07-27 12:02:55", 
+                    "website": "http://www.angryorchard.com/"
+                }
+            ], 
+            "createDate": "2014-04-21 20:13:02", 
+            "description": "Our Cider House Collection #1: For centuries Farmhouse Cider making has been a tradition celebrated by farmers in the English and French countryside. Strawman combines a distinct blend of juices from traditional culinary and bittersweet apples, which is then aged in oak. The result is a full-flavored, complex and balanced cider with wine-like characteristics, rounded out by apple and citrus notes. Its lingering, earthy finish is a homage to the origins of this unique cider.", 
+            "id": "QM22cw", 
+            "isOrganic": "N", 
+            "name": "Strawman", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "fgMax": "1.02", 
+                "fgMin": "0.995", 
+                "id": 157, 
+                "name": "Other Specialty Cider or Perry", 
+                "ogMax": "1.1", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 157, 
+            "updateDate": "2014-04-22 15:30:52"
+        }, 
+        {
+            "abv": "5.5", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2013-01-24 11:58:59", 
+                    "description": "Known for the most amazing and creative alcoholic beverages made from honey. B. Nektar is a world-wide sensation.\r\n\r\nTo boldly go where no meadery has gone before. To prove to you that the horrible mead your best friend made one time in college is NOT what a good mead should taste like. To show you that mead doesn't HAVE to be sweet. To educate you on the different styles of mead. To bring mead into the mainstream, but still maintain our integrity. To everyday thank my mom and tell her that I love her (shouldn't we all?).", 
+                    "established": "2006", 
+                    "id": "GOh8Oi", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/GOh8Oi/upload_ageyZ1-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-01-24 12:01:16", 
+                            "extendedAddress": "Suite B", 
+                            "hoursOfOperation": "Fri: 5:30 pm - 10:00 pm\r\nSat: 1:00 pm - 7:00 pm", 
+                            "id": "aQpHNT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.453829, 
+                            "locality": "Ferndale", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -83.1139, 
+                            "name": "Main Meadery", 
+                            "openToPublic": "Y", 
+                            "phone": "(313) 744-6323", 
+                            "postalCode": "48220", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1481 Wordsworth", 
+                            "updateDate": "2014-05-19 12:58:26", 
+                            "website": "http://www.bnektar.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "B. Nektar Meadery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-01-24 12:00:24", 
+                    "website": "http://www.bnektar.com/"
+                }
+            ], 
+            "createDate": "2014-06-13 01:15:21", 
+            "id": "5HjGau", 
+            "isOrganic": "N", 
+            "name": "The Dude's Rug", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "fgMax": "1.02", 
+                "fgMin": "0.995", 
+                "id": 157, 
+                "name": "Other Specialty Cider or Perry", 
+                "ogMax": "1.1", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 157, 
+            "updateDate": "2014-06-13 18:45:14"
+        }, 
+        {
+            "abv": "7.7", 
+            "breweries": [
+                {
+                    "createDate": "2012-07-25 14:46:56", 
+                    "description": "Once upon a time cider was the drink of choice. We've been making ciders for decades... now we want to share them with you. Branch out and experience our Angry Orchard.", 
+                    "established": "2011", 
+                    "id": "tYf3W8", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/tYf3W8/upload_Rmr28M-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-07-27 12:04:21", 
+                            "id": "jVKSiL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.106614, 
+                            "locality": "Cincinnati", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -84.504552, 
+                            "name": "Main Cidery", 
+                            "openToPublic": "Y", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "updateDate": "2012-07-27 12:04:21", 
+                            "website": "http://angryorchard.com/"
+                        }
+                    ], 
+                    "name": "Angry Orchard", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-07-27 12:02:55", 
+                    "website": "http://www.angryorchard.com/"
+                }
+            ], 
+            "createDate": "2014-04-21 20:16:29", 
+            "description": "Cider House Collection #3: Inspired by the festive nature of slightly sweet demi-sec champagnes and sparkling wines, The Muse is a bubbly, effervescent cider made from traditional culinary and bittersweet apples and aged on French oak. The cider is sweet upfront with a juicy apple aroma and bright acidity, and slightly drying on the finish with a lingering sweet apple note. The French oak adds a subtle wood impression, imparting notes of clove, cinnamon, nutmeg, allspice and hints of vanilla.", 
+            "id": "ezTevo", 
+            "isOrganic": "N", 
+            "name": "The Muse", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "12", 
+                "abvMin": "5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 12, 
+                    "name": "Mead, Cider, & Perry"
+                }, 
+                "categoryId": 12, 
+                "createDate": "2012-03-21 20:06:46", 
+                "fgMax": "1.02", 
+                "fgMin": "0.995", 
+                "id": 157, 
+                "name": "Other Specialty Cider or Perry", 
+                "ogMax": "1.1", 
+                "ogMin": "1.045"
+            }, 
+            "styleId": 157, 
+            "updateDate": "2014-04-22 15:30:17"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 10
+}

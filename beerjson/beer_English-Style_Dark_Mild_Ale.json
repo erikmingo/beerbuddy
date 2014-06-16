@@ -1,0 +1,3194 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "7.5", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:43", 
+                    "description": "(512) Brewing Company is a microbrewery located in the heart of Austin, brewing for the community using as many local, domestic and organic ingredients as possible. The original practice of small breweries supplying their immediate community has been nearly lost, and with it, the quality that is possible from small handcrafted batches. Our beers are built on old world English and Belgian recipes, but enhanced to celebrate bold domestic ingredients. Made with Austin\u2019s mineral rich water, the (512) beers taste like none other.", 
+                    "established": "2008", 
+                    "id": "cJio9R", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/cJio9R/upload_knal4J-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/cJio9R/upload_knal4J-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/cJio9R/upload_knal4J-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:43", 
+                            "extendedAddress": "F200", 
+                            "hoursOfOperation": "Visit website for tours and hours.", 
+                            "id": "qxAQSJ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 30.223213, 
+                            "locality": "Austin", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -97.768695, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "512-707-2337", 
+                            "postalCode": "78745", 
+                            "region": "Texas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "407 Radam", 
+                            "updateDate": "2012-03-21 20:05:24", 
+                            "website": "http://www.512brewing.com/", 
+                            "yearOpened": "2008"
+                        }
+                    ], 
+                    "name": "(512) Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-09-29 12:20:39", 
+                    "website": "http://www.512brewing.com/"
+                }
+            ], 
+            "createDate": "2013-10-07 22:14:45", 
+            "description": "For our 4th anniversary, we turned to one of our greatest inspirations, the rich brewing tradition of Great Britain.\r\n\r\n(512) FOUR is a classic English-style Strong Ale. The biscuity Maris Otter and caramelly Crystal malts contribute notes of toast, toffee, and dried fruits, which are perfectly balanced with a blend of authentic UK Fuggle and East Kent Golding hops. Dry-hopped with Northdown, (512) FOUR is a complex and satisfying ale.", 
+            "id": "oJFZwK", 
+            "isOrganic": "N", 
+            "name": "(512) 4 Anniversary Brew", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2013-10-08 11:10:53"
+        }, 
+        {
+            "abv": "3.2", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-12-21 22:05:28", 
+                    "description": "The Adkin Brewery was originally founded as a hobby in early 2000.  It is a true example of a small cottage brewery, and is run by the sole proprietor, Mr Shaun Cunningham, from the garage attached to his house on a housing estate in Wantage, Oxfordshire.  All of Shaun's beers are produced using only natural ingredients, most of which are supplied by Best Mates Brewery, Ardington and Ken Thomas of Arkwright's Homebrew in Highworth, near Swindon, Wiltshire www.arkwrightshomebrew.com.\r\n\r\nAt the moment, Shaun still has a full-time job.  Despite the restrictions placed upon Shaun in terms of both time and space, you can see from the photographs just how much can be achieved in a small, basic garage.  As for the quality of the products, well, that speaks for itself!", 
+                    "established": "2000", 
+                    "id": "RGbENJ", 
+                    "isOrganic": "N", 
+                    "name": "Adkin Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-21 22:05:34", 
+                    "website": "http://www.adkinbrewery.co.uk"
+                }
+            ], 
+            "createDate": "2012-12-21 22:06:02", 
+            "description": "A traditional dark mild ale, with added honey", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "OR0Ozh", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/OR0Ozh/upload_UFbFlZ-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/OR0Ozh/upload_UFbFlZ-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/OR0Ozh/upload_UFbFlZ-medium.png"
+            }, 
+            "name": "Alfred's Honey Mild", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2012-12-21 22:07:38"
+        }, 
+        {
+            "abv": "3.1", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-07-12 13:21:41", 
+                    "description": "Mr. Thomas Banks, a true West Midlands family man, first established Banks & Co. as a firm of maltsters in 1840, before in 1874 venturing into brewing with his son Henry and two other employees. In 1875 the company founded the now famous Park Brewery on the site of an artesian well in Wolverhampton. This site is still the home of Banks's today, with many of the buildings remaining intact, including the old chimney that can be seen on the city skyline.\r\n\r\nOur proud history and heritage isn't confined to our buildings either, even the live strain of yeast in all Banks's cask ales has been in use for over 100 years!", 
+                    "established": "1875", 
+                    "id": "lpeUmI", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/lpeUmI/upload_woImCO-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/lpeUmI/upload_woImCO-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/lpeUmI/upload_woImCO-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-07-12 13:24:04", 
+                            "hoursOfOperation": "Mon-Fri 10.00am-5.00pm\r\nSat 9.30am-12noon", 
+                            "id": "6N29O6", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 52.58521, 
+                            "locality": "Wolverhampton", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -2.136549, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "01902 329653", 
+                            "postalCode": "WV14JT", 
+                            "region": "West Midlands", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Brewery Road", 
+                            "updateDate": "2012-07-12 13:24:04", 
+                            "website": "http://www.banksbeer.co.uk/"
+                        }
+                    ], 
+                    "name": "Banks's", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-07-12 13:22:07", 
+                    "website": "http://www.banksbeer.co.uk/"
+                }
+            ], 
+            "createDate": "2012-07-12 13:26:40", 
+            "description": "A darker coloured Mild than Original, Banks's Dark Mild has a subtle bitterness and roasty edge that is balanced by a malty sweetness to give a round, warm depth of flavour.", 
+            "id": "lXGn3L", 
+            "isOrganic": "N", 
+            "name": "Banks's Dark Mild", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2012-07-12 13:26:40"
+        }, 
+        {
+            "abv": "4", 
+            "breweries": [
+                {
+                    "createDate": "2014-02-05 22:11:47", 
+                    "description": "Welcome to Bays Brewery and its wide range of quality Beers, Ciders and Real Tasty Drinks (RTD\u2019s). In landing on this page you have proved to have a passion for true hand crafted beverages and we thank you. Bays has a long history of making quality products dating back to 1993. Located in the Sunshine Capital of New Zealand, Bays make some of finest beer around. Step into Bays Brewery and experience a piece of Nelson, New Zealand. If it is fun you seek, you have found it here. Kia Ora.\r\n\r\nCheers from the Crew at Bays Brewery!", 
+                    "established": "1993", 
+                    "id": "33Ov6W", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/33Ov6W/upload_agpvQZ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/33Ov6W/upload_agpvQZ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/33Ov6W/upload_agpvQZ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "New Zealand", 
+                                "isoCode": "NZ", 
+                                "isoThree": "NZL", 
+                                "name": "NEW ZEALAND", 
+                                "numberCode": 554
+                            }, 
+                            "countryIsoCode": "NZ", 
+                            "createDate": "2014-02-06 16:06:17", 
+                            "hoursOfOperation": "Mon - Thu: 11:00 am - 5:30 pm\r\nFri - Sat: 11:00 am - 6:00 pm\r\nSun: 12:00 pm - 5:30 pm", 
+                            "id": "oE1miM", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -41.2954656, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 173.2411911, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+64 3-547 8097", 
+                            "postalCode": "7010", 
+                            "region": "Nelson", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "89 Pascoe St", 
+                            "updateDate": "2014-02-06 16:06:17", 
+                            "website": "http://baysbrewery.co.nz/", 
+                            "yearOpened": "1993"
+                        }
+                    ], 
+                    "name": "Bays Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-06 16:06:35", 
+                    "website": "http://www.baysbrewery.co.nz"
+                }
+            ], 
+            "createDate": "2014-02-05 22:20:17", 
+            "description": "This Dark style Ale offers a full-bodied flavour, but not too heavy taste. The Dark is a dark coloured but light tasting sessionable product that can be enjoyed over and over again year-round. A local favourite, Bays Dark is a very drinkable beer that\u2019s hard to put down. Bays Dark finishes smooth with its chocolate malt addition and lacks the heavy component in many other darker beers because of its pilsener malt.", 
+            "foodPairings": "Bays Dark Ale and Meat and Cheese Pie, can it get better? Also, hearty roasts and steak.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "4", 
+            "id": "Tb8EHh", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Tb8EHh/upload_CGuwF9-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Tb8EHh/upload_CGuwF9-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Tb8EHh/upload_CGuwF9-medium.png"
+            }, 
+            "name": "Bays Dark Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2014-02-06 16:20:35"
+        }, 
+        {
+            "abv": "5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-07-31 04:49:17", 
+                    "description": "Canada\u2019s longest running, British Columbian-owned brewery was established in 1957 on a fresh water spring in Prince George, BC. Originally named Caribou Brewing, Pacific Western Brewing Company (PWB) has had seven owners over it's storied past and achieved many milestones. Including, being the first Canadian brewer to export to mainland China in 1991 and then to Russia in 1996. Along the way these achievements have shaped the BC beer backbone for over fifty years.\r\n\r\nPWB Accomplishments\r\n\r\n2005 - First Canadian Gold Medal Winner, Industry International Awards in Munich\r\n2003 - First ISO 9001 Certified Brewery in North America\r\n1997 - First Certified Organic Lager Beer in Canada\r\n1996 - First North American Brewery Certified to ISO 9002\r\n1996 - First Lager and Lime Beer\r\n1995 - First Malted Herb Beer\r\n1993 - First Ice Beer in Canada\r\n1988 - First Dry Beer in Canada\r\n1983 - First Brewery Operated Beer Store in BC\r\n1982 - First Dark Mild Beer in Canada\r\n1969 - First Malt Liquor in Canada\r\n1965 - First Canned Beer in BC", 
+                    "established": "1957", 
+                    "id": "bSzuQk", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/bSzuQk/upload_PMtfDd-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/bSzuQk/upload_PMtfDd-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/bSzuQk/upload_PMtfDd-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2012-07-31 12:21:38", 
+                            "id": "CmDhK5", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 49.249219, 
+                            "locality": "Burnaby", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.974695, 
+                            "name": "Burnaby", 
+                            "openToPublic": "N", 
+                            "phone": "(604) 421-2119", 
+                            "postalCode": "V5G 4T9", 
+                            "region": "British Columbia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3876 Norland Avenue", 
+                            "updateDate": "2012-07-31 12:23:04"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2012-07-31 12:22:44", 
+                            "id": "p5wVTW", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 53.931261, 
+                            "locality": "Prince George", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.783412, 
+                            "name": "Prince George", 
+                            "openToPublic": "N", 
+                            "phone": "(250) 562-2424", 
+                            "postalCode": "V2K 4M4", 
+                            "region": "British Columbia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "641 North Nechako Road", 
+                            "updateDate": "2012-07-31 12:23:04"
+                        }
+                    ], 
+                    "name": "Pacific Western Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-07-31 13:24:11", 
+                    "website": "http://www.pwbrewing.net/"
+                }
+            ], 
+            "createDate": "2012-07-31 13:02:53", 
+            "description": "Specialty Lager: Caramel bodied with delicate aroma hops and a pleasant finish\r\nCanada\u2019s first copper-coloured lager, Canterbury Dark Mild is brewed with the finest hops, yeast and most importantly, two-row malted barley. This distinctive beer is an homage to the finest of British brews and a favourite of those want mouth-filling flavour when they\u2019re in the pub or at home.\r\n\r\nCanterbury features a smooth, mature taste to complement its bold, rich colour while retaining a lager\u2019s traditional, fresh finish. This classically brewed beer is a tad sweeter than its pale pilsner cousins and a natural complement to a good Irish Stew or other full-bodied fare. The ideal match is most pub grub like fish and chips or steak and kidney pie", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "BTKyL2", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/BTKyL2/upload_MSgGXD-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/BTKyL2/upload_MSgGXD-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/BTKyL2/upload_MSgGXD-medium.png"
+            }, 
+            "name": "Canterbury Dark Mild Lager", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2012-07-31 13:02:54"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-10-22 11:41:00", 
+                    "description": "We strive to make a quality, flavorful brew that all tastebuds will enjoy!", 
+                    "established": "2012", 
+                    "id": "YMxo1d", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/YMxo1d/upload_ytohik-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/YMxo1d/upload_ytohik-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/YMxo1d/upload_ytohik-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-10-22 11:42:02", 
+                            "hoursOfOperation": "Mon - Sun: 7:00 am - 10:00 pm", 
+                            "id": "nd3PQ1", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.579316, 
+                            "locality": "Carbondale", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -75.501059, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(570) 280-2739", 
+                            "postalCode": "18407", 
+                            "region": "Pennsylvania", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "10 Enterprise Drive", 
+                            "updateDate": "2012-10-22 11:42:02", 
+                            "website": "http://www.3guysandabeerd.com/"
+                        }
+                    ], 
+                    "name": "3 Guys and a Beer'd Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-10-23 11:08:37", 
+                    "website": "http://www.3guysandabeerd.com/"
+                }
+            ], 
+            "createDate": "2014-01-12 20:58:00", 
+            "id": "3qzZ5I", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/3qzZ5I/upload_bsY4Lk-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/3qzZ5I/upload_bsY4Lk-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/3qzZ5I/upload_bsY4Lk-medium.png"
+            }, 
+            "name": "Clean Shaven Series #5: Nut Brown Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2014-01-12 20:58:25"
+        }, 
+        {
+            "abv": "4", 
+            "breweries": [
+                {
+                    "createDate": "2013-11-12 12:45:21", 
+                    "description": "Explosive Craft Beer from Caerphilly. A Perfect Range of imperial, one-off series and of course core beers", 
+                    "established": "2007", 
+                    "id": "JhqZva", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/JhqZva/upload_KPsnPh-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/JhqZva/upload_KPsnPh-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/JhqZva/upload_KPsnPh-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-11-12 12:46:39", 
+                            "hoursOfOperation": "Mon - Fri: 7:00 am - 6:00 pm", 
+                            "id": "4sTRXQ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 51.5891051, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -3.2272924, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+44 29 2086 7707", 
+                            "postalCode": "CF83 3HU", 
+                            "region": "Caerphilly", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Unit 2E Pontygwindy Rd", 
+                            "updateDate": "2013-11-12 12:46:39", 
+                            "website": "http://www.theceltexperience.co.uk/", 
+                            "yearOpened": "2007"
+                        }
+                    ], 
+                    "name": "The Celt Experience", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-11-12 12:52:21", 
+                    "website": "http://theceltexperience.co.uk"
+                }
+            ], 
+            "createDate": "2013-11-12 12:47:30", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "8y1i0b", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/8y1i0b/upload_C2qBQY-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/8y1i0b/upload_C2qBQY-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/8y1i0b/upload_C2qBQY-medium.png"
+            }, 
+            "name": "Dark Age", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2013-11-12 12:51:22"
+        }, 
+        {
+            "abv": "4.1", 
+            "breweries": [
+                {
+                    "createDate": "2013-05-09 19:40:28", 
+                    "established": "1820", 
+                    "id": "5KrWKp", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/5KrWKp/upload_ZulQba-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/5KrWKp/upload_ZulQba-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/5KrWKp/upload_ZulQba-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2013-05-10 12:31:23", 
+                            "id": "vHWvX2", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.6436726, 
+                            "locality": "Halifax", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -63.5695422, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(902) 455-1474", 
+                            "postalCode": "B3J 1R9", 
+                            "region": "Nova Scotia", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1496 Lower Water St", 
+                            "updateDate": "2013-05-10 12:31:23", 
+                            "website": "http://keiths.ca/"
+                        }
+                    ], 
+                    "name": "Alexander Keith's", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-10 12:31:49", 
+                    "website": "http://keiths.ca/"
+                }
+            ], 
+            "createDate": "2013-05-10 12:33:21", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "3Bxvuq", 
+            "isOrganic": "N", 
+            "name": "Dark Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2013-05-10 12:33:21"
+        }, 
+        {
+            "abv": "4", 
+            "breweries": [
+                {
+                    "createDate": "2014-02-11 17:53:41", 
+                    "description": "Based in Port Macquarie, the Black Duck Brewery offers a friendly, relaxed venue to try the range of locally brewed beers while you catch up with friends and family or just enjoy your break.\r\n With the full range beers on tap, local food platters, local produce, and much more to come, the Black Duck Brewery is a must visit destination on the Mid North Coast.\r\nSpend some time, meet the brewer, do the tour and experience the Black Duck Brewery.\r\n\r\nTo ensure satisfaction, all the Black Duck Brewery beers are \r\nbrewed and packaged on site. We do occasionally carry another small brewery's beer on tap to both support them and give you another beer experience.\r\n\r\nNon beer drinkers can enjoy some Apple Cider, a glass of local wine, some local soft drink or even a deliciously well crafted locally roasted coffee.\r\n\r\nThe Ploughman\u2019s platters are popular with a generous serve of \r\nlocal beer bread, ham, olives, relish and a few other tasty goodies.\r\nThe brewery hours are 10am to 6pm Thursday and Friday, 10am to 4pm Saturday and Sunday. \r\n\r\nYou can find us at 6B Acacia Avenue, Port Macquarie.\r\nYou can give the brewer a call on 0407 874 474 if you want to know more. \r\nGive us a call if you have a group and want some nibbles to ensure we have plenty.", 
+                    "id": "V0T8uP", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/V0T8uP/upload_Zb4vaQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/V0T8uP/upload_Zb4vaQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/V0T8uP/upload_Zb4vaQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Australia", 
+                                "isoCode": "AU", 
+                                "isoThree": "AUS", 
+                                "name": "AUSTRALIA", 
+                                "numberCode": 36
+                            }, 
+                            "countryIsoCode": "AU", 
+                            "createDate": "2014-02-11 23:15:09", 
+                            "hoursOfOperation": "Thu - Fri: 10:00 am - 6:00 pm\r\nSat - Sun: 10:00 am - 4:00 pm", 
+                            "id": "drNCMo", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": -31.444675, 
+                            "locality": "Port Macquarie", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 152.885941, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+61 407 874 474", 
+                            "postalCode": "2444", 
+                            "region": "New South Wales", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "6B Acacia Avenue", 
+                            "updateDate": "2014-02-11 23:15:09", 
+                            "website": "http://www.blackduckbrewery.com.au", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Black Duck Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-11 23:15:24", 
+                    "website": "http://www.blackduckbrewery.com.au/"
+                }
+            ], 
+            "createDate": "2014-02-11 18:08:48", 
+            "description": "This is a very pleasant dark ale. This dark ale has an up front arome of chocolate and good dark malt flavours of coffee and chocolate. Despite being a dark beer, this one has a light body for drinkability.", 
+            "ibu": "27", 
+            "id": "lUrrHn", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/lUrrHn/upload_94Bchk-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/lUrrHn/upload_94Bchk-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/lUrrHn/upload_94Bchk-medium.png"
+            }, 
+            "name": "Dark Ale", 
+            "srm": {
+                "hex": "000000", 
+                "id": 41, 
+                "name": "Over 40"
+            }, 
+            "srmId": 41, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2014-02-11 23:59:57"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:07", 
+                    "description": "The Old Brewery at Tadcaster was established in 1758. It is Yorkshire\u2019s oldest brewery. Traditional methods of brewing have been retained at The Old Brewery. The brewery still has its own cooper making and repairing all its oak casks. All Samuel Smith\u2019s naturally conditioned draught beer is served from the wood. The original well at The Old Brewery, sunk in 1758, is still in use, with the brewing water being drawn from 85 feet underground.\r\n\r\nSamuel Smith\u2019s ales and stouts (except draught Sovereign and Extra Stout) are fermented in \u2018stone Yorkshire squares\u2019~ fermenting vessels made of solid slabs of slate ~ which give the beers a fuller bodied taste. \r\n\r\nThe yeast used to ferment Samuel Smith\u2019s ales has been of the same strain since the nineteenth century.  Samuel Smith\u2019s grey Shire horses are stabled behind the Angel & White Horse, the pub next to the brewery.", 
+                    "established": "1758", 
+                    "id": "DbGzFb", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/DbGzFb/upload_ugRsbR-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/DbGzFb/upload_ugRsbR-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/DbGzFb/upload_ugRsbR-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-01-03 02:42:07", 
+                            "id": "9EHIsH", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 53.883845, 
+                            "locality": "Tadcaster", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -1.261709, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "44-(01937)-839201", 
+                            "region": "North Yorkshire", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "High Street", 
+                            "updateDate": "2012-03-21 19:08:16", 
+                            "website": "http://www.samuelsmithsbrewery.co.uk/"
+                        }
+                    ], 
+                    "name": "Samuel Smith Old Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-23 15:30:49", 
+                    "website": "http://www.samuelsmithsbrewery.co.uk/"
+                }
+            ], 
+            "createDate": "2014-04-10 21:49:47", 
+            "id": "7diuS2", 
+            "isOrganic": "N", 
+            "name": "Dark Mild", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2014-04-12 21:30:27"
+        }, 
+        {
+            "abv": "3.5", 
+            "breweries": [
+                {
+                    "createDate": "2013-05-07 22:13:27", 
+                    "description": "Timothy Taylor\u2019s prize-winning Yorkshire Beers and Ales are brewed in Keighley. The main brands are Boltmaker, Golden Best and Landlord \u2013 all award winning cask ales. The Brewery has been brewing premium cask beers since 1858 and also produces Landlord in a bottle. Landlord has won the Brewing Industry\u2019s Gold Medal in the Keg, Cask and Bottled Ale competitions. It has also won first prize at the Great British Beer Festival on numerous occasions. Timothy Taylor\u2019s Brewery is the last family brewery of its kind in West Yorkshire producing prize winning traditional ales and beers.", 
+                    "id": "iyPLI7", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-05-10 12:48:59", 
+                            "id": "9uyXpu", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 53.8588941, 
+                            "locality": "Keighley", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -1.9154605, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "01535 603139", 
+                            "postalCode": "BD21 1AW", 
+                            "region": "West Yorkshire", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Knowle Spring Brewery", 
+                            "updateDate": "2013-05-10 12:48:59", 
+                            "website": "http://www.timothy-taylor.co.uk/"
+                        }
+                    ], 
+                    "name": "Timothy Taylor", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-10 12:48:15", 
+                    "website": "http://www.timothy-taylor.co.uk/"
+                }
+            ], 
+            "createDate": "2013-05-10 12:52:09", 
+            "description": "Rich, creamy Dark Mild is a consistent award winner, taking the silver medal in the Brewing 'Oscars' (the Industry International Awards) when last held in 2004. It is especially popular in East Lancashire as well as earning popularity as a niche guest by all lovers of a good mild.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "Jxo4CN", 
+            "isOrganic": "N", 
+            "name": "Dark Mild", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2013-05-10 12:52:09"
+        }, 
+        {
+            "abv": "4", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:07", 
+                    "description": "When Roc Brewing Co. began in the crisp cellaring walls of a suburban Rochester basement, they never imaged the future that was set forward. The ever infectious brewing bug had bitten both homebrewers Jonathan Mervine and Chris Spinelli. From the time the yeast was pitched it was unanimous this was their future. Joined by the emboldened encouragement of Chris\u2019 mom and third partner Patty Spinelli, she was hooked by first sip. The new family began their many trials and tribulations of brewing, three tier law, legalese and to much to their chagrin ROC Brewing Co. was founded.", 
+                    "established": "2011", 
+                    "id": "VLwX03", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/VLwX03/upload_8Scwif-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/VLwX03/upload_8Scwif-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/VLwX03/upload_8Scwif-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:07", 
+                            "hoursOfOperation": "Brewery Production\r\nMonday \u2013 Saturday: 8am \u2013 4pm\r\n\r\nTasting Room/Tap Room\r\nThursday \u2013 Friday: 5pm \u2013 11pm\r\nSaturday: 3pm \u2013 11pm", 
+                            "id": "7b8IWf", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.153291, 
+                            "locality": "Rochester", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -77.597342, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "585-734-2567", 
+                            "postalCode": "14607", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "56 S. Union Street", 
+                            "updateDate": "2013-03-12 01:16:11", 
+                            "website": "http://rocbrewingco.com/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Roc Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-06-13 18:15:29", 
+                    "website": "http://rocbrewingco.com/"
+                }
+            ], 
+            "createDate": "2012-06-13 18:17:16", 
+            "description": "Small beer, big ego. This mahogany colored ale is a delightful medley of malted barley. As you peel back the layers of malt, you\u2019ll discover a delicate beer surrounded with complexity and blended with the flavors of toasted bread and chocolate cake. There\u2019s even a hint of coffee for that roasted dry element your palate craves. The Mild is best enjoyed fresh and prides itself as a low-alcohol session beer. Its dark facade and nutty finish provide an allure that is truly one of a kind. Our mild is well-suited for draught and cask conditioning. Hungry? We suggest pairing with grilled portobellos and seared beef garnished with truffle oil.", 
+            "id": "zQfwoE", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/zQfwoE/upload_kh67IS-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/zQfwoE/upload_kh67IS-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/zQfwoE/upload_kh67IS-medium.png"
+            }, 
+            "name": "Dark Mild", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2012-06-13 19:07:36"
+        }, 
+        {
+            "abv": "3.6", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2013-07-27 14:58:42", 
+                    "description": "At Machine House Brewery, we produce traditional English style Ales in small batches at our historic location in Seattle's Georgetown neighborhood.\r\n\r\nOur goal is to deliver the authentic session beer experience to Seattle, meaning particularly drinkable ales with moderate levels of alcohol and bitterness.", 
+                    "established": "2011", 
+                    "id": "DgW4AB", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/DgW4AB/upload_IFKRtN-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/DgW4AB/upload_IFKRtN-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/DgW4AB/upload_IFKRtN-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-07-27 14:59:33", 
+                            "hoursOfOperation": "Fri: 3:00 pm - 7:00 pm\r\nSat - Sun: 12:00 pm - 6:00 pm", 
+                            "id": "poJMEK", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 47.550619, 
+                            "locality": "Seattle", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -122.317995, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(206) 402-6025", 
+                            "postalCode": "98108", 
+                            "region": "Washington", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5840 Airport Way S", 
+                            "updateDate": "2013-07-27 14:59:33", 
+                            "website": "http://machinehousebrewery.com/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Machine House Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-07-27 15:00:12", 
+                    "website": "http://machinehousebrewery.com/"
+                }
+            ], 
+            "createDate": "2013-07-27 15:01:25", 
+            "description": "A traditional English Dark Mild, one of the great underappreciated beers. Mild in ABV, mild in hop bitterness and aroma, yet our most full flavoured and drinkable ale. Light bodied and very smooth, yet dark in colour with a rich, chocolate flavor.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "atu6m1", 
+            "isOrganic": "N", 
+            "name": "Dark Mild", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2013-07-27 15:01:25"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-09-07 01:50:45", 
+                    "description": "We are committed to producing excellent quality craft beer as well as providing interesting historical narratives to augment your tasting experience.  We have three screens with a Direct TV sports package for all the games and we are open for Monday night football with great food and $4.00 Imperial pints.", 
+                    "established": "2012", 
+                    "id": "4mkZs8", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/4mkZs8/upload_05muuj-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/4mkZs8/upload_05muuj-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/4mkZs8/upload_05muuj-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-09-07 01:52:13", 
+                            "hoursOfOperation": "Wednesday:  2 - 9\r\nThursday: 2 - 9\r\nFriday: 2 - 10\r\nSaturday: 11 - 10", 
+                            "id": "ZBXJCR", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 33.926411, 
+                            "locality": "DrivrNorco", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -117.562801, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "951-278-1760", 
+                            "postalCode": "92860", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1780 Town & Country", 
+                            "updateDate": "2012-09-07 01:52:13", 
+                            "website": "http://solaleworks.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Sons of Liberty Aleworks", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-02-13 13:13:08", 
+                    "website": "http://solaleworks.com/"
+                }
+            ], 
+            "createDate": "2014-02-12 16:34:28", 
+            "id": "yoUSmo", 
+            "isOrganic": "N", 
+            "name": "Dark Tavern", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2014-02-13 13:34:19"
+        }, 
+        {
+            "abv": "4.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-12-21 17:23:06", 
+                    "description": "Established in May 2003 by former chef Dave Hughes and his wife Judi, Acorn Brewery is located to the east of the Pennines in the village of Wombwell, Barnsley.\r\n\r\nHaving worked for Barnsley Brewery as Head Brewer for two years, Dave decided to go it alone, purchased a ten barrel brewplant from the Forester & Firkin brewpub in Stafford and moved it to premises in Wombwell.\r\n\r\n Following a lot of hard work by Dave and his assistant brewer Steve Bunting, and despite some initial set backs, the brewplant was commissioned and production of Acorn Brewery Barnsley Bitter began on 4th July 2003, using the same yeast strain as the original Barnsley Brewery, founded in the 1850's. Since then, sales have grown steadily and the range of beers has increased.\r\n\r\nAcorn Brewery has developed a popular Yorkshire brand and is currently supplying over 300 free trade outlets and 3 national wholesalers.  \r\n\r\nThere are currently three award-winning beers permanently available, as well as regular seasonal brews.", 
+                    "established": "2003", 
+                    "id": "Uiol9p", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Uiol9p/upload_BaB8aL-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Uiol9p/upload_BaB8aL-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Uiol9p/upload_BaB8aL-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-12-21 17:24:31", 
+                            "id": "PkqhUA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 53.5331726, 
+                            "locality": "Wombwell", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -1.4124447, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "01226 270734", 
+                            "postalCode": "S73 8HA", 
+                            "region": "Barnsley", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Unit 3 Aldham Industrial Estate Mitchell Road", 
+                            "updateDate": "2012-12-21 17:39:36", 
+                            "yearOpened": "2003"
+                        }
+                    ], 
+                    "name": "Acorn Brewery of Barnsley", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-15 01:23:07", 
+                    "website": "http://www.acorn-brewery.co.uk"
+                }
+            ], 
+            "createDate": "2012-12-21 17:34:06", 
+            "description": "Aromatic roast malts give a deep red colour and Fuggles hops give a mild level of bitterness and aroma.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "lnxbIV", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/lnxbIV/upload_idNXFf-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/lnxbIV/upload_idNXFf-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/lnxbIV/upload_idNXFf-medium.png"
+            }, 
+            "name": "Darkness", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2012-12-21 17:57:33"
+        }, 
+        {
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2014-01-16 22:52:53", 
+                    "description": "Most homebrewers, at some point, begin to dream of starting their own brewery.  I had always liked my beer, but I realized that there tends to be a brewer\u2019s bias towards their own beer.  A great deal of time and effort goes into making a batch of beer, so the brewer is bound to speak highly of their own goods.  It turns out, I\u2019m my own worst critic.  I\u2019m constantly searching for ways to improve the beer.  Whenever I shared brews with others, they always liked it as well, but who doesn\u2019t like free beer?  For me, the seed was planted quite a few years ago when I started winning homebrewing awards statewide.  It was then I began to realize that I was making more than just pretty good homebrew.  I was making some damn good beer!  I began volunteering to judge at homebrew competitions and making an effort to get out and sample more of the beers not available in northern Minnesota.  I quickly realized that there was much more to explore in the world of beer than I realized.  I studied and tasted everything I could find regarding brewing science and beer styles.  In the midst of all of the studying and research, I took the Beer Judge Certification Program test and obtained a National rank in the BJCP.  I now had some credentials to back up my knowledge of good beer and brewing.  It was clear that this was starting to become more than just a hobby, so I began to put a bit more time and effort into the dream of starting a brewery.\r\n\r\nSo, after all this research and planning, what\u2019s the plan?  Start small.\r\n\r\nJack Pine Brewery is starting very small.  Nanobrewery small.  Brewing forty gallons at a time small.  Did I mention the brewer is small?\r\n\r\nThis little brewery serves as a pilot system for the eventual build-out of a full scale production brewery.  It provides the opportunity to test the waters before sinking a boatload of cash into a warehouse full of stainless equipment.  Best of all, it gives YOU a chance to TRY THE BEER!  I\u2019ve been my own worst critic for the past 12 years of homebrewing.  Now it\u2019s your turn.  With your help, we can build a brewery to provide our friends and neighbors with delicious locally-brewed beer.\r\n\r\nSo, stop in and give it a try!", 
+                    "established": "2012", 
+                    "id": "3YeQjZ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/3YeQjZ/upload_6VMNdS-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/3YeQjZ/upload_6VMNdS-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/3YeQjZ/upload_6VMNdS-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-01-16 22:54:29", 
+                            "hoursOfOperation": "Friday 4-7pm\r\nSaturday 4-7pm", 
+                            "id": "CPYUBy", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 46.3447626, 
+                            "locality": "Brainerd", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -94.2338287, 
+                            "name": "Jack Pine Brewery - Taproom", 
+                            "openToPublic": "Y", 
+                            "phone": "(218) 270-8072", 
+                            "postalCode": "56425", 
+                            "region": "Minnesota", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "7942 College Rd, Ste 115", 
+                            "updateDate": "2014-01-17 14:26:54", 
+                            "website": "http://jackpinebrewery.com/", 
+                            "yearOpened": "2013"
+                        }
+                    ], 
+                    "name": "Jack Pine Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-01-17 14:27:43", 
+                    "website": "http://jackpinebrewery.com"
+                }
+            ], 
+            "createDate": "2014-01-17 14:28:30", 
+            "description": "Duck Pond Nut Brown Ale pours a deep ruddy brown with a creamy off-white head. Dark brown, but not black. Toasty and nutty characters persist through the entire glass and call for another glass.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "atQK1J", 
+            "isOrganic": "N", 
+            "name": "Duck Pond Nut Brown Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2014-01-17 14:28:30"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2013-05-19 02:27:10", 
+                    "description": "FORT GARRY is Manitoba\u2019s oldest microbrewery. Established in 1930, our recipes and brewing techniques are a time honoured tradition that have been passed down through the generations. Only the finest raw ingredients are used to brew our fine ales and lagers. Our line up of products includes our world-famous Fort Garry Dark, Fort Garry Light, Fort Garry Pale Ale, Fort Garry Rouge and Frontier Pilsner. \r\n\r\nFort Garry also distributes brands in Manitoba for our sister brewery in British Columbia, Russell Brewing Company. Fort Garry Brewing and Russell Brewing Company are wholly owned subsidiaries of Russell Breweries Inc.", 
+                    "established": "1930", 
+                    "id": "P3fflp", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/P3fflp/upload_WR7gRf-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/P3fflp/upload_WR7gRf-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/P3fflp/upload_WR7gRf-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Canada", 
+                                "isoCode": "CA", 
+                                "isoThree": "CAN", 
+                                "name": "CANADA", 
+                                "numberCode": 124
+                            }, 
+                            "countryIsoCode": "CA", 
+                            "createDate": "2013-05-22 12:06:06", 
+                            "hoursOfOperation": "Mon - Fri: 7:30 am - 3:30 am", 
+                            "id": "O3AeVj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 49.838619, 
+                            "locality": "Winnipeg", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -97.2059227, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "+1 204-487-3678", 
+                            "postalCode": "R3P 2H8", 
+                            "region": "Manitoba", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "130 Lowson Crescent", 
+                            "updateDate": "2013-05-22 12:06:06", 
+                            "website": "http://www.fortgarry.com/", 
+                            "yearOpened": "1930"
+                        }
+                    ], 
+                    "name": "Fort Garry Brewing Company Ltd.", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-05-22 12:06:51", 
+                    "website": "http://www.fortgarry.com/"
+                }
+            ], 
+            "createDate": "2013-05-22 12:07:26", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "PnD3sU", 
+            "isOrganic": "N", 
+            "name": "Fort Dark Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2013-05-22 12:07:26"
+        }, 
+        {
+            "abv": "3.4", 
+            "breweries": [
+                {
+                    "createDate": "2014-03-14 18:23:04", 
+                    "description": "Imaginative brew creations concocted by husband and wife team Rob and Keely Landerman, Dusty Schmidt, and Tom Dolan.\r\nHandcrafted. Imaginative. Idahoan.", 
+                    "established": "2014", 
+                    "id": "0j4t2Z", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/0j4t2Z/upload_Kqra3P-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/0j4t2Z/upload_Kqra3P-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/0j4t2Z/upload_Kqra3P-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2014-03-16 14:38:24", 
+                            "hoursOfOperation": "Tasting Room hours: \r\nTues- Thurs: 3 pm- 10 pm\r\nFri: 3 pm-11 pm\r\nSat: 12 noon-11 pm\r\nSun: 12 noon-8 pm", 
+                            "id": "x4vqAl", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 43.616471, 
+                            "locality": "Boise", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -116.208926, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "83704", 
+                            "region": "Idaho", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1114 W Front St", 
+                            "updateDate": "2014-03-16 14:38:24", 
+                            "website": "http://woodlandempire.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Woodland Empire Ale Craft", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-16 14:38:42", 
+                    "website": "http://www.woodlandempire.com"
+                }
+            ], 
+            "createDate": "2014-03-14 18:26:20", 
+            "description": "Uses Cold Brewed Doma Coffee", 
+            "id": "pVCKX0", 
+            "isOrganic": "N", 
+            "name": "In the Morning", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2014-03-16 14:42:01"
+        }, 
+        {
+            "abv": "4.9", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:02", 
+                    "description": "In early 2010, Mother Earth launched a unique brewing supply store and tasting room at its new Vista, CA location. Just a half mile from the 78 freeway and just minutes from the I-5, Mother Earth Brew Co. is right in the middle of the \"North County Beer Triangle\" in North San Diego County. \r\n\r\nOur business caters to home brewers seeking the highest quality, freshest ingredients and to people who enjoy sampling great beers - many of which are exclusively available at our tasting bar! Come on by for a truly unique experience, and always remember...Love Your Mother!", 
+                    "established": "2008", 
+                    "id": "NwFxny", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/NwFxny/upload_Q8CEgY-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/NwFxny/upload_Q8CEgY-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/NwFxny/upload_Q8CEgY-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:02", 
+                            "extendedAddress": "Suite H.", 
+                            "hoursOfOperation": "Retail Store\t\r\nSun: 12pm to 5:30pm\r\nMon: Closed\r\nTues: Closed\r\nWed: 11am to 7pm\r\nThurs: 11am to 8pm\r\nFri: 11am to 8pm\r\nSat: 12pm to 5:30pm\r\n\r\nTasting Room\r\nSun: 12pm to 5pm\r\nMon: Closed\r\nTues: Closed\r\nWed: Closed\r\nThurs: 4pm to 8pm\r\nFri: 4pm to 8pm\r\nSat: 12pm to 5pm", 
+                            "id": "ZJPZPc", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 33.1682803, 
+                            "locality": "Vista", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -117.2198359, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "760-599-4225", 
+                            "postalCode": "92081", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2055 Thibodo Rd", 
+                            "updateDate": "2012-03-21 20:05:29", 
+                            "website": "http://www.motherearthbrewco.com/", 
+                            "yearOpened": "2008"
+                        }
+                    ], 
+                    "name": "Mother Earth Brew Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-03-16 21:42:42", 
+                    "website": "http://www.motherearthbrewco.com/"
+                }
+            ], 
+            "createDate": "2012-04-12 00:12:36", 
+            "description": "This traditionally low gravity  English ale uses a small amount of crystal and brown malt.  We mix it up by using German hops while staying true to the style by using English yeast.  At just 4.9%, its ok to have a few of \u2018em bloak.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "22", 
+            "id": "yKS3sq", 
+            "isOrganic": "N", 
+            "name": "L.C.'s Mild", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2012-04-12 00:12:36"
+        }, 
+        {
+            "abv": "7.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:43", 
+                    "description": "Adnams is one of England's oldest and most respected breweries, but despite its rich heritage and enduring fame, Adnams is not a company willing to rest on its laurels. Its continued commitment to quality and innovative packaging designs has made it Britain's fastest growing brewery over the last two years. To top it off, Adnams' head brewer was recently chosen as Britain's Brewer of the Year by a panel of his peers. The aggressive team at Adnams is raring to go and keen to make a mark in the U.S.", 
+                    "established": "1872", 
+                    "id": "nUwtfn", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/nUwtfn/upload_R9g6zc-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/nUwtfn/upload_R9g6zc-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/nUwtfn/upload_R9g6zc-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-01-03 02:41:43", 
+                            "id": "xMLyOI", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 52.327314, 
+                            "locality": "Southwold", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 1.680109, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "44-(01502)-727200", 
+                            "postalCode": "IP18 6JW", 
+                            "region": "Suffolk", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "East Green", 
+                            "updateDate": "2012-07-12 12:21:55", 
+                            "website": "http://www.adnams.co.uk/", 
+                            "yearOpened": "1872"
+                        }
+                    ], 
+                    "name": "Adnams Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-21 22:19:00", 
+                    "website": "http://www.adnams.co.uk/"
+                }
+            ], 
+            "createDate": "2012-12-21 22:25:23", 
+            "id": "BvxIfU", 
+            "isOrganic": "N", 
+            "name": "Marks & Spencer Southwold Dark Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2012-12-21 22:25:24"
+        }, 
+        {
+            "abv": "4", 
+            "breweries": [
+                {
+                    "createDate": "2013-06-21 18:23:36", 
+                    "description": "The brewery was first brought to the Historic Dockyard at Chatham as the Flagship Brewery in 1995 where it established a five barrel kit brewing up to 100 firkins a week. All the ales have nautical themed names to gel with the surroundings in which it is brewed\r\n\r\n\r\nIn 2003 the brewery was bought and renamed the Nelson Brewing Company to fall in line with the most famous naval hero of all time 'Admiral Horatio Nelson' and that his flagship 'The Victory' was built here in Chatham Dockyard.\r\n\r\nIn July 2006 the brewery was purchased by Piers Macdonald. Piers has over 20 years experience in the brewing industry and is passionate to keep the traditions of Kent brewing alive. Using the best ingredients and the finest Kent hops, combined with the expertise and dedication of his brewing staff, Piers plans to build on the brewery's already growing reputation as the provider of some of the tastiest ales on the market.\r\n\r\nNow brewing from a seven and a half barrel kit and regularly having over a dozen ales of various strengths and taste available, the brewery is sure to have a beer to suit all!", 
+                    "established": "1995", 
+                    "id": "OYQA8m", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2013-06-22 15:01:11", 
+                            "extendedAddress": "The Historic Dockyard", 
+                            "id": "wPQQFb", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 51.3943334, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 0.5297882, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "01634 832828", 
+                            "postalCode": "ME4 4TE", 
+                            "region": "Chatham", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "Unit 2, Building 64", 
+                            "updateDate": "2013-06-22 15:01:11", 
+                            "website": "http://www.nelsonbrewery.co.uk/"
+                        }
+                    ], 
+                    "name": "Nelson Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-06-22 15:01:39", 
+                    "website": "http://www.nelsonbrewery.co.uk/"
+                }
+            ], 
+            "createDate": "2013-06-22 15:03:06", 
+            "description": "A Dark Mild brewed with mild malt and Kentish Hops leaving a roasted aftertaste on the palate.Mild was originally known as a training beer and this bears relation to the use of the Naval phrase \"Midshipman\". Meaning A non commissioned officer below the rank of Lieutenant. Usually regarded as being in training to some degree. Was also known as a \"Snotty\". The lowest form of rank in the Royal Navy where he has authority over and responsibility for more junior ranks, yet at the same time relying on their experience and learning his trade from them.", 
+            "id": "eEjA64", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/eEjA64/upload_HiLLDi-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/eEjA64/upload_HiLLDi-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/eEjA64/upload_HiLLDi-medium.png"
+            }, 
+            "name": "Midshipman Mild", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2013-06-22 15:06:11"
+        }, 
+        {
+            "abv": "4", 
+            "available": {
+                "description": "Available at the same time of year, every year.", 
+                "id": 4, 
+                "name": "Seasonal"
+            }, 
+            "availableId": 4, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:09", 
+                    "description": "While you're enjoying the full-bodied flavor of the beer, remember that it was more than 10 years in the making. We think it was worth it. We hope you agree.\r\n \r\nSurly: The anger fueled by the inability to find good beer.\r\n\r\n\"We brewed beer for people who didn't know they wanted to drink it until they had it.\" - Omar Ansari", 
+                    "established": "2006", 
+                    "id": "cPRfoj", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/cPRfoj/upload_h0oqUF-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/cPRfoj/upload_h0oqUF-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/cPRfoj/upload_h0oqUF-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:09", 
+                            "id": "2REili", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 45.04285, 
+                            "locality": "Brooklyn Center", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -93.324557, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "763-535-3330", 
+                            "postalCode": "55429", 
+                            "region": "Minnesota", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4811 Dusharme Drive", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.surlybrewing.com/", 
+                            "yearOpened": "2006"
+                        }
+                    ], 
+                    "name": "Surly Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-04-24 13:01:28", 
+                    "website": "http://www.surlybrewing.com/"
+                }
+            ], 
+            "createDate": "2012-07-30 22:22:33", 
+            "description": "Our first session beer. A British-style mild whose drinkability makes it fun.", 
+            "ibu": "21", 
+            "id": "3kKPbC", 
+            "isOrganic": "N", 
+            "name": "Mild", 
+            "srm": {
+                "hex": "C35900", 
+                "id": 14, 
+                "name": "14"
+            }, 
+            "srmId": 14, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2012-07-30 22:22:33"
+        }, 
+        {
+            "abv": "4.2", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:47", 
+                    "description": "The original Bluegrass Brewing Company opened in 1993 at this location, 3929 Shelbyville Road, near Westport Rd., & Chenoweth, & Breckenridge Lanes. It is the city's oldest remaining brewpub and was the first to make a significant mark on the national brewpub and microbrewery scene. Louisville's best beer is made at this location, and large glass windows in the back dining room allow you to witness the brewing operation. The headbrewer is Jerry Gnagy, assisted by Sam Cruz and Cody Mingus.", 
+                    "established": "1993", 
+                    "id": "ERW6Da", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ERW6Da/upload_fjjbGe-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ERW6Da/upload_fjjbGe-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ERW6Da/upload_fjjbGe-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:47", 
+                            "hoursOfOperation": "Sunday -Thursday: 11 AM -11 PM (kitchen closes at 10)\r\nFriday and Saturday: 11 AM -1 PM (kitchen closes at 11)", 
+                            "id": "8yIWus", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 38.252999, 
+                            "locality": "Louisville", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -85.654044, 
+                            "name": "BBC East St Matthews", 
+                            "openToPublic": "Y", 
+                            "phone": "502-899-7070", 
+                            "postalCode": "40207", 
+                            "region": "Kentucky", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3929 Shelbyville Rd.", 
+                            "updateDate": "2012-04-15 19:12:47", 
+                            "yearOpened": "1993"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-04-15 19:11:15", 
+                            "hoursOfOperation": "Monday - Thursday: 11 AM -10 PM\r\nFriday - Saturday: 11 AM -11 PM\r\nClosed Sunday", 
+                            "id": "f78xIY", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.246998, 
+                            "locality": "Louisville", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -85.758183, 
+                            "name": "BBC Theatre Square", 
+                            "openToPublic": "Y", 
+                            "phone": "502-568-2224", 
+                            "postalCode": "40202", 
+                            "region": "Kentucky", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "660 South 4th Street", 
+                            "updateDate": "2012-04-15 19:12:47", 
+                            "yearOpened": "2006"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-04-15 19:12:22", 
+                            "hoursOfOperation": "Monday - Thursday: 11 AM \u2013 Midnight\r\nFriday - Saturday: 11 AM \u2013 1 AM\r\nSunday: Noon \u2013 9PM", 
+                            "id": "HQrlRz", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 38.256433, 
+                            "locality": "Louisville", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -85.755058, 
+                            "name": "BBC 3rd and Main", 
+                            "openToPublic": "Y", 
+                            "phone": "502-562-0007", 
+                            "postalCode": "40202", 
+                            "region": "Kentucky", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "300 West Main Street", 
+                            "updateDate": "2012-04-15 19:12:47", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Bluegrass Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-04-15 19:14:01", 
+                    "website": "http://www.bbcbrew.com/"
+                }
+            ], 
+            "createDate": "2014-06-13 20:01:12", 
+            "id": "KjkO4a", 
+            "isOrganic": "N", 
+            "name": "Mild Davis", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2014-06-13 20:10:19"
+        }, 
+        {
+            "abv": "3.6", 
+            "available": {
+                "description": "Beer is not available.", 
+                "id": 3, 
+                "name": "Not Available"
+            }, 
+            "availableId": 3, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:01", 
+                    "description": "The Saturnalian Saga of Magic Hat began in 1994 when our first batch of beer was brewed in a funky little space on Flynn Avenue, in Burlington, Vermont.  Dozens of beers and a brewery later, the Vermont brewery finds itself reaching more than 30 states with its unique take on classic styles.  Magic Hat continues to be a leader in craft beer and is currently the only craft brewer putting a performance in every bottle.", 
+                    "established": "1994", 
+                    "id": "qIqpZc", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/qIqpZc/upload_rtve34-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/qIqpZc/upload_rtve34-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/qIqpZc/upload_rtve34-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:01", 
+                            "id": "Bp3teL", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.428405, 
+                            "locality": "South Burlington", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -73.213148, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-802-658-2739", 
+                            "postalCode": "5403", 
+                            "region": "Vermont", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5 Bartlett Bay Road", 
+                            "updateDate": "2013-08-12 16:50:30", 
+                            "website": "http://www.magichat.net/", 
+                            "yearOpened": "1994"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "Germany", 
+                                "isoCode": "DE", 
+                                "isoThree": "DEU", 
+                                "name": "GERMANY", 
+                                "numberCode": 276
+                            }, 
+                            "countryIsoCode": "DE", 
+                            "createDate": "2012-08-12 14:47:25", 
+                            "id": "a4dr04", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 52.408494, 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": 12.562564, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "region": "Brandenburg", 
+                            "status": "deleted", 
+                            "statusDisplay": "Deleted", 
+                            "updateDate": "2012-08-13 12:40:53"
+                        }
+                    ], 
+                    "name": "Magic Hat Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-12 16:33:41", 
+                    "website": "http://www.magichat.net/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:49", 
+            "description": "A stupendous Midland Mild Ale whose epic malt infused acts of sweet caramel sensations leave all who pour it speechless.  Its roasted notes of sun soaked grain are appearing in the Summer Variety Show in a not to be missed engagement.  Brewed with Belgian Candi Sugar.", 
+            "id": "ANMcdJ", 
+            "isOrganic": "N", 
+            "name": "Odd Notion Summer 08", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2013-08-14 18:34:23"
+        }, 
+        {
+            "abv": "5.7", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:09", 
+                    "description": "T&R Theakston Ltd is an independent, family brewing company founded in 1827 located in the Yorkshire Dales market town of Masham, North Yorkshire. The company is controlled and run by direct descendents of the founder Robert Theakston, great-great grandsons, Simon, Nick, Tim and Edward Theakston.", 
+                    "established": "1827", 
+                    "id": "wdVKsm", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/wdVKsm/upload_JDBa8v-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/wdVKsm/upload_JDBa8v-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/wdVKsm/upload_JDBa8v-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United Kingdom", 
+                                "isoCode": "GB", 
+                                "isoThree": "GBR", 
+                                "name": "UNITED KINGDOM", 
+                                "numberCode": 826
+                            }, 
+                            "countryIsoCode": "GB", 
+                            "createDate": "2012-01-03 02:42:09", 
+                            "hoursOfOperation": "Mon - Sun: 10:30 am - 4:30 am", 
+                            "id": "pwBcRV", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 54.224464, 
+                            "locality": "Masham", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -1.657235, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "011 44 1765 680000", 
+                            "postalCode": "HG4 4YD", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "T&R Theakston Ltd", 
+                            "updateDate": "2012-08-02 01:31:04", 
+                            "website": "http://www.theakstons.co.uk/"
+                        }
+                    ], 
+                    "name": "T&R Theakston Ltd", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-08-02 01:29:38", 
+                    "website": "http://www.theakstons.co.uk/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:43:51", 
+            "description": "One of the great beers of the world - rich, dark, smooth and mellow tasting, with a character all its own.  Brewed using the traditional Fuggle hop, Old Peculiar is our best known beer and has a large and enthusiastic following across the globe.", 
+            "id": "gxt5Wd", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/gxt5Wd/upload_45wo7O-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/gxt5Wd/upload_45wo7O-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/gxt5Wd/upload_45wo7O-medium.png"
+            }, 
+            "name": "Old Peculier", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2013-10-28 11:44:54"
+        }, 
+        {
+            "abv": "4", 
+            "breweries": [
+                {
+                    "createDate": "2013-08-21 12:50:40", 
+                    "description": "Grateful Hands Brewing produces small (20 gallon) batches of dark ales, focusing on quality not quantity. We are not a large company and have no desire to become a large company. We desire to stay small, local, and dependable. We always want to keep the creativity and fun involved in making and taking care of our beer so that it is always as enjoyable for you to drink it! We are Grateful to be able to share our beer with you. Cheers!", 
+                    "established": "2012", 
+                    "id": "NLzcnO", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/NLzcnO/upload_YMCYhP-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/NLzcnO/upload_YMCYhP-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/NLzcnO/upload_YMCYhP-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-08-21 12:51:58", 
+                            "hoursOfOperation": "Hours of operation:\r\nEvery 2nd and 4th Saturday, 12-5 \r\nPlease note July schedule is the 1st and 4th Saturdays", 
+                            "id": "qQxLJq", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 44.4149459, 
+                            "locality": "Cabot", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -72.2693361, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(802)249-4092", 
+                            "postalCode": "05647", 
+                            "region": "Vermont", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2211 US Route 2", 
+                            "updateDate": "2013-08-21 12:51:58", 
+                            "website": "http://www.gratefulhandsbrewing.com"
+                        }
+                    ], 
+                    "name": "Grateful Hands Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-21 12:50:40", 
+                    "website": "http://www.gratefulhandsbrewing.com"
+                }
+            ], 
+            "createDate": "2013-08-21 12:58:57", 
+            "description": "This English session ale may be light in alcohol, but what it lacks in booze, it more than makes up for in flavor. English Maris Otter is the base of a pyramid which ascends through crystal malts, to the biscuity Victory, and capped with a touch of chocolate. A blend of Willamette and Cascade hops add just enough floral hopiness to keep this from being overly-sweet. The result is a slightly nutty/biscuity, malty beer that is refreshing and low enough in ABV to be able to enjoy a few. Cheers to the English and their session beers!", 
+            "ibu": "28", 
+            "id": "JTkNbn", 
+            "isOrganic": "N", 
+            "name": "Relaxation", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2013-08-21 12:58:57"
+        }, 
+        {
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:41:58", 
+                    "description": "Jackalope Brewing Company is owned by Bailey Spaulding and Robyn Virball, two young ing\u00e9nues with an affection for beer. They met in September 2002 in the tiny Scottish village of St. Andrews, Scotland. Bailey was a Harvard student doing a semester abroad and Robyn was beginning undergrad at St. Andrews. They bonded over being put into the worst dorm for overseas orientation and teaching Danish people how to play beer pong. Though after three months Bailey went back to Cambridge, you can't break the bonds that are made when teaching Europeans drinking games and a true friendship was born. During the next eight years, they both graduated, Bailey went off to Vanderbilt Law School, and Robyn entered the working world, but both thought they were meant for much bigger and more alcoholic things.", 
+                    "established": "2011", 
+                    "id": "p1tFbP", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/p1tFbP/upload_OdyZQQ-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/p1tFbP/upload_OdyZQQ-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/p1tFbP/upload_OdyZQQ-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:41:58", 
+                            "hoursOfOperation": "Thursday: 4PM - 8PM\r\nFriday: 4PM - 8PM\r\nSaturday: 4PM - 8PM", 
+                            "id": "Syl46S", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 36.1503749, 
+                            "locality": "Nashville", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -86.779494, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "857-998-2571", 
+                            "postalCode": "37203", 
+                            "region": "Tennessee", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "701 8th Avenue South", 
+                            "updateDate": "2012-03-21 20:05:27", 
+                            "website": "http://www.jackalopebrew.com/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Jackalope Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-03-21 19:06:11", 
+                    "website": "http://www.jackalopebrew.com/"
+                }
+            ], 
+            "createDate": "2013-05-02 22:18:39", 
+            "id": "5fM3ER", 
+            "isOrganic": "N", 
+            "name": "Rye Barrel Aged Cubcrawler", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2013-05-03 00:38:10"
+        }, 
+        {
+            "abv": "4.3", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2013-08-05 17:35:34", 
+                    "description": "Discretion Brewing is a family-owned brewery dedicated to producing handcrafted organic beer of consistent high quality. We are known for quality and elegance in both our products and our presence in the community. Our name speaks to our desire to be wise and full of care as we go about our business. We encourage the notion that we all have the freedom to decide what we consume. \r\n\r\nWe have defined \"Discretion\" with the words, \"wisdom,\" \"wit,\" and kindness.\" These are qualities that we hope will define our interactions with each other, our customers, and our community. \r\n\r\nChoose Goodness. Have Discretion.", 
+                    "established": "2011", 
+                    "id": "AXcWvQ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/AXcWvQ/upload_9w5fFH-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/AXcWvQ/upload_9w5fFH-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/AXcWvQ/upload_9w5fFH-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-08-06 20:18:49", 
+                            "extendedAddress": "Suite A", 
+                            "hoursOfOperation": "Mon - Sun: 11:30 am - 9:00 pm", 
+                            "id": "6tTU3c", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 36.9854005, 
+                            "locality": "Soquel", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -121.9649343, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(831) 316-0662", 
+                            "postalCode": "95073", 
+                            "region": "California", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2703 41st Ave.", 
+                            "updateDate": "2013-08-06 20:18:49", 
+                            "website": "http://www.discretionbrewing.com/", 
+                            "yearOpened": "2011"
+                        }
+                    ], 
+                    "name": "Discretion Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-06 20:19:40", 
+                    "website": "http://www.discretionbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-08-08 19:08:14", 
+            "description": "Our brewer, Michael, always has a song in his heart, and it makes us happy when we hear it. May you, too,  have one, whether shared or all your own. \u201cSong\u201d is a British-Style session beer; mild, malty and never bitter. This beer is a dark ruby brown color. Soft roasty and caramel malt aromas carry all the way through to the finish.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "17.1", 
+            "id": "rn8iW1", 
+            "isOrganic": "N", 
+            "name": "Song In Your Heart", 
+            "originalGravity": "1.038", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "srm": {
+                "hex": "000000", 
+                "id": 41, 
+                "name": "Over 40"
+            }, 
+            "srmId": 41, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2013-08-09 12:32:25"
+        }, 
+        {
+            "abv": "6.5", 
+            "available": {
+                "description": "Available during the winter months.", 
+                "id": 8, 
+                "name": "Winter"
+            }, 
+            "availableId": 8, 
+            "breweries": [
+                {
+                    "createDate": "2012-05-11 15:06:40", 
+                    "description": "Indeed Brewing Company has a penchant for adventure, both in the beers we brew and the way we go about brewing them. \r\n\r\nWe offer two flagship beers: Day Tripper Pale Ale & Midnight Ryder American Black Ale. We also brew seasonal offerings like Shenanigans Summer Ale, and Stir Crazy Winter Ale. \r\n\r\nVisit our taproom to to buy 10, 16, or 20-oz. beers, or take home 750 mL bottles of beer. Our tours are available on Saturday's, to sign up, visit our website at IndeedBrewing.com.\r\n\r\nIndeed Brewing was founding in Feb. 2011, and began production in July 2012, and opened taproom in August 2012.\r\n\r\nWe distribute kegs, 12-oz. cans, and specialty beers in 750 mL bottles.", 
+                    "established": "2012", 
+                    "id": "LhenPJ", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/LhenPJ/upload_1eEQpM-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/LhenPJ/upload_1eEQpM-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/LhenPJ/upload_1eEQpM-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-05-11 15:15:24", 
+                            "id": "MpYI7s", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 45.003096, 
+                            "locality": "Minneapolis", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -93.252211, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(612) 843-5090", 
+                            "postalCode": "55413", 
+                            "region": "Minnesota", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "711 15th Avenue NE", 
+                            "updateDate": "2012-11-04 15:06:30", 
+                            "website": "http://www.indeedbrewing.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "mailingListUrl": "http://www.indeedbrewing.com/newsletter/", 
+                    "name": "Indeed Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-02-10 13:38:31", 
+                    "website": "http://www.indeedbrewing.com/"
+                }
+            ], 
+            "createDate": "2014-02-12 18:38:07", 
+            "description": "A new season means new adventures. We created Stir Crazy Winter Ale to warm you from within during the coldest time of year. Our sturdy winter warmer is brewed with cocoa nibs, vanilla, raisins and brown sugar. Layers of malty goodness create a dark ruby color and satisfying notes of chocolate and rich caramel, while pulverized raisins and brown sugar provide a fruity complexity. Bundle up and enjoy!", 
+            "ibu": "22", 
+            "id": "S5NhOY", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/S5NhOY/upload_V64y8n-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/S5NhOY/upload_V64y8n-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/S5NhOY/upload_V64y8n-medium.png"
+            }, 
+            "name": "Stir Crazy", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2014-02-13 13:34:46"
+        }, 
+        {
+            "abv": "8", 
+            "available": {
+                "description": "Available during the winter months.", 
+                "id": 8, 
+                "name": "Winter"
+            }, 
+            "availableId": 8, 
+            "breweries": [
+                {
+                    "createDate": "2013-08-24 17:24:14", 
+                    "description": "Founded in 2013, Boulder\u2019s Sanitas Brewing Company is regarded for their signature blend of tradition and innovation as well as their use of only the finest ingredients. With a passion for exploration, Sanitas epitomizes the wild spirit of Colorado with a variety of premium beers.", 
+                    "established": "2013", 
+                    "id": "e7pl4v", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/e7pl4v/upload_DurIdP-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/e7pl4v/upload_DurIdP-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/e7pl4v/upload_DurIdP-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-08-24 17:25:05", 
+                            "extendedAddress": "Unit A", 
+                            "hoursOfOperation": "TUES thru FRI 3PM-10PM\r\nSAT NOON-10PM\r\nSUN NOON-8PM\r\nCLOSED MONDAYS", 
+                            "id": "Ut4fRw", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.02225, 
+                            "locality": "Boulder", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -105.247757, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(303) 442-4130", 
+                            "postalCode": "80301", 
+                            "region": "Colorado", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3550 Frontier Ave", 
+                            "updateDate": "2014-05-26 19:30:11", 
+                            "website": "http://sanitasbrewing.com", 
+                            "yearOpened": "2013"
+                        }
+                    ], 
+                    "name": "Sanitas Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2014-05-26 19:29:08", 
+                    "website": "http://www.sanitasbrewing.com/"
+                }
+            ], 
+            "createDate": "2014-05-26 21:40:28", 
+            "description": "This rich, dark chestnut colored ale was inspired by the strong, malty winter beers of old England. Fermented and aged on a pound per barrel of organic dried figs for a mild dark fruit note.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 6, 
+                "name": "Snifter"
+            }, 
+            "glasswareId": 6, 
+            "ibu": "42", 
+            "id": "GXUOk5", 
+            "isOrganic": "N", 
+            "name": "Stocking Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2014-05-26 21:40:28"
+        }, 
+        {
+            "abv": "5", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:08", 
+                    "description": "Sixpoint Craft Ales was founded in 2004 by Shane Welch, a former homebrewer that originally grew up in Milwaukee. The microbrewery is located in a 7,000-square-foot (650 m2) factory in in Red Hook, Brooklyn that formerly manufactured filing cabinets. Sixpoint began business by only distributing kegs to local bars and restaurants; instead of bottling its beer, filling growlers at bars were the only way for customers to drink the beer at their homes. \r\n\r\nIn 2011 Sixpoint launched initial canned  offerings of 16 oz, year-round styles Sweet Action, Bengali Tiger, Righteous Ale and The Crisp.  Further releases have included the 12 oz Resin and 3Beans, as well as 16oz seasonal offerings such as Apollo and Autumnation.", 
+                    "established": "2004", 
+                    "id": "7VPQrN", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/7VPQrN/upload_X4w8Lq-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/7VPQrN/upload_X4w8Lq-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/7VPQrN/upload_X4w8Lq-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:08", 
+                            "id": "QJRQhZ", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 40.6739317, 
+                            "locality": "Brooklyn", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -74.0119473, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "917-696-0438", 
+                            "postalCode": "11231", 
+                            "region": "New York", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "40 Van Dyke St", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.sixpointcraftales.com/", 
+                            "yearOpened": "2005"
+                        }
+                    ], 
+                    "mailingListUrl": "http://sixpoint.com/connect", 
+                    "name": "Sixpoint Brewery", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 16:33:25", 
+                    "website": "http://www.sixpoint.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:22", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "id": "POtWdo", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/POtWdo/upload_6Ejuy1-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/POtWdo/upload_6Ejuy1-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/POtWdo/upload_6Ejuy1-medium.png"
+            }, 
+            "name": "The Growler", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2014-04-22 15:33:28"
+        }, 
+        {
+            "abv": "3.8", 
+            "breweries": [
+                {
+                    "createDate": "2013-06-22 18:23:27", 
+                    "description": "Rhinegeist is a brewery located in the Over The Rhine historical district in Cincinnati, OH. We brewed our first batch on June 8th, 2013 and are now open.", 
+                    "established": "2013", 
+                    "id": "0s8yID", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/0s8yID/upload_XHRDWe-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/0s8yID/upload_XHRDWe-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/0s8yID/upload_XHRDWe-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-06-22 18:26:59", 
+                            "hoursOfOperation": "Thursday 4pm - 11pm\r\nFriday 4pm - 12am\r\nSaturday 12pm - 12am\r\nSunday 12pm - 7pm", 
+                            "id": "202T0m", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 39.1168193, 
+                            "locality": "Cincinnati", 
+                            "locationType": "tasting", 
+                            "locationTypeDisplay": "Tasting Room", 
+                            "longitude": -84.5201739, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(513) 381-1356", 
+                            "postalCode": "45202", 
+                            "region": "Ohio", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "1910 Elm St", 
+                            "updateDate": "2013-08-09 18:27:08", 
+                            "website": "http://rhinegeist.com/", 
+                            "yearOpened": "2013"
+                        }
+                    ], 
+                    "name": "Rhinegeist", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 18:26:42", 
+                    "website": "http://rhinegeist.com"
+                }
+            ], 
+            "createDate": "2013-06-22 18:25:19", 
+            "id": "M9410g", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/M9410g/upload_6SLLJP-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/M9410g/upload_6SLLJP-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/M9410g/upload_6SLLJP-medium.png"
+            }, 
+            "name": "Uncle", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2013-11-12 02:08:53"
+        }, 
+        {
+            "abv": "3.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:07", 
+                    "description": "Revolution Brewing is Chicago's new hometown craft brewery. Our brewpub in Logan Square is a bustling, neighborhood institution where friends and families meet to enjoy the freshest beer in town. Opening our brewery has been a labor of love. We think you can see that in everything we do ranging from the details of our carved fists holding up our mahogany bar to the pungent hop aroma of our Anti-Hero IPA to our creative dishes like our bacon-fat popcorn.\r\n\r\nThe growth of craft breweries in the U.S. has been nothing short of a revolution and we're proud to be standing tall in this new crowd. The changing tastes of beer drinkers demand bigger flavors and more variety. That's exactly what we give you at Revolution Brewing. Our brewpub produces about 50 different beer styles each year. We've got session beers like Workingman Mild, hop-bombs like Double Fist and more bourbon barrel aged beers than you can shake a stave at. We have fun doing what we do and invite you to come in and join us.", 
+                    "established": "2010", 
+                    "id": "PHkaP0", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/PHkaP0/upload_KAcjV2-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/PHkaP0/upload_KAcjV2-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/PHkaP0/upload_KAcjV2-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:07", 
+                            "hoursOfOperation": "Mon-Fri: 11am-2am\r\nSat: 10am-3am\r\nSun: 10am-2am", 
+                            "id": "xjjDoA", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 41.923363, 
+                            "locality": "Chicago", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -87.698071, 
+                            "name": "Brewpub", 
+                            "openToPublic": "Y", 
+                            "phone": "773-227-2739", 
+                            "postalCode": "60647", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "2323 N Milwaukee Ave", 
+                            "updateDate": "2013-10-09 11:56:17", 
+                            "website": "http://revbrew.com/"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-08-10 17:02:16", 
+                            "id": "6gM8vr", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.941773, 
+                            "locality": "Chicago", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -87.707668, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "773-588-2267", 
+                            "postalCode": "60618", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3340 N Kedzie Ave", 
+                            "updateDate": "2013-02-14 21:12:46"
+                        }
+                    ], 
+                    "name": "Revolution Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 14:25:25", 
+                    "website": "http://revbrew.com/"
+                }
+            ], 
+            "createDate": "2012-01-03 02:44:33", 
+            "description": "English luncheon beer with toffee and caramel notes. Low in alcohol, high in flavor.", 
+            "id": "x24PL7", 
+            "isOrganic": "N", 
+            "name": "Workingman", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "4", 
+                "abvMin": "3.2", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:45", 
+                    "id": 1, 
+                    "name": "British Origin Ales"
+                }, 
+                "categoryId": 1, 
+                "createDate": "2012-03-21 20:06:45", 
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.", 
+                "fgMax": "1.008", 
+                "fgMin": "1.004", 
+                "ibuMax": "24", 
+                "ibuMin": "10", 
+                "id": 11, 
+                "name": "English-Style Dark Mild Ale", 
+                "ogMin": "1.03", 
+                "srmMax": "34", 
+                "srmMin": "17"
+            }, 
+            "styleId": 11, 
+            "updateDate": "2012-08-10 16:29:08"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 33
+}

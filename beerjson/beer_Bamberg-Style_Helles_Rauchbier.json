@@ -1,0 +1,102 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "4.7", 
+            "available": {
+                "description": "Limited availability.", 
+                "id": 2, 
+                "name": "Limited"
+            }, 
+            "availableId": 2, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:00", 
+                    "description": "Live Oak Brewing Company is truly a home-grown Austin enterprise. Two of Austin's own homebrews, Chip McElroy and Brian Peters, literally hand-built the brewery and were the two main brewers, keg washers, delivery persons, and proselytizers. Live Oak has grown since then, but we are still just as passionate about providing delicious old-world style beers that are rarely commercially available. Our special beers are brewed in limited quantities in a small east Austin brewery and are available in fine pubs and restaurants in Austin, Dallas, Houston, Alpine, Marathon, San Marcos and San Antonio.", 
+                    "established": "1997", 
+                    "id": "ZX0hI5", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/ZX0hI5/upload_fDpcsV-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/ZX0hI5/upload_fDpcsV-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/ZX0hI5/upload_fDpcsV-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:00", 
+                            "id": "AButIj", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 30.254665, 
+                            "locality": "Austin", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -97.70551, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "1-512-385-2299", 
+                            "postalCode": "78702", 
+                            "region": "Texas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3301-B East 5th Street", 
+                            "updateDate": "2012-06-26 17:10:03", 
+                            "website": "http://www.liveoakbrewing.com/", 
+                            "yearOpened": "1997"
+                        }
+                    ], 
+                    "name": "Live Oak Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-21 16:33:45", 
+                    "website": "http://www.liveoakbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-08-14 23:42:48", 
+            "description": "A light golden colored German lager that balances the supremely subtle malt and hop flavors with a firm smoked undertone. Using German barley smoked traditionally during the kilning process, we employ a decoction mash to bring forth the malt character. Noble Hallertau Mittelfruh hops flower alongside the smokey aroma to create a very refreshing and special harmony.", 
+            "ibu": "20", 
+            "id": "McduqY", 
+            "isOrganic": "N", 
+            "name": "Helles", 
+            "originalGravity": "12", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5.5", 
+                "abvMin": "4.5", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 7, 
+                    "name": "European-germanic Lager"
+                }, 
+                "categoryId": 7, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "Helles Rauchbier should have beech wood smoky characters that range from detectable to prevalent in the aroma and flavor. Smoke character is not harshly phenolic, but rather very smooth, almost rendering a perception of mild sweetness to this style of beer. This is a medium-bodied, smoke and malt-emphasized beer, with malt character often balanced with low levels of yeast produced sulfur compounds (character). This beer should be perceived as having low bitterness. Certain renditions of this beer style approach a perceivable level of hop flavor (note: hop flavor does not imply hop bitterness) and character but it is essentially balanced with malt character to retain its style identity. Helles Rauchbier malt character is reminiscent of freshly and very lightly toasted sweet malted barley. There should not be any caramel character. Color is light straw to golden. Noble-type hop flavor is low but may be perceptible. The aroma should strike a balance between malt, hop, and smoke. Fruity esters, diacetyl, and chill haze should not be perceived.", 
+                "fgMax": "1.012", 
+                "fgMin": "1.008", 
+                "ibuMax": "25", 
+                "ibuMin": "18", 
+                "id": 86, 
+                "name": "Bamberg-Style Helles Rauchbier", 
+                "ogMin": "1.044", 
+                "srmMax": "6", 
+                "srmMin": "4"
+            }, 
+            "styleId": 86, 
+            "updateDate": "2013-08-15 00:56:17"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 1
+}

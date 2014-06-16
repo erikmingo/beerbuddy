@@ -1,0 +1,647 @@
+{
+    "currentPage": 1, 
+    "data": [
+        {
+            "abv": "4.5", 
+            "available": {
+                "description": "Available year round as a staple beer.", 
+                "id": 1, 
+                "name": "Year Round"
+            }, 
+            "availableId": 1, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:05", 
+                    "description": "Founded in 2010, Piney River Brewing Company is a microbrewery dedicated to making distinctive craft beers that celebrate life in the Ozarks. Joleen and Brian Durham, owners, have lived and farmed in Texas County for many years, and they have enjoyed craft beer for a long time, too.\r\n\r\nToday, Joleen and Brian live up the hill from the Little Piney River that flows into the Big Piney.  They benefit from multiple fresh water springs and a waterfall on their farm, and they continually find themselves drawn to the rivers that flow around their farm and throughout the Ozarks.\r\n\r\nJoleen and Brian first made beer on the kitchen stove, fermenting it in the basement of their 100-year old farm house.  In July 2010 they partnered together to revive a 70-year old barn made from red and white oak trees harvested off the farm, and Piney River Brewing Company was born.\r\n\r\nThe barn, rechristened BARn, is home to Piney River Brewing Company.  Joleen and Brian began the craft brewery as a \u201cnanobrewery\u201d, brewing on a 10-gallon Sabco system.  In the fall of 2011, a 7-barrel brewhouse with an automatic canning line was put in place for the microbrewery.\r\n\r\nInsane?...No, we're having the time of our lives!", 
+                    "established": "2010", 
+                    "id": "H1ouEw", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/H1ouEw/upload_aPVa9e-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/H1ouEw/upload_aPVa9e-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/H1ouEw/upload_aPVa9e-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:05", 
+                            "id": "TKwUTr", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 37.3208964, 
+                            "locality": "Bucyrus", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -92.0165208, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "417-967-6786", 
+                            "postalCode": "65444", 
+                            "region": "Missouri", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "15194 Walnut Grove Drive", 
+                            "updateDate": "2012-03-21 20:05:29", 
+                            "website": "http://www.pineyriverbrewing.com/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Piney River Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-10-08 18:57:09", 
+                    "website": "http://www.pineyriverbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-10-08 19:05:52", 
+            "description": "American style wheat beer with a black walnut aroma and a crisp, black walnut finish.\r\n\r\n\u2022 Imported 2 row malted barley\r\n\u2022 55 percent malted wheat and Ozark black walnuts\r\n\u2022 Specialty malt provides color\r\n\u2022 Cold conditioned for a smooth, crisp and clean flavor\r\n\u2022 Pure, limestone filtered Ozark spring water", 
+            "foodPairings": "Chicken, Latin American cuisine\r\nCheese: Brie, fontina\r\nDessert: Banana bread, chocolate chip cookies", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 5, 
+                "name": "Pint"
+            }, 
+            "glasswareId": 5, 
+            "ibu": "4.5", 
+            "id": "ttrchV", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ttrchV/upload_eX0gUq-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ttrchV/upload_eX0gUq-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ttrchV/upload_eX0gUq-medium.png"
+            }, 
+            "name": "Black Walnut Wheat", 
+            "servingTemperature": "cool", 
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)", 
+            "srm": {
+                "hex": "A63E00", 
+                "id": 18, 
+                "name": "18"
+            }, 
+            "srmId": 18, 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.8", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent malted wheat, and hop rates may be low to medium. A fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. Diacetyl should not be perceived. Because this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. Chill haze is also acceptable.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.004", 
+                "ibuMax": "25", 
+                "ibuMin": "10", 
+                "id": 116, 
+                "name": "Dark American Wheat Ale or Lager without Yeast", 
+                "ogMin": "1.036", 
+                "srmMax": "22", 
+                "srmMin": "9"
+            }, 
+            "styleId": 116, 
+            "updateDate": "2013-10-09 11:56:11"
+        }, 
+        {
+            "abv": "7", 
+            "available": {
+                "description": "Available during the fall months.", 
+                "id": 7, 
+                "name": "Fall"
+            }, 
+            "availableId": 7, 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:03", 
+                    "description": "Our mission is to create exceptional hand-crafted Ales and Lagers that are unique to Katy and Texas.\r\n\r\nWe are a family owned and operated brewery in Katy, TX. Our roots are from Panama, Texas and Philly. Our family heritage is also very different. We have Germans, Czechs and Panamanians in the bunch. So to say all four owners are different is an understatement.", 
+                    "established": "2010", 
+                    "id": "4GJFCc", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/4GJFCc/upload_YlFwI2-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/4GJFCc/upload_YlFwI2-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/4GJFCc/upload_YlFwI2-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:03", 
+                            "hoursOfOperation": "We offer Saturday tastings from 1pm-3pm every Saturday but the first Saturday of the month. You must bring your ID.", 
+                            "id": "xJ0knw", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 29.786632, 
+                            "locality": "Katy", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -95.815891, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "281-693-7545", 
+                            "postalCode": "77493", 
+                            "region": "Texas", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "5373 1st Street", 
+                            "updateDate": "2012-06-26 17:15:33", 
+                            "website": "http://www.nolabelbrew.com/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "No Label Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-06-26 17:16:08", 
+                    "website": "http://www.nolabelbrew.com/"
+                }
+            ], 
+            "createDate": "2012-06-26 17:18:31", 
+            "description": "Uniquely different Dark Wheat Ale.  This beer is brewed with a touch of Star Anise at the end of the boil giving it a clean smooth finish with a hint of liquorish.  Caution, this beer will bite you if not careful.", 
+            "glass": {
+                "createDate": "2012-01-03 02:41:33", 
+                "id": 9, 
+                "name": "Weizen"
+            }, 
+            "glasswareId": 9, 
+            "ibu": "10", 
+            "id": "ajtjhZ", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ajtjhZ/upload_lS4qTW-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ajtjhZ/upload_lS4qTW-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ajtjhZ/upload_lS4qTW-medium.png"
+            }, 
+            "name": "Black Wit-O", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.8", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent malted wheat, and hop rates may be low to medium. A fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. Diacetyl should not be perceived. Because this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. Chill haze is also acceptable.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.004", 
+                "ibuMax": "25", 
+                "ibuMin": "10", 
+                "id": 116, 
+                "name": "Dark American Wheat Ale or Lager without Yeast", 
+                "ogMin": "1.036", 
+                "srmMax": "22", 
+                "srmMin": "9"
+            }, 
+            "styleId": 116, 
+            "updateDate": "2013-04-23 18:43:54"
+        }, 
+        {
+            "abv": "7.6", 
+            "breweries": [
+                {
+                    "createDate": "2013-11-17 00:55:49", 
+                    "established": "2013", 
+                    "id": "1cBQqC", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/1cBQqC/upload_45K0MV-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/1cBQqC/upload_45K0MV-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/1cBQqC/upload_45K0MV-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2013-11-17 00:56:49", 
+                            "id": "P6X6bT", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 42.1464911, 
+                            "locality": "Northbrook", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -87.8606083, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(847) 877-9822", 
+                            "postalCode": "60062", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "3322 Commercial Avenue", 
+                            "updateDate": "2013-11-17 00:56:49", 
+                            "website": "http://www.onlychildbrewing.com/", 
+                            "yearOpened": "2013"
+                        }
+                    ], 
+                    "name": "Only Child Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-11-17 00:57:00", 
+                    "website": "http://www.onlychildbrewing.com/"
+                }
+            ], 
+            "createDate": "2013-11-17 00:58:25", 
+            "id": "o2n1ED", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/o2n1ED/upload_q3om4G-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/o2n1ED/upload_q3om4G-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/o2n1ED/upload_q3om4G-medium.png"
+            }, 
+            "name": "Brutha From Anotha Mutha", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.8", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent malted wheat, and hop rates may be low to medium. A fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. Diacetyl should not be perceived. Because this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. Chill haze is also acceptable.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.004", 
+                "ibuMax": "25", 
+                "ibuMin": "10", 
+                "id": 116, 
+                "name": "Dark American Wheat Ale or Lager without Yeast", 
+                "ogMin": "1.036", 
+                "srmMax": "22", 
+                "srmMin": "9"
+            }, 
+            "styleId": 116, 
+            "updateDate": "2013-11-17 05:01:38"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-12-10 11:53:50", 
+                    "description": "Wildwood Brewery is a organic craft brewery in Western Montana committed to building an integrated brewing/farming system where all wastes are used as value-added input.", 
+                    "established": "2012", 
+                    "id": "QS1jCV", 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-12-10 11:54:27", 
+                            "hoursOfOperation": "Mon - Sun: 4:00 pm - 8:00 pm", 
+                            "id": "okwu8a", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 46.53121, 
+                            "locality": "Stevensville", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -114.110864, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "(406) 777-2855", 
+                            "postalCode": "59870", 
+                            "region": "Montana", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "4018 US Hwy 93 North", 
+                            "updateDate": "2012-12-10 11:59:09", 
+                            "website": "http://wildwoodbrewing.com/", 
+                            "yearOpened": "2012"
+                        }
+                    ], 
+                    "name": "Wildwood Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-12-10 11:58:13", 
+                    "website": "http://wildwoodbrewing.com/"
+                }
+            ], 
+            "createDate": "2014-04-29 11:02:00", 
+            "id": "84RNSG", 
+            "isOrganic": "Y", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/84RNSG/upload_29WFT3-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/84RNSG/upload_29WFT3-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/84RNSG/upload_29WFT3-medium.png"
+            }, 
+            "name": "Krumholz Ale", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.8", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent malted wheat, and hop rates may be low to medium. A fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. Diacetyl should not be perceived. Because this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. Chill haze is also acceptable.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.004", 
+                "ibuMax": "25", 
+                "ibuMin": "10", 
+                "id": 116, 
+                "name": "Dark American Wheat Ale or Lager without Yeast", 
+                "ogMin": "1.036", 
+                "srmMax": "22", 
+                "srmMin": "9"
+            }, 
+            "styleId": 116, 
+            "updateDate": "2014-04-29 17:19:37"
+        }, 
+        {
+            "abv": "5.8", 
+            "breweries": [
+                {
+                    "createDate": "2012-01-03 02:42:11", 
+                    "description": "After living in France, brothers Jim and Jason Ebel developed a passion for flavorful specialty beer. After returning to the states, they had trouble finding that type of beer in Chicago so they opened Two Brothers Brewing Company in 1996. To get them started, the Ebel brothers' grandfather, a retired dairy farmer, donated his bulk milk tanks, which were quickly converted to fermenters. Currently, the brewery resides in a 40,000 square foot facility 30 miles west of Chicago. In addition to their traditional style beers, Two Brothers Brewing Company produces many specialty beers including a line of oak aged ales. Adjacent to the brewery, Two Brothers Tap House opened in 2008 as a restaurant which serves elevated, seasonal, and organic American pub fare. Two Brothers Brewing Company's award winning products are currently available in Illinois, Minnesota, Ohio, Indiana, and New York.\r\n\r\nA whole family of great beer", 
+                    "established": "1996", 
+                    "id": "Cu5xXG", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Cu5xXG/upload_Zi3744-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Cu5xXG/upload_Zi3744-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Cu5xXG/upload_Zi3744-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-03 02:42:11", 
+                            "hoursOfOperation": "Monday        3:00 - 11:00\r\nTuesday        3:00 - 11:00\r\nWednesday   3:00 - 11:00\r\nThursday      3:00 - 11:00\r\nFriday         12:00 - 12:00\r\nSaturday     12:00 - 12:00\r\nSunday        12:00 - 9:00", 
+                            "id": "jeOXxz", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 41.824906, 
+                            "locality": "Warrenville", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -88.211221, 
+                            "name": "Two Brothers Tap House", 
+                            "openToPublic": "Y", 
+                            "phone": "630-393-BEER", 
+                            "postalCode": "60555", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "30w315 Calumet Ave.", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.twobrotherstaphouse.com/", 
+                            "yearOpened": "1996"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-26 12:57:18", 
+                            "hoursOfOperation": "We are give tours EVERY Saturday at 1:00 and 2:30 and Sunday at 1:00.", 
+                            "id": "YOdPoo", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 41.824906, 
+                            "locality": "Warrenville", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -88.211221, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "postalCode": "60555", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "30W315 Calumet Ave.", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.twobrosbrew.com/", 
+                            "yearOpened": "1996"
+                        }, 
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-01-26 12:59:51", 
+                            "hoursOfOperation": "Mon - Thurs: 11:00 am - 12:00 am \r\nFri - Sat: 11:00 am - 1:00 am \r\nSun: 11:00 am - 11:00 pm", 
+                            "id": "AiMDyF", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "N", 
+                            "latitude": 41.760709, 
+                            "locality": "Aurora", 
+                            "locationType": "brewpub", 
+                            "locationTypeDisplay": "Brewpub", 
+                            "longitude": -88.309777, 
+                            "name": "Two Brothers Roundhouse", 
+                            "openToPublic": "Y", 
+                            "phone": "630-264-2739", 
+                            "postalCode": "60505", 
+                            "region": "Illinois", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "205 N. Broadway", 
+                            "updateDate": "2012-03-21 20:05:26", 
+                            "website": "http://www.twobrothersroundhouse.com/", 
+                            "yearOpened": "1996"
+                        }
+                    ], 
+                    "name": "Two Brothers Brewing", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2013-08-09 14:27:21", 
+                    "website": "http://www.twobrosbrew.com/"
+                }
+            ], 
+            "createDate": "2013-11-12 02:13:50", 
+            "ibu": "43.2", 
+            "id": "JKgIM9", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/JKgIM9/upload_r3q2ez-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/JKgIM9/upload_r3q2ez-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/JKgIM9/upload_r3q2ez-medium.png"
+            }, 
+            "name": "Night Cat", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.8", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent malted wheat, and hop rates may be low to medium. A fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. Diacetyl should not be perceived. Because this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. Chill haze is also acceptable.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.004", 
+                "ibuMax": "25", 
+                "ibuMin": "10", 
+                "id": 116, 
+                "name": "Dark American Wheat Ale or Lager without Yeast", 
+                "ogMin": "1.036", 
+                "srmMax": "22", 
+                "srmMin": "9"
+            }, 
+            "styleId": 116, 
+            "updateDate": "2013-11-12 02:14:05"
+        }, 
+        {
+            "breweries": [
+                {
+                    "createDate": "2012-06-13 17:25:05", 
+                    "description": "As a microbrewery, our focus is on providing a wide variety of beer styles in addition to fostering the local interest in the brewing of craft beer. We consider brewing to be a craft and, whether you are brewing in your garage or on a huge production system, brewing a good beer and sharing it with others is a great way to bring together friends or even an entire community. We are proud to live in a town that is currently supporting two brewpubs and a nanobrewery, and look forward to doing our part to be a leader in the craft brewing revolution.\r\n\r\nPeople in the U.P. work hard, take great pride in what is produced locally and have answered the call in supporting and improving the local economy. The name \"Ore Dock Brewing Company\" was chosen because we see our local ore docks as grand and iconic reminders of Marquette and the U.P.'s past, present, and future identity. We hope to provide a product and establishment that our community can be proud of for many years to come!", 
+                    "established": "2010", 
+                    "id": "WNdNIc", 
+                    "images": {
+                        "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/WNdNIc/upload_ml1IH9-icon.png", 
+                        "large": "https://s3.amazonaws.com/brewerydbapi/brewery/WNdNIc/upload_ml1IH9-large.png", 
+                        "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/WNdNIc/upload_ml1IH9-medium.png"
+                    }, 
+                    "isOrganic": "N", 
+                    "locations": [
+                        {
+                            "country": {
+                                "createDate": "2012-01-03 02:41:33", 
+                                "displayName": "United States", 
+                                "isoCode": "US", 
+                                "isoThree": "USA", 
+                                "name": "UNITED STATES", 
+                                "numberCode": 840
+                            }, 
+                            "countryIsoCode": "US", 
+                            "createDate": "2012-06-13 17:27:04", 
+                            "hoursOfOperation": "Tue - Thu:\t12:00 pm - 11:00 pm\r\nFri - Sat:\t12:00 pm - 12:00 am\r\nSun:\t12:00 pm - 11:00 pm", 
+                            "id": "3Q48Ed", 
+                            "inPlanning": "N", 
+                            "isClosed": "N", 
+                            "isPrimary": "Y", 
+                            "latitude": 46.541656, 
+                            "locality": "Marquette", 
+                            "locationType": "micro", 
+                            "locationTypeDisplay": "Micro Brewery", 
+                            "longitude": -87.393837, 
+                            "name": "Main Brewery", 
+                            "openToPublic": "Y", 
+                            "phone": "906-228-8888", 
+                            "postalCode": "49855", 
+                            "region": "Michigan", 
+                            "status": "verified", 
+                            "statusDisplay": "Verified", 
+                            "streetAddress": "114 W Spring St", 
+                            "updateDate": "2012-06-13 17:27:04", 
+                            "website": "http://www.ore-dock.com/", 
+                            "yearOpened": "2010"
+                        }
+                    ], 
+                    "name": "Ore Dock Brewing Company", 
+                    "status": "verified", 
+                    "statusDisplay": "Verified", 
+                    "updateDate": "2012-06-13 17:29:00", 
+                    "website": "http://www.ore-dock.com/"
+                }
+            ], 
+            "createDate": "2013-02-27 12:42:42", 
+            "id": "o24ywS", 
+            "isOrganic": "N", 
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/o24ywS/upload_HrfsMq-icon.png", 
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/o24ywS/upload_HrfsMq-large.png", 
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/o24ywS/upload_HrfsMq-medium.png"
+            }, 
+            "name": "Ski Bum Wheat", 
+            "status": "verified", 
+            "statusDisplay": "Verified", 
+            "style": {
+                "abvMax": "5", 
+                "abvMin": "3.8", 
+                "category": {
+                    "createDate": "2012-03-21 20:06:46", 
+                    "id": 11, 
+                    "name": "Hybrid/mixed Beer"
+                }, 
+                "categoryId": 11, 
+                "createDate": "2012-03-21 20:06:46", 
+                "description": "This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent malted wheat, and hop rates may be low to medium. A fruity-estery aroma and flavor are typical but at low levels; however, phenolic, clove-like characteristics should not be perceived. Color is dark amber to dark brown, and the body should be light to medium in character. Roasted malts are optionally evident in aroma and flavor with a low level of roast malt astringency acceptable when appropriately balanced with malt sweetness. Roast malts may be evident as a cocoa/chocolate or caramel character. Aromatic toffee-like, caramel, or biscuit-like characters may be part of the overall flavor/aroma profile. Diacetyl should not be perceived. Because this style is packaged and served without yeast, no yeast characters should be evident in mouthfeel, flavor, or aroma. Chill haze is also acceptable.", 
+                "fgMax": "1.016", 
+                "fgMin": "1.004", 
+                "ibuMax": "25", 
+                "ibuMin": "10", 
+                "id": 116, 
+                "name": "Dark American Wheat Ale or Lager without Yeast", 
+                "ogMin": "1.036", 
+                "srmMax": "22", 
+                "srmMin": "9"
+            }, 
+            "styleId": 116, 
+            "updateDate": "2013-02-27 12:43:28"
+        }
+    ], 
+    "numberOfPages": 1, 
+    "status": "success", 
+    "totalResults": 6
+}
