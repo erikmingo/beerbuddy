@@ -65,8 +65,18 @@ def scrapeAllBeers():
         scrapeBeersStyle(str(i), style.replace('/', '_'))
         print i, style
 
+def beernames():
+    with open('beerjson/beer_American-Style_India_Pale_Ale.json', 'r') as f:
+        jsonDump = f.read()
 
-scrapeAllBeers()
+    data = json.loads(jsonDump)
+    for thing in data:
+        print thing
+
+
+#scrapeAllBeers()
+
+beernames()
 
 
 
